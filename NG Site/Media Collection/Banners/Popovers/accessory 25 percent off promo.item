@@ -1,0 +1,457 @@
+----item----
+version: 1
+id: {23CF4A20-3739-4EF5-9C76-BB52104C1417}
+database: master
+path: /sitecore/content/Modesto/NG Site/Media Collection/Banners/Popovers/accessory 25 percent off promo
+parent: {81A779CA-CEC4-4C98-99ED-5DBFFB39E6D5}
+name: accessory 25 percent off promo
+master: {00000000-0000-0000-0000-000000000000}
+template: {02932917-4A30-4EE2-86E1-980678952C69}
+templatekey: Popovers
+created: 20200409T200725Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: b6dc0736-972c-4d4a-87c8-8cf2e52000a1
+
+----field----
+field: {919F5A5A-B8D5-4B89-8253-94F89889C273}
+name: buttonText
+key: buttontext
+content-length: 24
+
+Pricing &amp; Other Info
+----field----
+field: {16E5CEE6-6C33-49CE-A425-8C75993B8C6A}
+name: buttonAriaLabel
+key: buttonarialabel
+content-length: 42
+
+Xfinity Mobile Plans: Pricing & Other Info
+----field----
+field: {441C0392-BB7B-4E43-9A0C-8C9B2B6B1679}
+name: header
+key: header
+content-length: 20
+
+Pricing & Other Info
+----field----
+field: {70C678C2-B952-40A5-817D-B221CA6E8C57}
+name: close
+key: close
+content-length: 1
+
+1
+----field----
+field: {E7080EAA-2CA2-4CCD-B917-EB0DE8EDC13D}
+name: content
+key: content
+content-length: 0
+
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180707T220905Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b6dc0736-972c-4d4a-87c8-8cf2e52000a1
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T184056Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 2
+revision: 6badcabd-60de-46c3-bfe0-bd3e5b08ac9d
+
+----field----
+field: {919F5A5A-B8D5-4B89-8253-94F89889C273}
+name: buttonText
+key: buttontext
+content-length: 24
+
+Pricing &amp; Other Info
+----field----
+field: {16E5CEE6-6C33-49CE-A425-8C75993B8C6A}
+name: buttonAriaLabel
+key: buttonarialabel
+content-length: 38
+
+BYOD Promotional: Pricing & Other Info
+----field----
+field: {441C0392-BB7B-4E43-9A0C-8C9B2B6B1679}
+name: header
+key: header
+content-length: 20
+
+Pricing & Other Info
+----field----
+field: {70C678C2-B952-40A5-817D-B221CA6E8C57}
+name: close
+key: close
+content-length: 1
+
+1
+----field----
+field: {E7080EAA-2CA2-4CCD-B917-EB0DE8EDC13D}
+name: content
+key: content
+content-length: 38
+
+{722832A3-27C3-400A-90BD-CB4BC2610279}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20181214T162040Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20181214T162040Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\psivil200
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6badcabd-60de-46c3-bfe0-bd3e5b08ac9d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T184055Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 3
+revision: 7d48f9fc-bfdf-4854-980e-a445abc1b1cd
+
+----field----
+field: {919F5A5A-B8D5-4B89-8253-94F89889C273}
+name: buttonText
+key: buttontext
+content-length: 11
+
+See Details
+----field----
+field: {16E5CEE6-6C33-49CE-A425-8C75993B8C6A}
+name: buttonAriaLabel
+key: buttonarialabel
+content-length: 38
+
+BYOD Promotional: Pricing & Other Info
+----field----
+field: {441C0392-BB7B-4E43-9A0C-8C9B2B6B1679}
+name: header
+key: header
+content-length: 7
+
+Details
+----field----
+field: {70C678C2-B952-40A5-817D-B221CA6E8C57}
+name: close
+key: close
+content-length: 1
+
+1
+----field----
+field: {E7080EAA-2CA2-4CCD-B917-EB0DE8EDC13D}
+name: content
+key: content
+content-length: 38
+
+{8674F7B3-1965-406D-8522-B56488A57A25}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190815T165856Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190815T165856Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7d48f9fc-bfdf-4854-980e-a445abc1b1cd
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200409T200726Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{1D30491A-DCE2-4DF8-93D4-5E6A16D79601}
+----version----
+language: en
+version: 4
+revision: 267415be-c3be-4df8-baf5-a59766936b60
+
+----field----
+field: {919F5A5A-B8D5-4B89-8253-94F89889C273}
+name: buttonText
+key: buttontext
+content-length: 11
+
+See Details
+----field----
+field: {16E5CEE6-6C33-49CE-A425-8C75993B8C6A}
+name: buttonAriaLabel
+key: buttonarialabel
+content-length: 38
+
+BYOD Promotional: Pricing & Other Info
+----field----
+field: {441C0392-BB7B-4E43-9A0C-8C9B2B6B1679}
+name: header
+key: header
+content-length: 7
+
+Details
+----field----
+field: {70C678C2-B952-40A5-817D-B221CA6E8C57}
+name: close
+key: close
+content-length: 1
+
+1
+----field----
+field: {E7080EAA-2CA2-4CCD-B917-EB0DE8EDC13D}
+name: content
+key: content
+content-length: 38
+
+{8674F7B3-1965-406D-8522-B56488A57A25}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20191125T172656Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20191125T172656Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+267415be-c3be-4df8-baf5-a59766936b60
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200213T143200Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----version----
+language: en
+version: 5
+revision: 8db39646-237e-4611-8a9b-58fc3aa65f6c
+
+----field----
+field: {919F5A5A-B8D5-4B89-8253-94F89889C273}
+name: buttonText
+key: buttontext
+content-length: 11
+
+See Details
+----field----
+field: {16E5CEE6-6C33-49CE-A425-8C75993B8C6A}
+name: buttonAriaLabel
+key: buttonarialabel
+content-length: 0
+
+
+----field----
+field: {441C0392-BB7B-4E43-9A0C-8C9B2B6B1679}
+name: header
+key: header
+content-length: 0
+
+
+----field----
+field: {70C678C2-B952-40A5-817D-B221CA6E8C57}
+name: close
+key: close
+content-length: 1
+
+1
+----field----
+field: {E7080EAA-2CA2-4CCD-B917-EB0DE8EDC13D}
+name: content
+key: content
+content-length: 38
+
+{F6F88C10-020A-4B87-8E57-2A0285EF466F}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200409T200727Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200409T200727Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8db39646-237e-4611-8a9b-58fc3aa65f6c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200413T180502Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {16383447-9ACD-4B11-8A48-C241C81CD64A}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Byod/Steps/3
+parent: {2486B494-CE97-479F-971F-84F2CEF9D168}
+name: 3
+master: {00000000-0000-0000-0000-000000000000}
+template: {1D40CBE7-E172-485D-9362-BC054A7CF249}
+templatekey: Steps
+created: 20180809T140012Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----field----
+field: {CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}
+name: __Default workflow
+key: __default workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 1b684d4b-f24f-4452-aa24-6712824ad5ff
+
+----field----
+field: {EDAE21D1-C43D-4B11-943E-9F59019EC535}
+name: bullet
+key: bullet
+content-length: 1
+
+3
+----field----
+field: {719779BE-5617-4034-8EDD-05862F6B1A3D}
+name: description
+key: description
+content-length: 31
+
+Know your Apple ID and password
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180809T140012Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1b684d4b-f24f-4452-aa24-6712824ad5ff
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190823T151459Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\snavee884
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

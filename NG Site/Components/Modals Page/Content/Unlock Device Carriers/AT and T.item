@@ -1,0 +1,251 @@
+----item----
+version: 1
+id: {15D01CA5-D7C2-4BAB-A8F4-487FB480C55A}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Modals Page/Content/Unlock Device Carriers/AT and T
+parent: {121F47B6-67A0-42C5-B9BD-C34B24B7336C}
+name: AT and T
+master: {00000000-0000-0000-0000-000000000000}
+template: {08DD6E6B-63D2-4AB5-BADC-A5A4E301C4CB}
+templatekey: Custom List Of Text
+created: 20180713T120755Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+100
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 70558c89-5934-4d9f-a927-cc18b64672e1
+
+----field----
+field: {EFD69C27-C195-4663-AF2F-F0870D805DEC}
+name: ListTitle
+key: listtitle
+content-length: 4
+
+AT&T
+----field----
+field: {8251EF71-EA53-43B0-A83F-47D9CF0C164E}
+name: ListOfText
+key: listoftext
+content-length: 386
+
+text1=Your%20phone%20and%20any%20remaining%20statement%20balances%20must%20be%20paid%20off%20before%20you%20proceed.&text2=Next%2C%20visit%20%5Bwww.att.com%2Fdeviceunlock%7Chttps%3A%2F%2Fwww.att.com%2Fdeviceunlock%5D%20and%20follow%20the%20steps%20there.%20When%20you%27re%20finished%2C%20you%20can%20head%20to%20an%20Xfinity%20store%20to%20begin%20the%20switch%20to%20Xfinity%20Mobile.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 4
+
+AT&T
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180713T120755Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+70558c89-5934-4d9f-a927-cc18b64672e1
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180802T203343Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----version----
+language: en
+version: 2
+revision: 9fc638a8-b553-4df0-8ffc-f125c3efafac
+
+----field----
+field: {EFD69C27-C195-4663-AF2F-F0870D805DEC}
+name: ListTitle
+key: listtitle
+content-length: 12
+
+AT&TWireless
+----field----
+field: {8251EF71-EA53-43B0-A83F-47D9CF0C164E}
+name: ListOfText
+key: listoftext
+content-length: 421
+
+text1=Carriers%20often%20lock%20the%20phones%20they%20sell%20so%20they%20can%E2%80%99t%20work%20on%20any%20other%20network.%20They%27re%20usually%20locked%20if%20money%20is%20still%20owed%20on%20them.&text2=Before%20your%20SIM%20card%20arrives%2C%20ask%20AT%26T%20to%20unlock%20your%20phone%20by%20following%20the%20instructions%20on&text3=%5B%5Ewww.att.com%2Fdeviceunlock%7Chttps%3A%2F%2Fwww.att.com%2Fdeviceunlock%5E%5D
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 4
+
+AT&T
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190510T175357Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190510T175357Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9fc638a8-b553-4df0-8ffc-f125c3efafac
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190520T143653Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 3
+revision: 463301e9-94d8-4dee-bccb-d69a71b2535a
+
+----field----
+field: {EFD69C27-C195-4663-AF2F-F0870D805DEC}
+name: ListTitle
+key: listtitle
+content-length: 12
+
+AT&TWireless
+----field----
+field: {8251EF71-EA53-43B0-A83F-47D9CF0C164E}
+name: ListOfText
+key: listoftext
+content-length: 335
+
+text1=Carriers%20often%20lock%20the%20phones%20they%20sell%20so%20they%20can%E2%80%99t%20work%20on%20any%20other%20network.%20They%E2%80%99re%20usually%20locked%20if%20money%20is%20still%20owed%20on%20them.%20Before%20your%20SIM%20card%20arrives%2C%20ask%20AT%26T%20to%20unlock%20your%20phone%20by%20following%20the%20instructions%20on
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 4
+
+AT&T
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190930T142908Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190930T142908Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\mpayto200
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+463301e9-94d8-4dee-bccb-d69a71b2535a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190930T173610Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\mpayto200
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

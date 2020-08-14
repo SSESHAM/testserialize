@@ -1,0 +1,272 @@
+----item----
+version: 1
+id: {D8958113-9ABB-4111-867F-19808F5C20EC}
+database: master
+path: /sitecore/content/Modesto/NG Site/Media Collection/Banners/Popovers/Samsung $250 Q2 2019 Promo V2 - 5-06-19
+parent: {81A779CA-CEC4-4C98-99ED-5DBFFB39E6D5}
+name: Samsung $250 Q2 2019 Promo V2 - 5-06-19
+master: {00000000-0000-0000-0000-000000000000}
+template: {02932917-4A30-4EE2-86E1-980678952C69}
+templatekey: Popovers
+created: 20180707T221738Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 1aa6ae35-458b-43ec-a7c0-770630d4c815
+
+----field----
+field: {919F5A5A-B8D5-4B89-8253-94F89889C273}
+name: buttonText
+key: buttontext
+content-length: 24
+
+Pricing &amp; Other Info
+----field----
+field: {16E5CEE6-6C33-49CE-A425-8C75993B8C6A}
+name: buttonAriaLabel
+key: buttonarialabel
+content-length: 40
+
+iPhone Promotional: Pricing & Other Info
+----field----
+field: {441C0392-BB7B-4E43-9A0C-8C9B2B6B1679}
+name: header
+key: header
+content-length: 20
+
+Pricing & Other Info
+----field----
+field: {70C678C2-B952-40A5-817D-B221CA6E8C57}
+name: close
+key: close
+content-length: 1
+
+1
+----field----
+field: {E7080EAA-2CA2-4CCD-B917-EB0DE8EDC13D}
+name: content
+key: content
+content-length: 38
+
+{7C6668CE-5D13-47E5-B9F6-0FF2101BF740}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180707T221738Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1aa6ae35-458b-43ec-a7c0-770630d4c815
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T184030Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 2
+revision: 61a00427-77f3-4a02-8eac-17fd7bbdadbf
+
+----field----
+field: {919F5A5A-B8D5-4B89-8253-94F89889C273}
+name: buttonText
+key: buttontext
+content-length: 24
+
+Pricing &amp; Other Info
+----field----
+field: {16E5CEE6-6C33-49CE-A425-8C75993B8C6A}
+name: buttonAriaLabel
+key: buttonarialabel
+content-length: 40
+
+iPhone Promotional: Pricing & Other Info
+----field----
+field: {441C0392-BB7B-4E43-9A0C-8C9B2B6B1679}
+name: header
+key: header
+content-length: 20
+
+Pricing & Other Info
+----field----
+field: {70C678C2-B952-40A5-817D-B221CA6E8C57}
+name: close
+key: close
+content-length: 1
+
+1
+----field----
+field: {E7080EAA-2CA2-4CCD-B917-EB0DE8EDC13D}
+name: content
+key: content
+content-length: 38
+
+{2A45C48D-528C-4BB3-807C-5307EC8115A1}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190103T214750Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190103T214750Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\abrown331
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+61a00427-77f3-4a02-8eac-17fd7bbdadbf
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T184030Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 3
+revision: ef7aa3c2-35be-4046-9184-bd4940153749
+
+----field----
+field: {919F5A5A-B8D5-4B89-8253-94F89889C273}
+name: buttonText
+key: buttontext
+content-length: 24
+
+Pricing &amp; Other Info
+----field----
+field: {16E5CEE6-6C33-49CE-A425-8C75993B8C6A}
+name: buttonAriaLabel
+key: buttonarialabel
+content-length: 40
+
+iPhone Promotional: Pricing & Other Info
+----field----
+field: {441C0392-BB7B-4E43-9A0C-8C9B2B6B1679}
+name: header
+key: header
+content-length: 20
+
+Pricing & Other Info
+----field----
+field: {70C678C2-B952-40A5-817D-B221CA6E8C57}
+name: close
+key: close
+content-length: 1
+
+1
+----field----
+field: {E7080EAA-2CA2-4CCD-B917-EB0DE8EDC13D}
+name: content
+key: content
+content-length: 38
+
+{1EDEC791-DF84-459F-A166-EC0D199D0E1B}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190214T195707Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190214T195707Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\mpayto200
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ef7aa3c2-35be-4046-9184-bd4940153749
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190503T143318Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\apatta228
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

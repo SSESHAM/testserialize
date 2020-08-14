@@ -1,0 +1,122 @@
+----item----
+version: 1
+id: {46CBE1E5-37EA-4313-95EA-88B9502D4A1A}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Landing BYOD/Choose from the best new devices or bring your own
+parent: {2A9B4F30-6F59-40A2-9288-8894CD9266E5}
+name: Choose from the best new devices or bring your own
+master: {00000000-0000-0000-0000-000000000000}
+template: {76E2F9AA-1093-4309-9844-86F464BD7023}
+templatekey: Landing BYOD
+created: 20190507T194300Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----field----
+field: {CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}
+name: __Default workflow
+key: __default workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 5035e1d3-2b23-40ed-b371-dca4d8fc483a
+
+----field----
+field: {917AEE25-F09B-427F-B860-8D821B6C90F4}
+name: bringYourDevice-buttonText
+key: bringyourdevice-buttontext
+content-length: 0
+
+
+----field----
+field: {FCB9C244-A78F-43EE-A9E6-3BE84F586A64}
+name: bringYourDevice-header
+key: bringyourdevice-header
+content-length: 0
+
+
+----field----
+field: {080F95B9-F78A-4778-B669-75606954A167}
+name: bringYourDevice-image
+key: bringyourdevice-image
+content-length: 0
+
+
+----field----
+field: {23B152A3-98C6-4A64-B971-03BFA2E86400}
+name: exploreNewDevice-buttonText
+key: explorenewdevice-buttontext
+content-length: 0
+
+
+----field----
+field: {D53B530D-2D31-49A1-89FF-1073D7E13937}
+name: exploreNewDevice-header
+key: explorenewdevice-header
+content-length: 0
+
+
+----field----
+field: {4B7EB66D-ECC4-4D58-B919-28FFE0392D2E}
+name: exploreNewDevice-image
+key: explorenewdevice-image
+content-length: 0
+
+
+----field----
+field: {F9084139-75A6-4D15-837B-313D8C79CA09}
+name: headline
+key: headline
+content-length: 0
+
+
+----field----
+field: {39967968-0F51-402C-8310-5239317DFA1D}
+name: separatorText
+key: separatortext
+content-length: 0
+
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190507T194300Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+5035e1d3-2b23-40ed-b371-dca4d8fc483a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190823T153137Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\snavee884
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

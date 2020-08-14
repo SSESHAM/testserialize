@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {5B360EC0-0875-4EFE-86F3-93B3924A3003}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Product Details/Product Items/A1633
+parent: {F60BF562-E60C-46ED-85E5-981AA53C4597}
+name: A1633
+master: {00000000-0000-0000-0000-000000000000}
+template: {97ADAE9F-8838-4CF0-B33E-05489E8FF3FB}
+templatekey: Products Items
+created: 20180713T150050Z
+
+----version----
+language: en
+version: 1
+revision: f6f3edda-d584-469d-8084-d7d0c90cc681
+
+----field----
+field: {7149B8A2-C273-48FD-B46A-CDCB01472AF9}
+name: productCode
+key: productcode
+content-length: 5
+
+A1633
+----field----
+field: {545A73EA-B75B-49B8-8D90-C4DC67CC3C59}
+name: notes
+key: notes
+content-length: 494
+
+notes1=Data%20plan%20required.%20LTE%20Advanced%20and%20LTE%20are%20available%20in%20select%20markets%20and%20through%20select%20carriers.%20Speeds%20are%20based%20on%20theoretical%20throughput%20and%20vary%20based%20on%20site%20conditions%20and%20carrier.%20For%20details%20on%20LTE%20support%2C%20contact%20your%20carrier%20and%20see%20www.apple.com%2Fiphone%2FLTE.&notes2=Battery%20life%20varies%20by%20use%20and%20configuration.%20See%20www.apple.com%2Fbatteries%20for%20more%20information.
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180713T150050Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f6f3edda-d584-469d-8084-d7d0c90cc681
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180802T203344Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

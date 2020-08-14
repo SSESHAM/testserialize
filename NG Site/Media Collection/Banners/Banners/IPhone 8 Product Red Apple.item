@@ -1,0 +1,108 @@
+----item----
+version: 1
+id: {8B409719-3DC3-4CE4-AF06-91DD0053A8AF}
+database: master
+path: /sitecore/content/Modesto/NG Site/Media Collection/Banners/Banners/IPhone 8 Product Red Apple
+parent: {0A79E086-05E0-4CF7-9349-F7CE60FE194D}
+name: IPhone 8 Product Red Apple
+master: {00000000-0000-0000-0000-000000000000}
+template: {ACF7553B-EA2B-46D2-AD40-07BCAEFDBDF3}
+templatekey: Banner
+created: 20180607T124615Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 0d96c107-513b-4db6-809d-87510e9de8c6
+
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 4
+
+#fff
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 155
+
+{D659CCD6-A344-4423-BAA8-4C55A8D8F3C7}|{2D0FCAA2-FF84-450B-8960-4C5DDEBF83FF}|{408D8C16-F0F9-4A18-AA03-458B2E667F60}|{50254DF6-43BB-40E4-8156-E03BE499F3B1}
+----field----
+field: {6FB58BA0-42E0-4E04-BFBE-5BCDE426C11D}
+name: logoImage
+key: logoimage
+content-length: 38
+
+{1808EFE4-BE3C-4B6A-BD68-640F62948ABD}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 4
+
+auto
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{B8EDF705-7EE0-4479-9047-6663C850F2CF}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180607T124615Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+0d96c107-513b-4db6-809d-87510e9de8c6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180619T134227Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

@@ -1,0 +1,489 @@
+----item----
+version: 1
+id: {837A968B-6344-4C1E-AFEA-90B4634DB545}
+database: master
+path: /sitecore/content/Modesto/NG Site/Media Collection/Banners/Banners/Plan tablet banner
+parent: {0A79E086-05E0-4CF7-9349-F7CE60FE194D}
+name: Plan tablet banner
+master: {00000000-0000-0000-0000-000000000000}
+template: {ACF7553B-EA2B-46D2-AD40-07BCAEFDBDF3}
+templatekey: Banner
+created: 20180601T180627Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 2
+
+50
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 076d1594-7176-44d8-95ac-92cb28ce3ed1
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#fbfcfc
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 77
+
+{22A84F7E-F6FF-4FF2-837F-48141B705DAA}|{4EC0B314-8FCF-4BAB-9CD9-C0E4C0C7F61F}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 4
+
+auto
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 13
+
+Tablets Promo
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 133
+
+Text, stream and play on a new iPad. Choose By the Gig shared data or Unlimited for your tablet line. $10/mo tablet line fee applies.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 0
+
+
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 31
+
+Use your data on the big screen
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 18
+
+left-banner b-spot
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 187
+
+link=%5B%3CMore%20Details%23More%20Details%20about%20tablets%7Cplan.details%7C%27%23%27%3A%27tablet%27%3E%5D&link2=%5B%24See%20Tablets%7Cshop.catalog%7C%27category%27%3A%27tablet%27%24%5D
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{DB772169-57AF-4096-9BD3-67766887207C}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180601T180627Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+076d1594-7176-44d8-95ac-92cb28ce3ed1
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190726T204803Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\apatta228
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 2
+revision: a1b2ef05-aab1-4d7f-8e1d-7dcf060cd8bd
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#fbfcfc
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 77
+
+{22A84F7E-F6FF-4FF2-837F-48141B705DAA}|{4EC0B314-8FCF-4BAB-9CD9-C0E4C0C7F61F}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 4
+
+auto
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 13
+
+Tablets Promo
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 133
+
+Text, stream and play on a new iPad. Choose By the Gig shared data or Unlimited for your tablet line. $10/mo tablet line fee applies.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 0
+
+
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 31
+
+Use your data on the big screen
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 14
+
+tablets-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 187
+
+link=%5B%3CMore%20Details%23More%20Details%20about%20tablets%7Cplan.details%7C%27%23%27%3A%27tablet%27%3E%5D&link2=%5B%24See%20Tablets%7Cshop.catalog%7C%27category%27%3A%27tablet%27%24%5D
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{DB772169-57AF-4096-9BD3-67766887207C}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190726T205011Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190726T205011Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\apatta228
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a1b2ef05-aab1-4d7f-8e1d-7dcf060cd8bd
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190726T205112Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\apatta228
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 3
+revision: 2255ceee-33fe-450d-8943-c421335e44fc
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#fbfcfc
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 77
+
+{22A84F7E-F6FF-4FF2-837F-48141B705DAA}|{4EC0B314-8FCF-4BAB-9CD9-C0E4C0C7F61F}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 4
+
+auto
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 13
+
+Tablets Promo
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 128
+
+Text, stream and play on a new iPad. Choose By the Gig shared data or Unlimited for your tablet line. $10/mo tablet fee applies.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 0
+
+
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 31
+
+Use your data on the big screen
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 14
+
+tablets-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 187
+
+link=%5B%3CMore%20Details%23More%20Details%20about%20tablets%7Cplan.details%7C%27%23%27%3A%27tablet%27%3E%5D&link2=%5B%24See%20Tablets%7Cshop.catalog%7C%27category%27%3A%27tablet%27%24%5D
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{DB772169-57AF-4096-9BD3-67766887207C}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190731T131146Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190731T131146Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2255ceee-33fe-450d-8943-c421335e44fc
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190731T134630Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\pboone598
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

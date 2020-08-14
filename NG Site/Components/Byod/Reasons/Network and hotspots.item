@@ -1,0 +1,211 @@
+----item----
+version: 1
+id: {AD0ADC2C-D8D6-42A2-BAB6-D4AF61043738}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Byod/Reasons/Network and hotspots
+parent: {E89DADE9-A9D4-4C28-B2F4-78092D990356}
+name: Network and hotspots
+master: {00000000-0000-0000-0000-000000000000}
+template: {984639B7-2462-4923-806C-83EC9DB6D413}
+templatekey: Banner Image
+created: 20180621T135116Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: d148e842-627f-4ce3-ac63-866d31ae5a70
+
+----field----
+field: {67C9A8AC-32E7-4187-A4B9-F32AF7F012B9}
+name: image-version
+key: image-version
+content-length: 10
+
+1513111041
+----field----
+field: {ECE236C5-B822-4024-BD70-AEA0200C1C06}
+name: image-base
+key: image-base
+content-length: 31
+
+ic_global_coverage_black_24.svg
+----field----
+field: {D8E42D0A-2990-4A9F-99A9-614859C5FCD5}
+name: image-alt
+key: image-alt
+content-length: 19
+
+NetworkHotspotsIcon
+----field----
+field: {3B23DE18-7F27-4C66-9EFC-B6DA0FC08FB4}
+name: image-type
+key: image-type
+content-length: 4
+
+icon
+----field----
+field: {30950E18-89A5-49AB-B047-7770414F22E3}
+name: header
+key: header
+content-length: 18
+
+Network & hotspots
+----field----
+field: {699DFE98-0339-43FB-985A-89B02A94A387}
+name: description
+key: description
+content-length: 121
+
+America's largest and most reliable 4G LTE network and access to millions of Xfinity WiFi hotspots, all on your own phone
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180621T135116Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d148e842-627f-4ce3-ac63-866d31ae5a70
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190513T142544Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----version----
+language: en
+version: 2
+revision: c46e2990-78ce-4126-be46-38f73c02315f
+
+----field----
+field: {67C9A8AC-32E7-4187-A4B9-F32AF7F012B9}
+name: image-version
+key: image-version
+content-length: 10
+
+1513111041
+----field----
+field: {ECE236C5-B822-4024-BD70-AEA0200C1C06}
+name: image-base
+key: image-base
+content-length: 31
+
+ic_global_coverage_black_24.svg
+----field----
+field: {D8E42D0A-2990-4A9F-99A9-614859C5FCD5}
+name: image-alt
+key: image-alt
+content-length: 19
+
+NetworkHotspotsIcon
+----field----
+field: {3B23DE18-7F27-4C66-9EFC-B6DA0FC08FB4}
+name: image-type
+key: image-type
+content-length: 4
+
+icon
+----field----
+field: {30950E18-89A5-49AB-B047-7770414F22E3}
+name: header
+key: header
+content-length: 18
+
+NETWORK & HOTSPOTS
+----field----
+field: {699DFE98-0339-43FB-985A-89B02A94A387}
+name: description
+key: description
+content-length: 97
+
+America's best LTE network and access to millions of Xfinity WiFi hotspots, all on your own phone
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20191008T151528Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20191008T151528Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c46e2990-78ce-4126-be46-38f73c02315f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191015T141824Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

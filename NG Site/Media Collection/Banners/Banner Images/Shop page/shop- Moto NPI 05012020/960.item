@@ -1,0 +1,628 @@
+----item----
+version: 1
+id: {C759EB3A-A581-4BCA-9174-437AE86CDCF7}
+database: master
+path: /sitecore/content/Modesto/NG Site/Media Collection/Banners/Banner Images/Shop page/shop- Moto NPI 05012020/960
+parent: {34B4597C-52EF-4531-8DF8-B0638F1C1557}
+name: 960
+master: {00000000-0000-0000-0000-000000000000}
+template: {984639B7-2462-4923-806C-83EC9DB6D413}
+templatekey: Banner Image
+created: 20200428T191534Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+300
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 1a069573-46cc-469b-bfa3-2fc249d7740e
+
+----field----
+field: {EC749A92-6D45-444D-9EDE-EFA1432689E6}
+name: breakpoint
+key: breakpoint
+content-length: 3
+
+320
+----field----
+field: {67C9A8AC-32E7-4187-A4B9-F32AF7F012B9}
+name: image-version
+key: image-version
+content-length: 10
+
+1534882674
+----field----
+field: {ECE236C5-B822-4024-BD70-AEA0200C1C06}
+name: image-base
+key: image-base
+content-length: 33
+
+BYOD_Promo/B-Spot_BYOD_Mobile.png
+----field----
+field: {D8E42D0A-2990-4A9F-99A9-614859C5FCD5}
+name: image-alt
+key: image-alt
+content-length: 12
+
+Iphone Promo
+----field----
+field: {3B23DE18-7F27-4C66-9EFC-B6DA0FC08FB4}
+name: image-type
+key: image-type
+content-length: 5
+
+image
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180707T170303Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1a069573-46cc-469b-bfa3-2fc249d7740e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T184828Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 2
+revision: 8a8f186d-ba09-4eca-ba0e-c772a425b4f7
+
+----field----
+field: {EC749A92-6D45-444D-9EDE-EFA1432689E6}
+name: breakpoint
+key: breakpoint
+content-length: 3
+
+320
+----field----
+field: {67C9A8AC-32E7-4187-A4B9-F32AF7F012B9}
+name: image-version
+key: image-version
+content-length: 10
+
+1541089720
+----field----
+field: {ECE236C5-B822-4024-BD70-AEA0200C1C06}
+name: image-base
+key: image-base
+content-length: 49
+
+NG%20Launch%20Banner%20Fix/B-Spot_BYOD_Mobile.png
+----field----
+field: {D8E42D0A-2990-4A9F-99A9-614859C5FCD5}
+name: image-alt
+key: image-alt
+content-length: 17
+
+BYOD Iphone Promo
+----field----
+field: {3B23DE18-7F27-4C66-9EFC-B6DA0FC08FB4}
+name: image-type
+key: image-type
+content-length: 5
+
+image
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20181101T183710Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20181101T183710Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\apatta228
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8a8f186d-ba09-4eca-ba0e-c772a425b4f7
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T184828Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 3
+revision: 64917367-8d44-495a-bff2-74d1cce516be
+
+----field----
+field: {EC749A92-6D45-444D-9EDE-EFA1432689E6}
+name: breakpoint
+key: breakpoint
+content-length: 3
+
+320
+----field----
+field: {67C9A8AC-32E7-4187-A4B9-F32AF7F012B9}
+name: image-version
+key: image-version
+content-length: 10
+
+1541089720
+----field----
+field: {ECE236C5-B822-4024-BD70-AEA0200C1C06}
+name: image-base
+key: image-base
+content-length: 49
+
+NG%20Launch%20Banner%20Fix/B-Spot_BYOD_Mobile.png
+----field----
+field: {D8E42D0A-2990-4A9F-99A9-614859C5FCD5}
+name: image-alt
+key: image-alt
+content-length: 39
+
+Bring your own iPhone to Xfinity Mobile
+----field----
+field: {3B23DE18-7F27-4C66-9EFC-B6DA0FC08FB4}
+name: image-type
+key: image-type
+content-length: 5
+
+image
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20181102T141118Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20181102T141118Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\snavee884
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+64917367-8d44-495a-bff2-74d1cce516be
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T184828Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 4
+revision: 8a6adb40-a6c9-4eaa-8e5f-e064d204d980
+
+----field----
+field: {EC749A92-6D45-444D-9EDE-EFA1432689E6}
+name: breakpoint
+key: breakpoint
+content-length: 3
+
+320
+----field----
+field: {67C9A8AC-32E7-4187-A4B9-F32AF7F012B9}
+name: image-version
+key: image-version
+content-length: 10
+
+1541105277
+----field----
+field: {ECE236C5-B822-4024-BD70-AEA0200C1C06}
+name: image-base
+key: image-base
+content-length: 56
+
+NG%20Launch%20Banner%20Fix/2x_B-Spot_Mobile_BYOD_alt.png
+----field----
+field: {D8E42D0A-2990-4A9F-99A9-614859C5FCD5}
+name: image-alt
+key: image-alt
+content-length: 39
+
+Bring your own iPhone to Xfinity Mobile
+----field----
+field: {3B23DE18-7F27-4C66-9EFC-B6DA0FC08FB4}
+name: image-type
+key: image-type
+content-length: 5
+
+image
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20181102T160109Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20181102T160109Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\apatta228
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8a6adb40-a6c9-4eaa-8e5f-e064d204d980
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T184827Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 5
+revision: 26bdd2c1-61b9-4ecf-9ada-ef28b18fad20
+
+----field----
+field: {EC749A92-6D45-444D-9EDE-EFA1432689E6}
+name: breakpoint
+key: breakpoint
+content-length: 3
+
+960
+----field----
+field: {67C9A8AC-32E7-4187-A4B9-F32AF7F012B9}
+name: image-version
+key: image-version
+content-length: 10
+
+1557323405
+----field----
+field: {ECE236C5-B822-4024-BD70-AEA0200C1C06}
+name: image-base
+key: image-base
+content-length: 44
+
+LG-G8-ThinQ-Launch/LG-G8-ThinQ-Right-960.png
+----field----
+field: {D8E42D0A-2990-4A9F-99A9-614859C5FCD5}
+name: image-alt
+key: image-alt
+content-length: 34
+
+Buy an LG G8 phone. Get $100 back.
+----field----
+field: {3B23DE18-7F27-4C66-9EFC-B6DA0FC08FB4}
+name: image-type
+key: image-type
+content-length: 5
+
+image
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190503T184801Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190503T184801Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+26bdd2c1-61b9-4ecf-9ada-ef28b18fad20
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T184827Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 6
+revision: 9b0ff25b-fd6a-4f5a-b7fb-5080c36a5ac1
+
+----field----
+field: {EC749A92-6D45-444D-9EDE-EFA1432689E6}
+name: breakpoint
+key: breakpoint
+content-length: 3
+
+960
+----field----
+field: {67C9A8AC-32E7-4187-A4B9-F32AF7F012B9}
+name: image-version
+key: image-version
+content-length: 10
+
+1588099080
+----field----
+field: {ECE236C5-B822-4024-BD70-AEA0200C1C06}
+name: image-base
+key: image-base
+content-length: 49
+
+moto-g-power-NPI/moto-g-power-shop-banner-960.png
+----field----
+field: {D8E42D0A-2990-4A9F-99A9-614859C5FCD5}
+name: image-alt
+key: image-alt
+content-length: 12
+
+Moto G Power
+----field----
+field: {3B23DE18-7F27-4C66-9EFC-B6DA0FC08FB4}
+name: image-type
+key: image-type
+content-length: 5
+
+image
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200428T191807Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200428T191807Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9b0ff25b-fd6a-4f5a-b7fb-5080c36a5ac1
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200429T192539Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 7
+revision: a9afd805-c807-4e61-a544-84311c854de5
+
+----field----
+field: {EC749A92-6D45-444D-9EDE-EFA1432689E6}
+name: breakpoint
+key: breakpoint
+content-length: 3
+
+960
+----field----
+field: {67C9A8AC-32E7-4187-A4B9-F32AF7F012B9}
+name: image-version
+key: image-version
+content-length: 10
+
+1588099080
+----field----
+field: {ECE236C5-B822-4024-BD70-AEA0200C1C06}
+name: image-base
+key: image-base
+content-length: 49
+
+moto-g-power-NPI/moto-g-power-shop-banner-960.png
+----field----
+field: {D8E42D0A-2990-4A9F-99A9-614859C5FCD5}
+name: image-alt
+key: image-alt
+content-length: 12
+
+Moto G Power
+----field----
+field: {3B23DE18-7F27-4C66-9EFC-B6DA0FC08FB4}
+name: image-type
+key: image-type
+content-length: 5
+
+image
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200527T180954Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200527T180954Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a9afd805-c807-4e61-a544-84311c854de5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200527T181009Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

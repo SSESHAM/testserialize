@@ -1,0 +1,225 @@
+----item----
+version: 1
+id: {818093B6-1288-419D-82F9-968B0C82BBB7}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Product Details/Secondary Promos/Samsung Davinci Pre-Order National Promo $100
+parent: {A05E7005-2D20-460B-8D51-22C58121B8D4}
+name: Samsung Davinci Pre-Order National Promo $100
+master: {00000000-0000-0000-0000-000000000000}
+template: {49D9BDA6-66E9-4F9C-ACEC-8DB410520741}
+templatekey: Secondary Promos
+created: 20190725T130314Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 4
+
+2900
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----field----
+field: {CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}
+name: __Default workflow
+key: __default workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: d59c69d6-5c07-41c9-8fd2-59ff498738bd
+
+----field----
+field: {A6D5F6DD-07C3-478C-953E-46B28B6EC8AB}
+name: slugs
+key: slugs
+content-length: 23
+
+1=galaxy-note10-samsung
+----field----
+field: {37BC5B41-0AAA-4BCC-931D-AE1CCB54CBDB}
+name: content-header
+key: content-header
+content-length: 58
+
+Get the all-new Galaxy Note10 and $100 credit from Samsung
+----field----
+field: {B6051FEC-46F9-43C4-A149-BC4831DEE3D5}
+name: content-description
+key: content-description
+content-length: 143
+
+Pre-order the new Galaxy Note10 and get a free Samsung digital coupon worth up to $100, plus 6 months of Spotify Premium for free from Samsung.
+----field----
+field: {7452A16D-97E7-4CEE-8AE7-AC3B094C417F}
+name: content-image
+key: content-image
+content-length: 38
+
+{8D8FF09D-7F5F-47B4-AF10-D982380443D4}
+----field----
+field: {50DC0D0B-DB5B-477E-AECA-A255CE3643D0}
+name: content-actions
+key: content-actions
+content-length: 142
+
+1=%5BHow%20to%20Redeem%20Your%20Offer%7Chttps%3A%2F%2Fwww.xfinity.com%2Fmobile%2Fsupport%2Farticle%2Fnote10-pre-order-promotion-eligibility%5D
+----field----
+field: {783166B0-2735-4D97-9D7F-632977F88740}
+name: content-popover
+key: content-popover
+content-length: 38
+
+{06B3B49B-4002-4C15-8A85-1BA604BB303F}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190725T130314Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\mpayto200
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d59c69d6-5c07-41c9-8fd2-59ff498738bd
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190809T135707Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\snavee884
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 2
+revision: b82d54b2-f919-40c8-84c4-ea5a69c5b1b2
+
+----field----
+field: {A6D5F6DD-07C3-478C-953E-46B28B6EC8AB}
+name: slugs
+key: slugs
+content-length: 23
+
+1=galaxy-note10-samsung
+----field----
+field: {37BC5B41-0AAA-4BCC-931D-AE1CCB54CBDB}
+name: content-header
+key: content-header
+content-length: 58
+
+Get the all-new Galaxy Note10 and $100 credit from Samsung
+----field----
+field: {B6051FEC-46F9-43C4-A149-BC4831DEE3D5}
+name: content-description
+key: content-description
+content-length: 143
+
+Pre-order the new Galaxy Note10 and get a free Samsung digital coupon worth up to $100, plus 6 months of Spotify Premium for free from Samsung.
+----field----
+field: {7452A16D-97E7-4CEE-8AE7-AC3B094C417F}
+name: content-image
+key: content-image
+content-length: 38
+
+{8D8FF09D-7F5F-47B4-AF10-D982380443D4}
+----field----
+field: {50DC0D0B-DB5B-477E-AECA-A255CE3643D0}
+name: content-actions
+key: content-actions
+content-length: 142
+
+1=%5BHow%20to%20Redeem%20Your%20Offer%7Chttps%3A%2F%2Fwww.xfinity.com%2Fmobile%2Fsupport%2Farticle%2Fnote10-pre-order-promotion-eligibility%5D
+----field----
+field: {783166B0-2735-4D97-9D7F-632977F88740}
+name: content-popover
+key: content-popover
+content-length: 38
+
+{06B3B49B-4002-4C15-8A85-1BA604BB303F}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190809T135802Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190809T135802Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\apatta228
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b82d54b2-f919-40c8-84c4-ea5a69c5b1b2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200103T150436Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

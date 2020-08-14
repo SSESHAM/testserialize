@@ -1,0 +1,734 @@
+----item----
+version: 1
+id: {8674F7B3-1965-406D-8522-B56488A57A25}
+database: master
+path: /sitecore/content/Modesto/NG Site/Media Collection/Banners/Popover Content/a-byod $50 promo 02182020
+parent: {71BDF3C4-CF0C-499A-BA59-98B08398217C}
+name: a-byod $50 promo 02182020
+master: {00000000-0000-0000-0000-000000000000}
+template: {EC763141-8154-4CAE-A25D-946AD1A55927}
+templatekey: PopoverContent
+created: 20180707T220905Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+200
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: f4b6ff33-3666-4d14-bf39-5e27ef84aa42
+
+----field----
+field: {40CE6B7E-3986-42E9-9F46-9427C8E3CE02}
+name: header
+key: header
+content-length: 0
+
+
+----field----
+field: {92C75992-F71C-4791-8CBC-6ED5D7DE854A}
+name: description
+key: description
+content-length: 2827
+
+description1=Restrictions%20apply.%20Not%20available%20in%20all%20areas.%20&description2=Xfinity%20Mobile%20requires%20a%20post-pay%20subscription%20to%20a%20residential%20Xfinity%20Internet%20service.%20New%20Xfinity%20Internet%20customers%20limited%20to%20up%20to%20two%20lines%20pending%20activation%20of%20Internet%20service.%20Equipment%2C%20taxes%20and%20fees%2C%20including%20regulatory%20recovery%20fees%2C%20surcharges%2C%20and%20other%20applicable%20charges%20extra%2C%20and%20subject%20to%20change.%20%2410%20per%20line%20monthly%20charge%20applies%20if%20at%20least%20one%20of%20the%20following%20post-pay%20subscriptions%20are%20not%20maintained%20on%20the%20account%3A%20Xfinity%20TV%2C%20Internet%20or%20Voice%20service.%20Pricing%20subject%20to%20change.%20Actual%20speeds%20vary%20and%20are%20not%20guaranteed.%20**%20Unlimited%3A%20**%20After%2020%20GB%20monthly%20data%20use%2C%20speeds%20reduced%20to%20a%20maximum%20of%201.5Mbps%20download%2F750%20Kbps%20upload.%20**%20By%20the%20Gig%3A%20**%20Data%20charge%20applies%20to%20each%20GB%20or%20partial%20GB%20of%20shared%20data%20used.&description3=Bring%20Your%20Own%20Phone%20Prepaid%20Card%20offer%20ends%201%2F27%2F19.%20Limited%20to%20select%20eligible%20iPhones.%20Must%20activate%20a%20new%20Xfinity%20Mobile%20line%20for%20that%20phone%20and%20port%20phone%20number%20to%20the%20new%20Xfinity%20Mobile%20line%20within%20the%20first%2030%20days%20of%20phone%20purchase.%20Must%20remain%20an%20Xfinity%20Mobile%20customer%20with%20an%20account%20in%20good%20standing%20and%20maintain%20the%20new%20Xfinity%20Mobile%20line%20for%20the%20first%2090%20days%20following%20Xfinity%20Mobile%20line%20activation.%20Prepaid%20card%20issued%20by%20MetaBank%C2%AE%2C%20Member%20FDIC%2C%20pursuant%20to%20a%20license%20from%20Visa%C2%AE%20U.S.A.%2C%20Inc.%20Prepaid%20Card%20mailed%20to%20Comcast%20account%20holder%20within%2016-18%20weeks%20of%20activation%20of%20all%20required%20services%20and%20expires%20in%20180%20days.%20Not%20valid%20with%20previously%20activated%20lines.%20May%20not%20be%20combined%20with%20other%20offers.%20Limited%20to%20five%20phones%20and%20up%20to%20%24500%20in%20prepaid%20card%20amount%20per%20customer%2Faccount.%20If%20multiple%20lines%20ordered%2C%20one%20card%20issued%20for%20the%20total%20qualifying%20amount.&description4=The%20Xfinity%20Mobile%20logo%20and%20%E2%80%9Co%E2%80%9D%20marks%20are%20trademarks%20of%20Comcast.%20%C2%A9%202019%20Comcast.%20%C2%A9%202019%20Apple%20Inc.%20All%20trademarks%20are%20the%20property%20of%20their%20respective%20owners.%20All%20rights%20reserved.&description5=To%20see%20the%20Xfinity%20Mobile%20Broadband%20Disclosures%20visit%3A%20%5B%5Ewww.xfinity.com%2Fmobile%2Fpolicies%2Fbroadband-disclosures%7Chttps%3A%2F%2Fwww.xfinity.com%2Fmobile%2Fpolicies%2Fbroadband-disclosures%5E%5D
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190116T144041Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190116T144041Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f4b6ff33-3666-4d14-bf39-5e27ef84aa42
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T184136Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 2
+revision: a7b9c4f4-bd0e-4fbe-9de1-d655dd6d445f
+
+----field----
+field: {40CE6B7E-3986-42E9-9F46-9427C8E3CE02}
+name: header
+key: header
+content-length: 0
+
+
+----field----
+field: {92C75992-F71C-4791-8CBC-6ED5D7DE854A}
+name: description
+key: description
+content-length: 2843
+
+description1=Restrictions%20apply.%20Not%20available%20in%20all%20areas.%20&description2=Xfinity%20Mobile%20requires%20a%20post-pay%20subscription%20to%20a%20residential%20Xfinity%20Internet%20service.%20Limited%20to%20up%20to%205%20lines%20and%20initially%20limited%20to%20up%20to%20two%20lines%20pending%20activation%20of%20Internet%20service.%20Equipment%2C%20taxes%20and%20fees%2C%20including%20regulatory%20recovery%20fees%2C%20surcharges%2C%20and%20other%20applicable%20charges%20extra%2C%20and%20subject%20to%20change.%20%2410%20per%20line%20monthly%20charge%20applies%20if%20at%20least%20one%20of%20the%20following%20post-pay%20subscriptions%20are%20not%20maintained%20on%20the%20account%3A%20Xfinity%20TV%2C%20Internet%20or%20Voice%20service.%20Pricing%20subject%20to%20change.%20Actual%20speeds%20vary%20and%20are%20not%20guaranteed.%20**%20Unlimited%3A%20**%20After%2020%20GB%20monthly%20data%20use%2C%20speeds%20reduced%20to%20a%20maximum%20of%201.5Mbps%20download%2F750%20Kbps%20upload.%20**%20By%20the%20Gig%3A%20**%20Data%20charge%20applies%20to%20each%20GB%20or%20partial%20GB%20of%20shared%20data%20used.&description3=Bring%20Your%20Own%20Phone%20Prepaid%20Card%20offer%20ends%201%2F27%2F19.%20Limited%20to%20select%20eligible%20iPhones.%20Must%20activate%20a%20new%20Xfinity%20Mobile%20line%20for%20that%20phone%20and%20port%20phone%20number%20to%20the%20new%20Xfinity%20Mobile%20line%20within%20the%20first%2030%20days%20of%20phone%20purchase.%20Must%20remain%20an%20Xfinity%20Mobile%20customer%20with%20an%20account%20in%20good%20standing%20and%20maintain%20the%20new%20Xfinity%20Mobile%20line%20for%20the%20first%2090%20days%20following%20Xfinity%20Mobile%20line%20activation.%20Prepaid%20card%20issued%20by%20MetaBank%C2%AE%2C%20Member%20FDIC%2C%20pursuant%20to%20a%20license%20from%20Visa%C2%AE%20U.S.A.%2C%20Inc.%20Prepaid%20Card%20mailed%20to%20Comcast%20account%20holder%20within%2016-18%20weeks%20of%20activation%20of%20all%20required%20services%20and%20expires%20in%20180%20days.%20Not%20valid%20with%20previously%20activated%20lines.%20May%20not%20be%20combined%20with%20other%20offers.%20Limited%20to%20five%20phones%20and%20up%20to%20%24500%20in%20prepaid%20card%20amount%20per%20customer%2Faccount.%20If%20multiple%20lines%20ordered%2C%20one%20card%20issued%20for%20the%20total%20qualifying%20amount.&description4=The%20Xfinity%20Mobile%20logo%20and%20%E2%80%9Co%E2%80%9D%20marks%20are%20trademarks%20of%20Comcast.%20%C2%A9%202019%20Comcast.%20%C2%A9%202019%20Apple%20Inc.%20All%20trademarks%20are%20the%20property%20of%20their%20respective%20owners.%20All%20rights%20reserved.&description5=To%20see%20the%20Xfinity%20Mobile%20Broadband%20Disclosures%20visit%3A%20%5B%5Ewww.xfinity.com%2Fmobile%2Fpolicies%2Fbroadband-disclosures%7Chttps%3A%2F%2Fwww.xfinity.com%2Fmobile%2Fpolicies%2Fbroadband-disclosures%5E%5D
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190116T145747Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190116T145747Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a7b9c4f4-bd0e-4fbe-9de1-d655dd6d445f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T184136Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 3
+revision: e44373ae-420b-401d-bbb2-b3a306b5faca
+
+----field----
+field: {40CE6B7E-3986-42E9-9F46-9427C8E3CE02}
+name: header
+key: header
+content-length: 0
+
+
+----field----
+field: {92C75992-F71C-4791-8CBC-6ED5D7DE854A}
+name: description
+key: description
+content-length: 2849
+
+description1=Bring%20Your%20Own%20Phone%20prepaid%20card%20offer%20ends%206%2F23%2F19.%20Limited%20to%20select%20eligible%20iPhones.%20Must%20activate%20a%20new%20Xfinity%20Mobile%20line%20for%20that%20phone%20and%20port%20phone%20number%20to%20the%20new%20Xfinity%20Mobile%20line%20within%20the%20first%2030%20days%20of%20line%20activation.%20Must%20remain%20an%20Xfinity%20Mobile%20customer%20with%20an%20account%20in%20good%20standing%20and%20maintain%20the%20new%20Xfinity%20Mobile%20line%20for%20the%20first%2090%20days%20following%20Xfinity%20Mobile%20line%20activation.&description2=Prepaid%20card%20issued%20by%20MetaBank%C2%AE%2C%20Member%20FDIC%2C%20pursuant%20to%20a%20license%20from%20Visa%C2%AE%20U.S.A.%2C%20Inc.%20Prepaid%20card%20mailed%20to%20Xfinity%20account%20holder%20within%2016-18%20weeks%20of%20activation%20of%20all%20required%20services%20and%20expires%20in%20180%20days.%20Not%20valid%20with%20previously%20activated%20lines.%20May%20not%20be%20combined%20with%20other%20offers.%20Limited%20to%20five%20phones%20and%20up%20to%20%24500%20in%20prepaid%20card%20amount%20per%20customer%2Faccount.%20If%20multiple%20lines%20ordered%2C%20one%20card%20issued%20for%20the%20total%20qualifying%20amount.&description3=The%20Xfinity%20Mobile%20logo%20and%20%E2%80%9Co%E2%80%9D%20marks%20are%20trademarks%20of%20Comcast.%20%C2%A9%202019%20Comcast.%20%C2%A9%202019%20Apple%20Inc.%20All%20trademarks%20are%20the%20property%20of%20their%20respective%20owners.%20All%20rights%20reserved.&description4=Restrictions%20apply.%20Not%20available%20in%20all%20areas.%20Xfinity%20Mobile%20requires%20a%20post-pay%20subscription%20to%20a%20residential%20Xfinity%20Internet%20service.%20Limited%20to%20up%20to%20five%20lines.%20Initially%20limited%20to%20up%20to%20two%20lines%20under%20a%20device%20payment%20plan.%20Equipment%2C%20international%20and%20roaming%20charges%2C%20taxes%20and%20fees%2C%20including%20regulatory%20recovery%20fees%2C%20surcharges%2C%20and%20other%20applicable%20charges%20extra%2C%20and%20subject%20to%20change.%20%2410%20per%20line%20monthly%20charge%20applies%20if%20at%20least%20one%20of%20the%20following%20post-pay%20subscriptions%20are%20not%20maintained%20on%20the%20account%3A%20Xfinity%20TV%2C%20Internet%20or%20Voice%20service.&description5=Pricing%20subject%20to%20change.%20Actual%20speeds%20vary%20and%20are%20not%20guaranteed.%20After%2020%20GB%20monthly%20data%20use%2C%20speeds%20reduced%20to%20a%20maximum%20of%201.5Mbps%20download%2F750%20Kbps%20upload.%20By%20the%20Gig%3A%20Data%20charge%20applies%20to%20each%20GB%20or%20partial%20GB%20of%20shared%20data%20used.&description6=To%20see%20the%20Xfinity%20Mobile%20Broadband%20Disclosures%20visit%3A%20%5B%5Ewww.xfinity.com%2Fmobile%2Fpolicies%2Fbroadband-disclosures%7Chttps%3A%2F%2Fwww.xfinity.com%2Fmobile%2Fpolicies%2Fbroadband-disclosures%5E%5D
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190117T192952Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190117T192952Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e44373ae-420b-401d-bbb2-b3a306b5faca
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T184135Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 4
+revision: 5174ade0-800c-4aef-bd04-7b8edec2c8ab
+
+----field----
+field: {40CE6B7E-3986-42E9-9F46-9427C8E3CE02}
+name: header
+key: header
+content-length: 0
+
+
+----field----
+field: {92C75992-F71C-4791-8CBC-6ED5D7DE854A}
+name: description
+key: description
+content-length: 3253
+
+description1=Restrictions%20apply.%20Not%20available%20in%20all%20areas.&description2=Xfinity%20Mobile%20requires%20a%20post-pay%20subscription%20to%20a%20residential%20Xfinity%20Internet%20service.%20Limited%20to%20up%20to%20five%20lines.%20Initially%20limited%20to%20up%20to%20two%20lines%20under%20a%20device%20payment%20plan%2C%20pending%20activation%20of%20Internet%20service.%20Equipment%2C%20international%20and%20roaming%20charges%2C%20taxes%20and%20fees%2C%20including%20regulatory%20recovery%20fees%2C%20surcharges%2C%20and%20other%20applicable%20charges%20extra%2C%20and%20subject%20to%20change.%20%2410%20per%20line%20monthly%20charge%20applies%20if%20at%20least%20one%20of%20the%20following%20post-pay%20subscriptions%20are%20not%20maintained%20on%20the%20account%3A%20Xfinity%20TV%2C%20Internet%20or%20Voice%20service.%20Pricing%20subject%20to%20change.%20Actual%20speeds%20vary%20and%20are%20not%20guaranteed.%20After%2020%20GB%20monthly%20data%20use%2C%20speeds%20reduced%20to%20a%20maximum%20of%201.5Mbps%20download%2F750%20Kbps%20upload.%20By%20the%20Gig%3A%20Data%20charge%20applies%20to%20each%20GB%20or%20partial%20GB%20of%20shared%20data%20used.%20Savings%20comparison%20limited%20to%20regular%20monthly%20service%20charges%20for%20Comcast%E2%80%99s%20data%20options%20and%20the%20weighted%20average%20prices%20of%20comparable%20Verizon%2C%20AT%26T%2C%20T-Mobile%20and%20Sprint%20plans%2C%20based%20on%20published%20rates%20as%20of%20January%202019.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.&description3=Bring%20Your%20Own%20Phone%20prepaid%20card%20offer%20ends%206%2F23%2F19.%20Limited%20to%20select%20eligible%20iPhones.%20Must%20activate%20a%20new%20Xfinity%20Mobile%20line%20for%20that%20phone%20and%20port%20phone%20number%20to%20the%20new%20Xfinity%20Mobile%20line%20within%20the%20first%2030%20days%20of%20line%20activation.%20Must%20remain%20an%20Xfinity%20Mobile%20customer%20with%20an%20account%20in%20good%20standing%20and%20maintain%20the%20new%20Xfinity%20Mobile%20line%20for%20the%20first%2090%20days%20following%20Xfinity%20Mobile%20line%20activation.%20Prepaid%20card%20issued%20by%20MetaBank%C2%AE%2C%20Member%20FDIC%2C%20pursuant%20to%20a%20license%20from%20Visa%C2%AE%20U.S.A.%2C%20Inc.%20Prepaid%20card%20mailed%20to%20Xfinity%20account%20holder%20within%2016-18%20weeks%20of%20activation%20of%20all%20required%20services%20and%20expires%20in%20180%20days.%20Not%20valid%20with%20previously%20activated%20lines.%20May%20not%20be%20combined%20with%20other%20offers.%20Limited%20to%20five%20phones%20and%20up%20to%20%24500%20in%20prepaid%20card%20amount%20per%20customer%2Faccount.%20If%20multiple%20lines%20ordered%2C%20one%20card%20issued%20for%20the%20total%20qualifying%20amount.&description4=The%20Xfinity%20Mobile%20logo%20and%20%E2%80%9Co%E2%80%9D%20marks%20are%20trademarks%20of%20Comcast.%20%C2%A9%202019%20Comcast.%20%C2%A9%202019%20Apple%20Inc.%20All%20trademarks%20are%20the%20property%20of%20their%20respective%20owners.%20All%20rights%20reserved.&description5=To%20see%20the%20Xfinity%20Mobile%20Broadband%20Disclosures%20visit%3A%20%5B%5Ewww.xfinity.com%2Fmobile%2Fpolicies%2Fbroadband-disclosures%7Chttps%3A%2F%2Fwww.xfinity.com%2Fmobile%2Fpolicies%2Fbroadband-disclosures%5E%5D.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190226T182514Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190226T182514Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+5174ade0-800c-4aef-bd04-7b8edec2c8ab
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T184134Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 5
+revision: 105f9fae-e199-475a-95f2-c10ad7b71e1b
+
+----field----
+field: {40CE6B7E-3986-42E9-9F46-9427C8E3CE02}
+name: header
+key: header
+content-length: 0
+
+
+----field----
+field: {92C75992-F71C-4791-8CBC-6ED5D7DE854A}
+name: description
+key: description
+content-length: 3183
+
+description1=Restrictions%20apply.%20Not%20available%20in%20all%20areas.&description2=Xfinity%20Mobile%20requires%20a%20post-pay%20subscription%20to%20a%20residential%20Xfinity%20Internet%20service.%20Limited%20to%20up%20to%20five%20lines.%20Initially%20limited%20to%20up%20to%20two%20lines%20under%20a%20device%20payment%20plan%2C%20pending%20activation%20of%20Internet%20service.%20Equipment%2C%20international%20and%20roaming%20charges%2C%20taxes%20and%20fees%2C%20including%20regulatory%20recovery%20fees%2C%20surcharges%2C%20and%20other%20applicable%20charges%20extra%2C%20and%20subject%20to%20change.%20Up%20to%20%2420%20per%20line%20monthly%20charge%20applies%20if%20at%20least%20one%20of%20the%20following%20post-pay%20subscriptions%20are%20not%20maintained%20on%20the%20account%3A%20Xfinity%20TV%2C%20Internet%20or%20Voice%20service.%20Pricing%20subject%20to%20change.%20Actual%20speeds%20vary%20and%20are%20not%20guaranteed.%20After%2020%20GB%20monthly%20data%20use%2C%20speeds%20reduced%20to%20a%20maximum%20of%201.5Mbps%20download%2F750%20Kbps%20upload.%20By%20the%20Gig%3A%20Data%20charge%20applies%20to%20each%20GB%20or%20partial%20GB%20of%20shared%20data%20used.%20Savings%20comparison%20limited%20to%20regular%20monthly%20service%20charges%20for%20Comcast%E2%80%99s%20data%20options%20and%20the%20weighted%20average%20prices%20of%20comparable%20Verizon%2C%20AT%26T%2C%20T-Mobile%20and%20Sprint%20plans%2C%20based%20on%20published%20rates%20as%20of%20March%202019.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.&description3=Bring%20Your%20Own%20Phone%20prepaid%20card%20offer%20ends%206%2F23%2F19.%20Limited%20to%20select%20eligible%20iPhones.%20Must%20activate%20a%20new%20Xfinity%20Mobile%20line%20for%20that%20phone%20and%20port%20phone%20number%20to%20the%20new%20Xfinity%20Mobile%20line%20within%20the%20first%2030%20days%20of%20line%20activation.%20Must%20remain%20an%20Xfinity%20Mobile%20customer%20with%20an%20account%20in%20good%20standing%20and%20maintain%20the%20new%20Xfinity%20Mobile%20line%20for%20the%20first%2090%20days%20following%20Xfinity%20Mobile%20line%20activation.%20Prepaid%20card%20issued%20by%20MetaBank%C2%AE%2C%20Member%20FDIC%2C%20pursuant%20to%20a%20license%20from%20Visa%C2%AE%20U.S.A.%2C%20Inc.%20Prepaid%20card%20mailed%20to%20Xfinity%20account%20holder%20within%2016-18%20weeks%20of%20activation%20of%20all%20required%20services%20and%20expires%20in%20180%20days.%20Not%20valid%20with%20previously%20activated%20lines.%20May%20not%20be%20combined%20with%20other%20offers.%20Limited%20to%20five%20phones%20and%20up%20to%20%24500%20in%20prepaid%20card%20amount%20per%20customer%2Faccount.%20If%20multiple%20lines%20ordered%2C%20one%20card%20issued%20for%20the%20total%20qualifying%20amount.&description4=The%20Xfinity%20Mobile%20logo%20and%20%E2%80%9Co%E2%80%9D%20marks%20are%20trademarks%20of%20Comcast.%20%C2%A9%202019%20Comcast.%20%C2%A9%202019%20Apple%20Inc.%20All%20rights%20reserved.&description5=To%20see%20the%20Xfinity%20Mobile%20Broadband%20Disclosures%20visit%3A%20%5B%5Ewww.xfinity.com%2Fmobile%2Fpolicies%2Fbroadband-disclosures%7Chttps%3A%2F%2Fwww.xfinity.com%2Fmobile%2Fpolicies%2Fbroadband-disclosures%5E%5D.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190426T152525Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190426T152525Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+105f9fae-e199-475a-95f2-c10ad7b71e1b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T184133Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 6
+revision: 64b14959-e34f-4376-a611-12f3c1dfee9e
+
+----field----
+field: {40CE6B7E-3986-42E9-9F46-9427C8E3CE02}
+name: header
+key: header
+content-length: 0
+
+
+----field----
+field: {92C75992-F71C-4791-8CBC-6ED5D7DE854A}
+name: description
+key: description
+content-length: 1372
+
+description1=Restrictions%20apply.%20Not%20available%20in%20all%20areas.%20Requires%20residential%20post-pay%20Xfinity%20Internet.&description2=Prepaid%20card%20offer%20ends%209%2F9%2F19%20and%20only%20available%20by%20requesting%20a%20SIM%20at%20%5B%5Ehttps%3A%2F%2Fwww.xfinity.com%2Fmobile%7Chttps%3A%2F%2Fwww.xfinity.com%2Fmobile%5E%5D.%20Limited%20to%20select%20eligible%20phones.%20Requires%20activation%20of%20new%20Xfinity%20Mobile%20line%20and%20transfer%20of%20phone%20number%20from%20another%20carrier%20within%2030%20days%20of%20line%20activation.%20Must%20maintain%20new%20Xfinity%20Mobile%20line%20with%20an%20account%20in%20good%20standing%20for%2090%20days%20following%20line%20activation.%20Prepaid%20card%20issued%20by%20MetaBank%C2%AE%2C%20Member%20FDIC%2C%20pursuant%20to%20a%20license%20from%20Visa%C2%AE%20U.S.A.%2C%20Inc.%20Prepaid%20card%20mailed%20to%20Xfinity%20account%20holder%20within%2016-18%20weeks%20of%20activation%20of%20all%20required%20services%20and%20expires%20in%20180%20days.%20May%20not%20be%20combined%20with%20other%20offers.%20Maximum%20%24250%20in%20prepaid%20card%20amount%20per%20customer%2Faccount.%20One%20card%20issued%20for%20total%20qualifying%20amount.&description3=The%20Xfinity%20Mobile%20logo%20and%20%E2%80%9Co%E2%80%9D%20marks%20are%20trademarks%20of%20Comcast.%20%C2%A9%202019%20Comcast.%20All%20rights%20reserved.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190516T165642Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190516T165642Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\apatta228
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+64b14959-e34f-4376-a611-12f3c1dfee9e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200115T155301Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 7
+revision: fefe85ce-d14a-45db-b431-448295cf1e24
+
+----field----
+field: {40CE6B7E-3986-42E9-9F46-9427C8E3CE02}
+name: header
+key: header
+content-length: 0
+
+
+----field----
+field: {92C75992-F71C-4791-8CBC-6ED5D7DE854A}
+name: description
+key: description
+content-length: 1455
+
+description1=Restrictions%20apply.%20Not%20available%20in%20all%20areas.%20Xfinity%20Mobile%20requires%20residential%20post-pay%20Xfinity%20Internet.%20Prepaid%20card%20offer%20ends%203%2F22%2F20.%20Limited%20to%20select%20eligible%20phones.%20Requires%20activation%20of%20new%20Xfinity%20Mobile%20line%20and%20transfer%20of%20phone%20number%20from%20another%20carrier%20within%2030%20days%20of%20line%20activation.%20Must%20maintain%20new%20Xfinity%20Mobile%20line%20with%20an%20account%20in%20good%20standing%20for%2090%20days%20following%20line%20activation.%20Prepaid%20card%20issued%20by%20MetaBank%C2%AE%2C%20Member%20FDIC%2C%20pursuant%20to%20a%20license%20from%20Visa%C2%AE%20U.S.A.%2C%20Inc.%20Prepaid%20card%20mailed%20to%20Xfinity%20account%20holder%20within%2016-18%20weeks%20of%20activation%20of%20all%20required%20services%20and%20expires%20in%20180%20days.%20May%20not%20be%20combined%20with%20other%20offers.%20Maximum%20%24250%20in%20prepaid%20card%20amount%20per%20customer%2Faccount.%20One%20card%20issued%20for%20total%20qualifying%20amount.&description2=The%20Xfinity%20Mobile%20logo%20and%20%E2%80%9Co%E2%80%9D%20marks%20are%20trademarks%20of%20Comcast.%20%C2%A9%202020%20Comcast.%20All%20rights%20reserved.&description3=For%20Xfinity%20Mobile%20Broadband%20Disclosures%2C%20visit%3A%20%5B%5Ewww.xfinity.com%2Fmobile%2Fpolicies%2Fbroadband-disclosures%7Chttps%3A%2F%2Fwww.xfinity.com%2Fmobile%2Fpolicies%2Fbroadband-disclosures%5E%5D
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200213T143008Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200213T143008Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+fefe85ce-d14a-45db-b431-448295cf1e24
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200214T170604Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 8
+revision: 33e1e3b3-d7f0-47c3-8459-06fdd5d40a13
+
+----field----
+field: {40CE6B7E-3986-42E9-9F46-9427C8E3CE02}
+name: header
+key: header
+content-length: 0
+
+
+----field----
+field: {92C75992-F71C-4791-8CBC-6ED5D7DE854A}
+name: description
+key: description
+content-length: 1465
+
+description1=Restrictions%20apply.%20Not%20available%20in%20all%20areas.%20Xfinity%20Mobile%20requires%20residential%20post-pay%20Xfinity%20Internet.&description2=Prepaid%20card%20offer%20ends%207%2F1%2F20.%20Limited%20to%20select%20eligible%20phones.%20Requires%20activation%20of%20new%20Xfinity%20Mobile%20line%20and%20transfer%20of%20phone%20number%20from%20another%20carrier%20within%2030%20days%20of%20line%20activation.%20Must%20maintain%20new%20Xfinity%20Mobile%20line%20with%20an%20account%20in%20good%20standing%20for%2090%20days%20following%20line%20activation.%20Prepaid%20card%20issued%20by%20MetaBank%C2%AE%2C%20Member%20FDIC%2C%20pursuant%20to%20a%20license%20from%20Visa%C2%AE%20U.S.A.%2C%20Inc.%20Prepaid%20card%20mailed%20to%20Xfinity%20account%20holder%20within%2016-18%20weeks%20of%20activation%20of%20all%20required%20services%20and%20expires%20in%20180%20days.%20May%20not%20be%20combined%20with%20other%20offers.%20Maximum%20%24250%20in%20prepaid%20card%20amount%20per%20customer%2Faccount.%20One%20card%20issued%20for%20total%20qualifying%20amount.&description3=The%20Xfinity%20Mobile%20logo%20and%20%E2%80%9Co%E2%80%9D%20marks%20are%20trademarks%20of%20Comcast.%20%C2%A9%202020%20Comcast.%20All%20rights%20reserved.&description4=For%20Xfinity%20Mobile%20Broadband%20Disclosures%2C%20visit%3A%20%5B%5Ewww.xfinity.com%2Fmobile%2Fpolicies%2Fbroadband-disclosures%7Chttps%3A%2F%2Fwww.xfinity.com%2Fmobile%2Fpolicies%2Fbroadband-disclosures%5E%5D
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200319T175105Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200319T175105Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+33e1e3b3-d7f0-47c3-8459-06fdd5d40a13
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200319T200851Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 9
+revision: 14e36884-6ad5-4513-8ede-b0cd542dca04
+
+----field----
+field: {40CE6B7E-3986-42E9-9F46-9427C8E3CE02}
+name: header
+key: header
+content-length: 0
+
+
+----field----
+field: {92C75992-F71C-4791-8CBC-6ED5D7DE854A}
+name: description
+key: description
+content-length: 1827
+
+description1=Restrictions%20apply.%20Not%20available%20in%20all%20areas.%20Xfinity%20Mobile%20requires%20residential%20post-pay%20Xfinity%20Internet.%20Savings%20comparison%20based%20upon%20actual%20Xfinity%20Mobile%20customer%20data%20usage%20applied%20to%20available%20pricing%20plans%20of%20major%20carriers.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.%20Xfinity%20Internet%20required.&description2=Bring%20Your%20Own%20Phone%3A%20Limited%20to%20select%20eligible%20phones.%20Bring%20your%20own%20phone%20and%20prepaid%20card%20offer%20each%20require%20activation%20of%20new%20Xfinity%20Mobile%20line.%20Prepaid%20Card%3A%20Offer%20extended%20through%209%2F30%2F20.%20Requires%20transfer%20of%20phone%20number%20from%20another%20carrier%20within%2030%20days%20of%20line%20activation.%20Must%20maintain%20the%20new%20line%20with%20an%20account%20in%20good%20standing%20for%2090%20days%20following%20line%20activation.%20Visa%20Prepaid%20Cards%20are%20issued%20by%20MetaBank%C2%AE%2C%20National%20Association%2C%20Member%20FDIC%2C%20pursuant%20to%20a%20license%20from%20Visa%C2%AE%20U.S.A.%20Inc.%20This%20card%20can%20be%20used%20anywhere%20Visa%20debit%20cards%20are%20accepted.%20Prepaid%20card%20mailed%20to%20Xfinity%20account%20holder%20within%2016-18%20weeks%20of%20activation%20of%20all%20required%20services%20and%20expires%20in%20180%20days.%20Maximum%20%24250%20in%20prepaid%20card%20amount%20per%20customer%2Faccount.%20One%20card%20issued%20for%20total%20qualifying%20amount.%20May%20not%20be%20combined%20with%20other%20offers.&description3=%C2%A9%202020%20Comcast.%20All%20rights%20reserved.&description4=For%20Xfinity%20Mobile%20Broadband%20Disclosures%2C%20visit%3A%20%5Bwww.xfinity.com%2Fmobile%2Fpolicies%2Fbroadband-disclosures%7Cwww.xfinity.com%2Fmobile%2Fpolicies%2Fbroadband-disclosures%5D
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200622T193243Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200622T193243Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+14e36884-6ad5-4513-8ede-b0cd542dca04
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200629T171612Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 10
+revision: b2d7aa7f-b44a-4f83-b6e2-b5f9fb6903cd
+
+----field----
+field: {40CE6B7E-3986-42E9-9F46-9427C8E3CE02}
+name: header
+key: header
+content-length: 0
+
+
+----field----
+field: {92C75992-F71C-4791-8CBC-6ED5D7DE854A}
+name: description
+key: description
+content-length: 1847
+
+description1=Restrictions%20apply.%20Not%20available%20in%20all%20areas.%20Xfinity%20Mobile%20requires%20residential%20post-pay%20Xfinity%20Internet.%20Savings%20comparison%20based%20upon%20actual%20Xfinity%20Mobile%20customer%20data%20usage%20applied%20to%20available%20pricing%20plans%20of%20major%20carriers.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.%20Xfinity%20Internet%20required.&description2=Bring%20Your%20Own%20Phone%3A%20Limited%20to%20select%20eligible%20phones.%20Bring%20your%20own%20phone%20and%20prepaid%20card%20offer%20each%20require%20activation%20of%20new%20Xfinity%20Mobile%20line.%20Prepaid%20Card%3A%20Offer%20extended%20through%209%2F30%2F20.%20Requires%20transfer%20of%20phone%20number%20from%20another%20carrier%20within%2030%20days%20of%20line%20activation.%20Must%20maintain%20the%20new%20line%20with%20an%20account%20in%20good%20standing%20for%2090%20days%20following%20line%20activation.%20Visa%20Prepaid%20Cards%20are%20issued%20by%20MetaBank%C2%AE%2C%20National%20Association%2C%20Member%20FDIC%2C%20pursuant%20to%20a%20license%20from%20Visa%C2%AE%20U.S.A.%20Inc.%20This%20card%20can%20be%20used%20anywhere%20Visa%20debit%20cards%20are%20accepted.%20Prepaid%20card%20mailed%20to%20Xfinity%20account%20holder%20within%2016-18%20weeks%20of%20activation%20of%20all%20required%20services%20and%20expires%20in%20180%20days.%20Maximum%20%24250%20in%20prepaid%20card%20amount%20per%20customer%2Faccount.%20One%20card%20issued%20for%20total%20qualifying%20amount.%20May%20not%20be%20combined%20with%20other%20offers.&description3=%C2%A9%202020%20Comcast.%20All%20rights%20reserved.&description4=For%20Xfinity%20Mobile%20Broadband%20Disclosures%2C%20visit%3A%20%5B%5Ewww.xfinity.com%2Fmobile%2Fpolicies%2Fbroadband-disclosures%7Chttps%3A%2F%2Fwww.xfinity.com%2Fmobile%2Fpolicies%2Fbroadband-disclosures%5E%5D
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200629T221742Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200629T221742Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b2d7aa7f-b44a-4f83-b6e2-b5f9fb6903cd
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200629T221819Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

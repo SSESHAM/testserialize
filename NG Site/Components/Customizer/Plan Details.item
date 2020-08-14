@@ -1,0 +1,59 @@
+----item----
+version: 1
+id: {57A47328-E908-4EF9-8237-C04BC8B796B8}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Customizer/Plan Details
+parent: {188964F7-F491-414D-948E-CAEB86654996}
+name: Plan Details
+master: {00000000-0000-0000-0000-000000000000}
+template: {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+templatekey: Folder
+created: 20190710T193226Z
+
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 77
+
+{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}|{0F29668A-7F05-44C0-B154-19561EF2342E}
+----version----
+language: en
+version: 1
+revision: c793a300-8c94-4a37-963a-c3fe5bbea28e
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190710T193226Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c793a300-8c94-4a37-963a-c3fe5bbea28e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190710T193249Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {5BB8F74F-5A2D-4ADB-861C-CB66577E75BE}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Plans Meta-Data/Plan Details/RECURRING-Desc1
+parent: {A8C770A7-CAAB-4024-9B14-9F3AA293FF31}
+name: RECURRING-Desc1
+master: {00000000-0000-0000-0000-000000000000}
+template: {28326C95-320D-4264-B249-AC51C4164366}
+templatekey: Plan Details
+created: 20190222T154710Z
+
+----field----
+field: {CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}
+name: __Default workflow
+key: __default workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: a7bf19dc-9582-4f6d-8371-6d8ad0b13a8f
+
+----field----
+field: {42A35B0F-286D-4CD6-B996-395D2EFD5F3A}
+name: content
+key: content
+content-length: 86
+
+This is monthly payment, whole price of the device is paid off by this monthly charges
+----field----
+field: {6AFE1669-7F9E-4ABF-AB27-6BAE2C5541E1}
+name: header
+key: header
+content-length: 11
+
+Pay Monthly
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190222T154710Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a7bf19dc-9582-4f6d-8371-6d8ad0b13a8f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190823T155846Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\snavee884
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

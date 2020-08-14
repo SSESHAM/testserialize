@@ -1,0 +1,298 @@
+----item----
+version: 1
+id: {6090A35C-3D74-42F3-A362-5705E2517AEA}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Extended Promos/Modals/Pricing Modal - Q4 2019 50 off LG MOTO Phase 2
+parent: {A042C86D-3BB6-404F-BF18-5AC17F89D821}
+name: Pricing Modal - Q4 2019 50 off LG MOTO Phase 2
+master: {00000000-0000-0000-0000-000000000000}
+template: {61AD6455-40A7-4F30-9215-0E3CFAEA9BBF}
+templatekey: Modal
+created: 20191106T211243Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 6272f3f2-5866-4270-86de-2b0a86b81646
+
+----field----
+field: {3C91CB50-081B-4B42-8F0F-14BF7B77DFEE}
+name: header
+key: header
+content-length: 20
+
+Pricing & Other Info
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190904T183022Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6272f3f2-5866-4270-86de-2b0a86b81646
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T191102Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 2
+revision: 3ba2dbf7-90a2-4ea9-bfe4-91b25bd3c7a2
+
+----field----
+field: {3C91CB50-081B-4B42-8F0F-14BF7B77DFEE}
+name: header
+key: header
+content-length: 20
+
+Pricing & Other Info
+----field----
+field: {98345D0A-CB74-4E68-8B45-676908F95C05}
+name: close
+key: close
+content-length: 1
+
+1
+----field----
+field: {537E1589-794A-458A-A285-80EA60CBCFA2}
+name: content
+key: content
+content-length: 77
+
+{FA52AC44-1139-4307-907C-A78D0464DA7E}|{E7377D53-295C-424A-849C-98F4E21B1D5E}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190924T165933Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190924T165933Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3ba2dbf7-90a2-4ea9-bfe4-91b25bd3c7a2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T191100Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 3
+revision: edd71b7c-0c35-4886-ac15-c624856c2920
+
+----field----
+field: {3C91CB50-081B-4B42-8F0F-14BF7B77DFEE}
+name: header
+key: header
+content-length: 20
+
+Pricing & Other Info
+----field----
+field: {98345D0A-CB74-4E68-8B45-676908F95C05}
+name: close
+key: close
+content-length: 1
+
+1
+----field----
+field: {537E1589-794A-458A-A285-80EA60CBCFA2}
+name: content
+key: content
+content-length: 77
+
+{40993DD3-843F-4268-ACF7-3FCF888BC001}|{6065C707-6CCB-4052-97CE-7258C02CCC31}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190926T145333Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190926T145333Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+edd71b7c-0c35-4886-ac15-c624856c2920
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191108T162217Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 4
+revision: 9de355fa-542f-4894-b926-663016b03dfd
+
+----field----
+field: {3C91CB50-081B-4B42-8F0F-14BF7B77DFEE}
+name: header
+key: header
+content-length: 20
+
+Pricing & Other Info
+----field----
+field: {98345D0A-CB74-4E68-8B45-676908F95C05}
+name: close
+key: close
+content-length: 1
+
+1
+----field----
+field: {537E1589-794A-458A-A285-80EA60CBCFA2}
+name: content
+key: content
+content-length: 77
+
+{40993DD3-843F-4268-ACF7-3FCF888BC001}|{4EA1A1B2-3F24-46D4-84D6-AF62DF23EBB6}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20191114T152358Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20191114T152358Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9de355fa-542f-4894-b926-663016b03dfd
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191114T183120Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

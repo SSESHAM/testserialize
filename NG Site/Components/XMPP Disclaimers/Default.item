@@ -1,0 +1,169 @@
+----item----
+version: 1
+id: {CCDF2F4C-2208-40CA-8CEB-E1AF59A3C5F1}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/XMPP Disclaimers/Default
+parent: {48373586-DD6B-40DB-BF3B-4B746565D9A5}
+name: Default
+master: {00000000-0000-0000-0000-000000000000}
+template: {D6F25A21-8B4A-4851-A257-8FE885483ABF}
+templatekey: Xmpp Disclaimers
+created: 20191122T175617Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: c8dd9d9f-6d03-487b-81d7-6dfd9decd3db
+
+----field----
+field: {5990983D-098B-498D-9D46-A4451EFA399B}
+name: brand
+key: brand
+content-length: 7
+
+Default
+----field----
+field: {4E4D4B9D-7535-413B-B212-F87EEDE7098C}
+name: tabletContent
+key: tabletcontent
+content-length: 588
+
+1=All%20our%20devices%20are%20covered%20by%20manufacturer%20warranties%2C%20but%20they%20eventually%20expire.%20You%20can%20add%20another%20layer%20of%20protection%20that%20includes%20lost%20or%20stolen%20coverage%2C%20accidental-damage%20protection%2C%20and%20waived%20early-upgrade%20fees.%20%5B%5ELearn%20More%5E%5D&2=Xfinity%20Mobile%20Protection%20Plan%20rates%20are%20based%20on%20device%20make%20and%20model%2C%20and%20the%20retail%20prices%20determined%20by%20manufacturers.&3=Xfinity%20Mobile%20Protection%20Plan%20is%20currently%20unavailable%20to%20residents%20of%20New%20York.
+----field----
+field: {7FA6DBFF-98E1-4540-A0AD-5741DD8DFE92}
+name: content
+key: content
+content-length: 588
+
+1=All%20our%20devices%20are%20covered%20by%20manufacturer%20warranties%2C%20but%20they%20eventually%20expire.%20You%20can%20add%20another%20layer%20of%20protection%20that%20includes%20lost%20or%20stolen%20coverage%2C%20accidental-damage%20protection%2C%20and%20waived%20early-upgrade%20fees.%20%5B%5ELearn%20More%5E%5D&2=Xfinity%20Mobile%20Protection%20Plan%20rates%20are%20based%20on%20device%20make%20and%20model%2C%20and%20the%20retail%20prices%20determined%20by%20manufacturers.&3=Xfinity%20Mobile%20Protection%20Plan%20is%20currently%20unavailable%20to%20residents%20of%20New%20York.
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20191122T175617Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c8dd9d9f-6d03-487b-81d7-6dfd9decd3db
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200511T170459Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 2
+revision: 0429af21-ede9-4456-a8b6-85a3b63fb028
+
+----field----
+field: {5990983D-098B-498D-9D46-A4451EFA399B}
+name: brand
+key: brand
+content-length: 7
+
+Default
+----field----
+field: {4E4D4B9D-7535-413B-B212-F87EEDE7098C}
+name: tabletContent
+key: tabletcontent
+content-length: 544
+
+1=All%20our%20devices%20are%20covered%20by%20manufacturer%20warranties%2C%20but%20they%20eventually%20expire.%20You%20can%20add%20another%20layer%20of%20protection%20that%20includes%20lost%20or%20stolen%20coverage%2C%20accidental-damage%20protection.%5B%5ELearn%20More%5E%5D&2=Xfinity%20Mobile%20Protection%20Plan%20rates%20are%20based%20on%20device%20make%20and%20model%2C%20and%20the%20retail%20prices%20determined%20by%20manufacturers.&3=Xfinity%20Mobile%20Protection%20Plan%20is%20currently%20unavailable%20to%20residents%20of%20New%20York.
+----field----
+field: {7FA6DBFF-98E1-4540-A0AD-5741DD8DFE92}
+name: content
+key: content
+content-length: 588
+
+1=All%20our%20devices%20are%20covered%20by%20manufacturer%20warranties%2C%20but%20they%20eventually%20expire.%20You%20can%20add%20another%20layer%20of%20protection%20that%20includes%20lost%20or%20stolen%20coverage%2C%20accidental-damage%20protection%2C%20and%20waived%20early-upgrade%20fees.%20%5B%5ELearn%20More%5E%5D&2=Xfinity%20Mobile%20Protection%20Plan%20rates%20are%20based%20on%20device%20make%20and%20model%2C%20and%20the%20retail%20prices%20determined%20by%20manufacturers.&3=Xfinity%20Mobile%20Protection%20Plan%20is%20currently%20unavailable%20to%20residents%20of%20New%20York.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200511T170612Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pvaugh000
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200511T170612Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\pvaugh000
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+0429af21-ede9-4456-a8b6-85a3b63fb028
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200522T131244Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\aagraw022
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

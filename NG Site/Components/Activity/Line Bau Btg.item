@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {46A8964B-5786-420D-92DA-FF1987125C8B}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Activity/Line Bau Btg
+parent: {3D8489D3-5452-448B-AEC4-BBA751C69FBB}
+name: Line Bau Btg
+master: {00000000-0000-0000-0000-000000000000}
+template: {FC254B82-2270-4102-8DE8-705271D20587}
+templatekey: Banner Template
+created: 20180717T200228Z
+
+----version----
+language: en
+version: 1
+revision: 39ad5eb8-c0c3-410b-9cf8-d7df5fe735e8
+
+----field----
+field: {B891A62D-AC18-41D6-82BF-B3547BB7663F}
+name: id
+key: id
+content-length: 12
+
+line.bau.btg
+----field----
+field: {4F46D39F-3A0B-4ABE-A238-091E8CB7AB55}
+name: subheader
+key: subheader
+content-length: 119
+
+We’ll keep an eye on your data usage and let you know if there's an opportunity to save money. For now, all looks good!
+----field----
+field: {13C479C5-CC59-46E4-B6C5-F33317A2ECFC}
+name: image-url
+key: image-url
+content-length: 100
+
+https://res.cloudinary.com/modesto/image/upload/v1494871137/client/my-account/activity/by-the-gb.png
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180717T200228Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+39ad5eb8-c0c3-410b-9cf8-d7df5fe735e8
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180802T203342Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

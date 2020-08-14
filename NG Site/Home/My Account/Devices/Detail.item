@@ -1,0 +1,612 @@
+----item----
+version: 1
+id: {E5CD030E-5C5D-4AE4-9895-31DA02E53148}
+database: master
+path: /sitecore/content/Modesto/NG Site/Home/My Account/Devices/Detail
+parent: {5BB2EA97-762C-45BD-8E56-B6FFBAC90B12}
+name: Detail
+master: {00000000-0000-0000-0000-000000000000}
+template: {535D948D-A767-4DF9-A725-E503121F79E0}
+templatekey: Devices
+created: 20180807T192453Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+200
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----field----
+field: {CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}
+name: __Default workflow
+key: __default workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 9aeccf22-7786-48fd-acfe-e31d2ee0b38e
+
+----field----
+field: {E12A4EBF-A53A-4468-B877-1D746A1D02BE}
+name: landing-deviceTitle
+key: landing-devicetitle
+content-length: 7
+
+Devices
+----field----
+field: {B344B448-714F-4D26-9ED4-490BC68649EE}
+name: landing-protectionIcon
+key: landing-protectionicon
+content-length: 38
+
+{BB9CAC9F-FF07-44E0-BD42-A418D7731B94}
+----field----
+field: {1A0305F6-F5DA-438E-A927-DFD6B230D4CC}
+name: landing-replacementDevice
+key: landing-replacementdevice
+content-length: 18
+
+Replacement Device
+----field----
+field: {3763E88F-2F1E-4DBA-A455-08A10A9526BD}
+name: landing-inactive
+key: landing-inactive
+content-length: 8
+
+Inactive
+----field----
+field: {C380508D-0EFB-4318-80D6-1400F7ECA6B3}
+name: landing-paidInFull
+key: landing-paidinfull
+content-length: 12
+
+Paid in full
+----field----
+field: {AF3E3D4C-7BB7-448B-89A4-FEB7C4B70308}
+name: landing-paymentsRemaining
+key: landing-paymentsremaining
+content-length: 27
+
+[NUMBER] payments remaining
+----field----
+field: {AEFA6852-1BA1-4C5B-87E4-9F000574EB45}
+name: landing-lineStatus-pending
+key: landing-linestatus-pending
+content-length: 7
+
+Pending
+----field----
+field: {F27C8991-C3DF-4CDA-87CB-1EA7A9A849A8}
+name: landing-lineStatus-deactivated
+key: landing-linestatus-deactivated
+content-length: 11
+
+Deactivated
+----field----
+field: {85F0A298-9E3F-4D75-862E-68512AD445CF}
+name: landing-lineStatus-suspended
+key: landing-linestatus-suspended
+content-length: 9
+
+Suspended
+----field----
+field: {052EE70B-0B03-42BD-8924-C086B05CABF9}
+name: landing-lineStatus-active
+key: landing-linestatus-active
+content-length: 6
+
+Active
+----field----
+field: {951BEABC-8448-4910-9F3F-2421826A8645}
+name: landing-addLineIcon
+key: landing-addlineicon
+content-length: 38
+
+{A0BF7211-D38E-4CEB-8235-F8B703131231}
+----field----
+field: {2110EF02-CF4E-4B29-88AD-C64301E4B92C}
+name: landing-addLineLabel
+key: landing-addlinelabel
+content-length: 11
+
+Add a Phone
+----field----
+field: {51321A83-684A-4D76-A6A2-B3D952BB2602}
+name: landing-noDevice-image
+key: landing-nodevice-image
+content-length: 38
+
+{3C71AFB3-74FA-4795-A4EA-D19C962490B1}
+----field----
+field: {DA266FCC-59C8-48B8-AE0F-274793ACCDBB}
+name: landing-noDevice-header
+key: landing-nodevice-header
+content-length: 26
+
+Let's get you some devices
+----field----
+field: {2138265A-0417-4026-A0DC-1C7C0016E6AE}
+name: landing-noDevice-description
+key: landing-nodevice-description
+content-length: 104
+
+It's looking pretty empty around here. Add a device to your account to start saving with Xfinity Mobile.
+----field----
+field: {CA2F17DA-B18B-4481-9611-0A3FDFABFB2A}
+name: landing-noDevice-shopButtonLabel
+key: landing-nodevice-shopbuttonlabel
+content-length: 12
+
+Shop Devices
+----field----
+field: {8340B160-BD31-40C9-8D67-62894526BAC9}
+name: landing-noDevice-byodButtonLabel
+key: landing-nodevice-byodbuttonlabel
+content-length: 21
+
+Bring Your Own Device
+----field----
+field: {7EBFD002-5E91-46D1-9149-3F1D2D2F8DCF}
+name: detail-supportSection-cancelLine
+key: detail-supportsection-cancelline
+content-length: 38
+
+{A8A14F82-1394-4FE4-A679-EB630E7B9197}
+----field----
+field: {52D58DA1-E505-4392-8F1D-89836CC17672}
+name: detail-supportSection-deviceUpgrade
+key: detail-supportsection-deviceupgrade
+content-length: 38
+
+{4547595C-9A0E-4976-86AC-EF3DD804E20A}
+----field----
+field: {261586E6-A195-447A-BDD2-C8C2BC10D6F0}
+name: detail-supportSection-damageLostStolen
+key: detail-supportsection-damageloststolen
+content-length: 38
+
+{22C15AA8-5F49-4A27-BB17-ABE5542CB3E7}
+----field----
+field: {1EDEF3EF-43B0-4D59-955F-9A01D0EB6753}
+name: detail-supportSection-protectionPlan
+key: detail-supportsection-protectionplan
+content-length: 38
+
+{DC9C27B8-D70A-4E8A-A1C0-3252A775DD30}
+----field----
+field: {6CBA07A3-9090-4811-A0EF-6B157A675112}
+name: detail-supportSection-internationalService
+key: detail-supportsection-internationalservice
+content-length: 38
+
+{7F3F8052-4CF6-41A9-8DDE-B6AB222748C5}
+----field----
+field: {8BB242FD-F1EE-4CED-9E75-1E0C9AD6746E}
+name: detail-supportSection-suspendLine
+key: detail-supportsection-suspendline
+content-length: 38
+
+{4B616A5F-68DA-47EC-850F-AD87931DACC3}
+----field----
+field: {3EF39559-CF24-4F16-A50F-F40B0F62D011}
+name: detail-suspendLine
+key: detail-suspendline
+content-length: 0
+
+
+----field----
+field: {46798BFC-089A-49B0-9032-54D34F0B5B82}
+name: detail-cancelLine
+key: detail-cancelline
+content-length: 0
+
+
+----field----
+field: {6E6A5533-CB51-4E41-9C0E-F0396D55EC16}
+name: detail-deviceDetailSummary-header
+key: detail-devicedetailsummary-header
+content-length: 14
+
+DEVICE BALANCE
+----field----
+field: {E09E72A1-83F9-46E9-8317-F2837E6EC79E}
+name: detail-deviceDetailSummary-accountNumber
+key: detail-devicedetailsummary-accountnumber
+content-length: 9
+
+Account #
+----field----
+field: {404389F7-C49C-412B-BFA4-81B9214DC6CA}
+name: detail-deviceDetailSummary-paymentHeader
+key: detail-devicedetailsummary-paymentheader
+content-length: 17
+
+Payment Remaining
+----field----
+field: {E767AED8-0E9E-4C69-AC93-1B271A95A9FA}
+name: detail-deviceDetailSummary-paymentsHeader
+key: detail-devicedetailsummary-paymentsheader
+content-length: 18
+
+Payments Remaining
+----field----
+field: {9971F617-C39C-4BBC-AFBE-206B80C5DCEC}
+name: detail-deviceDetailSummary-manageHeader
+key: detail-devicedetailsummary-manageheader
+content-length: 13
+
+MANAGE DEVICE
+----field----
+field: {1DBA6B50-E524-415E-B59A-8D3A6876A658}
+name: detail-deviceDetailSummary-remainingPaymentDescription
+key: detail-devicedetailsummary-remainingpaymentdescription
+content-length: 66
+
+[MONTHLY_PAYMENT] per month, with final payment of [FINAL_PAYMENT]
+----field----
+field: {E2AC14E2-2FC8-4F6B-A564-B58E734FE092}
+name: detail-deviceDetailSummary-makePaymentLink
+key: detail-devicedetailsummary-makepaymentlink
+content-length: 14
+
+Make a Payment
+----field----
+field: {3766A510-6EF7-4430-A9DF-800644D1C025}
+name: detail-deviceDetailSummary-viewPaymentHistoryLink
+key: detail-devicedetailsummary-viewpaymenthistorylink
+content-length: 20
+
+View Payment History
+----field----
+field: {17F97AA4-4E3E-4E2F-BA89-4BE0633508ED}
+name: detail-deviceDetailSummary-editPortInfoLink
+key: detail-devicedetailsummary-editportinfolink
+content-length: 14
+
+Edit Port Info
+----field----
+field: {BA87EACB-1A7A-41D2-8E32-74BEA01589CE}
+name: detail-deviceDetailSummary-subheader
+key: detail-devicedetailsummary-subheader
+content-length: 23
+
+Your device is paid off
+----field----
+field: {B22B2DDF-AD22-4694-BD66-B3FC36913CD7}
+name: detail-deviceDetailSummary-nickname-edit
+key: detail-devicedetailsummary-nickname-edit
+content-length: 38
+
+{4B515903-6C39-45F2-9190-71E41D729441}
+----field----
+field: {579D3A04-772B-45EF-9E16-628496E0F44E}
+name: detail-deviceDetailSummary-nickname-save
+key: detail-devicedetailsummary-nickname-save
+content-length: 38
+
+{1A508AC8-42AB-4E4F-A632-207F0887AC76}
+----field----
+field: {E3EB1C11-3FD0-449E-B77A-CC955196DB54}
+name: detail-deviceDetailSummary-nickname-cancel
+key: detail-devicedetailsummary-nickname-cancel
+content-length: 38
+
+{4428A547-80E2-42FF-9B48-F391CF214245}
+----field----
+field: {4C4BF75D-8963-4BDA-959D-3523BC5275B3}
+name: detail-deviceDetailSummary-nickname-errors
+key: detail-devicedetailsummary-nickname-errors
+content-length: 155
+
+{B768EE1B-320E-42D8-B717-F362E773CE74}|{A8969B70-F673-4F0F-93A0-AD0E6D101383}|{F3703795-CA73-4B09-9ACC-FD6206F816DF}|{45667006-DE1B-4C3D-B0E2-D6A0F2CA0DEE}
+----field----
+field: {335508A5-21C8-4932-9B0D-AC79120E4AA6}
+name: detail-deviceDetailSummary-replaceDeviceLabel
+key: detail-devicedetailsummary-replacedevicelabel
+content-length: 18
+
+Replacement Device
+----field----
+field: {B7E0A6DB-AC74-4CBF-A1A1-EAA6BAADF341}
+name: detail-deviceDetailSummary-inactiveLabel
+key: detail-devicedetailsummary-inactivelabel
+content-length: 8
+
+Inactive
+----field----
+field: {F0AC45FB-B015-45B3-9BAA-5F2BB397E418}
+name: detail-deviceBridges
+key: detail-devicebridges
+content-length: 233
+
+{01457F3F-A761-4192-B6BE-6610CBA4BD28}|{268622A2-BE03-4884-AF6E-4609EE4600D1}|{DF87F8EE-3C6A-473A-A6C2-05D68E5E4DD0}|{74C77BBE-6270-4B43-B85C-D84BDB76CC5E}|{EC5DA412-D580-42F9-994F-7CE977B74284}|{D5D0B0EA-7035-4BCA-AAF1-C5F6CDED03F5}
+----field----
+field: {1F88ED1A-3AB6-41D5-961D-2FD8A75A6F55}
+name: detail-footer
+key: detail-footer
+content-length: 61
+
+Contact us to change the primary place of usage on this line.
+----field----
+field: {FC1E112D-DE5B-440B-AFFD-F78560AEE332}
+name: damagePhone-damageLostStolen-header
+key: damagephone-damageloststolen-header
+content-length: 24
+
+Damaged, Lost, or Stolen
+----field----
+field: {CDFBCA22-41A7-4BEF-AC64-25F1E6410F8D}
+name: damagePhone-damageLostStolen-heading
+key: damagephone-damageloststolen-heading
+content-length: 38
+
+Problem with your device? We can help.
+----field----
+field: {62C6EEF9-45A7-4B3B-83D1-51F6196ACBDE}
+name: damagePhone-damageLostStolen-paragraph
+key: damagephone-damageloststolen-paragraph
+content-length: 94
+
+Give us a call, send a text, start a chat, or visit an Xfinity Store to learn about solutions.
+----field----
+field: {2EA30050-0F90-430D-B780-1AC6EAA2E733}
+name: damagePhone-damageLostStolen-getHelpButtonLabel
+key: damagephone-damageloststolen-gethelpbuttonlabel
+content-length: 103
+
+[$$Get help|support.category|'category_id': '201072627', 'category_name': 'device', '#': '204710708'$$]
+----field----
+field: {1CCA79D2-23C7-4995-914A-D54D74E6545F}
+name: damagePhone-damageLostStolen-shopNewDeviceLinkLabel
+key: damagephone-damageloststolen-shopnewdevicelinklabel
+content-length: 31
+
+[Shop New Devices|shop.catalog]
+----field----
+field: {DD58F86A-1C27-4E53-A389-5C202242DBD4}
+name: damagePhone-damageLostStolen-repair
+key: damagephone-damageloststolen-repair
+content-length: 38
+
+{12FF8E24-C5DB-47EB-BA95-95DBA87EC931}
+----field----
+field: {F0D4CFFF-BE6A-4128-B57D-5149A7621F5B}
+name: damagePhone-cantFindPhone-header
+key: damagephone-cantfindphone-header
+content-length: 22
+
+Can’t find your phone?
+----field----
+field: {334CA90E-69CE-4C82-A9D4-297187151B54}
+name: damagePhone-cantFindPhone-subhead
+key: damagephone-cantfindphone-subhead
+content-length: 136
+
+If your phone is missing but you’re confident you’ll find it again, you can temporarily suspend the line to avoid unintentional charges.
+----field----
+field: {44304483-3A1F-4275-B626-C2FD6F7E37ED}
+name: damagePhone-cantFindPhone-paragraph
+key: damagephone-cantfindphone-paragraph
+content-length: 193
+
+Or permanently cancel service, if you think this phone was stolen. Give us a call and we’ll put it on the \"black list\" to ensure it cannot be registered with another SIM on any other network.
+----field----
+field: {C97B186A-ECC7-424E-9FA6-07F817FF673A}
+name: damagePhone-cantFindPhone-callText
+key: damagephone-cantfindphone-calltext
+content-length: 6
+
+Call  
+----field----
+field: {3A04B28A-3EC6-4C65-A850-CD21D63D7A4A}
+name: damagePhone-cantFindPhone-phoneNumber
+key: damagephone-cantfindphone-phonenumber
+content-length: 14
+
+(888) 936-4968
+----field----
+field: {F51A1F59-E498-4C0B-BF8D-2B92F2AFF011}
+name: damagePhone-cantFindPhone-lost
+key: damagephone-cantfindphone-lost
+content-length: 38
+
+{19BF9AE5-F44E-4D59-98F6-570917955C35}
+----field----
+field: {DF14065E-8BFB-4A2F-9A7D-FD91973BD828}
+name: damagePhone-cantFindPhone-stolen
+key: damagephone-cantfindphone-stolen
+content-length: 38
+
+{99F90741-AE6A-432E-BB95-92579F60EC12}
+----field----
+field: {6A3A9EE5-4DBC-41DA-B115-9ABE514E75C1}
+name: protection-plan-header
+key: protection-plan-header
+content-length: 30
+
+Xfinity Mobile Protection Plan
+----field----
+field: {8F6458E9-94C1-4836-9A3A-C01D39200736}
+name: protection-plan-protectDeviceIcon
+key: protection-plan-protectdeviceicon
+content-length: 38
+
+{8A14C096-BCCC-4953-955B-929936D31E5C}
+----field----
+field: {9FA2DD39-7F7C-4ED4-BD8C-DF2A43506FCF}
+name: protection-plan-heading
+key: protection-plan-heading
+content-length: 31
+
+[USER]'s [DEVICE] is protected.
+----field----
+field: {74262479-2A7D-4711-A3B7-5CEF06BC1F7A}
+name: protection-plan-subheading
+key: protection-plan-subheading
+content-length: 156
+
+If your phone has a hardware failure or is accidentally damaged, lost, or stolen, submit a claim with Assurant — Xfinity Mobile’s device protection partner.
+----field----
+field: {D958A5AC-AD36-43CE-AE30-7035DA6ACC52}
+name: protection-plan-submitClaimButton
+key: protection-plan-submitclaimbutton
+content-length: 56
+
+[$$Submit a Claim|https://fastclaim.com/xfinitymobile$$]
+----field----
+field: {7F5EE965-B8AB-4E0C-83D5-AF48C230432F}
+name: protection-plan-trackClaimLink
+key: protection-plan-trackclaimlink
+content-length: 51
+
+[Track a Claim|https://fastclaim.com/xfinitymobile]
+----field----
+field: {0718FCC8-854E-4BA5-BED7-84E005848D78}
+name: protection-plan-endText
+key: protection-plan-endtext
+content-length: 139
+
+Need help submitting a claim or checking your claim status? You can call Assurant directly to get started [^(855) 884-9771|tel:8558849771^]
+----field----
+field: {CE9E9E58-D36C-45A3-A4C9-6425A1A98FB1}
+name: protection-covered-header
+key: protection-covered-header
+content-length: 15
+
+What's covered?
+----field----
+field: {C873C193-47FD-4D7A-9D83-6F4CB842CFB6}
+name: protection-covered-subheading
+key: protection-covered-subheading
+content-length: 88
+
+You can submit up to two claims within a rolling 12-month period. Common claims include:
+----field----
+field: {AF970293-5253-47ED-BB20-5CA7054D8145}
+name: protection-covered-list
+key: protection-covered-list
+content-length: 112
+
+cl0=Lost%20or%20stolen%20device%20replacement&cl1=Screen%20repair&cl2=Accidental%20damage&cl3=Hardware%20service
+----field----
+field: {A8C8BF80-7102-439B-93D7-2388542D9A43}
+name: protection-covered-detailLink
+key: protection-covered-detaillink
+content-length: 160
+
+[^Get more details about your coverage and claims|https://www.xfinity.com/mobile/support/article/115002962727/how-does-the-xfinity-mobile-protection-plan-work^]
+----field----
+field: {486EF48F-5E38-42B1-AD65-E5243745F778}
+name: protection-covered-appleCare-appleCareIcon
+key: protection-covered-applecare-applecareicon
+content-length: 38
+
+{A0898E7F-4B2A-4050-AFED-54C0E165396F}
+----field----
+field: {EFBEA414-EB6A-4CE5-891A-0FB9B455FC57}
+name: protection-covered-appleCare-subheading
+key: protection-covered-applecare-subheading
+content-length: 83
+
+With the Xfinity Mobile Protection Plan, you also get access to AppleCare Services.
+----field----
+field: {D6DB589C-3CCC-46DC-80EA-EAB12B7675E8}
+name: protection-support-header
+key: protection-support-header
+content-length: 30
+
+Personal TechPro from Assurant
+----field----
+field: {0DFCBD2B-DF3D-45B3-8912-C5EE71A091E9}
+name: protection-support-subheading
+key: protection-support-subheading
+content-length: 192
+
+As part of your protection plan, you get access to a team of specialists available from 9am - midnight EST, 7 days a week (excluding some federal holidays). Give Assurant a call for help with:
+----field----
+field: {36A45837-19EE-47FA-B017-920FAC855203}
+name: protection-support-list
+key: protection-support-list
+content-length: 122
+
+l0=Third-party%20apps&l1=Connecting%20to%20and%20managing%20other%20devices&l2=Hardware%20and%20software%20troubleshooting
+----field----
+field: {680A0284-EE2F-4B0E-818C-2F9C05FFF493}
+name: protection-support-supportTel
+key: protection-support-supporttel
+content-length: 33
+
+[^(855) 884-9771|tel:8558849771^]
+----field----
+field: {2A0F27AD-EF19-4467-B77F-F5A9CF8E6281}
+name: protection-cancel-header
+key: protection-cancel-header
+content-length: 42
+
+Cancel your Xfinity Mobile Protection Plan
+----field----
+field: {0A869CA8-2B58-424F-ACB1-68318417E31E}
+name: protection-cancel-subheading
+key: protection-cancel-subheading
+content-length: 156
+
+If you need to cancel your protection plan for this device, contact an Xfinity Mobile Specialist. Once you cancel, you cannot re-enroll this device in XMPP.
+----field----
+field: {94E23780-9B87-4C47-91A3-5BEBB30F1220}
+name: protection-cancel-supportTel
+key: protection-cancel-supporttel
+content-length: 33
+
+[^(888) 936-4968|tel:8889364968^]
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180807T192453Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9aeccf22-7786-48fd-acfe-e31d2ee0b38e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200611T145017Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

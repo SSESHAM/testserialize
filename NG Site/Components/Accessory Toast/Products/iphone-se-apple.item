@@ -1,0 +1,380 @@
+----item----
+version: 1
+id: {3EAF9F8C-38F6-4FC9-8F5B-C332F5A85801}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Accessory Toast/Products/iphone-se-apple
+parent: {D9A21D2F-BA37-4A2B-B75A-5A00499530B1}
+name: iphone-se-apple
+master: {00000000-0000-0000-0000-000000000000}
+template: {177684AF-12BC-41E1-9C57-CBD85BADE8E5}
+templatekey: Product
+created: 20200416T203855Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: d3220611-d299-4a8e-a91e-6f1b4b95a913
+
+----field----
+field: {18434F5F-F21B-419E-8D9D-72BF5388DCE5}
+name: accessoriesSlug
+key: accessoriesslug
+content-length: 199
+
+s1=apple-iphone-8-7-symmetry-otterbox&s2=charge-stream-pad-plus-mophie&s3=lightning-to-3-5mm-headphone-jack-adapter-apple&s4=apple-iphone-8-7-invisibleshield-glass-plus-zagg&s5=power-boost-xxl-mophie
+----field----
+field: {3A9CF6EE-61BB-4BB1-B72A-EE15297B5157}
+name: productSlug
+key: productslug
+content-length: 14
+
+iphone-8-apple
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190311T150745Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d3220611-d299-4a8e-a91e-6f1b4b95a913
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200416T203856Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\nkuryl457
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{1D30491A-DCE2-4DF8-93D4-5E6A16D79601}
+----version----
+language: en
+version: 2
+revision: 74bedf6d-c92c-4c7f-96c0-38f0e4978865
+
+----field----
+field: {18434F5F-F21B-419E-8D9D-72BF5388DCE5}
+name: accessoriesSlug
+key: accessoriesslug
+content-length: 209
+
+s1=airpods-with-charging-case-apple&s2=apple-iphone-8-7-symmetry-otterbox&s3=charge-stream-pad-plus-mophie&s4=lightning-to-3-5mm-headphone-jack-adapter-apple&s5=apple-iphone-8-7-invisibleshield-glass-plus-zagg
+----field----
+field: {3A9CF6EE-61BB-4BB1-B72A-EE15297B5157}
+name: productSlug
+key: productslug
+content-length: 14
+
+iphone-8-apple
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190917T205451Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190917T205451Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\mpayto200
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+74bedf6d-c92c-4c7f-96c0-38f0e4978865
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200416T203856Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\nkuryl457
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{1D30491A-DCE2-4DF8-93D4-5E6A16D79601}
+----version----
+language: en
+version: 3
+revision: 9f29e88f-8946-417f-884b-4e3812bee25c
+
+----field----
+field: {18434F5F-F21B-419E-8D9D-72BF5388DCE5}
+name: accessoriesSlug
+key: accessoriesslug
+content-length: 208
+
+s1=airpods-with-charging-case-apple&s2=apple-iphone-8-7-symmetry-otterbox&s3=wireless-charging-pad-mophie&s4=lightning-to-3-5mm-headphone-jack-adapter-apple&s5=apple-iphone-8-7-invisibleshield-glass-plus-zagg
+----field----
+field: {3A9CF6EE-61BB-4BB1-B72A-EE15297B5157}
+name: productSlug
+key: productslug
+content-length: 14
+
+iphone-8-apple
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200313T181024Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\nkuryl457
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200313T181024Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\nkuryl457
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9f29e88f-8946-417f-884b-4e3812bee25c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200416T203857Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\nkuryl457
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{1D30491A-DCE2-4DF8-93D4-5E6A16D79601}
+----version----
+language: en
+version: 4
+revision: d4991397-ecb6-4ff9-ab47-5c91c8cf56f2
+
+----field----
+field: {18434F5F-F21B-419E-8D9D-72BF5388DCE5}
+name: accessoriesSlug
+key: accessoriesslug
+content-length: 230
+
+s1=apple-iphone-se-8-7-protection-pack-case-mate&s2=apple-iphone-se-8-7-invisibleshield-glass-elitessplus-zagg&s3=apple-iphone-se-8-7-symmetry-otterbox&s4=apple-iphone-se-8-7-wildflowers-rifle-paper-co&s5=wireless-chargepad-ventev
+----field----
+field: {3A9CF6EE-61BB-4BB1-B72A-EE15297B5157}
+name: productSlug
+key: productslug
+content-length: 15
+
+iphone-se-apple
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200416T203418Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\nkuryl457
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200416T203418Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\nkuryl457
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d4991397-ecb6-4ff9-ab47-5c91c8cf56f2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200422T153707Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\nkuryl457
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 5
+revision: a89d885d-b7e8-43b1-acd2-74b3b2ec89dc
+
+----field----
+field: {18434F5F-F21B-419E-8D9D-72BF5388DCE5}
+name: accessoriesSlug
+key: accessoriesslug
+content-length: 218
+
+s1=25pc-pack-disinfecting-wipes-zagg&s2=apple-iphone-se-8-7-invisibleshield-glass-elitessplus-zagg&s3=apple-iphone-se-8-7-symmetry-otterbox&s4=apple-iphone-se-8-7-wildflowers-rifle-paper-co&s5=wireless-chargepad-ventev
+----field----
+field: {3A9CF6EE-61BB-4BB1-B72A-EE15297B5157}
+name: productSlug
+key: productslug
+content-length: 15
+
+iphone-se-apple
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200501T141633Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\nkuryl457
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200501T141633Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\nkuryl457
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a89d885d-b7e8-43b1-acd2-74b3b2ec89dc
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200506T210820Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\nkuryl457
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

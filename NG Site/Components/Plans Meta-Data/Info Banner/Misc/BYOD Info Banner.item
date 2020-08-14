@@ -1,0 +1,178 @@
+----item----
+version: 1
+id: {5DA868CB-3769-43E9-95E8-BD4E38C7582B}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Plans Meta-Data/Info Banner/Misc/BYOD Info Banner
+parent: {82D22E2E-1BE6-4170-9C28-B3C381B0E73A}
+name: BYOD Info Banner
+master: {00000000-0000-0000-0000-000000000000}
+template: {6C473D83-0839-43F6-B992-3E6BBB090B53}
+templatekey: Info Banner
+created: 20200410T181807Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----field----
+field: {CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}
+name: __Default workflow
+key: __default workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: be7187f1-b69e-47a9-82b9-c541d7afb645
+
+----field----
+field: {099E2065-B866-420E-8FA4-E75A159D27F4}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 11
+
+byod-banner
+----field----
+field: {DE508865-4EFD-4329-BFA5-B43A107FDB69}
+name: actions-links
+key: actions-links
+content-length: 216
+
+link=text%28tab%7CMore%20Details%7Chttps%3A%2F%2Fwww.xfinity.com%2Fmobile%2Fplan%2Fdetails%23byod%7CMore%20Details%20about%20BYOD%29&link1=sec%28Bring%20Your%20Phone%7Chttps%3A%2F%2Fwww.xfinity.com%2Fmobile%2Fbyod%29
+----field----
+field: {26EBE24E-D061-416E-8788-38DC5BBD7B00}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{D3055828-90A1-4554-86A2-65C9938721FF}
+----field----
+field: {CC4BBCC3-B0A9-4A92-8D99-CBC4B53C7E57}
+name: background-color
+key: background-color
+content-length: 7
+
+#fbfcfc
+----field----
+field: {BF35E7A0-393F-4A90-8192-21DF416E3CC8}
+name: background-images
+key: background-images
+content-length: 155
+
+{B9DF416F-48D0-40E3-AE8C-AE040B32011A}|{1F55D45F-A484-4996-9E1E-B03189776A59}|{D1E14651-D09D-4CEC-B494-6E74A7629678}|{5A66BF7E-2E98-4571-9463-ED5BB8DF1C66}
+----field----
+field: {03ADFFBB-EC24-4B64-B760-7BFA2A3783C3}
+name: imageCenter
+key: imagecenter
+content-length: 4
+
+auto
+----field----
+field: {A6280D6B-C297-4D60-963D-1F4BFDD96CBF}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {E9A1E5AD-8B43-4455-8972-8395217D0D77}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {4729B742-F5A6-4AF4-B14C-2D023A6185D1}
+name: name
+key: name
+content-length: 10
+
+BYOD Promo
+----field----
+field: {65115B2D-BB02-4FB5-B2DE-09C1F0BFBAF1}
+name: text-description
+key: text-description
+content-length: 95
+
+Switch and save with the best network. Exclusive offer for Xfinity Internet customers ends 7/1.
+----field----
+field: {5EA501A2-6FE7-4938-ACD4-41BA508B1EED}
+name: text-subhead
+key: text-subhead
+content-length: 33
+
+Get $50 when you bring your phone
+----field----
+field: {C0038022-B807-47FC-A680-76D799EFD8F7}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200410T181808Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200410T181808Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+be7187f1-b69e-47a9-82b9-c541d7afb645
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200514T191927Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

@@ -1,0 +1,190 @@
+----item----
+version: 1
+id: {072BB8B3-4968-4D21-8513-D8C1417B0360}
+database: master
+path: /sitecore/content/Modesto/NG Site/Media Collection/Banners/Popovers/a-samsung 250
+parent: {81A779CA-CEC4-4C98-99ED-5DBFFB39E6D5}
+name: a-samsung 250
+master: {00000000-0000-0000-0000-000000000000}
+template: {02932917-4A30-4EE2-86E1-980678952C69}
+templatekey: Popovers
+created: 20180707T220905Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 01460941-f7bb-4eb6-a30a-a68190296c5a
+
+----field----
+field: {919F5A5A-B8D5-4B89-8253-94F89889C273}
+name: buttonText
+key: buttontext
+content-length: 24
+
+Pricing &amp; Other Info
+----field----
+field: {16E5CEE6-6C33-49CE-A425-8C75993B8C6A}
+name: buttonAriaLabel
+key: buttonarialabel
+content-length: 42
+
+Xfinity Mobile Plans: Pricing & Other Info
+----field----
+field: {441C0392-BB7B-4E43-9A0C-8C9B2B6B1679}
+name: header
+key: header
+content-length: 20
+
+Pricing & Other Info
+----field----
+field: {70C678C2-B952-40A5-817D-B221CA6E8C57}
+name: close
+key: close
+content-length: 1
+
+1
+----field----
+field: {E7080EAA-2CA2-4CCD-B917-EB0DE8EDC13D}
+name: content
+key: content
+content-length: 0
+
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180707T220905Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+01460941-f7bb-4eb6-a30a-a68190296c5a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T184054Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 2
+revision: 9e240425-0c93-47e9-b368-12cb867f0b2f
+
+----field----
+field: {919F5A5A-B8D5-4B89-8253-94F89889C273}
+name: buttonText
+key: buttontext
+content-length: 24
+
+Pricing &amp; Other Info
+----field----
+field: {16E5CEE6-6C33-49CE-A425-8C75993B8C6A}
+name: buttonAriaLabel
+key: buttonarialabel
+content-length: 41
+
+Samsung Promotional: Pricing & Other Info
+----field----
+field: {441C0392-BB7B-4E43-9A0C-8C9B2B6B1679}
+name: header
+key: header
+content-length: 20
+
+Pricing & Other Info
+----field----
+field: {70C678C2-B952-40A5-817D-B221CA6E8C57}
+name: close
+key: close
+content-length: 1
+
+1
+----field----
+field: {E7080EAA-2CA2-4CCD-B917-EB0DE8EDC13D}
+name: content
+key: content
+content-length: 38
+
+{55F7527F-2F99-4CB8-A9F8-E1E2EA4AF1DB}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20181214T162040Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20181214T162040Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\psivil200
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9e240425-0c93-47e9-b368-12cb867f0b2f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190520T164027Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\apatta228
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

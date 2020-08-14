@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {4A5D4EB4-53E3-4A06-8582-B07B3212D7BB}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Data Detail/Features/Unlimited Active We Are Flexible
+parent: {306867CB-7D7A-4DD7-AC2E-A4D66C5FCDB4}
+name: Unlimited Active We Are Flexible
+master: {00000000-0000-0000-0000-000000000000}
+template: {4D641C5A-1F39-4009-93BF-4C6477F18492}
+templatekey: Data Detail Plan Item
+created: 20180822T122030Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 2c61d0ed-29c3-477a-92b6-dc60636b10f2
+
+----field----
+field: {117275F3-6131-4C32-8A38-F7E737E92516}
+name: header
+key: header
+content-length: 14
+
+We're flexible
+----field----
+field: {C234E3BD-EB13-4B7E-B2AC-63D736F9B744}
+name: subheader
+key: subheader
+content-length: 111
+
+You're using [PLAN_NAME] now, but you can switch to [INACTIVE_PLAN_NAME] any time before the end of your cycle.
+----field----
+field: {5ECADBCE-E873-4218-A3AE-D56808F6570C}
+name: cmsIcon
+key: cmsicon
+content-length: 38
+
+{A57AF097-7C94-42AE-B98B-107E5129E1D9}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180822T122030Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2c61d0ed-29c3-477a-92b6-dc60636b10f2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180822T122621Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

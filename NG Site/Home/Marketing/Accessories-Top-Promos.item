@@ -1,0 +1,291 @@
+----item----
+version: 1
+id: {B27F4717-C06F-4498-AFF1-A300589C0C35}
+database: master
+path: /sitecore/content/Modesto/NG Site/Home/Marketing/Accessories-Top-Promos
+parent: {AB80E925-DEB2-4DF0-B614-E12E7E772AED}
+name: Accessories-Top-Promos
+master: {00000000-0000-0000-0000-000000000000}
+template: {86E36FA8-0028-4DAA-9890-6AEC1EA44C41}
+templatekey: Accessories-Top-Promos
+created: 20200110T185351Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 16ab8045-d01f-4b9d-a0a7-43fa78cdce30
+
+----field----
+field: {B1EE521A-52BD-4A1A-A4EB-B78F1237BDCA}
+name: default
+key: default
+content-length: 116
+
+{A3AB3B63-C42E-4572-907C-67F34769B1F0}|{E109CA7B-2FD2-4D8A-9827-D270BED414CE}|{80111309-361A-41E5-9748-655AF6E4A9ED}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200110T185351Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+16ab8045-d01f-4b9d-a0a7-43fa78cdce30
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200110T193544Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\skulka560
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----version----
+language: en
+version: 2
+revision: d6db37bb-f3c2-4a84-85f8-e4ac5eb45def
+
+----field----
+field: {B1EE521A-52BD-4A1A-A4EB-B78F1237BDCA}
+name: default
+key: default
+content-length: 77
+
+{A3AB3B63-C42E-4572-907C-67F34769B1F0}|{80111309-361A-41E5-9748-655AF6E4A9ED}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200207T204606Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200207T204606Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d6db37bb-f3c2-4a84-85f8-e4ac5eb45def
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200210T201530Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 3
+revision: 0d332bde-c3df-41b3-9577-ef0f225b687e
+
+----field----
+field: {B1EE521A-52BD-4A1A-A4EB-B78F1237BDCA}
+name: default
+key: default
+content-length: 116
+
+{388CA1BD-C1EA-40DE-BEA0-3E247742CDF5}|{BAD40677-5128-4DDF-8FB9-79015CCCA6A6}|{80111309-361A-41E5-9748-655AF6E4A9ED}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200406T162746Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200406T162746Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+0d332bde-c3df-41b3-9577-ef0f225b687e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200413T180504Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 4
+revision: b946185f-1e48-42df-83b8-924d423030c2
+
+----field----
+field: {B1EE521A-52BD-4A1A-A4EB-B78F1237BDCA}
+name: default
+key: default
+content-length: 116
+
+{388CA1BD-C1EA-40DE-BEA0-3E247742CDF5}|{BAD40677-5128-4DDF-8FB9-79015CCCA6A6}|{80111309-361A-41E5-9748-655AF6E4A9ED}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200416T153412Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200416T153412Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b946185f-1e48-42df-83b8-924d423030c2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200527T180323Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

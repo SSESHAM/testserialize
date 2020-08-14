@@ -1,0 +1,354 @@
+----item----
+version: 1
+id: {3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}
+database: master
+path: /sitecore/content/Modesto/NG Site/Media Collection/Banners/Confirmation/Back up your phone
+parent: {EF19FCDC-4E22-4673-84DA-FAB94B861599}
+name: Back up your phone
+master: {00000000-0000-0000-0000-000000000000}
+template: {AEDF8B24-B6E7-41B0-996A-71988977D1BA}
+templatekey: Banner Image Options
+created: 20180807T201039Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: f5583d6c-8d41-4913-ad36-0271cdf54594
+
+----field----
+field: {D8585C55-3FED-46B9-84A9-0D274CA43422}
+name: imageOptions
+key: imageoptions
+content-length: 10
+
+1497971019
+----field----
+field: {C243737C-C833-4FD8-82D0-D3B22CEE8E91}
+name: header
+key: header
+content-length: 27
+
+Back up your current device
+----field----
+field: {4C47130D-D44B-4B78-8291-D92A1FC9A052}
+name: subheader
+key: subheader
+content-length: 103
+
+Your new device will ship soon. Get ready for the switch by backing up your contacts, photos, and apps.
+----field----
+field: {75D27540-B5D0-403C-A604-10AD89380A51}
+name: label
+key: label
+content-length: 109
+
+[$$Learn more|https://www.xfinity.com/mobile/support/article/115003414807/how-do-i-backup-my-current-phone$$]
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180807T201039Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f5583d6c-8d41-4913-ad36-0271cdf54594
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190625T174533Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----version----
+language: en
+version: 2
+revision: 7de818b4-266c-4238-92a5-02f76d79d0fc
+
+----field----
+field: {D8585C55-3FED-46B9-84A9-0D274CA43422}
+name: imageOptions
+key: imageoptions
+content-length: 10
+
+1497971019
+----field----
+field: {C243737C-C833-4FD8-82D0-D3B22CEE8E91}
+name: header
+key: header
+content-length: 27
+
+Back up your current device
+----field----
+field: {4C47130D-D44B-4B78-8291-D92A1FC9A052}
+name: subheader
+key: subheader
+content-length: 103
+
+Your new device will ship soon. Get ready for the switch by backing up your contacts, photos, and apps.
+----field----
+field: {75D27540-B5D0-403C-A604-10AD89380A51}
+name: label
+key: label
+content-length: 109
+
+[$$Learn more|https://www.xfinity.com/mobile/support/article/115003414807/how-do-i-backup-my-current-phone$$]
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190625T174620Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190625T174620Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7de818b4-266c-4238-92a5-02f76d79d0fc
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190625T174622Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 3
+revision: 99d28374-2304-4631-a452-0efed5a27fd5
+
+----field----
+field: {D8585C55-3FED-46B9-84A9-0D274CA43422}
+name: imageOptions
+key: imageoptions
+content-length: 38
+
+{79C45960-879D-410E-A425-A8F98887D930}
+----field----
+field: {C243737C-C833-4FD8-82D0-D3B22CEE8E91}
+name: header
+key: header
+content-length: 27
+
+Back up your current device
+----field----
+field: {4C47130D-D44B-4B78-8291-D92A1FC9A052}
+name: subheader
+key: subheader
+content-length: 103
+
+Your new device will ship soon. Get ready for the switch by backing up your contacts, photos, and apps.
+----field----
+field: {75D27540-B5D0-403C-A604-10AD89380A51}
+name: label
+key: label
+content-length: 109
+
+[$$Learn more|https://www.xfinity.com/mobile/support/article/115003414807/how-do-i-backup-my-current-phone$$]
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190625T174649Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190625T174649Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+99d28374-2304-4631-a452-0efed5a27fd5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190625T174944Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 4
+revision: 02f5c3b6-0666-4537-bb21-193c56a1d524
+
+----field----
+field: {D8585C55-3FED-46B9-84A9-0D274CA43422}
+name: imageOptions
+key: imageoptions
+content-length: 38
+
+{79C45960-879D-410E-A425-A8F98887D930}
+----field----
+field: {C243737C-C833-4FD8-82D0-D3B22CEE8E91}
+name: header
+key: header
+content-length: 19
+
+Back up your phones
+----field----
+field: {4C47130D-D44B-4B78-8291-D92A1FC9A052}
+name: subheader
+key: subheader
+content-length: 74
+
+It's always a good idea to back up your phones before you change carriers.
+----field----
+field: {75D27540-B5D0-403C-A604-10AD89380A51}
+name: label
+key: label
+content-length: 95
+
+[$$Learn more|https://www.xfinity.com/mobile/support/article/back-up-current-phone-or-tablet$$]
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190625T175115Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190625T175115Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+02f5c3b6-0666-4537-bb21-193c56a1d524
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190625T175148Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

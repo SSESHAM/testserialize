@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {96D05827-E877-4075-B8AD-7732C3641690}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Customizer/Tooltip/Line Type Tooltip
+parent: {7A58E5DD-5A37-46F8-AEB8-70F31F51D2D9}
+name: Line Type Tooltip
+master: {00000000-0000-0000-0000-000000000000}
+template: {9255AFF8-E2F0-46E8-ADE3-4F5A1DDF9124}
+templatekey: Descriptive Modal Data
+created: 20190710T201425Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 47f3c8cd-65bf-4cc3-823d-bb44b5812d56
+
+----field----
+field: {CE84A532-6024-4837-B199-53046D477D02}
+name: close
+key: close
+content-length: 1
+
+1
+----field----
+field: {8EFAA054-C5D1-45F0-BF5C-2F92F9AB8A2B}
+name: content
+key: content
+content-length: 38
+
+{C17498E0-D0B6-46DE-A2AF-AF0D4F8B0AD6}
+----field----
+field: {9359BACF-8C04-4FA3-BC8F-FC467C1308C8}
+name: buttonAriaLabel
+key: buttonarialabel
+content-length: 7
+
+tooltip
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190710T201425Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+47f3c8cd-65bf-4cc3-823d-bb44b5812d56
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190711T150527Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

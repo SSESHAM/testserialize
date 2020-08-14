@@ -1,0 +1,190 @@
+----item----
+version: 1
+id: {C9165AE6-E407-42C0-B6B8-EBE29E9538C2}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Plan Details/Data Groups/Tablets
+parent: {97D87E81-E853-40A5-AF19-9AEFEEE75DF9}
+name: Tablets
+master: {00000000-0000-0000-0000-000000000000}
+template: {89A5C584-8AAC-45E1-A531-7E16626F0214}
+templatekey: Data Group
+created: 20190730T150919Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: dedaaa04-fdca-4d64-a76f-be5d1d4247a1
+
+----field----
+field: {09D6521A-C64C-4DD4-A7C1-7909F17D88FD}
+name: name
+key: name
+content-length: 7
+
+Tablets
+----field----
+field: {219A7734-4E82-4B8D-89A3-75BD31EE4034}
+name: bullets
+key: bullets
+content-length: 216
+
+b0=Tablets%20are%20eligible%20for%20By%20the%20Gig%20data%20and%20Unlimited%20data.&b1=Cellular%20tablets%20count%20as%20a%20line%20of%20service%20on%20your%20account.&b2=Pay%20%2410%2Fmo%20for%20each%20tablet%20line
+----field----
+field: {08C97289-FAF7-472B-B1F5-59087E3A2E4C}
+name: link
+key: link
+content-length: 20
+
+Pricing & Other Info
+----field----
+field: {5CC045D9-32BE-48EA-B92D-B128FAD49CE8}
+name: price
+key: price
+content-length: 38
+
+$10/line per month (data not included)
+----field----
+field: {E9FD3CFF-E6ED-4C7C-9B0C-130CD0D8B6A7}
+name: planName
+key: planname
+content-length: 7
+
+Tablets
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190730T150919Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+dedaaa04-fdca-4d64-a76f-be5d1d4247a1
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190730T152847Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----version----
+language: en
+version: 2
+revision: 21cd58e7-b2bb-41ba-92c9-d60b71ad1b63
+
+----field----
+field: {09D6521A-C64C-4DD4-A7C1-7909F17D88FD}
+name: name
+key: name
+content-length: 7
+
+Tablets
+----field----
+field: {219A7734-4E82-4B8D-89A3-75BD31EE4034}
+name: bullets
+key: bullets
+content-length: 217
+
+b0=Tablets%20are%20eligible%20for%20By%20the%20Gig%20data%20and%20Unlimited%20data.&b1=Cellular%20tablets%20count%20as%20a%20line%20of%20service%20on%20your%20account.&b2=Pay%20%2410%2Fmo%20for%20each%20tablet%20line.
+----field----
+field: {08C97289-FAF7-472B-B1F5-59087E3A2E4C}
+name: link
+key: link
+content-length: 20
+
+Pricing & Other Info
+----field----
+field: {5CC045D9-32BE-48EA-B92D-B128FAD49CE8}
+name: price
+key: price
+content-length: 38
+
+$10/line per month (data not included)
+----field----
+field: {E9FD3CFF-E6ED-4C7C-9B0C-130CD0D8B6A7}
+name: planName
+key: planname
+content-length: 7
+
+Tablets
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190905T124039Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190905T124039Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\mpayto200
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+21cd58e7-b2bb-41ba-92c9-d60b71ad1b63
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190905T180537Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\mpayto200
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

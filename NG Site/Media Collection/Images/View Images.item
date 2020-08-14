@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {9F6D1710-17C6-4BE3-B5FF-56CEF348925C}
+database: master
+path: /sitecore/content/Modesto/NG Site/Media Collection/Images/View Images
+parent: {2BB5F491-8756-4D87-A253-5CE7FDCABE87}
+name: View Images
+master: {00000000-0000-0000-0000-000000000000}
+template: {49750C97-3306-4EB4-8A36-FBC27D16C3EA}
+templatekey: Media Image Folder
+created: 20191218T204128Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: e61b4e1d-4edd-409a-8f4d-936db0a420af
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20191218T204128Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e61b4e1d-4edd-409a-8f4d-936db0a420af
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200220T201638Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\skulka560
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

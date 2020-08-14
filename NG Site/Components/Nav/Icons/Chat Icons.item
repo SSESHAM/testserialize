@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {511EA940-476B-4095-9341-68A303517569}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Nav/Icons/Chat Icons
+parent: {76F7C241-2D62-492F-9A38-DDED9DA68A22}
+name: Chat Icons
+master: {00000000-0000-0000-0000-000000000000}
+template: {F18780D8-4883-4D1D-9A1A-FE7C68ADF4DD}
+templatekey: Nav Icons
+created: 20180628T181418Z
+
+----version----
+language: en
+version: 1
+revision: 40dd2807-6b61-48c9-8499-2141856b024a
+
+----field----
+field: {C0B8572E-F08C-4AA6-9D02-1555CE29FB54}
+name: text
+key: text
+content-length: 4
+
+Chat
+----field----
+field: {FAD5C8E4-DD86-468A-92C4-14E443CB1EE0}
+name: image
+key: image
+content-length: 38
+
+{FBC1C80F-088A-4737-AB58-02CA7F75A24F}
+----field----
+field: {129EC776-E285-4D29-98C5-B2A5C1CA2B28}
+name: imageHover
+key: imagehover
+content-length: 38
+
+{0642AA9B-804C-4C24-A97B-31731E48712A}
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180628T181418Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+40dd2807-6b61-48c9-8499-2141856b024a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190812T185459Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\snavee884
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

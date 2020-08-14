@@ -1,0 +1,150 @@
+----item----
+version: 1
+id: {AD46F1F1-5D65-415F-BD4E-FB613ECBCADB}
+database: master
+path: /sitecore/content/Modesto/NG Site/Media Collection/Banners/Banners/cSpot tablet Promo
+parent: {0A79E086-05E0-4CF7-9349-F7CE60FE194D}
+name: cSpot tablet Promo
+master: {00000000-0000-0000-0000-000000000000}
+template: {ACF7553B-EA2B-46D2-AD40-07BCAEFDBDF3}
+templatekey: Banner
+created: 20190712T172236Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: bc4e4833-8ea1-40c8-9dc7-29b0530d54a1
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#ffffff
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 116
+
+{1CA51B83-CA39-4C72-ADAB-B3D8DF2E010E}|{A0D47456-EDBA-4EDF-9F11-5A66A12E5C96}|{FBC4B0CC-836B-4360-AC96-D0463857A15C}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 4
+
+left
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 4
+
+auto
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 4
+
+auto
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 18
+
+cSpot tablet Promo
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 141
+
+Xfinity Mobile offers our By the Gig and Unlimited data options for tablets. $10 monthly tablet fee applies. Available in retail stores only.
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 34
+
+Same data options. Bigger screens.
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 12
+
+right-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 115
+
+link=%5B%24%24Learn%20More%23Learn%20more%20about%20tablets%7Cshop.catalog%7C%27category%27%3A%27tablet%27%24%24%5D
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{752DE8A6-C99B-4749-9FA4-CC5D00266DF1}
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190712T172236Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+bc4e4833-8ea1-40c8-9dc7-29b0530d54a1
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190712T185910Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

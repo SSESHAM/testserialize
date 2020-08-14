@@ -1,0 +1,1641 @@
+----item----
+version: 1
+id: {EA865232-4E80-46F2-8BD8-EDE7E4BD627E}
+database: master
+path: /sitecore/content/Modesto/NG Site/Home/Core/Icons
+parent: {84DF3B2A-40D6-40C7-BCAE-B4EBA8912A26}
+name: Icons
+master: {00000000-0000-0000-0000-000000000000}
+template: {1DF4394B-C8AD-419B-97A8-9DD0799E4969}
+templatekey: Icons
+created: 20180713T180035Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+500
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: ef0cb4e4-e4af-49a5-a365-5d3a99fc4c08
+
+----field----
+field: {95389A94-EFFB-416E-9731-6CE71169A206}
+name: checkmarkIcon16
+key: checkmarkicon16
+content-length: 38
+
+{165D0485-7EE4-4C57-B105-E8AC21DAF7F1}
+----field----
+field: {EDF34D4E-9DD2-4CCA-B37E-5B6722D1D4F8}
+name: checkmarkIcon24
+key: checkmarkicon24
+content-length: 38
+
+{021EFEC0-B877-48EF-9219-0ACEE41DD182}
+----field----
+field: {5AFF7306-E7D2-4DE6-9A0A-2FD7A929CC35}
+name: clockIcon16
+key: clockicon16
+content-length: 38
+
+{61E9EAB1-85EA-43F7-B904-CB2C7ACB4A3F}
+----field----
+field: {5FFA0118-EB60-4F90-9F4C-0E6C221CA5E0}
+name: clockIcon24
+key: clockicon24
+content-length: 38
+
+{9BA9F2B2-B2D7-4224-954A-804179B2BE86}
+----field----
+field: {9D6F37EB-E450-4B0C-ABF5-08BEB1BE67EC}
+name: caretIcon
+key: careticon
+content-length: 38
+
+{88B64965-16A3-4675-BFDE-CA1AC1DE6C5A}
+----field----
+field: {A575A730-FEFE-46F4-9CD0-3568C1AB42E5}
+name: whiteCaret
+key: whitecaret
+content-length: 38
+
+{EF5D7E4B-255A-4F15-9970-8D57CC9C0338}
+----field----
+field: {BCF4C492-F2A3-49F6-B548-EB6DD4BD5D6A}
+name: infoIcon
+key: infoicon
+content-length: 38
+
+{83F3DAE2-10D0-44FE-B025-2B8B347D29BD}
+----field----
+field: {0A82D22D-FEA1-43F0-8D8B-A5EABB6D6E6E}
+name: leftArrow
+key: leftarrow
+content-length: 38
+
+{7B50FDE6-EBED-49B2-87A4-5E89A23A7659}
+----field----
+field: {848FE587-86FA-4197-882B-091127B9C9E6}
+name: rightArrow
+key: rightarrow
+content-length: 38
+
+{607BF928-739D-4151-B37B-943D79B5B9AF}
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180713T180035Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ef0cb4e4-e4af-49a5-a365-5d3a99fc4c08
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200611T145100Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----version----
+language: en
+version: 2
+revision: 740acc83-5473-41e8-8612-9c4b27e027e3
+
+----field----
+field: {95389A94-EFFB-416E-9731-6CE71169A206}
+name: checkmarkIcon16
+key: checkmarkicon16
+content-length: 38
+
+{165D0485-7EE4-4C57-B105-E8AC21DAF7F1}
+----field----
+field: {EDF34D4E-9DD2-4CCA-B37E-5B6722D1D4F8}
+name: checkmarkIcon24
+key: checkmarkicon24
+content-length: 38
+
+{021EFEC0-B877-48EF-9219-0ACEE41DD182}
+----field----
+field: {5AFF7306-E7D2-4DE6-9A0A-2FD7A929CC35}
+name: clockIcon16
+key: clockicon16
+content-length: 38
+
+{61E9EAB1-85EA-43F7-B904-CB2C7ACB4A3F}
+----field----
+field: {5FFA0118-EB60-4F90-9F4C-0E6C221CA5E0}
+name: clockIcon24
+key: clockicon24
+content-length: 38
+
+{9BA9F2B2-B2D7-4224-954A-804179B2BE86}
+----field----
+field: {9D6F37EB-E450-4B0C-ABF5-08BEB1BE67EC}
+name: caretIcon
+key: careticon
+content-length: 38
+
+{88B64965-16A3-4675-BFDE-CA1AC1DE6C5A}
+----field----
+field: {A575A730-FEFE-46F4-9CD0-3568C1AB42E5}
+name: whiteCaret
+key: whitecaret
+content-length: 38
+
+{EF5D7E4B-255A-4F15-9970-8D57CC9C0338}
+----field----
+field: {BCF4C492-F2A3-49F6-B548-EB6DD4BD5D6A}
+name: infoIcon
+key: infoicon
+content-length: 38
+
+{83F3DAE2-10D0-44FE-B025-2B8B347D29BD}
+----field----
+field: {0A82D22D-FEA1-43F0-8D8B-A5EABB6D6E6E}
+name: leftArrow
+key: leftarrow
+content-length: 38
+
+{7B50FDE6-EBED-49B2-87A4-5E89A23A7659}
+----field----
+field: {848FE587-86FA-4197-882B-091127B9C9E6}
+name: rightArrow
+key: rightarrow
+content-length: 38
+
+{607BF928-739D-4151-B37B-943D79B5B9AF}
+----field----
+field: {10A87C60-BE3D-4558-A970-BB92C4722E73}
+name: userIcon
+key: usericon
+content-length: 38
+
+{4FE5586D-8910-4F63-8057-32881EF7B334}
+----field----
+field: {1FCB21BA-065C-44BE-9697-1710C179A287}
+name: circleAlert
+key: circlealert
+content-length: 38
+
+{92A820FB-5DF0-4B04-82D3-057D550D8882}
+----field----
+field: {E1019364-AC78-4619-9615-C60AE5E1687D}
+name: checkBox
+key: checkbox
+content-length: 38
+
+{10D75946-FDC2-449A-BC96-7648C782B8EE}
+----field----
+field: {6B3CEA6E-51E3-4CD0-A66F-B8F7614C93AB}
+name: checkMarkIconGrey
+key: checkmarkicongrey
+content-length: 38
+
+{120A4B0E-8483-4D76-BB9B-604D2CC1FA7F}
+----field----
+field: {53DD3D64-4A2D-45E5-91D1-D160AFECB5BF}
+name: alertIcon
+key: alerticon
+content-length: 38
+
+{71F9E24E-ADA9-4BF7-987A-1556557DDB25}
+----field----
+field: {1FADACEF-CB7B-4CAE-8A6F-999F29E1AFF3}
+name: ribbonIcon
+key: ribbonicon
+content-length: 38
+
+{F2758F33-B570-4B54-93DD-E841A1EE1B53}
+----field----
+field: {E924BEF1-40A3-4AD0-BE15-9A59F5E134A3}
+name: infoIconGrey
+key: infoicongrey
+content-length: 38
+
+{C5B1EF1B-74F4-4E9E-A216-DD448AF643D9}
+----field----
+field: {6E36400B-D8D2-44DB-8974-08D8BBF9FEFD}
+name: greenCircleCheck
+key: greencirclecheck
+content-length: 38
+
+{31A8BC3C-F073-4214-AB8A-AB7DC2BE195B}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20181128T162820Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20181128T162820Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\snavee884
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+740acc83-5473-41e8-8612-9c4b27e027e3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200611T145100Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 3
+revision: fd3e0cc0-6e14-41bb-9a65-573fe8bca025
+
+----field----
+field: {95389A94-EFFB-416E-9731-6CE71169A206}
+name: checkmarkIcon16
+key: checkmarkicon16
+content-length: 38
+
+{165D0485-7EE4-4C57-B105-E8AC21DAF7F1}
+----field----
+field: {EDF34D4E-9DD2-4CCA-B37E-5B6722D1D4F8}
+name: checkmarkIcon24
+key: checkmarkicon24
+content-length: 38
+
+{021EFEC0-B877-48EF-9219-0ACEE41DD182}
+----field----
+field: {5AFF7306-E7D2-4DE6-9A0A-2FD7A929CC35}
+name: clockIcon16
+key: clockicon16
+content-length: 38
+
+{61E9EAB1-85EA-43F7-B904-CB2C7ACB4A3F}
+----field----
+field: {5FFA0118-EB60-4F90-9F4C-0E6C221CA5E0}
+name: clockIcon24
+key: clockicon24
+content-length: 38
+
+{9BA9F2B2-B2D7-4224-954A-804179B2BE86}
+----field----
+field: {9D6F37EB-E450-4B0C-ABF5-08BEB1BE67EC}
+name: caretIcon
+key: careticon
+content-length: 38
+
+{88B64965-16A3-4675-BFDE-CA1AC1DE6C5A}
+----field----
+field: {A575A730-FEFE-46F4-9CD0-3568C1AB42E5}
+name: whiteCaret
+key: whitecaret
+content-length: 38
+
+{EF5D7E4B-255A-4F15-9970-8D57CC9C0338}
+----field----
+field: {BCF4C492-F2A3-49F6-B548-EB6DD4BD5D6A}
+name: infoIcon
+key: infoicon
+content-length: 38
+
+{83F3DAE2-10D0-44FE-B025-2B8B347D29BD}
+----field----
+field: {0A82D22D-FEA1-43F0-8D8B-A5EABB6D6E6E}
+name: leftArrow
+key: leftarrow
+content-length: 38
+
+{7B50FDE6-EBED-49B2-87A4-5E89A23A7659}
+----field----
+field: {848FE587-86FA-4197-882B-091127B9C9E6}
+name: rightArrow
+key: rightarrow
+content-length: 38
+
+{607BF928-739D-4151-B37B-943D79B5B9AF}
+----field----
+field: {10A87C60-BE3D-4558-A970-BB92C4722E73}
+name: userIcon
+key: usericon
+content-length: 38
+
+{4FE5586D-8910-4F63-8057-32881EF7B334}
+----field----
+field: {1FCB21BA-065C-44BE-9697-1710C179A287}
+name: circleAlert
+key: circlealert
+content-length: 38
+
+{92A820FB-5DF0-4B04-82D3-057D550D8882}
+----field----
+field: {E1019364-AC78-4619-9615-C60AE5E1687D}
+name: checkBox
+key: checkbox
+content-length: 38
+
+{10D75946-FDC2-449A-BC96-7648C782B8EE}
+----field----
+field: {6B3CEA6E-51E3-4CD0-A66F-B8F7614C93AB}
+name: checkMarkIconGrey
+key: checkmarkicongrey
+content-length: 38
+
+{120A4B0E-8483-4D76-BB9B-604D2CC1FA7F}
+----field----
+field: {53DD3D64-4A2D-45E5-91D1-D160AFECB5BF}
+name: alertIcon
+key: alerticon
+content-length: 38
+
+{71F9E24E-ADA9-4BF7-987A-1556557DDB25}
+----field----
+field: {1FADACEF-CB7B-4CAE-8A6F-999F29E1AFF3}
+name: ribbonIcon
+key: ribbonicon
+content-length: 38
+
+{F2758F33-B570-4B54-93DD-E841A1EE1B53}
+----field----
+field: {E924BEF1-40A3-4AD0-BE15-9A59F5E134A3}
+name: infoIconGrey
+key: infoicongrey
+content-length: 38
+
+{C5B1EF1B-74F4-4E9E-A216-DD448AF643D9}
+----field----
+field: {6E36400B-D8D2-44DB-8974-08D8BBF9FEFD}
+name: greenCircleCheck
+key: greencirclecheck
+content-length: 38
+
+{31A8BC3C-F073-4214-AB8A-AB7DC2BE195B}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190625T180408Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190625T180408Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+fd3e0cc0-6e14-41bb-9a65-573fe8bca025
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200611T145101Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 4
+revision: aaabfc00-5177-4860-9d30-678b580c5d20
+
+----field----
+field: {95389A94-EFFB-416E-9731-6CE71169A206}
+name: checkmarkIcon16
+key: checkmarkicon16
+content-length: 38
+
+{165D0485-7EE4-4C57-B105-E8AC21DAF7F1}
+----field----
+field: {EDF34D4E-9DD2-4CCA-B37E-5B6722D1D4F8}
+name: checkmarkIcon24
+key: checkmarkicon24
+content-length: 38
+
+{021EFEC0-B877-48EF-9219-0ACEE41DD182}
+----field----
+field: {5AFF7306-E7D2-4DE6-9A0A-2FD7A929CC35}
+name: clockIcon16
+key: clockicon16
+content-length: 38
+
+{61E9EAB1-85EA-43F7-B904-CB2C7ACB4A3F}
+----field----
+field: {5FFA0118-EB60-4F90-9F4C-0E6C221CA5E0}
+name: clockIcon24
+key: clockicon24
+content-length: 38
+
+{9BA9F2B2-B2D7-4224-954A-804179B2BE86}
+----field----
+field: {9D6F37EB-E450-4B0C-ABF5-08BEB1BE67EC}
+name: caretIcon
+key: careticon
+content-length: 38
+
+{88B64965-16A3-4675-BFDE-CA1AC1DE6C5A}
+----field----
+field: {A575A730-FEFE-46F4-9CD0-3568C1AB42E5}
+name: whiteCaret
+key: whitecaret
+content-length: 38
+
+{EF5D7E4B-255A-4F15-9970-8D57CC9C0338}
+----field----
+field: {BCF4C492-F2A3-49F6-B548-EB6DD4BD5D6A}
+name: infoIcon
+key: infoicon
+content-length: 38
+
+{83F3DAE2-10D0-44FE-B025-2B8B347D29BD}
+----field----
+field: {0A82D22D-FEA1-43F0-8D8B-A5EABB6D6E6E}
+name: leftArrow
+key: leftarrow
+content-length: 38
+
+{7B50FDE6-EBED-49B2-87A4-5E89A23A7659}
+----field----
+field: {848FE587-86FA-4197-882B-091127B9C9E6}
+name: rightArrow
+key: rightarrow
+content-length: 38
+
+{607BF928-739D-4151-B37B-943D79B5B9AF}
+----field----
+field: {10A87C60-BE3D-4558-A970-BB92C4722E73}
+name: userIcon
+key: usericon
+content-length: 38
+
+{4FE5586D-8910-4F63-8057-32881EF7B334}
+----field----
+field: {1FCB21BA-065C-44BE-9697-1710C179A287}
+name: circleAlert
+key: circlealert
+content-length: 38
+
+{92A820FB-5DF0-4B04-82D3-057D550D8882}
+----field----
+field: {E1019364-AC78-4619-9615-C60AE5E1687D}
+name: checkBox
+key: checkbox
+content-length: 38
+
+{10D75946-FDC2-449A-BC96-7648C782B8EE}
+----field----
+field: {6B3CEA6E-51E3-4CD0-A66F-B8F7614C93AB}
+name: checkMarkIconGrey
+key: checkmarkicongrey
+content-length: 38
+
+{120A4B0E-8483-4D76-BB9B-604D2CC1FA7F}
+----field----
+field: {53DD3D64-4A2D-45E5-91D1-D160AFECB5BF}
+name: alertIcon
+key: alerticon
+content-length: 38
+
+{71F9E24E-ADA9-4BF7-987A-1556557DDB25}
+----field----
+field: {1FADACEF-CB7B-4CAE-8A6F-999F29E1AFF3}
+name: ribbonIcon
+key: ribbonicon
+content-length: 38
+
+{F2758F33-B570-4B54-93DD-E841A1EE1B53}
+----field----
+field: {E924BEF1-40A3-4AD0-BE15-9A59F5E134A3}
+name: infoIconGrey
+key: infoicongrey
+content-length: 38
+
+{C5B1EF1B-74F4-4E9E-A216-DD448AF643D9}
+----field----
+field: {399B21CF-848F-488E-BADD-8AF62FB285E8}
+name: circlePlusIcon
+key: circleplusicon
+content-length: 38
+
+{CE97B90B-755C-482B-8F5F-D2DEF7EB4D85}
+----field----
+field: {6E36400B-D8D2-44DB-8974-08D8BBF9FEFD}
+name: greenCircleCheck
+key: greencirclecheck
+content-length: 38
+
+{31A8BC3C-F073-4214-AB8A-AB7DC2BE195B}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190625T180605Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190625T180605Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+aaabfc00-5177-4860-9d30-678b580c5d20
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200611T145103Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 5
+revision: ceee49b7-1b7e-4d6e-8edd-ce513b52fd62
+
+----field----
+field: {95389A94-EFFB-416E-9731-6CE71169A206}
+name: checkmarkIcon16
+key: checkmarkicon16
+content-length: 38
+
+{165D0485-7EE4-4C57-B105-E8AC21DAF7F1}
+----field----
+field: {EDF34D4E-9DD2-4CCA-B37E-5B6722D1D4F8}
+name: checkmarkIcon24
+key: checkmarkicon24
+content-length: 38
+
+{021EFEC0-B877-48EF-9219-0ACEE41DD182}
+----field----
+field: {5AFF7306-E7D2-4DE6-9A0A-2FD7A929CC35}
+name: clockIcon16
+key: clockicon16
+content-length: 38
+
+{61E9EAB1-85EA-43F7-B904-CB2C7ACB4A3F}
+----field----
+field: {5FFA0118-EB60-4F90-9F4C-0E6C221CA5E0}
+name: clockIcon24
+key: clockicon24
+content-length: 38
+
+{9BA9F2B2-B2D7-4224-954A-804179B2BE86}
+----field----
+field: {9D6F37EB-E450-4B0C-ABF5-08BEB1BE67EC}
+name: caretIcon
+key: careticon
+content-length: 38
+
+{88B64965-16A3-4675-BFDE-CA1AC1DE6C5A}
+----field----
+field: {A575A730-FEFE-46F4-9CD0-3568C1AB42E5}
+name: whiteCaret
+key: whitecaret
+content-length: 38
+
+{EF5D7E4B-255A-4F15-9970-8D57CC9C0338}
+----field----
+field: {BCF4C492-F2A3-49F6-B548-EB6DD4BD5D6A}
+name: infoIcon
+key: infoicon
+content-length: 38
+
+{83F3DAE2-10D0-44FE-B025-2B8B347D29BD}
+----field----
+field: {0A82D22D-FEA1-43F0-8D8B-A5EABB6D6E6E}
+name: leftArrow
+key: leftarrow
+content-length: 38
+
+{7B50FDE6-EBED-49B2-87A4-5E89A23A7659}
+----field----
+field: {848FE587-86FA-4197-882B-091127B9C9E6}
+name: rightArrow
+key: rightarrow
+content-length: 38
+
+{607BF928-739D-4151-B37B-943D79B5B9AF}
+----field----
+field: {10A87C60-BE3D-4558-A970-BB92C4722E73}
+name: userIcon
+key: usericon
+content-length: 38
+
+{4FE5586D-8910-4F63-8057-32881EF7B334}
+----field----
+field: {1FCB21BA-065C-44BE-9697-1710C179A287}
+name: circleAlert
+key: circlealert
+content-length: 38
+
+{92A820FB-5DF0-4B04-82D3-057D550D8882}
+----field----
+field: {E1019364-AC78-4619-9615-C60AE5E1687D}
+name: checkBox
+key: checkbox
+content-length: 38
+
+{10D75946-FDC2-449A-BC96-7648C782B8EE}
+----field----
+field: {6B3CEA6E-51E3-4CD0-A66F-B8F7614C93AB}
+name: checkMarkIconGrey
+key: checkmarkicongrey
+content-length: 38
+
+{120A4B0E-8483-4D76-BB9B-604D2CC1FA7F}
+----field----
+field: {53DD3D64-4A2D-45E5-91D1-D160AFECB5BF}
+name: alertIcon
+key: alerticon
+content-length: 38
+
+{71F9E24E-ADA9-4BF7-987A-1556557DDB25}
+----field----
+field: {1FADACEF-CB7B-4CAE-8A6F-999F29E1AFF3}
+name: ribbonIcon
+key: ribbonicon
+content-length: 38
+
+{F2758F33-B570-4B54-93DD-E841A1EE1B53}
+----field----
+field: {E924BEF1-40A3-4AD0-BE15-9A59F5E134A3}
+name: infoIconGrey
+key: infoicongrey
+content-length: 38
+
+{C5B1EF1B-74F4-4E9E-A216-DD448AF643D9}
+----field----
+field: {399B21CF-848F-488E-BADD-8AF62FB285E8}
+name: circlePlusIcon
+key: circleplusicon
+content-length: 38
+
+{CE97B90B-755C-482B-8F5F-D2DEF7EB4D85}
+----field----
+field: {6E36400B-D8D2-44DB-8974-08D8BBF9FEFD}
+name: greenCircleCheck
+key: greencirclecheck
+content-length: 38
+
+{31A8BC3C-F073-4214-AB8A-AB7DC2BE195B}
+----field----
+field: {AD900495-4C7E-4E46-AE2D-1BEA3D806300}
+name: heartIcon
+key: hearticon
+content-length: 38
+
+{1D5DB7F7-2A8E-480D-AE26-533B4744E43E}
+----field----
+field: {20BA509F-0BB6-4992-9CA9-956AEFB52C4C}
+name: questionIcon
+key: questionicon
+content-length: 38
+
+{49EB5B10-2775-4588-A125-515E08779ACA}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190723T185515Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190723T185515Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ceee49b7-1b7e-4d6e-8edd-ce513b52fd62
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200611T145103Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 6
+revision: 62404c3f-0390-4c3d-b153-1cd59424bdb7
+
+----field----
+field: {95389A94-EFFB-416E-9731-6CE71169A206}
+name: checkmarkIcon16
+key: checkmarkicon16
+content-length: 38
+
+{165D0485-7EE4-4C57-B105-E8AC21DAF7F1}
+----field----
+field: {EDF34D4E-9DD2-4CCA-B37E-5B6722D1D4F8}
+name: checkmarkIcon24
+key: checkmarkicon24
+content-length: 38
+
+{021EFEC0-B877-48EF-9219-0ACEE41DD182}
+----field----
+field: {5AFF7306-E7D2-4DE6-9A0A-2FD7A929CC35}
+name: clockIcon16
+key: clockicon16
+content-length: 38
+
+{61E9EAB1-85EA-43F7-B904-CB2C7ACB4A3F}
+----field----
+field: {5FFA0118-EB60-4F90-9F4C-0E6C221CA5E0}
+name: clockIcon24
+key: clockicon24
+content-length: 38
+
+{9BA9F2B2-B2D7-4224-954A-804179B2BE86}
+----field----
+field: {9D6F37EB-E450-4B0C-ABF5-08BEB1BE67EC}
+name: caretIcon
+key: careticon
+content-length: 38
+
+{88B64965-16A3-4675-BFDE-CA1AC1DE6C5A}
+----field----
+field: {A575A730-FEFE-46F4-9CD0-3568C1AB42E5}
+name: whiteCaret
+key: whitecaret
+content-length: 38
+
+{EF5D7E4B-255A-4F15-9970-8D57CC9C0338}
+----field----
+field: {BCF4C492-F2A3-49F6-B548-EB6DD4BD5D6A}
+name: infoIcon
+key: infoicon
+content-length: 38
+
+{83F3DAE2-10D0-44FE-B025-2B8B347D29BD}
+----field----
+field: {0A82D22D-FEA1-43F0-8D8B-A5EABB6D6E6E}
+name: leftArrow
+key: leftarrow
+content-length: 38
+
+{7B50FDE6-EBED-49B2-87A4-5E89A23A7659}
+----field----
+field: {848FE587-86FA-4197-882B-091127B9C9E6}
+name: rightArrow
+key: rightarrow
+content-length: 38
+
+{607BF928-739D-4151-B37B-943D79B5B9AF}
+----field----
+field: {10A87C60-BE3D-4558-A970-BB92C4722E73}
+name: userIcon
+key: usericon
+content-length: 38
+
+{4FE5586D-8910-4F63-8057-32881EF7B334}
+----field----
+field: {1FCB21BA-065C-44BE-9697-1710C179A287}
+name: circleAlert
+key: circlealert
+content-length: 38
+
+{92A820FB-5DF0-4B04-82D3-057D550D8882}
+----field----
+field: {E1019364-AC78-4619-9615-C60AE5E1687D}
+name: checkBox
+key: checkbox
+content-length: 38
+
+{10D75946-FDC2-449A-BC96-7648C782B8EE}
+----field----
+field: {6B3CEA6E-51E3-4CD0-A66F-B8F7614C93AB}
+name: checkMarkIconGrey
+key: checkmarkicongrey
+content-length: 38
+
+{120A4B0E-8483-4D76-BB9B-604D2CC1FA7F}
+----field----
+field: {53DD3D64-4A2D-45E5-91D1-D160AFECB5BF}
+name: alertIcon
+key: alerticon
+content-length: 38
+
+{71F9E24E-ADA9-4BF7-987A-1556557DDB25}
+----field----
+field: {1FADACEF-CB7B-4CAE-8A6F-999F29E1AFF3}
+name: ribbonIcon
+key: ribbonicon
+content-length: 38
+
+{F2758F33-B570-4B54-93DD-E841A1EE1B53}
+----field----
+field: {E924BEF1-40A3-4AD0-BE15-9A59F5E134A3}
+name: infoIconGrey
+key: infoicongrey
+content-length: 38
+
+{C5B1EF1B-74F4-4E9E-A216-DD448AF643D9}
+----field----
+field: {399B21CF-848F-488E-BADD-8AF62FB285E8}
+name: circlePlusIcon
+key: circleplusicon
+content-length: 38
+
+{CE97B90B-755C-482B-8F5F-D2DEF7EB4D85}
+----field----
+field: {6E36400B-D8D2-44DB-8974-08D8BBF9FEFD}
+name: greenCircleCheck
+key: greencirclecheck
+content-length: 38
+
+{31A8BC3C-F073-4214-AB8A-AB7DC2BE195B}
+----field----
+field: {AD900495-4C7E-4E46-AE2D-1BEA3D806300}
+name: heartIcon
+key: hearticon
+content-length: 38
+
+{1D5DB7F7-2A8E-480D-AE26-533B4744E43E}
+----field----
+field: {20BA509F-0BB6-4992-9CA9-956AEFB52C4C}
+name: questionIcon
+key: questionicon
+content-length: 38
+
+{49EB5B10-2775-4588-A125-515E08779ACA}
+----field----
+field: {30E01DAA-A640-4CD3-A342-EA9BAAA9A4BB}
+name: priceTagIcon
+key: pricetagicon
+content-length: 38
+
+{4F19E7E8-874C-4196-B7CC-B333F33EBAC1}
+----field----
+field: {A4CBE5C4-62B0-4DDE-A286-8467F69F1DF8}
+name: circleCheckMarkIconGrey
+key: circlecheckmarkicongrey
+content-length: 38
+
+{B0C6C8B5-1DE8-482C-BA7A-3330B1CE2650}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190812T194115Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190812T194115Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\snavee884
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+62404c3f-0390-4c3d-b153-1cd59424bdb7
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200611T145104Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 7
+revision: 52df5453-4ba0-4d6e-a9b6-77c6b4d0090a
+
+----field----
+field: {95389A94-EFFB-416E-9731-6CE71169A206}
+name: checkmarkIcon16
+key: checkmarkicon16
+content-length: 38
+
+{165D0485-7EE4-4C57-B105-E8AC21DAF7F1}
+----field----
+field: {EDF34D4E-9DD2-4CCA-B37E-5B6722D1D4F8}
+name: checkmarkIcon24
+key: checkmarkicon24
+content-length: 38
+
+{021EFEC0-B877-48EF-9219-0ACEE41DD182}
+----field----
+field: {5AFF7306-E7D2-4DE6-9A0A-2FD7A929CC35}
+name: clockIcon16
+key: clockicon16
+content-length: 38
+
+{61E9EAB1-85EA-43F7-B904-CB2C7ACB4A3F}
+----field----
+field: {5FFA0118-EB60-4F90-9F4C-0E6C221CA5E0}
+name: clockIcon24
+key: clockicon24
+content-length: 38
+
+{9BA9F2B2-B2D7-4224-954A-804179B2BE86}
+----field----
+field: {9D6F37EB-E450-4B0C-ABF5-08BEB1BE67EC}
+name: caretIcon
+key: careticon
+content-length: 38
+
+{88B64965-16A3-4675-BFDE-CA1AC1DE6C5A}
+----field----
+field: {A575A730-FEFE-46F4-9CD0-3568C1AB42E5}
+name: whiteCaret
+key: whitecaret
+content-length: 38
+
+{EF5D7E4B-255A-4F15-9970-8D57CC9C0338}
+----field----
+field: {BCF4C492-F2A3-49F6-B548-EB6DD4BD5D6A}
+name: infoIcon
+key: infoicon
+content-length: 38
+
+{83F3DAE2-10D0-44FE-B025-2B8B347D29BD}
+----field----
+field: {0A82D22D-FEA1-43F0-8D8B-A5EABB6D6E6E}
+name: leftArrow
+key: leftarrow
+content-length: 38
+
+{7B50FDE6-EBED-49B2-87A4-5E89A23A7659}
+----field----
+field: {848FE587-86FA-4197-882B-091127B9C9E6}
+name: rightArrow
+key: rightarrow
+content-length: 38
+
+{607BF928-739D-4151-B37B-943D79B5B9AF}
+----field----
+field: {10A87C60-BE3D-4558-A970-BB92C4722E73}
+name: userIcon
+key: usericon
+content-length: 38
+
+{4FE5586D-8910-4F63-8057-32881EF7B334}
+----field----
+field: {1FCB21BA-065C-44BE-9697-1710C179A287}
+name: circleAlert
+key: circlealert
+content-length: 38
+
+{92A820FB-5DF0-4B04-82D3-057D550D8882}
+----field----
+field: {E1019364-AC78-4619-9615-C60AE5E1687D}
+name: checkBox
+key: checkbox
+content-length: 38
+
+{10D75946-FDC2-449A-BC96-7648C782B8EE}
+----field----
+field: {6B3CEA6E-51E3-4CD0-A66F-B8F7614C93AB}
+name: checkMarkIconGrey
+key: checkmarkicongrey
+content-length: 38
+
+{120A4B0E-8483-4D76-BB9B-604D2CC1FA7F}
+----field----
+field: {53DD3D64-4A2D-45E5-91D1-D160AFECB5BF}
+name: alertIcon
+key: alerticon
+content-length: 38
+
+{71F9E24E-ADA9-4BF7-987A-1556557DDB25}
+----field----
+field: {1FADACEF-CB7B-4CAE-8A6F-999F29E1AFF3}
+name: ribbonIcon
+key: ribbonicon
+content-length: 38
+
+{F2758F33-B570-4B54-93DD-E841A1EE1B53}
+----field----
+field: {E924BEF1-40A3-4AD0-BE15-9A59F5E134A3}
+name: infoIconGrey
+key: infoicongrey
+content-length: 38
+
+{C5B1EF1B-74F4-4E9E-A216-DD448AF643D9}
+----field----
+field: {399B21CF-848F-488E-BADD-8AF62FB285E8}
+name: circlePlusIcon
+key: circleplusicon
+content-length: 38
+
+{CE97B90B-755C-482B-8F5F-D2DEF7EB4D85}
+----field----
+field: {6E36400B-D8D2-44DB-8974-08D8BBF9FEFD}
+name: greenCircleCheck
+key: greencirclecheck
+content-length: 38
+
+{31A8BC3C-F073-4214-AB8A-AB7DC2BE195B}
+----field----
+field: {AD900495-4C7E-4E46-AE2D-1BEA3D806300}
+name: heartIcon
+key: hearticon
+content-length: 38
+
+{1D5DB7F7-2A8E-480D-AE26-533B4744E43E}
+----field----
+field: {20BA509F-0BB6-4992-9CA9-956AEFB52C4C}
+name: questionIcon
+key: questionicon
+content-length: 38
+
+{49EB5B10-2775-4588-A125-515E08779ACA}
+----field----
+field: {29C9BD2D-4122-471E-986A-3775772DBE71}
+name: cardIcon
+key: cardicon
+content-length: 38
+
+{DDF072A1-2B4E-40B1-8E63-B8943B2831C1}
+----field----
+field: {30E01DAA-A640-4CD3-A342-EA9BAAA9A4BB}
+name: priceTagIcon
+key: pricetagicon
+content-length: 38
+
+{4F19E7E8-874C-4196-B7CC-B333F33EBAC1}
+----field----
+field: {A4CBE5C4-62B0-4DDE-A286-8467F69F1DF8}
+name: circleCheckMarkIconGrey
+key: circlecheckmarkicongrey
+content-length: 38
+
+{B0C6C8B5-1DE8-482C-BA7A-3330B1CE2650}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190828T204349Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190828T204349Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\snavee884
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+52df5453-4ba0-4d6e-a9b6-77c6b4d0090a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200611T145105Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 8
+revision: 4622262e-2ccd-4336-9f41-b8c710f43934
+
+----field----
+field: {95389A94-EFFB-416E-9731-6CE71169A206}
+name: checkmarkIcon16
+key: checkmarkicon16
+content-length: 38
+
+{165D0485-7EE4-4C57-B105-E8AC21DAF7F1}
+----field----
+field: {EDF34D4E-9DD2-4CCA-B37E-5B6722D1D4F8}
+name: checkmarkIcon24
+key: checkmarkicon24
+content-length: 38
+
+{021EFEC0-B877-48EF-9219-0ACEE41DD182}
+----field----
+field: {5AFF7306-E7D2-4DE6-9A0A-2FD7A929CC35}
+name: clockIcon16
+key: clockicon16
+content-length: 38
+
+{61E9EAB1-85EA-43F7-B904-CB2C7ACB4A3F}
+----field----
+field: {5FFA0118-EB60-4F90-9F4C-0E6C221CA5E0}
+name: clockIcon24
+key: clockicon24
+content-length: 38
+
+{9BA9F2B2-B2D7-4224-954A-804179B2BE86}
+----field----
+field: {9D6F37EB-E450-4B0C-ABF5-08BEB1BE67EC}
+name: caretIcon
+key: careticon
+content-length: 38
+
+{88B64965-16A3-4675-BFDE-CA1AC1DE6C5A}
+----field----
+field: {A575A730-FEFE-46F4-9CD0-3568C1AB42E5}
+name: whiteCaret
+key: whitecaret
+content-length: 38
+
+{EF5D7E4B-255A-4F15-9970-8D57CC9C0338}
+----field----
+field: {BCF4C492-F2A3-49F6-B548-EB6DD4BD5D6A}
+name: infoIcon
+key: infoicon
+content-length: 38
+
+{83F3DAE2-10D0-44FE-B025-2B8B347D29BD}
+----field----
+field: {0A82D22D-FEA1-43F0-8D8B-A5EABB6D6E6E}
+name: leftArrow
+key: leftarrow
+content-length: 38
+
+{7B50FDE6-EBED-49B2-87A4-5E89A23A7659}
+----field----
+field: {848FE587-86FA-4197-882B-091127B9C9E6}
+name: rightArrow
+key: rightarrow
+content-length: 38
+
+{607BF928-739D-4151-B37B-943D79B5B9AF}
+----field----
+field: {10A87C60-BE3D-4558-A970-BB92C4722E73}
+name: userIcon
+key: usericon
+content-length: 38
+
+{4FE5586D-8910-4F63-8057-32881EF7B334}
+----field----
+field: {1FCB21BA-065C-44BE-9697-1710C179A287}
+name: circleAlert
+key: circlealert
+content-length: 38
+
+{92A820FB-5DF0-4B04-82D3-057D550D8882}
+----field----
+field: {E1019364-AC78-4619-9615-C60AE5E1687D}
+name: checkBox
+key: checkbox
+content-length: 38
+
+{10D75946-FDC2-449A-BC96-7648C782B8EE}
+----field----
+field: {6B3CEA6E-51E3-4CD0-A66F-B8F7614C93AB}
+name: checkMarkIconGrey
+key: checkmarkicongrey
+content-length: 38
+
+{120A4B0E-8483-4D76-BB9B-604D2CC1FA7F}
+----field----
+field: {53DD3D64-4A2D-45E5-91D1-D160AFECB5BF}
+name: alertIcon
+key: alerticon
+content-length: 38
+
+{71F9E24E-ADA9-4BF7-987A-1556557DDB25}
+----field----
+field: {1FADACEF-CB7B-4CAE-8A6F-999F29E1AFF3}
+name: ribbonIcon
+key: ribbonicon
+content-length: 38
+
+{F2758F33-B570-4B54-93DD-E841A1EE1B53}
+----field----
+field: {E924BEF1-40A3-4AD0-BE15-9A59F5E134A3}
+name: infoIconGrey
+key: infoicongrey
+content-length: 38
+
+{C5B1EF1B-74F4-4E9E-A216-DD448AF643D9}
+----field----
+field: {399B21CF-848F-488E-BADD-8AF62FB285E8}
+name: circlePlusIcon
+key: circleplusicon
+content-length: 38
+
+{CE97B90B-755C-482B-8F5F-D2DEF7EB4D85}
+----field----
+field: {6E36400B-D8D2-44DB-8974-08D8BBF9FEFD}
+name: greenCircleCheck
+key: greencirclecheck
+content-length: 38
+
+{31A8BC3C-F073-4214-AB8A-AB7DC2BE195B}
+----field----
+field: {AD900495-4C7E-4E46-AE2D-1BEA3D806300}
+name: heartIcon
+key: hearticon
+content-length: 38
+
+{1D5DB7F7-2A8E-480D-AE26-533B4744E43E}
+----field----
+field: {20BA509F-0BB6-4992-9CA9-956AEFB52C4C}
+name: questionIcon
+key: questionicon
+content-length: 38
+
+{49EB5B10-2775-4588-A125-515E08779ACA}
+----field----
+field: {29C9BD2D-4122-471E-986A-3775772DBE71}
+name: cardIcon
+key: cardicon
+content-length: 38
+
+{DDF072A1-2B4E-40B1-8E63-B8943B2831C1}
+----field----
+field: {30E01DAA-A640-4CD3-A342-EA9BAAA9A4BB}
+name: priceTagIcon
+key: pricetagicon
+content-length: 38
+
+{4F19E7E8-874C-4196-B7CC-B333F33EBAC1}
+----field----
+field: {A4CBE5C4-62B0-4DDE-A286-8467F69F1DF8}
+name: circleCheckMarkIconGrey
+key: circlecheckmarkicongrey
+content-length: 38
+
+{B0C6C8B5-1DE8-482C-BA7A-3330B1CE2650}
+----field----
+field: {5A4B0037-EBC5-4195-84AE-7249443D9B21}
+name: polarisCartIconWhite
+key: polariscarticonwhite
+content-length: 38
+
+{3A74D5C1-4E23-4651-9762-F7B8E66A5E5A}
+----field----
+field: {FFC49AD1-726B-4CD6-B620-1B77A712E351}
+name: polarisCartIconGrey
+key: polariscarticongrey
+content-length: 38
+
+{7154381F-8A3C-46EA-89F5-C1B4B2B82239}
+----field----
+field: {0162BDED-F440-4BDC-BC8E-032F8EB71E8B}
+name: polarisCartIndicator
+key: polariscartindicator
+content-length: 38
+
+{C871C350-BEAF-4040-8F9E-445386F29493}
+----field----
+field: {AA962439-1F03-4EAB-907D-22D36521319C}
+name: closeIconGray
+key: closeicongray
+content-length: 38
+
+{19B02FF3-4397-44F5-9E9E-6065D7C9403D}
+----field----
+field: {A55E7FB5-FE57-48BB-9AA9-45CAD15995C3}
+name: polarisNavSearchGrey
+key: polarisnavsearchgrey
+content-length: 38
+
+{36B3C87E-4309-4B1F-9485-A141311B72B1}
+----field----
+field: {3CC24E86-8FD3-4297-BD3F-440120742EF9}
+name: polarisNavSearchWhite
+key: polarisnavsearchwhite
+content-length: 38
+
+{6E5DC4E3-64E4-413C-968F-9A35CA38023C}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200115T201136Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200115T201136Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\skulka560
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4622262e-2ccd-4336-9f41-b8c710f43934
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200611T145106Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

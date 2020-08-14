@@ -1,0 +1,157 @@
+----item----
+version: 1
+id: {A265B820-5F6B-469B-9419-9F321E8220BA}
+database: master
+path: /sitecore/content/Modesto/NG Site/Home/Usage Detail
+parent: {1EE91079-22AA-40FA-95F2-621FC5F0CE97}
+name: Usage Detail
+master: {00000000-0000-0000-0000-000000000000}
+template: {5A6B5D02-99D6-4ED6-8820-CBCF20722DFF}
+templatekey: Usage Detail
+created: 20180816T121954Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 4
+
+3000
+----version----
+language: en
+version: 1
+revision: 7e0f5083-e514-49fd-be40-3e8508d9b957
+
+----field----
+field: {1445E65A-67DA-43C9-BBE8-E57515ACA1B9}
+name: header
+key: header
+content-length: 14
+
+[NAME]'s Usage
+----field----
+field: {C622117B-5A6C-43E0-92AC-DEA94F766B36}
+name: dropdownLabel
+key: dropdownlabel
+content-length: 8
+
+Activity
+----field----
+field: {1FE40EDF-7625-4F33-8544-EDA17A60D3A6}
+name: unlimitedTalk
+key: unlimitedtalk
+content-length: 14
+
+Unlimited Talk
+----field----
+field: {25365825-990B-4B85-AE0F-98C021C05A7E}
+name: callsLabel
+key: callslabel
+content-length: 5
+
+Calls
+----field----
+field: {C40A99E5-52F2-4B9B-AF22-876AD45C78F5}
+name: minutesLabel
+key: minuteslabel
+content-length: 7
+
+Minutes
+----field----
+field: {881BA346-F860-47B7-A5BB-900536EC4204}
+name: totalLabel
+key: totallabel
+content-length: 5
+
+Total
+----field----
+field: {435D30EE-58BA-4C46-A854-E059CEB47631}
+name: unlimitedMessage
+key: unlimitedmessage
+content-length: 18
+
+Unlimited Messages
+----field----
+field: {12DF2FF8-CC4B-4D1C-A816-B5E48A604937}
+name: messagesLabel
+key: messageslabel
+content-length: 8
+
+Messages
+----field----
+field: {E83644B9-990F-4412-88D2-0D2161A7A0E7}
+name: callUnit
+key: callunit
+content-length: 3
+
+min
+----field----
+field: {12DA94F8-2918-46FA-A68B-40B3851E4F1C}
+name: dataUnit
+key: dataunit
+content-length: 2
+
+MB
+----field----
+field: {03421AE9-CA59-42B8-91CD-935DA67A08BE}
+name: ratesVary
+key: ratesvary
+content-length: 10
+
+Rates Vary
+----field----
+field: {943AD9E3-7D3F-42D6-A952-55B471A7EF5A}
+name: searchByCountry
+key: searchbycountry
+content-length: 44
+
+[Search Rates by Country|plan.international]
+----field----
+field: {583E5B4B-1BEE-42DF-8DCF-2A9A83174E97}
+name: incomingIcon
+key: incomingicon
+content-length: 38
+
+{93DBD8FD-F56B-4F85-BC07-3B35812BA130}
+----field----
+field: {CC5FF3FA-2B99-4D58-B21A-E5C253ABBCBE}
+name: outgoingIcon
+key: outgoingicon
+content-length: 38
+
+{3934C14A-BAAD-426A-A0B6-7AE59E09ACCE}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180816T121954Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7e0f5083-e514-49fd-be40-3e8508d9b957
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200611T145034Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

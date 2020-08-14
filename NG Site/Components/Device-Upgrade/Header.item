@@ -1,0 +1,101 @@
+----item----
+version: 1
+id: {5BABDC12-31EC-444D-83F3-048200CE7872}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Device-Upgrade/Header
+parent: {03242FF9-C15C-4F8F-8874-7F1864D8C700}
+name: Header
+master: {00000000-0000-0000-0000-000000000000}
+template: {23BF2B7F-7B3A-4141-BF19-6EECFB40C4B4}
+templatekey: Upgrade Device
+created: 20180725T172427Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----field----
+field: {CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}
+name: __Default workflow
+key: __default workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: f33b8b1e-6288-4649-ab0c-f55199a3a15e
+
+----field----
+field: {22D2DDB2-2CF8-4837-B873-1D9D617335B2}
+name: noFee
+key: nofee
+content-length: 36
+
+You're eligible for a no-fee upgrade
+----field----
+field: {96195DFE-C9F8-4C87-BC04-7CE6D0E0115D}
+name: default
+key: default
+content-length: 30
+
+You're eligible for an upgrade
+----field----
+field: {821ECF08-C33B-438E-85F4-F4E0B2B1BB4E}
+name: paidInFull
+key: paidinfull
+content-length: 27
+
+Your device is paid in full
+----field----
+field: {4BABFC97-FB6A-455E-B56E-8263D0CC091C}
+name: dppRequired
+key: dpprequired
+content-length: 44
+
+You can become eligible for a device upgrade
+----field----
+field: {D253B53A-7D0F-416C-978F-7D751911145C}
+name: ineligible
+key: ineligible
+content-length: 32
+
+You're ineligible for an upgrade
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180725T172427Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f33b8b1e-6288-4649-ab0c-f55199a3a15e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180802T203343Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

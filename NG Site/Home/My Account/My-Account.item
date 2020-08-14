@@ -1,0 +1,248 @@
+----item----
+version: 1
+id: {73DB0A03-194F-49AB-A8AE-1E0624512222}
+database: master
+path: /sitecore/content/Modesto/NG Site/Home/My Account/My-Account
+parent: {895BE053-D59F-4970-A6BD-30540FA83827}
+name: My-Account
+master: {00000000-0000-0000-0000-000000000000}
+template: {528B74E3-1D02-4748-930A-8810AEDAC473}
+templatekey: My-Account
+created: 20180828T151313Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+400
+----field----
+field: {CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}
+name: __Default workflow
+key: __default workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 14b134e3-0e73-48f8-949d-337675775ee4
+
+----field----
+field: {01133FC2-5670-4133-A8A1-656B5E4E8640}
+name: totalPayment-header
+key: totalpayment-header
+content-length: 5
+
+Total
+----field----
+field: {927032EC-2E52-4C03-92C7-B943CF9DE0D6}
+name: totalPayment-xmAccount
+key: totalpayment-xmaccount
+content-length: 24
+
+Xfinity Mobile Account #
+----field----
+field: {CA40B6EB-5E02-4F33-8421-38A33E6DE1E2}
+name: totalPayment-authCode
+key: totalpayment-authcode
+content-length: 17
+
+Payment Auth Code
+----field----
+field: {8A7FCAF5-7937-4C6D-A590-75DE79B199B2}
+name: breadcrumbs-damageLostStolen
+key: breadcrumbs-damageloststolen
+content-length: 23
+
+Damage, lost, or stolen
+----field----
+field: {489FF2D8-BE57-44B5-B434-D1284D4070C3}
+name: breadcrumbs-protectionPlan
+key: breadcrumbs-protectionplan
+content-length: 15
+
+Protection Plan
+----field----
+field: {3B54C1BD-CAE1-4EA7-A004-F0D3B7E9E36B}
+name: breadcrumbs-upgrades
+key: breadcrumbs-upgrades
+content-length: 8
+
+Upgrades
+----field----
+field: {4748EA6E-7E10-45D1-8314-2162EE6E95F1}
+name: breadcrumbs-activation
+key: breadcrumbs-activation
+content-length: 16
+
+Start Activation
+----field----
+field: {3B4FEF80-3691-4FC9-A421-C8E8C0C080ED}
+name: creditCard-subhead
+key: creditcard-subhead
+content-length: 22
+
+Payment method on file
+----field----
+field: {84E8A031-90F0-422F-8C60-E215DF0F0C52}
+name: creditCard-showLabel
+key: creditcard-showlabel
+content-length: 4
+
+Show
+----field----
+field: {3CF9E7F3-7C63-4767-9015-ACB05AB9EBF1}
+name: creditCard-hideLabel
+key: creditcard-hidelabel
+content-length: 4
+
+Hide
+----field----
+field: {6A1FEE46-26C1-490D-9FFD-2B2485ABCA84}
+name: creditCard-updateLabel
+key: creditcard-updatelabel
+content-length: 11
+
+Update Card
+----field----
+field: {42E91ACD-3354-4A38-954F-CBB942E37653}
+name: creditCard-cardIcon
+key: creditcard-cardicon
+content-length: 38
+
+{6B894F6A-6B83-4273-97B7-6095BA7903DF}
+----field----
+field: {E31CF56A-E2E9-4BC6-9173-CCB7E8F81A4A}
+name: creditCard-expiredText
+key: creditcard-expiredtext
+content-length: 7
+
+Expired
+----field----
+field: {C4C021DC-4029-4AC4-84D0-6C8067DA15F3}
+name: notificationBanner-description
+key: notificationbanner-description
+content-length: 92
+
+We improved a few things to make it easier to read your bill and keep track of your account.
+----field----
+field: {51C72C64-D989-4DB1-818E-8564E4C262AD}
+name: notificationBanner-supportLink
+key: notificationbanner-supportlink
+content-length: 125
+
+[^Learn about the updates.|https://www.xfinity.com/mobile/support/article/360000351786/how-does-billing-work-for-my-account^]
+----field----
+field: {DCCB033D-62E5-48B2-ACE4-7FE8687C8EC7}
+name: notificationBanner-closeIcon
+key: notificationbanner-closeicon
+content-length: 38
+
+{625D42AC-D1C6-4A06-8270-D8FDE3D4BBE7}
+----field----
+field: {649E4FF6-E705-434D-950E-6DD60C5ACCEB}
+name: notificationBanner-startTime
+key: notificationbanner-starttime
+content-length: 20
+
+2018-03-27T09:00:00Z
+----field----
+field: {5E9A6322-C46C-4105-8304-EEB0BBAFF10E}
+name: notificationBanner-endTime
+key: notificationbanner-endtime
+content-length: 20
+
+2018-04-12T21:00:00Z
+----field----
+field: {AE0E642B-1B7A-4C70-9A52-76AE1BF09EFC}
+name: addressFooter-brandName
+key: addressfooter-brandname
+content-length: 14
+
+Xfinity Mobile
+----field----
+field: {F87705F5-D87B-40E4-9DAE-3D9489D9C037}
+name: addressFooter-addressLine1
+key: addressfooter-addressline1
+content-length: 24
+
+1701 John F Kennedy Blvd
+----field----
+field: {90233F48-39FB-4BE5-978A-46EFB294BD40}
+name: addressFooter-addressLine2
+key: addressfooter-addressline2
+content-length: 23
+
+Philadelphia, PA, 19103
+----field----
+field: {5822F189-1F9F-406A-8BEA-F9AA41AB5EFF}
+name: addressFooter-link
+key: addressfooter-link
+content-length: 52
+
+[^xfinitymobile.com|https://www.xfinity.com/mobile^]
+----field----
+field: {40A99F87-3ACB-4240-92A7-4EA393E87D64}
+name: error-image
+key: error-image
+content-length: 38
+
+{6D376ED4-A593-4778-8C8D-4223C4B4B85F}
+----field----
+field: {7368FA0D-B544-42EC-AC11-C52D4C63D952}
+name: error-headline
+key: error-headline
+content-length: 21
+
+Something went wrong.
+----field----
+field: {45B10979-181B-4F52-BA19-6CE9F15BEC0A}
+name: error-subhead
+key: error-subhead
+content-length: 48
+
+Trying this page again may help fix the problem.
+----field----
+field: {C1C14AC5-2A1D-4424-95B0-1A4817CADEF3}
+name: error-retry
+key: error-retry
+content-length: 9
+
+Try Again
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180828T151313Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+14b134e3-0e73-48f8-949d-337675775ee4
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200611T145037Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

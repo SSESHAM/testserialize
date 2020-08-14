@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {68DDD809-F5F1-4D2A-AFE4-2D1905E6A890}
+database: master
+path: /sitecore/content/Modesto/NG Site/Media Collection/Banners/Actions/cSpot Tablet Into
+parent: {2112D13C-AD96-401F-B2B7-10A702538D3B}
+name: cSpot Tablet Into
+master: {00000000-0000-0000-0000-000000000000}
+template: {1151C331-74EF-48D4-A169-1CD6C79B9ED9}
+templatekey: Actions
+created: 20190712T172624Z
+
+----version----
+language: en
+version: 1
+revision: f3192df6-3394-4f5b-aa18-bb360daf399f
+
+----field----
+field: {565CD5BF-9527-4448-9B72-2EC47F992EA2}
+name: bannerClass
+key: bannerclass
+content-length: 12
+
+right-banner
+----field----
+field: {DD9047E1-6E95-4990-AD57-27899475FED7}
+name: links
+key: links
+content-length: 113
+
+l0=%5B%24%24Learn%20More%23Learn%20more%20about%20tablets%7Cshop.catalog%7C%27category%27%3A%27tablet%27%24%24%5D
+----field----
+field: {9F7B4F16-ECD2-48BC-81D7-EC8B9EFAE0A6}
+name: popovers
+key: popovers
+content-length: 38
+
+{752DE8A6-C99B-4749-9FA4-CC5D00266DF1}
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190712T172624Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f3192df6-3394-4f5b-aa18-bb360daf399f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190712T173213Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

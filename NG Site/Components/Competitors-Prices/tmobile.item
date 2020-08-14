@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {22D77BDF-55A8-4572-8400-A7F07BABD5E2}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Competitors-Prices/tmobile
+parent: {9D3CC3F2-685B-4C98-ACC3-0A3C9BA0A420}
+name: tmobile
+master: {00000000-0000-0000-0000-000000000000}
+template: {176D75BA-A476-4D80-9D69-3A5B01565457}
+templatekey: Competitors
+created: 20180703T165859Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: eca77fac-f18b-4778-86c9-c35ffc061002
+
+----field----
+field: {C1FA2992-9DAA-4064-8B7E-985049CA1113}
+name: lineFee
+key: linefee
+content-length: 1
+
+0
+----field----
+field: {41E04E57-F6E0-4567-B520-C3E9EFFDD50B}
+name: unlimited
+key: unlimited
+content-length: 28
+
+1=70&2=120&3=140&4=160&5=180
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180703T165859Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+eca77fac-f18b-4778-86c9-c35ffc061002
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180905T154426Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

@@ -1,0 +1,624 @@
+----item----
+version: 1
+id: {A1D46176-BFA0-4729-8711-EDB4B91A9BE6}
+database: master
+path: /sitecore/content/Modesto/NG Site/Home/Core/Hop
+parent: {84DF3B2A-40D6-40C7-BCAE-B4EBA8912A26}
+name: Hop
+master: {00000000-0000-0000-0000-000000000000}
+template: {E6563B1C-38ED-4D8C-BC32-D44E0FEA5834}
+templatekey: Hop
+created: 20180713T175730Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+450
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 26247324-2698-466a-a83c-4ae7a4e959de
+
+----field----
+field: {23B87096-E5D2-4BAA-80AF-DCB19653BF9B}
+name: timeout
+key: timeout
+content-length: 99
+
+Our credit card service is having some technical difficulties. Please retry by refreshing the page.
+----field----
+field: {55CF63D5-6CA6-4B4B-9390-7DE25FA030A5}
+name: success
+key: success
+content-length: 19
+
+code1=100&code2=652
+----field----
+field: {ED4A6F2A-00E2-48F3-A720-4FD01965CD77}
+name: errors-101
+key: errors-101
+content-length: 36
+
+Missing one or more required fields.
+----field----
+field: {2BCC8D97-F964-42E0-AB34-AAE5A86C4FF6}
+name: errors-102
+key: errors-102
+content-length: 37
+
+One or more fields have invalid data.
+----field----
+field: {DAF39694-E097-4537-B36E-4DBCF3C32722}
+name: errors-104
+key: errors-104
+content-length: 98
+
+There was a problem processing your card. Please contact Customer Support or try a different card.
+----field----
+field: {4E0E3459-FD63-4FB3-9536-203E89656C5A}
+name: errors-150
+key: errors-150
+content-length: 41
+
+Oops, we had a problem. Please try again.
+----field----
+field: {584A5959-A8FC-42CD-B93E-F279260FE65C}
+name: errors-151
+key: errors-151
+content-length: 41
+
+Oops, we had a problem. Please try again.
+----field----
+field: {16362B1C-EC5E-4C71-9DB4-69CD9F1F100A}
+name: errors-152
+key: errors-152
+content-length: 41
+
+Oops, we had a problem. Please try again.
+----field----
+field: {66310266-9CC3-40D9-BFE5-FAF8998A79E6}
+name: errors-200
+key: errors-200
+content-length: 47
+
+Invalid Address. Please check it and try again.
+----field----
+field: {B286D856-E07D-4794-A563-25614DCAA2A8}
+name: errors-201
+key: errors-201
+content-length: 41
+
+Oops, we had a problem. Please try again.
+----field----
+field: {4ABE02F9-42EF-4BD1-895E-804A674F0B31}
+name: errors-202
+key: errors-202
+content-length: 55
+
+Invalid Expiration Date. Please check it and try again.
+----field----
+field: {C509812D-C086-4F53-91CA-B798C7989215}
+name: errors-203
+key: errors-203
+content-length: 69
+
+There was a problem processing your card. Please try a different one.
+----field----
+field: {746AC214-BC09-413A-8995-57BAB7CAAC35}
+name: errors-205
+key: errors-205
+content-length: 41
+
+There was a problem processing your card.
+----field----
+field: {EAE15F03-31AF-4628-AFDF-D3E413F80E02}
+name: errors-207
+key: errors-207
+content-length: 47
+
+Oops, we had a problem. Please try again later.
+----field----
+field: {31E6A251-FA51-4A21-A49E-9D06ACCF66A4}
+name: errors-208
+key: errors-208
+content-length: 69
+
+There was a problem processing your card. Please try a different one.
+----field----
+field: {E517D8B4-3480-4F56-BA6B-DECAC3181E4B}
+name: errors-209
+key: errors-209
+content-length: 53
+
+Invalid Security Code. Please check it and try again.
+----field----
+field: {1A53BECC-2FD3-4EB6-8E75-A39990116BE1}
+name: errors-211
+key: errors-211
+content-length: 53
+
+Invalid Security Code. Please check it and try again.
+----field----
+field: {2138EE6B-2B91-4DCF-BBA0-16E4CCE59E26}
+name: errors-221
+key: errors-221
+content-length: 69
+
+There was a problem processing your card. Please try a different one.
+----field----
+field: {898E017D-D3E7-4CD0-8FA0-64063DDE3D4D}
+name: errors-230
+key: errors-230
+content-length: 20
+
+Possible Fraud Flag.
+----field----
+field: {BFD19578-6254-4F31-A46E-9089173D4511}
+name: errors-231
+key: errors-231
+content-length: 73
+
+There was a problem with your card number. Please check it and try again.
+----field----
+field: {270AB2AB-7B04-47B4-9907-A63EE85D08ED}
+name: errors-232
+key: errors-232
+content-length: 115
+
+Sorry, we do not accept that type of card. Please use Visa, Mastercard, American Express or Discover and try again.
+----field----
+field: {7204A299-8906-42F3-AF42-1389585F7696}
+name: errors-233
+key: errors-233
+content-length: 69
+
+There was a problem processing your card. Please try a different one.
+----field----
+field: {64A8223E-7E99-4356-B17A-6842D5C605F6}
+name: errors-234
+key: errors-234
+content-length: 41
+
+There was a problem processing your card.
+----field----
+field: {1DF41340-80E5-439D-87FB-C8D17177DADE}
+name: errors-236
+key: errors-236
+content-length: 47
+
+Oops, we had a problem. Please try again later.
+----field----
+field: {A1A39DB7-01E5-4654-B57A-05E56A8DC551}
+name: errors-250
+key: errors-250
+content-length: 47
+
+Oops, we had a problem. Please try again later.
+----field----
+field: {FDE59CC7-2C09-4F84-83C8-A98FD5F5BDD5}
+name: errors-655
+key: errors-655
+content-length: 41
+
+There was a problem processing your card.
+----field----
+field: {BED84DBA-D826-4D2C-A0AD-EF346A27F419}
+name: errors-657
+key: errors-657
+content-length: 41
+
+There was a problem processing your card.
+----field----
+field: {DD14FD4A-0842-4E3D-A367-2DBCCE30F457}
+name: errors-704
+key: errors-704
+content-length: 41
+
+There was a problem processing your card.
+----field----
+field: {E1C14911-8649-4DD8-84C0-5B9C5CF66374}
+name: errors-706
+key: errors-706
+content-length: 51
+
+Invalid Card Number. Please check it and try again.
+----field----
+field: {4A15FAC2-A2C6-4326-938C-6F9F4F41576B}
+name: errors-950
+key: errors-950
+content-length: 41
+
+There was a problem processing your card.
+----field----
+field: {5E4EACA3-7043-44AE-97B5-1C035F4D3E5C}
+name: errors-951
+key: errors-951
+content-length: 47
+
+Oops, we had a problem. Please try again later.
+----field----
+field: {74B0F346-BF2F-4455-8DED-91F68C0228AB}
+name: errors-994
+key: errors-994
+content-length: 41
+
+There was a problem processing your card.
+----field----
+field: {31503DF1-9BF0-476C-91BC-2CEA89B99B96}
+name: errors-998
+key: errors-998
+content-length: 41
+
+There was a problem processing your card.
+----field----
+field: {FC1AF3C3-E40B-44BB-9B66-39668204EC0B}
+name: errors-expired
+key: errors-expired
+content-length: 50
+
+Your card is expired. Please update and try again.
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180713T175730Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+26247324-2698-466a-a83c-4ae7a4e959de
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200611T145059Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----version----
+language: en
+version: 2
+revision: f341d51b-7210-4959-b82e-8cd8e2716b2e
+
+----field----
+field: {23B87096-E5D2-4BAA-80AF-DCB19653BF9B}
+name: timeout
+key: timeout
+content-length: 99
+
+Our credit card service is having some technical difficulties. Please retry by refreshing the page.
+----field----
+field: {55CF63D5-6CA6-4B4B-9390-7DE25FA030A5}
+name: success
+key: success
+content-length: 19
+
+code1=100&code2=652
+----field----
+field: {ED4A6F2A-00E2-48F3-A720-4FD01965CD77}
+name: errors-101
+key: errors-101
+content-length: 36
+
+Missing one or more required fields.
+----field----
+field: {2BCC8D97-F964-42E0-AB34-AAE5A86C4FF6}
+name: errors-102
+key: errors-102
+content-length: 37
+
+One or more fields have invalid data.
+----field----
+field: {DAF39694-E097-4537-B36E-4DBCF3C32722}
+name: errors-104
+key: errors-104
+content-length: 98
+
+There was a problem processing your card. Please contact Customer Support or try a different card.
+----field----
+field: {4E0E3459-FD63-4FB3-9536-203E89656C5A}
+name: errors-150
+key: errors-150
+content-length: 41
+
+Oops, we had a problem. Please try again.
+----field----
+field: {584A5959-A8FC-42CD-B93E-F279260FE65C}
+name: errors-151
+key: errors-151
+content-length: 41
+
+Oops, we had a problem. Please try again.
+----field----
+field: {16362B1C-EC5E-4C71-9DB4-69CD9F1F100A}
+name: errors-152
+key: errors-152
+content-length: 41
+
+Oops, we had a problem. Please try again.
+----field----
+field: {66310266-9CC3-40D9-BFE5-FAF8998A79E6}
+name: errors-200
+key: errors-200
+content-length: 47
+
+Invalid Address. Please check it and try again.
+----field----
+field: {B286D856-E07D-4794-A563-25614DCAA2A8}
+name: errors-201
+key: errors-201
+content-length: 75
+
+Oops! We ran into a problem. Try contacting your bank for more information.
+----field----
+field: {4ABE02F9-42EF-4BD1-895E-804A674F0B31}
+name: errors-202
+key: errors-202
+content-length: 55
+
+Invalid Expiration Date. Please check it and try again.
+----field----
+field: {C509812D-C086-4F53-91CA-B798C7989215}
+name: errors-203
+key: errors-203
+content-length: 69
+
+There was a problem processing your card. Please try a different one.
+----field----
+field: {746AC214-BC09-413A-8995-57BAB7CAAC35}
+name: errors-205
+key: errors-205
+content-length: 41
+
+There was a problem processing your card.
+----field----
+field: {EAE15F03-31AF-4628-AFDF-D3E413F80E02}
+name: errors-207
+key: errors-207
+content-length: 47
+
+Oops, we had a problem. Please try again later.
+----field----
+field: {31E6A251-FA51-4A21-A49E-9D06ACCF66A4}
+name: errors-208
+key: errors-208
+content-length: 69
+
+There was a problem processing your card. Please try a different one.
+----field----
+field: {E517D8B4-3480-4F56-BA6B-DECAC3181E4B}
+name: errors-209
+key: errors-209
+content-length: 53
+
+Invalid Security Code. Please check it and try again.
+----field----
+field: {1A53BECC-2FD3-4EB6-8E75-A39990116BE1}
+name: errors-211
+key: errors-211
+content-length: 53
+
+Invalid Security Code. Please check it and try again.
+----field----
+field: {2138EE6B-2B91-4DCF-BBA0-16E4CCE59E26}
+name: errors-221
+key: errors-221
+content-length: 69
+
+There was a problem processing your card. Please try a different one.
+----field----
+field: {898E017D-D3E7-4CD0-8FA0-64063DDE3D4D}
+name: errors-230
+key: errors-230
+content-length: 62
+
+There was a problem processing that card. Try a different one.
+----field----
+field: {BFD19578-6254-4F31-A46E-9089173D4511}
+name: errors-231
+key: errors-231
+content-length: 73
+
+There was a problem with your card number. Please check it and try again.
+----field----
+field: {270AB2AB-7B04-47B4-9907-A63EE85D08ED}
+name: errors-232
+key: errors-232
+content-length: 115
+
+Sorry, we do not accept that type of card. Please use Visa, Mastercard, American Express or Discover and try again.
+----field----
+field: {7204A299-8906-42F3-AF42-1389585F7696}
+name: errors-233
+key: errors-233
+content-length: 69
+
+There was a problem processing your card. Please try a different one.
+----field----
+field: {64A8223E-7E99-4356-B17A-6842D5C605F6}
+name: errors-234
+key: errors-234
+content-length: 41
+
+There was a problem processing your card.
+----field----
+field: {1DF41340-80E5-439D-87FB-C8D17177DADE}
+name: errors-236
+key: errors-236
+content-length: 47
+
+Oops, we had a problem. Please try again later.
+----field----
+field: {A1A39DB7-01E5-4654-B57A-05E56A8DC551}
+name: errors-250
+key: errors-250
+content-length: 47
+
+Oops, we had a problem. Please try again later.
+----field----
+field: {FDE59CC7-2C09-4F84-83C8-A98FD5F5BDD5}
+name: errors-655
+key: errors-655
+content-length: 76
+
+One or more fields have invalid data. Review your information and try again.
+----field----
+field: {BED84DBA-D826-4D2C-A0AD-EF346A27F419}
+name: errors-657
+key: errors-657
+content-length: 76
+
+One or more fields have invalid data. Review your information and try again.
+----field----
+field: {DD14FD4A-0842-4E3D-A367-2DBCCE30F457}
+name: errors-704
+key: errors-704
+content-length: 41
+
+There was a problem processing your card.
+----field----
+field: {E1C14911-8649-4DD8-84C0-5B9C5CF66374}
+name: errors-706
+key: errors-706
+content-length: 51
+
+Invalid Card Number. Please check it and try again.
+----field----
+field: {4A15FAC2-A2C6-4326-938C-6F9F4F41576B}
+name: errors-950
+key: errors-950
+content-length: 41
+
+There was a problem processing your card.
+----field----
+field: {5E4EACA3-7043-44AE-97B5-1C035F4D3E5C}
+name: errors-951
+key: errors-951
+content-length: 47
+
+Oops, we had a problem. Please try again later.
+----field----
+field: {74B0F346-BF2F-4455-8DED-91F68C0228AB}
+name: errors-994
+key: errors-994
+content-length: 45
+
+Oops! We ran into a problem. Try again later.
+----field----
+field: {31503DF1-9BF0-476C-91BC-2CEA89B99B96}
+name: errors-998
+key: errors-998
+content-length: 45
+
+Oops! We ran into a problem. Try again later.
+----field----
+field: {FC1AF3C3-E40B-44BB-9B66-39668204EC0B}
+name: errors-expired
+key: errors-expired
+content-length: 50
+
+Your card is expired. Please update and try again.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190726T183815Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190726T183815Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\ssingh466
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f341d51b-7210-4959-b82e-8cd8e2716b2e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200611T145100Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

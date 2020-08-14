@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {C17498E0-D0B6-46DE-A2AF-AF0D4F8B0AD6}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Common/Modal Content/Descriptive/Tooltip
+parent: {65F92AEA-38CF-4B8B-A890-576F7F0AFA77}
+name: Tooltip
+master: {00000000-0000-0000-0000-000000000000}
+template: {8A7302BD-7B88-4375-AE78-91E0EC70A6C8}
+templatekey: Descriptive Modal Content
+created: 20190710T201517Z
+
+----version----
+language: en
+version: 1
+revision: 8bbd56e1-db1d-4427-8f3c-7dabdbf560d1
+
+----field----
+field: {5A86897D-4122-42B5-9C4A-455174723A59}
+name: description
+key: description
+content-length: 192
+
+d0=If%20you%20start%20activation%20with%20a%20new%20number%2C%20you%20%2A%2Awill%20not%2A%2A%20be%20able%20to%20transfer%20your%20number%20from%20your%20previous%20carrier%20to%20this%20phone.
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190710T201517Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8bbd56e1-db1d-4427-8f3c-7dabdbf560d1
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190710T201533Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

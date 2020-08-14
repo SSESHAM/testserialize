@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {25BF2CCA-A654-4118-A62F-6F602D15FB97}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Modals Page/Descriptive Modal Data/Checkout With PreOrder Backorder Item
+parent: {4D24651F-F484-4235-BB41-85150E497B6F}
+name: Checkout With PreOrder Backorder Item
+master: {00000000-0000-0000-0000-000000000000}
+template: {9255AFF8-E2F0-46E8-ADE3-4F5A1DDF9124}
+templatekey: Descriptive Modal Data
+created: 20180628T194409Z
+
+----version----
+language: en
+version: 1
+revision: 36d67114-66eb-40ad-be39-3dfccca9dd97
+
+----field----
+field: {CE84A532-6024-4837-B199-53046D477D02}
+name: close
+key: close
+content-length: 1
+
+1
+----field----
+field: {EEF6DBF4-B7FB-4715-A865-0E56E8088E65}
+name: header
+key: header
+content-length: 35
+
+Check out with [AVAILABILITY] Item?
+----field----
+field: {8EFAA054-C5D1-45F0-BF5C-2F92F9AB8A2B}
+name: content
+key: content
+content-length: 38
+
+{8340FB77-22CE-4218-9406-6D843B19BA47}
+----field----
+field: {26E0A3E9-AB34-4A1B-97D1-5A67E6ED1F43}
+name: primaryButton
+key: primarybutton
+content-length: 28
+
+Continue with [AVAILABILITY]
+----field----
+field: {F9050821-D646-45B4-A909-B6CBC1F536E6}
+name: secondaryButton
+key: secondarybutton
+content-length: 26
+
+Remove [AVAILABILITY] Item
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180628T194409Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+36d67114-66eb-40ad-be39-3dfccca9dd97
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180802T203343Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

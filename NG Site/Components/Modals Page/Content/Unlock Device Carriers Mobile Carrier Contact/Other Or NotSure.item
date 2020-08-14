@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {AEE0442A-AF0F-471F-B55E-FE1C1A05AD42}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Modals Page/Content/Unlock Device Carriers Mobile Carrier Contact/Other Or NotSure
+parent: {0B04583A-DA31-45EE-B6E4-688046BA8BD9}
+name: Other Or NotSure
+master: {00000000-0000-0000-0000-000000000000}
+template: {D33C8603-3594-40AA-8CE5-CD7BC4655D07}
+templatekey: Custom Key Value Text
+created: 20191001T194837Z
+
+----version----
+language: en
+version: 1
+revision: 2540776c-7e5b-438e-8dd6-086801df4fe6
+
+----field----
+field: {DADBF5BE-9ED9-438A-9550-727A39AB9299}
+name: KeyText
+key: keytext
+content-length: 13
+
+Other/NotSure
+----field----
+field: {05FAC369-3918-4461-86FB-EABA9FD4BC18}
+name: ValueText
+key: valuetext
+content-length: 0
+
+
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 13
+
+Other/NotSure
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190506T185658Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2540776c-7e5b-438e-8dd6-086801df4fe6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190919T182457Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

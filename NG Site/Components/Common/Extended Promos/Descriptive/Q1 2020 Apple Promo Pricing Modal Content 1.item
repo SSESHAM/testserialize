@@ -1,0 +1,366 @@
+----item----
+version: 1
+id: {A6220F50-7909-4B18-A7BE-D9CFFA75D89E}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Common/Extended Promos/Descriptive/Q1 2020 Apple Promo Pricing Modal Content 1
+parent: {89488CAD-C6A4-470E-8D03-4A2F6B97E043}
+name: Q1 2020 Apple Promo Pricing Modal Content 1
+master: {00000000-0000-0000-0000-000000000000}
+template: {8A7302BD-7B88-4375-AE78-91E0EC70A6C8}
+templatekey: Descriptive Modal Content
+created: 20200103T171224Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 1561ae2e-4ef1-4858-9162-9dbb6b5c64a1
+
+----field----
+field: {5A86897D-4122-42B5-9C4A-455174723A59}
+name: description
+key: description
+content-length: 635
+
+d0=Promotion%20requires%20paying%20monthly%20%280%25%20APR%20device%20payment%20plan%29.%20Customer%20must%20transfer%20a%20number%20from%20another%20carrier%20and%20activate%20their%20device%20within%2030%20days%20of%20shipment%20date%20%28for%20shipped%20orders%29%20or%20purchase%20date%20%28for%20all%20other%20orders%29.%20%24250%20savings%20are%20applied%20in%20monthly%20credits%20%E2%80%94%20they%20begin%20within%20one%20to%20two%20bill%20cycles%2C%20starting%20with%20first%20bill%20after%20activation.%20Credits%20are%20discontinued%20if%20customer%20cancels%20the%20line%20or%20stops%20making%20monthly%20device%20payments.
+----field----
+field: {A7E044DD-E9A3-4EEF-BF94-0C3507883B51}
+name: header
+key: header
+content-length: 18
+
+Offer requirements
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190919T145913Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1561ae2e-4ef1-4858-9162-9dbb6b5c64a1
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190919T145954Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----version----
+language: en
+version: 2
+revision: 9e231832-2f86-404d-b375-323be0ecd8a2
+
+----field----
+field: {5A86897D-4122-42B5-9C4A-455174723A59}
+name: description
+key: description
+content-length: 1169
+
+d0=Restrictions%20apply.%20Not%20available%20in%20all%20areas.%20Savings%20comparison%20to%20the%20weighted%20average%20prices%20of%20similar%20Verizon%2C%20AT%26T%2C%20T-Mobile%20and%20Sprint%20plans.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.&d1=Offer%20ends%2012%2F8%2F19.%20Requires%20purchase%20of%20new%2C%20qualifying%20iPhone%2C%20Samsung%20or%20Google%20Pixel%20mobile%20phone%20while%20supplies%20last%2C%2024%20month%20Xfinity%20Mobile%20Device%20Payment%20Plan%20Agreement%20%28%22Device%20Agreement%22%29%2C%20activation%20of%20new%20Xfinity%20Mobile%20line%20and%20transfer%20of%20phone%20number%20from%20another%20carrier%20within%2030%20days%20of%20phone%20purchase%20date.%20Device%20credits%20applied%20monthly%20to%20your%20account%20over%2022-23%20months%20so%20long%20as%20Device%20Agreement%20is%20in%20effect.%20If%20line%20is%20canceled%2C%20voluntarily%20or%20involuntarily%20or%20device%20payments%20are%20accelerated%2C%20balance%20of%20credits%20associated%20with%20device%20payment%20are%20forfeited.%20May%20not%20be%20combined%20with%20other%20offers.%20Not%20valid%20with%20prior%20purchases%2C%20returns%20or%20exchanges.
+----field----
+field: {A7E044DD-E9A3-4EEF-BF94-0C3507883B51}
+name: header
+key: header
+content-length: 32
+
+Xfinity Mobile promotion details
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20191014T185140Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20191014T185140Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9e231832-2f86-404d-b375-323be0ecd8a2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200114T184356Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 3
+revision: 8f8b8420-74be-4c80-aa9a-a9b6ac05a14f
+
+----field----
+field: {5A86897D-4122-42B5-9C4A-455174723A59}
+name: description
+key: description
+content-length: 1181
+
+d0=Restrictions%20apply.%20Not%20available%20in%20all%20areas.%20Savings%20comparison%20to%20the%20weighted%20average%20prices%20of%20similar%20Verizon%2C%20AT%26T%2C%20T-Mobile%20and%20Sprint%20plans.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.&d1=%24250%20Off%20offer%20ends%201%2F6%2F20.%20Requires%20purchase%20of%20new%2C%20eligible%20iPhone%2C%20Samsung%20or%20Google%20Pixel%20mobile%20phone%20while%20supplies%20last%2C%2024%20month%20Xfinity%20Mobile%20Device%20Payment%20Plan%20Agreement%20%28%22Device%20Agreement%22%29%2C%20activation%20of%20new%20Xfinity%20Mobile%20line%20and%20transfer%20of%20phone%20number%20from%20another%20carrier%20within%2030%20days%20of%20phone%20purchase%20date.%20Device%20credits%20applied%20monthly%20to%20your%20account%20over%2022-24%20months%20so%20long%20as%20Device%20Agreement%20is%20in%20effect.%20If%20line%20is%20canceled%2C%20voluntarily%20or%20involuntarily%20or%20device%20payments%20are%20accelerated%2C%20balance%20of%20credits%20associated%20with%20device%20payment%20are%20forfeited.%20May%20not%20be%20combined%20with%20other%20offers.%20Not%20valid%20with%20prior%20purchases%2C%20returns%20or%20exchanges.
+----field----
+field: {A7E044DD-E9A3-4EEF-BF94-0C3507883B51}
+name: header
+key: header
+content-length: 32
+
+Xfinity Mobile promotion details
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20191113T151306Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20191113T151306Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8f8b8420-74be-4c80-aa9a-a9b6ac05a14f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200114T184323Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 4
+revision: 31017313-4c5f-407f-9d65-e0a6e9a1aca8
+
+----field----
+field: {5A86897D-4122-42B5-9C4A-455174723A59}
+name: description
+key: description
+content-length: 1444
+
+d0=Restrictions%20apply.%20Not%20available%20in%20all%20areas.%20Xfinity%20Mobile%20requires%20residential%20post-pay%20Xfinity%20Internet.%20Savings%20comparison%20to%20the%20weighted%20average%20prices%20of%20similar%20Verizon%2C%20AT%26T%2C%20T-Mobile%20and%20Sprint%20plans.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.&d1=Offers%20end%202%2F11%2F20%20and%20only%20available%20while%20supplies%20last.%20%24250%20Off%3A%20Requires%20purchase%20of%20new%20iPhone%2011%2C%20iPhone%2011%20Pro%20or%20iPhone%2011%20Pro%20Max.%20%24200%20Off%3A%20Requires%20purchase%20of%20new%2C%20eligible%20iPhone%2C%20excluding%20iPhone%2011%2C%20iPhone%2011%20Pro%20or%20iPhone%2011%20Pro%20Max.%20Requires%2024%20month%20Xfinity%20Mobile%20Device%20Payment%20Plan%20Agreement%20%28%22Device%20Agreement%22%29%2C%20activation%20of%20new%20Xfinity%20Mobile%20line%20and%20transfer%20of%20phone%20number%20from%20another%20carrier%20within%2030%20days%20of%20phone%20purchase%20date.%20Device%20credits%20applied%20monthly%20to%20your%20account%20over%2024%20months%20so%20long%20as%20Device%20Agreement%20is%20in%20effect.%20If%20line%20is%20canceled%2C%20voluntarily%20or%20involuntarily%20or%20device%20payments%20are%20accelerated%2C%20balance%20of%20credits%20associated%20with%20device%20payment%20are%20forfeited.%20May%20not%20be%20combined%20with%20other%20offers.%20Not%20valid%20with%20prior%20purchases%2C%20returns%20or%20exchanges.
+----field----
+field: {A7E044DD-E9A3-4EEF-BF94-0C3507883B51}
+name: header
+key: header
+content-length: 32
+
+Xfinity Mobile promotion details
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20191215T184228Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20191215T184228Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\jconno876
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+31017313-4c5f-407f-9d65-e0a6e9a1aca8
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200103T193413Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 5
+revision: 97be18af-6377-43cc-bbf4-5021f1e4be48
+
+----field----
+field: {5A86897D-4122-42B5-9C4A-455174723A59}
+name: description
+key: description
+content-length: 1444
+
+d0=Restrictions%20apply.%20Not%20available%20in%20all%20areas.%20Xfinity%20Mobile%20requires%20residential%20post-pay%20Xfinity%20Internet.%20Savings%20comparison%20to%20the%20weighted%20average%20prices%20of%20similar%20Verizon%2C%20AT%26T%2C%20T-Mobile%20and%20Sprint%20plans.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.&d1=Offers%20end%202%2F20%2F20%20and%20only%20available%20while%20supplies%20last.%20%24250%20Off%3A%20Requires%20purchase%20of%20new%20iPhone%2011%2C%20iPhone%2011%20Pro%20or%20iPhone%2011%20Pro%20Max.%20%24200%20Off%3A%20Requires%20purchase%20of%20new%2C%20eligible%20iPhone%2C%20excluding%20iPhone%2011%2C%20iPhone%2011%20Pro%20or%20iPhone%2011%20Pro%20Max.%20Requires%2024%20month%20Xfinity%20Mobile%20Device%20Payment%20Plan%20Agreement%20%28%22Device%20Agreement%22%29%2C%20activation%20of%20new%20Xfinity%20Mobile%20line%20and%20transfer%20of%20phone%20number%20from%20another%20carrier%20within%2030%20days%20of%20phone%20purchase%20date.%20Device%20credits%20applied%20monthly%20to%20your%20account%20over%2024%20months%20so%20long%20as%20Device%20Agreement%20is%20in%20effect.%20If%20line%20is%20canceled%2C%20voluntarily%20or%20involuntarily%20or%20device%20payments%20are%20accelerated%2C%20balance%20of%20credits%20associated%20with%20device%20payment%20are%20forfeited.%20May%20not%20be%20combined%20with%20other%20offers.%20Not%20valid%20with%20prior%20purchases%2C%20returns%20or%20exchanges.
+----field----
+field: {A7E044DD-E9A3-4EEF-BF94-0C3507883B51}
+name: header
+key: header
+content-length: 32
+
+Xfinity Mobile promotion details
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200121T194954Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200121T194954Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+97be18af-6377-43cc-bbf4-5021f1e4be48
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200122T195421Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

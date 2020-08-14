@@ -1,0 +1,509 @@
+----item----
+version: 1
+id: {8AF8D866-0ABB-44C2-A4CF-3DF7666C5CD5}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Accessory Toast/Products/pixel-4-google
+parent: {D9A21D2F-BA37-4A2B-B75A-5A00499530B1}
+name: pixel-4-google
+master: {00000000-0000-0000-0000-000000000000}
+template: {177684AF-12BC-41E1-9C57-CBD85BADE8E5}
+templatekey: Product
+created: 20191021T144757Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 11dacfea-b06c-451e-8c1a-ae4094212af0
+
+----field----
+field: {18434F5F-F21B-419E-8D9D-72BF5388DCE5}
+name: accessoriesSlug
+key: accessoriesslug
+content-length: 218
+
+s1=apple-iphone-xs-max-protection-pack-case-mate&s2=apple-iphone-xs-max-invisibleshield-glass-plus-zagg&s3=apple-iphone-xs-max-symmetry-otterbox&s4=charge-stream-pad-plus-mophie&s5=apple-iphone-xs-max-defender-otterbox
+----field----
+field: {3A9CF6EE-61BB-4BB1-B72A-EE15297B5157}
+name: productSlug
+key: productslug
+content-length: 19
+
+iphone-xs-max-apple
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190311T150745Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+11dacfea-b06c-451e-8c1a-ae4094212af0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T190548Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 2
+revision: 7bb076a5-d9f0-46be-8044-cc909ca87ee5
+
+----field----
+field: {18434F5F-F21B-419E-8D9D-72BF5388DCE5}
+name: accessoriesSlug
+key: accessoriesslug
+content-length: 214
+
+s1=airpods-with-charging-case-apple&s2=apple-iphone-11-symmetry-otterbox&s3=apple-iphone-11-invisibleshield-glass-visionguardssplus-zagg&s4=apple-iphone-11-protection-pack-case-mate&s5=charge-stream-pad-plus-mophie
+----field----
+field: {3A9CF6EE-61BB-4BB1-B72A-EE15297B5157}
+name: productSlug
+key: productslug
+content-length: 15
+
+iphone-11-apple
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190917T204950Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190917T204950Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\mpayto200
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7bb076a5-d9f0-46be-8044-cc909ca87ee5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T191037Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 3
+revision: 8d92c622-836f-47ca-ba12-ee3642c0c448
+
+----field----
+field: {18434F5F-F21B-419E-8D9D-72BF5388DCE5}
+name: accessoriesSlug
+key: accessoriesslug
+content-length: 227
+
+s1=airpods-with-charging-case-apple&s2=apple-iphone-11-invisibleshield-glass-visionguardssplus-zagg&s3=iphone-11-clear-case---online-only-apple&s4=apple-iphone-11-symmetry-otterbox&s5=iphone-11-silicone-case---online-only-apple
+----field----
+field: {3A9CF6EE-61BB-4BB1-B72A-EE15297B5157}
+name: productSlug
+key: productslug
+content-length: 15
+
+iphone-11-apple
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20191008T194606Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\mpayto200
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20191008T194606Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\mpayto200
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8d92c622-836f-47ca-ba12-ee3642c0c448
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T191037Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 4
+revision: 17f8e50a-37d3-40cd-83d6-60507385614a
+
+----field----
+field: {18434F5F-F21B-419E-8D9D-72BF5388DCE5}
+name: accessoriesSlug
+key: accessoriesslug
+content-length: 214
+
+s1=airpods-with-charging-case-apple&s2=apple-iphone-11-symmetry-otterbox&s3=apple-iphone-11-invisibleshield-glass-visionguardssplus-zagg&s4=apple-iphone-11-protection-pack-case-mate&s5=charge-stream-pad-plus-mophie
+----field----
+field: {3A9CF6EE-61BB-4BB1-B72A-EE15297B5157}
+name: productSlug
+key: productslug
+content-length: 15
+
+iphone-11-apple
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20191014T152045Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\mpayto200
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20191014T152045Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\mpayto200
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+17f8e50a-37d3-40cd-83d6-60507385614a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T191036Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 5
+revision: bdec8100-c4b6-4c11-88f9-db8be4568d86
+
+----field----
+field: {18434F5F-F21B-419E-8D9D-72BF5388DCE5}
+name: accessoriesSlug
+key: accessoriesslug
+content-length: 213
+
+s1=google-pixel-4-invisibleshield-glass-zagg&s2=google-pixel-4-protection-pack-case-mate&s3=google-pixel-4-symmetry-otterbox&s4=3ft-type-c-to-type-c-chargesync-cable-ventev&s5=pd-fast-charge-type-c-wallport-ventev
+----field----
+field: {3A9CF6EE-61BB-4BB1-B72A-EE15297B5157}
+name: productSlug
+key: productslug
+content-length: 14
+
+pixel-4-google
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20191015T112651Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\mpayto200
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20191015T112651Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\mpayto200
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+bdec8100-c4b6-4c11-88f9-db8be4568d86
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191022T191559Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\mpayto200
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 6
+revision: d2854cac-16e1-4f1b-9ea7-4c945c6ac221
+
+----field----
+field: {18434F5F-F21B-419E-8D9D-72BF5388DCE5}
+name: accessoriesSlug
+key: accessoriesslug
+content-length: 232
+
+s1=google-pixel-4-invisibleshield-glass-zagg&s2=google-pixel-4-case-glass-screen-protector-bundle-case-mate&s3=google-pixel-4-symmetry-otterbox&s4=3ft-type-c-to-type-c-chargesync-cable-ventev&s5=pd-fast-charge-type-c-wallport-ventev
+----field----
+field: {3A9CF6EE-61BB-4BB1-B72A-EE15297B5157}
+name: productSlug
+key: productslug
+content-length: 14
+
+pixel-4-google
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20191105T152816Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\mpayto200
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20191105T152816Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\mpayto200
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d2854cac-16e1-4f1b-9ea7-4c945c6ac221
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191114T181652Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\mpayto200
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 7
+revision: bbf60265-418c-44fa-89f5-95b46474956a
+
+----field----
+field: {18434F5F-F21B-419E-8D9D-72BF5388DCE5}
+name: accessoriesSlug
+key: accessoriesslug
+content-length: 230
+
+s1=google-pixel-4-invisibleshield-glass-zagg&s2=google-pixel-4-case-glass-screen-protector-bundle-case-mate&s3=google-pixel-4-symmetry-otterbox&s4=3ft-usb-c-to-usb-c-charge-cable-ventev&s5=18w-fast-charge-usb-c-wall-charger-ventev
+----field----
+field: {3A9CF6EE-61BB-4BB1-B72A-EE15297B5157}
+name: productSlug
+key: productslug
+content-length: 14
+
+pixel-4-google
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20191216T183228Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\mpayto200
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20191216T183228Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\nkuryl457
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+bbf60265-418c-44fa-89f5-95b46474956a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191217T181418Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\jconno876
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

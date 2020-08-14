@@ -1,0 +1,286 @@
+----item----
+version: 1
+id: {796FDB71-C3A4-4CC9-94A8-7F6F3A688884}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Watches/Errors/PAIRED_WITH_SAME_LINE
+parent: {1D9DBCD1-C4D4-4B03-8124-5C7B6E58AE4E}
+name: PAIRED_WITH_SAME_LINE
+master: {00000000-0000-0000-0000-000000000000}
+template: {34806481-697E-4B15-879B-02DAEDD1F596}
+templatekey: Error
+created: 20190603T195819Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 2545fb4d-b461-4068-8b62-b6f6685a2c57
+
+----field----
+field: {B85A1BAC-7359-47AE-BA6A-0F120A3DD6F4}
+name: errorCode
+key: errorcode
+content-length: 21
+
+PAIRED_WITH_SAME_LINE
+----field----
+field: {E69942FB-AB2F-4326-B439-312D05D1AD61}
+name: header
+key: header
+content-length: 31
+
+This watch has been pretty busy
+----field----
+field: {25B23C1B-0262-4BF0-A14B-C5BB287AA6E9}
+name: content
+key: content
+content-length: 157
+
+This watch was already activated on another line on this account. Call us at (844) 963-0125 to deactivate the watch from its current phone before proceeding.
+----field----
+field: {C7B56F2D-1195-4328-9256-DCFBCDAF60B8}
+name: cta
+key: cta
+content-length: 6
+
+Got it
+----field----
+field: {7D6B8659-5D18-4A6D-ACAE-4C8C8D07B79C}
+name: errorIcon
+key: erroricon
+content-length: 38
+
+{5BBE6568-667D-40D4-84E6-FD5B4347D2C1}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190603T195819Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2545fb4d-b461-4068-8b62-b6f6685a2c57
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190603T202549Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----version----
+language: en
+version: 2
+revision: c33cf5c1-2c36-4336-8583-0ebc260801d0
+
+----field----
+field: {B85A1BAC-7359-47AE-BA6A-0F120A3DD6F4}
+name: errorCode
+key: errorcode
+content-length: 21
+
+PAIRED_WITH_SAME_LINE
+----field----
+field: {E69942FB-AB2F-4326-B439-312D05D1AD61}
+name: header
+key: header
+content-length: 31
+
+This watch has been pretty busy
+----field----
+field: {25B23C1B-0262-4BF0-A14B-C5BB287AA6E9}
+name: content
+key: content
+content-length: 141
+
+This watch was already activated on another line. Call us at (844) 963-0125 to deactivate the watch from its current phone before proceeding.
+----field----
+field: {C7B56F2D-1195-4328-9256-DCFBCDAF60B8}
+name: cta
+key: cta
+content-length: 6
+
+Got It
+----field----
+field: {7D6B8659-5D18-4A6D-ACAE-4C8C8D07B79C}
+name: errorIcon
+key: erroricon
+content-length: 38
+
+{5BBE6568-667D-40D4-84E6-FD5B4347D2C1}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190625T172247Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190625T172247Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c33cf5c1-2c36-4336-8583-0ebc260801d0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190625T172307Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 3
+revision: bbd22978-bb44-4e0f-b9c2-0a9b92856d65
+
+----field----
+field: {B85A1BAC-7359-47AE-BA6A-0F120A3DD6F4}
+name: errorCode
+key: errorcode
+content-length: 21
+
+PAIRED_WITH_SAME_LINE
+----field----
+field: {E69942FB-AB2F-4326-B439-312D05D1AD61}
+name: header
+key: header
+content-length: 31
+
+This watch has been pretty busy
+----field----
+field: {25B23C1B-0262-4BF0-A14B-C5BB287AA6E9}
+name: content
+key: content
+content-length: 141
+
+This watch was already activated on another line. Call us at (844) 963-0125 to deactivate the watch from its current phone before proceeding.
+----field----
+field: {C7B56F2D-1195-4328-9256-DCFBCDAF60B8}
+name: cta
+key: cta
+content-length: 6
+
+Got It
+----field----
+field: {7D6B8659-5D18-4A6D-ACAE-4C8C8D07B79C}
+name: errorIcon
+key: erroricon
+content-length: 38
+
+{5BBE6568-667D-40D4-84E6-FD5B4347D2C1}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190625T172420Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190625T172420Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+bbd22978-bb44-4e0f-b9c2-0a9b92856d65
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190625T172423Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

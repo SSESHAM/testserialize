@@ -1,0 +1,1464 @@
+----item----
+version: 1
+id: {08D07B3A-32E1-492C-97A9-0395C505DCF0}
+database: master
+path: /sitecore/content/Modesto/NG Site/Media Collection/Banners/Shop/Device Banners/Moto 50 Percent Off 12102019
+parent: {615E98CF-2954-4896-963E-C71EA33309B9}
+name: Moto 50 Percent Off 12102019
+master: {00000000-0000-0000-0000-000000000000}
+template: {ACF7553B-EA2B-46D2-AD40-07BCAEFDBDF3}
+templatekey: Banner
+created: 20191205T163250Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 4
+
+1100
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 9db10850-b83c-483a-8dcd-fcfb8e295c67
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#f2f4f5
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 77
+
+{EFF42950-86CD-459B-9F3F-6AFEC8BD1B36}|{A1E12A3D-BD34-4766-BFA7-6BD774F4D866}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 4
+
+auto
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 33
+
+Device Carousel Apple promotional
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 99
+
+Get $200 back when you buy any iPhone, activate a line, and transfer your number to Xfinity Mobile.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 12
+
+FALL SAVINGS
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 36
+
+Buy any new iPhone and get $200 back
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 28
+
+left-banner shop-left-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 0
+
+
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{8C10BCA7-6261-4643-BF74-47F4F4EA60B0}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180530T204334Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9db10850-b83c-483a-8dcd-fcfb8e295c67
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T183925Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 2
+revision: b711bd4f-f22a-4217-be41-ebef37b04a26
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#f2f4f5
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 77
+
+{EFF42950-86CD-459B-9F3F-6AFEC8BD1B36}|{A1E12A3D-BD34-4766-BFA7-6BD774F4D866}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 4
+
+auto
+----field----
+field: {57F23268-22EF-4D5F-9A9D-62F48EA9F660}
+name: brand
+key: brand
+content-length: 5
+
+apple
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 33
+
+Device Carousel Apple promotional
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 99
+
+Get $200 back when you buy any iPhone, activate a line, and transfer your number to Xfinity Mobile.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 12
+
+FALL SAVINGS
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 36
+
+Buy any new iPhone and get $200 back
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 28
+
+left-banner shop-left-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 0
+
+
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{8C10BCA7-6261-4643-BF74-47F4F4EA60B0}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20181031T205929Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20181031T205929Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 16
+
+cable\fmoham003c
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b711bd4f-f22a-4217-be41-ebef37b04a26
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T183922Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 3
+revision: 8e534c5a-4e2f-4d9c-a90d-ceb367a7b176
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#f2f4f5
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 77
+
+{EFF42950-86CD-459B-9F3F-6AFEC8BD1B36}|{A1E12A3D-BD34-4766-BFA7-6BD774F4D866}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 4
+
+auto
+----field----
+field: {57F23268-22EF-4D5F-9A9D-62F48EA9F660}
+name: brand
+key: brand
+content-length: 5
+
+apple
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 33
+
+Device Carousel Apple promotional
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 99
+
+Get $200 back when you buy any iPhone, activate a line, and transfer your number to Xfinity Mobile.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 12
+
+FALL SAVINGS
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 36
+
+Buy any new iPhone and get $200 back
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 28
+
+left-banner shop-left-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 0
+
+
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{8C10BCA7-6261-4643-BF74-47F4F4EA60B0}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20181101T185349Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20181101T185349Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\apatta228
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8e534c5a-4e2f-4d9c-a90d-ceb367a7b176
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T183920Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 4
+revision: 9b175464-bcc2-4088-9ed2-56855f19dd67
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#f2f4f5
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 77
+
+{EFF42950-86CD-459B-9F3F-6AFEC8BD1B36}|{A1E12A3D-BD34-4766-BFA7-6BD774F4D866}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 4
+
+auto
+----field----
+field: {57F23268-22EF-4D5F-9A9D-62F48EA9F660}
+name: brand
+key: brand
+content-length: 5
+
+apple
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 33
+
+Device Carousel Apple promotional
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 99
+
+Get $200 back when you buy any iPhone, activate a line, and transfer your number to Xfinity Mobile.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 15
+
+HOLIDAY SAVINGS
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 36
+
+Buy any new iPhone and get $200 back
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 28
+
+left-banner shop-left-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 0
+
+
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{8C10BCA7-6261-4643-BF74-47F4F4EA60B0}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20181120T194528Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20181120T194528Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\abrown331
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9b175464-bcc2-4088-9ed2-56855f19dd67
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T183916Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 5
+revision: 5bec5ab2-a13a-4b12-95b8-40a245493ea8
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#f2f4f5
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 77
+
+{EFF42950-86CD-459B-9F3F-6AFEC8BD1B36}|{A1E12A3D-BD34-4766-BFA7-6BD774F4D866}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 4
+
+auto
+----field----
+field: {57F23268-22EF-4D5F-9A9D-62F48EA9F660}
+name: brand
+key: brand
+content-length: 5
+
+apple
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 33
+
+Device Carousel Apple promotional
+----field----
+field: {D7091B83-1446-490A-9D8B-796C0ED3FFBB}
+name: brands
+key: brands
+content-length: 7
+
+1=Apple
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 99
+
+Get $200 back when you buy any iPhone, activate a line, and transfer your number to Xfinity Mobile.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 15
+
+HOLIDAY SAVINGS
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 36
+
+Buy any new iPhone and get $200 back
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 28
+
+left-banner shop-left-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 0
+
+
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{8C10BCA7-6261-4643-BF74-47F4F4EA60B0}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20181218T210539Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20181218T210539Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 16
+
+cable\fmoham003c
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+5bec5ab2-a13a-4b12-95b8-40a245493ea8
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T183915Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 6
+revision: 190baf53-e729-48c8-a021-daa5ee87cf81
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#f2f4f5
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 77
+
+{3F37DC76-E37D-4CC6-B1C8-9052B67648B3}|{34371280-507D-435F-A10E-AFA77623A4CB}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 4
+
+auto
+----field----
+field: {57F23268-22EF-4D5F-9A9D-62F48EA9F660}
+name: brand
+key: brand
+content-length: 2
+
+lg
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 30
+
+Device Carousel LG promotional
+----field----
+field: {D7091B83-1446-490A-9D8B-796C0ED3FFBB}
+name: brands
+key: brands
+content-length: 4
+
+1=LG
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 141
+
+Enjoy next-level technology and a $100 prepaid card when you buy an LG G8 ThinQ, activate a line, and transfer your number to Xfinity Mobile.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 19
+
+BEST OF BOTH WORLDS
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 25
+
+The LG G8 ThinQ™ and $100
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 28
+
+left-banner shop-left-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 0
+
+
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{FA68939D-7975-4690-AC43-7AAF0496D87F}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20181227T195806Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20181227T195806Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+190baf53-e729-48c8-a021-daa5ee87cf81
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T183910Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 7
+revision: 1d9a9885-dd9c-485e-8e18-5cb5c9fab321
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#f2f4f5
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 77
+
+{812B6606-5C85-4749-9783-F5BB0065EE79}|{8C164F60-756A-4968-9DF3-A8FA21C2C44E}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 4
+
+auto
+----field----
+field: {57F23268-22EF-4D5F-9A9D-62F48EA9F660}
+name: brand
+key: brand
+content-length: 2
+
+lg
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 24
+
+Device Carousel moto NPI
+----field----
+field: {D7091B83-1446-490A-9D8B-796C0ED3FFBB}
+name: brands
+key: brands
+content-length: 10
+
+1=MOTOROLA
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 208
+
+Purchase any Motorola phone and get 50% off the full retail price. Requires new line activation and transfer of number within 30 days of purchase date. Credit applied over 22-23 months of device payment plan.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 0
+
+
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 35
+
+Buy a Motorola phone. Get 50% off. 
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 28
+
+left-banner shop-left-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 0
+
+
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 0
+
+
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190621T012359Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190621T012359Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1d9a9885-dd9c-485e-8e18-5cb5c9fab321
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200114T184351Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 8
+revision: 1447675d-9cfe-45dd-857f-511552ca7f24
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#f2f4f5
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 155
+
+{8C6207D1-E49C-4298-AD15-3CFD10DFDB99}|{E6150EF9-2041-4300-9D9C-FD6E07ADA8BB}|{FB1F690F-30FF-4F49-88F7-1D16888F807A}|{78616F1B-EADF-4F0B-9A16-C43600EEFCC2}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 4
+
+auto
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 3
+
+hoz
+----field----
+field: {6A2958E5-FE3C-48B4-BFD3-2CBB97A835E3}
+name: imagePosition
+key: imageposition
+content-length: 6
+
+bottom
+----field----
+field: {57F23268-22EF-4D5F-9A9D-62F48EA9F660}
+name: brand
+key: brand
+content-length: 4
+
+moto
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 24
+
+Device Carousel moto NPI
+----field----
+field: {D7091B83-1446-490A-9D8B-796C0ED3FFBB}
+name: brands
+key: brands
+content-length: 10
+
+1=MOTOROLA
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 148
+
+Purchase any Motorola phone and get 50% off the full retail price, applied equally over 24 months via a bill credit on your account. Offer ends 1/6.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 14
+
+A GIFT FOR YOU
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 34
+
+Buy a Motorola phone. Get 50% off.
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 28
+
+left-banner shop-left-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 0
+
+
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{3C40CF5A-2F59-4B01-88B4-D02599C463C9}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20191029T160657Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20191029T160657Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1447675d-9cfe-45dd-857f-511552ca7f24
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191209T210436Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 9
+revision: 6d175763-4b90-4c6a-ab15-0dc9f154adda
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#f2f4f5
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 155
+
+{8C6207D1-E49C-4298-AD15-3CFD10DFDB99}|{E6150EF9-2041-4300-9D9C-FD6E07ADA8BB}|{FB1F690F-30FF-4F49-88F7-1D16888F807A}|{78616F1B-EADF-4F0B-9A16-C43600EEFCC2}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 4
+
+auto
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 3
+
+hoz
+----field----
+field: {6A2958E5-FE3C-48B4-BFD3-2CBB97A835E3}
+name: imagePosition
+key: imageposition
+content-length: 6
+
+bottom
+----field----
+field: {57F23268-22EF-4D5F-9A9D-62F48EA9F660}
+name: brand
+key: brand
+content-length: 4
+
+moto
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 24
+
+Device Carousel moto NPI
+----field----
+field: {D7091B83-1446-490A-9D8B-796C0ED3FFBB}
+name: brands
+key: brands
+content-length: 10
+
+1=MOTOROLA
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 148
+
+Purchase any Motorola phone and get 50% off the full retail price, applied equally over 24 months via a bill credit on your account. Offer ends 1/6.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 14
+
+A GIFT FOR YOU
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 34
+
+Buy a Motorola phone. Get 50% off.
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 28
+
+left-banner shop-left-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 0
+
+
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{8EB9B67B-B2DA-42F5-828B-CA10E570F40B}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20191216T152827Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20191216T152827Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6d175763-4b90-4c6a-ab15-0dc9f154adda
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191219T190540Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\jconno876
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

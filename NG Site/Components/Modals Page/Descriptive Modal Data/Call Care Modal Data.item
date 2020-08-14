@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {019BA05E-B4B7-44E7-ABBC-A1AE8FEE8BAF}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Modals Page/Descriptive Modal Data/Call Care Modal Data
+parent: {4D24651F-F484-4235-BB41-85150E497B6F}
+name: Call Care Modal Data
+master: {00000000-0000-0000-0000-000000000000}
+template: {9255AFF8-E2F0-46E8-ADE3-4F5A1DDF9124}
+templatekey: Descriptive Modal Data
+created: 20180629T182255Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: 4c1c4d5c-a23b-445e-a0a6-a35ef4892771
+
+----field----
+field: {CE84A532-6024-4837-B199-53046D477D02}
+name: close
+key: close
+content-length: 1
+
+1
+----field----
+field: {EEF6DBF4-B7FB-4715-A865-0E56E8088E65}
+name: header
+key: header
+content-length: 32
+
+Call us for returns or exchanges
+----field----
+field: {8EFAA054-C5D1-45F0-BF5C-2F92F9AB8A2B}
+name: content
+key: content
+content-length: 38
+
+{C5B754B4-44D8-472A-AF02-65FDF36FC779}
+----field----
+field: {26E0A3E9-AB34-4A1B-97D1-5A67E6ED1F43}
+name: primaryButton
+key: primarybutton
+content-length: 6
+
+Got It
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180629T182255Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4c1c4d5c-a23b-445e-a0a6-a35ef4892771
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180821T140717Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

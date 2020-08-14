@@ -1,0 +1,951 @@
+----item----
+version: 1
+id: {FE6801F9-78CF-41C9-B0A9-8EA30AD97795}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Product Details/Secondary Promos/iPad 11 pro exclusion accessory promo
+parent: {A05E7005-2D20-460B-8D51-22C58121B8D4}
+name: iPad 11 pro exclusion accessory promo
+master: {00000000-0000-0000-0000-000000000000}
+template: {49D9BDA6-66E9-4F9C-ACEC-8DB410520741}
+templatekey: Secondary Promos
+created: 20200415T203748Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 1
+
+0
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----field----
+field: {CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}
+name: __Default workflow
+key: __default workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: eaa4a034-8b9d-475a-8641-915363d257c0
+
+----field----
+field: {A6D5F6DD-07C3-478C-953E-46B28B6EC8AB}
+name: slugs
+key: slugs
+content-length: 17
+
+1=iphone-xs-apple
+----field----
+field: {37BC5B41-0AAA-4BCC-931D-AE1CCB54CBDB}
+name: content-header
+key: content-header
+content-length: 28
+
+Get $200 off iPhone XS 512GB
+----field----
+field: {B6051FEC-46F9-43C4-A149-BC4831DEE3D5}
+name: content-description
+key: content-description
+content-length: 86
+
+Pay just $1,149.99 for the iPhone XS 512GB, originally $1,349.99. While supplies last.
+----field----
+field: {7452A16D-97E7-4CEE-8AE7-AC3B094C417F}
+name: content-image
+key: content-image
+content-length: 38
+
+{55BED212-2DD4-4DA5-9A90-6A4F73C53C6D}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190725T130314Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\mpayto200
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+eaa4a034-8b9d-475a-8641-915363d257c0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200103T150424Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----version----
+language: en
+version: 2
+revision: f2b07f14-e162-4331-b0b4-cb4c97113d4d
+
+----field----
+field: {A6D5F6DD-07C3-478C-953E-46B28B6EC8AB}
+name: slugs
+key: slugs
+content-length: 17
+
+1=iphone-xs-apple
+----field----
+field: {37BC5B41-0AAA-4BCC-931D-AE1CCB54CBDB}
+name: content-header
+key: content-header
+content-length: 15
+
+New lower price
+----field----
+field: {B6051FEC-46F9-43C4-A149-BC4831DEE3D5}
+name: content-description
+key: content-description
+content-length: 69
+
+Get the iPhone XS now for just $599.99 for 64GB. While supplies last.
+----field----
+field: {7452A16D-97E7-4CEE-8AE7-AC3B094C417F}
+name: content-image
+key: content-image
+content-length: 38
+
+{55BED212-2DD4-4DA5-9A90-6A4F73C53C6D}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200211T203150Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200211T203150Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f2b07f14-e162-4331-b0b4-cb4c97113d4d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200415T203749Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{1D30491A-DCE2-4DF8-93D4-5E6A16D79601}
+----version----
+language: en
+version: 3
+revision: 10ae2044-9c2d-4a86-994c-c35b363b079f
+
+----field----
+field: {A6D5F6DD-07C3-478C-953E-46B28B6EC8AB}
+name: slugs
+key: slugs
+content-length: 17
+
+1=iphone-xs-apple
+----field----
+field: {37BC5B41-0AAA-4BCC-931D-AE1CCB54CBDB}
+name: content-header
+key: content-header
+content-length: 15
+
+New lower price
+----field----
+field: {B6051FEC-46F9-43C4-A149-BC4831DEE3D5}
+name: content-description
+key: content-description
+content-length: 111
+
+Get the iPhone XS now for just $599.99 for 64GB, $749.99 for 256GB, and $849.99 for 512GB. While supplies last.
+----field----
+field: {7452A16D-97E7-4CEE-8AE7-AC3B094C417F}
+name: content-image
+key: content-image
+content-length: 38
+
+{55BED212-2DD4-4DA5-9A90-6A4F73C53C6D}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200218T194604Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200218T194604Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+10ae2044-9c2d-4a86-994c-c35b363b079f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200415T203749Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{1D30491A-DCE2-4DF8-93D4-5E6A16D79601}
+----version----
+language: en
+version: 4
+revision: c486674b-2a15-4c7b-89c9-04465d89e743
+
+----field----
+field: {A6D5F6DD-07C3-478C-953E-46B28B6EC8AB}
+name: slugs
+key: slugs
+content-length: 44
+
+1=apple-ipad-pro-11-inch-balance-folio-speck
+----field----
+field: {37BC5B41-0AAA-4BCC-931D-AE1CCB54CBDB}
+name: content-header
+key: content-header
+content-length: 64
+
+This item is not currently eligible for the accessory promotion.
+----field----
+field: {B6051FEC-46F9-43C4-A149-BC4831DEE3D5}
+name: content-description
+key: content-description
+content-length: 0
+
+
+----field----
+field: {7452A16D-97E7-4CEE-8AE7-AC3B094C417F}
+name: content-image
+key: content-image
+content-length: 38
+
+{0A2F9CC8-F986-48AC-9BB3-49158A3265C5}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200324T133741Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200324T133741Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c486674b-2a15-4c7b-89c9-04465d89e743
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200416T205056Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 5
+revision: 19a8c848-f1f6-49e9-9a0f-f0b5064b9d6d
+
+----field----
+field: {A6D5F6DD-07C3-478C-953E-46B28B6EC8AB}
+name: slugs
+key: slugs
+content-length: 44
+
+1=apple-ipad-pro-11-inch-balance-folio-speck
+----field----
+field: {37BC5B41-0AAA-4BCC-931D-AE1CCB54CBDB}
+name: content-header
+key: content-header
+content-length: 64
+
+This item is not currently eligible for the accessory promotion.
+----field----
+field: {B6051FEC-46F9-43C4-A149-BC4831DEE3D5}
+name: content-description
+key: content-description
+content-length: 0
+
+
+----field----
+field: {7452A16D-97E7-4CEE-8AE7-AC3B094C417F}
+name: content-image
+key: content-image
+content-length: 38
+
+{0A2F9CC8-F986-48AC-9BB3-49158A3265C5}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200416T234122Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200416T234122Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+19a8c848-f1f6-49e9-9a0f-f0b5064b9d6d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200416T234200Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 6
+revision: 73284d86-6002-4a6d-811c-61540fe16dfb
+
+----field----
+field: {A6D5F6DD-07C3-478C-953E-46B28B6EC8AB}
+name: slugs
+key: slugs
+content-length: 44
+
+1=apple-ipad-pro-11-inch-balance-folio-speck
+----field----
+field: {37BC5B41-0AAA-4BCC-931D-AE1CCB54CBDB}
+name: content-header
+key: content-header
+content-length: 64
+
+This item is not currently eligible for the accessory promotion.
+----field----
+field: {B6051FEC-46F9-43C4-A149-BC4831DEE3D5}
+name: content-description
+key: content-description
+content-length: 0
+
+
+----field----
+field: {7452A16D-97E7-4CEE-8AE7-AC3B094C417F}
+name: content-image
+key: content-image
+content-length: 38
+
+{0A2F9CC8-F986-48AC-9BB3-49158A3265C5}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200416T235611Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200416T235611Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+73284d86-6002-4a6d-811c-61540fe16dfb
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200416T235703Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 7
+revision: 94721d29-5a18-4ba9-be96-f00bd68c16fe
+
+----field----
+field: {A6D5F6DD-07C3-478C-953E-46B28B6EC8AB}
+name: slugs
+key: slugs
+content-length: 44
+
+1=apple-ipad-pro-11-inch-balance-folio-speck
+----field----
+field: {37BC5B41-0AAA-4BCC-931D-AE1CCB54CBDB}
+name: content-header
+key: content-header
+content-length: 64
+
+This item is not currently eligible for the accessory promotion.
+----field----
+field: {B6051FEC-46F9-43C4-A149-BC4831DEE3D5}
+name: content-description
+key: content-description
+content-length: 0
+
+
+----field----
+field: {7452A16D-97E7-4CEE-8AE7-AC3B094C417F}
+name: content-image
+key: content-image
+content-length: 38
+
+{0A2F9CC8-F986-48AC-9BB3-49158A3265C5}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200417T000213Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200417T000213Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+94721d29-5a18-4ba9-be96-f00bd68c16fe
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200417T000507Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 8
+revision: 061de4fe-de71-46c1-9f28-fda4e01d9745
+
+----field----
+field: {A6D5F6DD-07C3-478C-953E-46B28B6EC8AB}
+name: slugs
+key: slugs
+content-length: 44
+
+1=apple-ipad-pro-11-inch-balance-folio-speck
+----field----
+field: {37BC5B41-0AAA-4BCC-931D-AE1CCB54CBDB}
+name: content-header
+key: content-header
+content-length: 64
+
+This item is not currently eligible for the accessory promotion.
+----field----
+field: {B6051FEC-46F9-43C4-A149-BC4831DEE3D5}
+name: content-description
+key: content-description
+content-length: 0
+
+
+----field----
+field: {7452A16D-97E7-4CEE-8AE7-AC3B094C417F}
+name: content-image
+key: content-image
+content-length: 38
+
+{0A2F9CC8-F986-48AC-9BB3-49158A3265C5}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200417T000836Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200417T000836Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+061de4fe-de71-46c1-9f28-fda4e01d9745
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200417T200715Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 9
+revision: 3a580cb7-39d9-4b4d-8f1e-d7ff4d2a08c5
+
+----field----
+field: {A6D5F6DD-07C3-478C-953E-46B28B6EC8AB}
+name: slugs
+key: slugs
+content-length: 44
+
+1=apple-ipad-pro-11-inch-balance-folio-speck
+----field----
+field: {37BC5B41-0AAA-4BCC-931D-AE1CCB54CBDB}
+name: content-header
+key: content-header
+content-length: 65
+
+This item is not currently eligible for the accessory promotion .
+----field----
+field: {B6051FEC-46F9-43C4-A149-BC4831DEE3D5}
+name: content-description
+key: content-description
+content-length: 0
+
+
+----field----
+field: {7452A16D-97E7-4CEE-8AE7-AC3B094C417F}
+name: content-image
+key: content-image
+content-length: 38
+
+{0A2F9CC8-F986-48AC-9BB3-49158A3265C5}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200417T203015Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200417T203015Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3a580cb7-39d9-4b4d-8f1e-d7ff4d2a08c5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200417T204252Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\jconno876
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 10
+revision: c5db5138-3f46-4a0c-bf26-28524fc4627e
+
+----field----
+field: {A6D5F6DD-07C3-478C-953E-46B28B6EC8AB}
+name: slugs
+key: slugs
+content-length: 44
+
+1=apple-ipad-pro-11-inch-balance-folio-speck
+----field----
+field: {37BC5B41-0AAA-4BCC-931D-AE1CCB54CBDB}
+name: content-header
+key: content-header
+content-length: 64
+
+This item is not currently eligible for the accessory promotion.
+----field----
+field: {B6051FEC-46F9-43C4-A149-BC4831DEE3D5}
+name: content-description
+key: content-description
+content-length: 0
+
+
+----field----
+field: {7452A16D-97E7-4CEE-8AE7-AC3B094C417F}
+name: content-image
+key: content-image
+content-length: 38
+
+{0A2F9CC8-F986-48AC-9BB3-49158A3265C5}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200417T205305Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200417T205305Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\jconno876
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c5db5138-3f46-4a0c-bf26-28524fc4627e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200417T205604Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\jconno876
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

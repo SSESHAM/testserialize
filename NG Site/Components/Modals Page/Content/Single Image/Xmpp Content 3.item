@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {B3B38DDC-2C93-4AFF-B859-C7C0868BA162}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Modals Page/Content/Single Image/Xmpp Content 3
+parent: {11A7ED2C-B00C-4FAD-ACC9-A6B30FAF8096}
+name: Xmpp Content 3
+master: {00000000-0000-0000-0000-000000000000}
+template: {61D2ADB5-D5FA-44C0-BE72-3F8CE7E609AC}
+templatekey: Single Image Modal Content
+created: 20180629T144617Z
+
+----version----
+language: en
+version: 1
+revision: 534acdaf-ce15-4ab9-8442-06fdb90e637d
+
+----field----
+field: {8BAC6153-904E-49C1-9F47-467A5F699F7D}
+name: description
+key: description
+content-length: 180
+
+When your phone is lost or stolen, you need help stat! Your protection plan includes lost and stolen coverage so you can get a phone replacement quickly (a deductible is required).
+----field----
+field: {7DD23797-6B44-41C6-B62B-01712A14240D}
+name: title
+key: title
+content-length: 23
+
+Lost or stolen coverage
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180629T144617Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+534acdaf-ce15-4ab9-8442-06fdb90e637d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180802T203343Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

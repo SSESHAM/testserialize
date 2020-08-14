@@ -1,0 +1,735 @@
+----item----
+version: 1
+id: {15D764C4-0EA4-49EF-BB2A-565396ED9586}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Network/Banners/Buy new
+parent: {5ECB3135-D54F-48C3-9E1C-C8FCA1ACC643}
+name: Buy new
+master: {00000000-0000-0000-0000-000000000000}
+template: {0ED33E86-3417-45A6-9873-429B74718AC4}
+templatekey: Network Banner
+created: 20190722T191127Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----field----
+field: {CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}
+name: __Default workflow
+key: __default workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 88840c61-0680-40e5-a085-9cc03c524d39
+
+----field----
+field: {605288DA-FC17-4628-8500-DF34B78801DF}
+name: title
+key: title
+content-length: 7
+
+Buy new
+----field----
+field: {1E00F3AE-2A71-44A0-8AB1-005FFF486569}
+name: description
+key: description
+content-length: 61
+
+Looking for the latest devices? Choose from the best options.
+----field----
+field: {136BFD0F-29F1-4183-AAF9-008B65C45A13}
+name: link
+key: link
+content-length: 30
+
+[$$Shop Phones|shop.catalog$$]
+----field----
+field: {458532FC-EE2E-457D-AB44-3653779F8CB9}
+name: image-mobile
+key: image-mobile
+content-length: 38
+
+{C930E044-EF20-4E9E-A752-F173ACB3C878}
+----field----
+field: {7B83BE58-1E47-4E36-9893-3BC15E5CF039}
+name: image-tablet
+key: image-tablet
+content-length: 38
+
+{0BA132B1-6904-4CBB-A00D-2F5BCCAEAFB0}
+----field----
+field: {F7511F4A-16A3-48CF-B84B-40061CA9003E}
+name: image-smallDesktop
+key: image-smalldesktop
+content-length: 38
+
+{2CAB1C4D-6449-4A0D-BAC3-78E686BC1231}
+----field----
+field: {C3C45848-3FAC-4C91-8BE0-6C493F31287D}
+name: image-largeDesktop
+key: image-largedesktop
+content-length: 38
+
+{96994595-A5B4-42DC-B7BA-5FE7D548020E}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190722T191127Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+88840c61-0680-40e5-a085-9cc03c524d39
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190722T191948Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----version----
+language: en
+version: 2
+revision: 8491a36f-abf4-4732-9415-0113e7842404
+
+----field----
+field: {605288DA-FC17-4628-8500-DF34B78801DF}
+name: title
+key: title
+content-length: 7
+
+Buy new
+----field----
+field: {1E00F3AE-2A71-44A0-8AB1-005FFF486569}
+name: description
+key: description
+content-length: 61
+
+Looking for the latest devices? Choose from the best options.
+----field----
+field: {136BFD0F-29F1-4183-AAF9-008B65C45A13}
+name: link
+key: link
+content-length: 30
+
+[$$Shop Phones|shop.catalog$$]
+----field----
+field: {458532FC-EE2E-457D-AB44-3653779F8CB9}
+name: image-mobile
+key: image-mobile
+content-length: 38
+
+{C930E044-EF20-4E9E-A752-F173ACB3C878}
+----field----
+field: {7B83BE58-1E47-4E36-9893-3BC15E5CF039}
+name: image-tablet
+key: image-tablet
+content-length: 38
+
+{0BA132B1-6904-4CBB-A00D-2F5BCCAEAFB0}
+----field----
+field: {F7511F4A-16A3-48CF-B84B-40061CA9003E}
+name: image-smallDesktop
+key: image-smalldesktop
+content-length: 38
+
+{2CAB1C4D-6449-4A0D-BAC3-78E686BC1231}
+----field----
+field: {C3C45848-3FAC-4C91-8BE0-6C493F31287D}
+name: image-largeDesktop
+key: image-largedesktop
+content-length: 38
+
+{96994595-A5B4-42DC-B7BA-5FE7D548020E}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190816T154654Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 15
+
+cable\snavee884
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190816T154654Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\snavee884
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8491a36f-abf4-4732-9415-0113e7842404
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190816T154658Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\snavee884
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 3
+revision: a67faf93-b7d8-4fd9-be9d-b25a02f4d2f3
+
+----field----
+field: {605288DA-FC17-4628-8500-DF34B78801DF}
+name: title
+key: title
+content-length: 7
+
+Buy new
+----field----
+field: {1E00F3AE-2A71-44A0-8AB1-005FFF486569}
+name: description
+key: description
+content-length: 61
+
+Looking for the latest devices? Choose from the best options.
+----field----
+field: {136BFD0F-29F1-4183-AAF9-008B65C45A13}
+name: link
+key: link
+content-length: 51
+
+[$$Shop Phones|shop.catalog|'category': 'device'$$]
+----field----
+field: {458532FC-EE2E-457D-AB44-3653779F8CB9}
+name: image-mobile
+key: image-mobile
+content-length: 38
+
+{C930E044-EF20-4E9E-A752-F173ACB3C878}
+----field----
+field: {7B83BE58-1E47-4E36-9893-3BC15E5CF039}
+name: image-tablet
+key: image-tablet
+content-length: 38
+
+{0BA132B1-6904-4CBB-A00D-2F5BCCAEAFB0}
+----field----
+field: {F7511F4A-16A3-48CF-B84B-40061CA9003E}
+name: image-smallDesktop
+key: image-smalldesktop
+content-length: 38
+
+{2CAB1C4D-6449-4A0D-BAC3-78E686BC1231}
+----field----
+field: {C3C45848-3FAC-4C91-8BE0-6C493F31287D}
+name: image-largeDesktop
+key: image-largedesktop
+content-length: 38
+
+{96994595-A5B4-42DC-B7BA-5FE7D548020E}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190816T201558Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 15
+
+cable\snavee884
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190816T201558Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\psivil200
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a67faf93-b7d8-4fd9-be9d-b25a02f4d2f3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190819T135835Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\psivil200
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 4
+revision: 51b88583-2347-4420-9a01-5404d82bfe9f
+
+----field----
+field: {EF49C450-2EB1-4288-AE98-BB88A88F88F9}
+name: upperTitle
+key: uppertitle
+content-length: 23
+
+BRING YOUR PHONE FOR $0
+----field----
+field: {605288DA-FC17-4628-8500-DF34B78801DF}
+name: title
+key: title
+content-length: 34
+
+Bring your phone to Xfinity Mobile
+----field----
+field: {1E00F3AE-2A71-44A0-8AB1-005FFF486569}
+name: description
+key: description
+content-length: 65
+
+Bring the phone you have today to the network built for tomorrow.
+----field----
+field: {136BFD0F-29F1-4183-AAF9-008B65C45A13}
+name: link
+key: link
+content-length: 37
+
+[$Bring Your Own Phone|byod.landing$]
+----field----
+field: {458532FC-EE2E-457D-AB44-3653779F8CB9}
+name: image-mobile
+key: image-mobile
+content-length: 38
+
+{20857442-BFC9-4EBD-B702-C25CA05803F1}
+----field----
+field: {7B83BE58-1E47-4E36-9893-3BC15E5CF039}
+name: image-tablet
+key: image-tablet
+content-length: 38
+
+{6F383EC0-D2F1-4935-B1D9-394A27424553}
+----field----
+field: {F7511F4A-16A3-48CF-B84B-40061CA9003E}
+name: image-smallDesktop
+key: image-smalldesktop
+content-length: 38
+
+{463EEB79-65F1-49E3-A2F7-38588761B8BB}
+----field----
+field: {C3C45848-3FAC-4C91-8BE0-6C493F31287D}
+name: image-largeDesktop
+key: image-largedesktop
+content-length: 38
+
+{CF207649-E5A4-4A52-93B1-763C449FECC2}
+----field----
+field: {3C6F120F-3897-414C-94F7-833AAE44DF95}
+name: backgroundColor
+key: backgroundcolor
+content-length: 7
+
+#FBFBFB
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200214T205852Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 15
+
+cable\snavee884
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200214T205852Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 16
+
+sitecore\bliu901
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+51b88583-2347-4420-9a01-5404d82bfe9f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200217T204133Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 5
+revision: 100f6df7-2e13-4282-93fe-1ef07400eaa1
+
+----field----
+field: {EF49C450-2EB1-4288-AE98-BB88A88F88F9}
+name: upperTitle
+key: uppertitle
+content-length: 29
+
+THE SAMSUNG GALAXY S20 SERIES
+----field----
+field: {605288DA-FC17-4628-8500-DF34B78801DF}
+name: title
+key: title
+content-length: 38
+
+Samsung Galaxy S20 5G devices are here
+----field----
+field: {1E00F3AE-2A71-44A0-8AB1-005FFF486569}
+name: description
+key: description
+content-length: 68
+
+Experience the powerful new Galaxy S20 5G devices on Xfinity Mobile.
+----field----
+field: {136BFD0F-29F1-4183-AAF9-008B65C45A13}
+name: link
+key: link
+content-length: 135
+
+[$Shop Samsung|https://www.xfinity.com/mobile/shop?category=device&brand=samsung&INTCMP=ILC:homepage-aspot-samsung-network-ga-q1-2020$]
+----field----
+field: {458532FC-EE2E-457D-AB44-3653779F8CB9}
+name: image-mobile
+key: image-mobile
+content-length: 38
+
+{C930E044-EF20-4E9E-A752-F173ACB3C878}
+----field----
+field: {7B83BE58-1E47-4E36-9893-3BC15E5CF039}
+name: image-tablet
+key: image-tablet
+content-length: 38
+
+{0BA132B1-6904-4CBB-A00D-2F5BCCAEAFB0}
+----field----
+field: {F7511F4A-16A3-48CF-B84B-40061CA9003E}
+name: image-smallDesktop
+key: image-smalldesktop
+content-length: 38
+
+{2CAB1C4D-6449-4A0D-BAC3-78E686BC1231}
+----field----
+field: {C3C45848-3FAC-4C91-8BE0-6C493F31287D}
+name: image-largeDesktop
+key: image-largedesktop
+content-length: 38
+
+{96994595-A5B4-42DC-B7BA-5FE7D548020E}
+----field----
+field: {3C6F120F-3897-414C-94F7-833AAE44DF95}
+name: backgroundColor
+key: backgroundcolor
+content-length: 7
+
+#F4F6F6
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200228T142018Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 15
+
+cable\snavee884
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200228T142018Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+100f6df7-2e13-4282-93fe-1ef07400eaa1
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200304T190326Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\jconno876
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 6
+revision: a76a0b08-5a4a-405b-887c-4334929cd78c
+
+----field----
+field: {EF49C450-2EB1-4288-AE98-BB88A88F88F9}
+name: upperTitle
+key: uppertitle
+content-length: 29
+
+THE SAMSUNG GALAXY S20 SERIES
+----field----
+field: {605288DA-FC17-4628-8500-DF34B78801DF}
+name: title
+key: title
+content-length: 38
+
+Samsung Galaxy S20 5G devices are here
+----field----
+field: {1E00F3AE-2A71-44A0-8AB1-005FFF486569}
+name: description
+key: description
+content-length: 68
+
+Experience the powerful new Galaxy S20 5G devices on Xfinity Mobile.
+----field----
+field: {136BFD0F-29F1-4183-AAF9-008B65C45A13}
+name: link
+key: link
+content-length: 135
+
+[$Shop Samsung|https://www.xfinity.com/mobile/shop?category=device&brand=samsung&INTCMP=ILC:homepage-aspot-samsung-network-ga-q1-2020$]
+----field----
+field: {458532FC-EE2E-457D-AB44-3653779F8CB9}
+name: image-mobile
+key: image-mobile
+content-length: 38
+
+{C930E044-EF20-4E9E-A752-F173ACB3C878}
+----field----
+field: {7B83BE58-1E47-4E36-9893-3BC15E5CF039}
+name: image-tablet
+key: image-tablet
+content-length: 38
+
+{0BA132B1-6904-4CBB-A00D-2F5BCCAEAFB0}
+----field----
+field: {F7511F4A-16A3-48CF-B84B-40061CA9003E}
+name: image-smallDesktop
+key: image-smalldesktop
+content-length: 38
+
+{2CAB1C4D-6449-4A0D-BAC3-78E686BC1231}
+----field----
+field: {C3C45848-3FAC-4C91-8BE0-6C493F31287D}
+name: image-largeDesktop
+key: image-largedesktop
+content-length: 38
+
+{2CAB1C4D-6449-4A0D-BAC3-78E686BC1231}
+----field----
+field: {3C6F120F-3897-414C-94F7-833AAE44DF95}
+name: backgroundColor
+key: backgroundcolor
+content-length: 7
+
+#F4F6F6
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200414T160237Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 15
+
+cable\snavee884
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200414T160237Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\apatta228
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a76a0b08-5a4a-405b-887c-4334929cd78c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200422T234110Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

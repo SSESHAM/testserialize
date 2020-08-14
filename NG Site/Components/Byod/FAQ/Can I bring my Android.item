@@ -1,0 +1,244 @@
+----item----
+version: 1
+id: {ABF90086-E617-42D8-8F5B-705252C56440}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Byod/FAQ/Can I bring my Android
+parent: {8BB47E6A-E562-4E71-9E24-488095611D04}
+name: Can I bring my Android
+master: {00000000-0000-0000-0000-000000000000}
+template: {50E49AA0-5BE5-47A3-B331-42C06D6BF456}
+templatekey: FAQ
+created: 20180619T181731Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 6f7f2547-cdae-42ac-b98a-4229c10994bb
+
+----field----
+field: {98123670-5269-4C0C-9E9C-ACDD655F7220}
+name: question
+key: question
+content-length: 23
+
+Can I bring my Android?
+----field----
+field: {97F69394-BCB9-4F6D-96F7-FC10209BEE1C}
+name: answer
+key: answer
+content-length: 137
+
+We’re still working behind the scenes to enable customers to bring their own Androids to Xfinity Mobile. At this time, it's not possible.
+----field----
+field: {F74A7369-2DA9-427E-A763-7ADA24F97433}
+name: suggestion
+key: suggestion
+content-length: 208
+
+Want to switch to Xfinity Mobile today? [^Explore new phones|shop.catalog|'category': 'device', 'brand': 'Samsung', 'page': 1^] or [^trade in|support.article|'article_id': 'trade-in-old-phone'^] your old one.
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180619T181731Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6f7f2547-cdae-42ac-b98a-4229c10994bb
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190513T143343Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----version----
+language: en
+version: 2
+revision: eb47bafb-686a-4048-9f95-0fb8c830bdb2
+
+----field----
+field: {98123670-5269-4C0C-9E9C-ACDD655F7220}
+name: question
+key: question
+content-length: 23
+
+Can I bring my Android?
+----field----
+field: {97F69394-BCB9-4F6D-96F7-FC10209BEE1C}
+name: answer
+key: answer
+content-length: 191
+
+Yes, you are now able to bring Android phones to Xfinity Mobile. Visit an Xfinity Store to make the switch. Galaxy S8, Galaxy S8+, Galaxy S9, Galaxy S9+, Note 8, and Note 9 are all supported.
+----field----
+field: {F74A7369-2DA9-427E-A763-7ADA24F97433}
+name: suggestion
+key: suggestion
+content-length: 351
+
+[^ Find your nearest Xfinity Store|https://www.xfinity.com/local/store-offers?INTCMP=ILC_byod_store_finder^] and bring your Galaxy. If you have another kind of Android phone, you can [^Explore new phones|shop.catalog|'category': 'device', 'brand': 'Samsung', 'page': 1^] or [^trade in|support.article|'article_id': 'trade-in-old-phone'^] your old one.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190712T200642Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190712T200642Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\mpayto200
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+eb47bafb-686a-4048-9f95-0fb8c830bdb2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190715T160025Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\mpayto200
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 3
+revision: 8ad865e8-de21-42d3-9815-dd761004fb31
+
+----field----
+field: {98123670-5269-4C0C-9E9C-ACDD655F7220}
+name: question
+key: question
+content-length: 23
+
+Can I bring my Android?
+----field----
+field: {97F69394-BCB9-4F6D-96F7-FC10209BEE1C}
+name: answer
+key: answer
+content-length: 229
+
+Yes, you are now able to bring Android phones to Xfinity Mobile. Visit an Xfinity Store to make the switch. Galaxy S8, Galaxy S8+, Galaxy S9, Galaxy S9+, Galaxy S10, Galaxy S10+, Galaxy S10e, Note 8, and Note 9 are all supported.
+----field----
+field: {F74A7369-2DA9-427E-A763-7ADA24F97433}
+name: suggestion
+key: suggestion
+content-length: 219
+
+If you have another kind of Android phone, you can [^Explore new phones|shop.catalog|'category': 'device', 'brand': 'Samsung', 'page': 1^] or [^trade in|support.article|'article_id': 'trade-in-old-phone'^] your old one.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190816T182223Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190816T182223Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\apatta228
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8ad865e8-de21-42d3-9815-dd761004fb31
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190906T171042Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\pboone598
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

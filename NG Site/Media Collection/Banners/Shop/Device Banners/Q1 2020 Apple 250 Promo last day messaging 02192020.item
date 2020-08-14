@@ -1,0 +1,1693 @@
+----item----
+version: 1
+id: {7B9099F7-9033-4953-B986-EFA4A18CB7FD}
+database: master
+path: /sitecore/content/Modesto/NG Site/Media Collection/Banners/Shop/Device Banners/Q1 2020 Apple 250 Promo last day messaging 02192020
+parent: {615E98CF-2954-4896-963E-C71EA33309B9}
+name: Q1 2020 Apple 250 Promo last day messaging 02192020
+master: {00000000-0000-0000-0000-000000000000}
+template: {ACF7553B-EA2B-46D2-AD40-07BCAEFDBDF3}
+templatekey: Banner
+created: 20200214T193823Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 4
+
+2700
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 3ed6efb2-4aa5-4828-96aa-36e1ce19db2f
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#f2f4f5
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 77
+
+{EFF42950-86CD-459B-9F3F-6AFEC8BD1B36}|{A1E12A3D-BD34-4766-BFA7-6BD774F4D866}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 4
+
+auto
+----field----
+field: {57F23268-22EF-4D5F-9A9D-62F48EA9F660}
+name: brand
+key: brand
+content-length: 5
+
+apple
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 33
+
+Device Carousel Apple promotional
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 99
+
+Get $200 back when you buy any iPhone, activate a line, and transfer your number to Xfinity Mobile.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 12
+
+FALL SAVINGS
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 36
+
+Buy any new iPhone and get $200 back
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 28
+
+left-banner shop-left-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 0
+
+
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{8C10BCA7-6261-4643-BF74-47F4F4EA60B0}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20181101T185349Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20181101T185349Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\apatta228
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3ed6efb2-4aa5-4828-96aa-36e1ce19db2f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T183944Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 2
+revision: 4e77f307-dcd3-49a6-b794-615eeaee297b
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#f2f4f5
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 77
+
+{EFF42950-86CD-459B-9F3F-6AFEC8BD1B36}|{A1E12A3D-BD34-4766-BFA7-6BD774F4D866}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 4
+
+auto
+----field----
+field: {57F23268-22EF-4D5F-9A9D-62F48EA9F660}
+name: brand
+key: brand
+content-length: 5
+
+apple
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 33
+
+Device Carousel Apple promotional
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 99
+
+Get $200 back when you buy any iPhone, activate a line, and transfer your number to Xfinity Mobile.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 15
+
+HOLIDAY SAVINGS
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 36
+
+Buy any new iPhone and get $200 back
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 28
+
+left-banner shop-left-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 0
+
+
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{8C10BCA7-6261-4643-BF74-47F4F4EA60B0}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20181120T194528Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20181120T194528Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\abrown331
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4e77f307-dcd3-49a6-b794-615eeaee297b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T183942Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 3
+revision: 9f0ed956-5dd9-4df6-9daa-dd2279971c3b
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#f2f4f5
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 77
+
+{EFF42950-86CD-459B-9F3F-6AFEC8BD1B36}|{A1E12A3D-BD34-4766-BFA7-6BD774F4D866}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 4
+
+auto
+----field----
+field: {57F23268-22EF-4D5F-9A9D-62F48EA9F660}
+name: brand
+key: brand
+content-length: 5
+
+apple
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 33
+
+Device Carousel Apple promotional
+----field----
+field: {D7091B83-1446-490A-9D8B-796C0ED3FFBB}
+name: brands
+key: brands
+content-length: 7
+
+1=Apple
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 99
+
+Get $200 back when you buy any iPhone, activate a line, and transfer your number to Xfinity Mobile.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 15
+
+HOLIDAY SAVINGS
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 36
+
+Buy any new iPhone and get $200 back
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 28
+
+left-banner shop-left-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 0
+
+
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{8C10BCA7-6261-4643-BF74-47F4F4EA60B0}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20181218T210539Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20181218T210539Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 16
+
+cable\fmoham003c
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9f0ed956-5dd9-4df6-9daa-dd2279971c3b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T183942Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 4
+revision: 4c0afba6-007a-4c0f-b20c-299163012051
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#f2f4f5
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 77
+
+{366598DB-3228-42E3-9385-4D2879DCD5EA}|{674F85E5-9F5A-4C53-823B-D956B36B3E59}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 4
+
+auto
+----field----
+field: {57F23268-22EF-4D5F-9A9D-62F48EA9F660}
+name: brand
+key: brand
+content-length: 5
+
+apple
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 33
+
+Device Carousel Apple promotional
+----field----
+field: {D7091B83-1446-490A-9D8B-796C0ED3FFBB}
+name: brands
+key: brands
+content-length: 7
+
+1=Apple
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 155
+
+Get $250 back on every new iPhone you purchase when you activate it on an Xfinity Mobile account and transfer your number — up to five. Offer expires 9/30.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 20
+
+BUY MORE. SAVE MORE.
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 49
+
+The amazing iPhone just got better with $250 back
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 28
+
+left-banner shop-left-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 0
+
+
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{AC2C9C6E-F5D9-4B9A-AD39-66E838AA1AA9}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20181227T195806Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20181227T195806Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4c0afba6-007a-4c0f-b20c-299163012051
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T191039Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 5
+revision: fa3df744-fb0a-438b-b76e-14543799b48f
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#f2f4f5
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 155
+
+{837D5E75-22CF-4810-AD2C-01F27D8AC67B}|{C1AEC3A9-5F7D-4FC1-A218-791FF310BC01}|{8578DAD7-5B26-43E7-A3ED-F5DACC375434}|{535C7AF2-AFEC-40B9-8016-1A22BF950D52}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 4
+
+auto
+----field----
+field: {57F23268-22EF-4D5F-9A9D-62F48EA9F660}
+name: brand
+key: brand
+content-length: 5
+
+apple
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 25
+
+Device Carousel Apple BAU
+----field----
+field: {D7091B83-1446-490A-9D8B-796C0ED3FFBB}
+name: brands
+key: brands
+content-length: 7
+
+1=Apple
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 102
+
+With so many features, models, and colors, there's never been a better time to make iPhone your phone.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 28
+
+THE RIGHT PHONE FOR EVERYONE
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 28
+
+So much to love about iPhone
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 28
+
+left-banner shop-left-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 0
+
+
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 0
+
+
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190730T194330Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190730T194330Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\abrown331
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+fa3df744-fb0a-438b-b76e-14543799b48f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200114T184416Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 6
+revision: c5decd51-53e9-473a-9c00-105bf4f2e36f
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#f2f4f5
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 155
+
+{837D5E75-22CF-4810-AD2C-01F27D8AC67B}|{C1AEC3A9-5F7D-4FC1-A218-791FF310BC01}|{8578DAD7-5B26-43E7-A3ED-F5DACC375434}|{535C7AF2-AFEC-40B9-8016-1A22BF950D52}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 4
+
+auto
+----field----
+field: {57F23268-22EF-4D5F-9A9D-62F48EA9F660}
+name: brand
+key: brand
+content-length: 5
+
+apple
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 25
+
+Device Carousel Apple BAU
+----field----
+field: {D7091B83-1446-490A-9D8B-796C0ED3FFBB}
+name: brands
+key: brands
+content-length: 7
+
+1=Apple
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 102
+
+With so many features, models, and colors, there's never been a better time to make iPhone your phone.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 28
+
+THE RIGHT PHONE FOR EVERYONE
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 38
+
+Stay connected this season with iPhone
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 28
+
+left-banner shop-left-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 0
+
+
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 0
+
+
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20191029T135133Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20191029T135133Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c5decd51-53e9-473a-9c00-105bf4f2e36f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200114T184416Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 7
+revision: 95b735a4-1d41-42bf-8b5d-3e4bcd750771
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#f2f4f5
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 155
+
+{3AE36641-E27C-4D9E-BB36-A8AED2B0221D}|{C8971E86-1A8B-4E90-A2F7-CE251A8C3E86}|{745855E4-F39B-472E-BA85-B7E224F19D4A}|{DB445772-6592-4532-B81A-986B147361E4}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 3
+
+hoz
+----field----
+field: {6A2958E5-FE3C-48B4-BFD3-2CBB97A835E3}
+name: imagePosition
+key: imageposition
+content-length: 6
+
+bottom
+----field----
+field: {57F23268-22EF-4D5F-9A9D-62F48EA9F660}
+name: brand
+key: brand
+content-length: 5
+
+apple
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 33
+
+Device Carousel Apple Promotional
+----field----
+field: {D7091B83-1446-490A-9D8B-796C0ED3FFBB}
+name: brands
+key: brands
+content-length: 7
+
+1=Apple
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 172
+
+Receive $250 off the purchase of any new iPhone when you transfer your number within 30 days. Credits applied over 22/23 months of the device payment plan. Offer ends 12/8.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 16
+
+SEASON'S SAVINGS
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 52
+
+The best gift of all: an amazing iPhone and $250 off
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 28
+
+left-banner shop-left-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 0
+
+
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{D579E43F-F644-4759-B5BA-4999850AE996}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20191112T170028Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20191112T170028Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+95b735a4-1d41-42bf-8b5d-3e4bcd750771
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200114T184346Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 8
+revision: b9c5e606-4550-4b62-a962-e0f971006f17
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#f2f4f5
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 155
+
+{48A91E72-BBBA-4477-89E0-B3B612995E3B}|{561F4ABB-5F6D-4145-A337-CD0B6DEB9F9F}|{B8F8BACF-0B4F-4036-823A-8194B0136E1F}|{3C8E0394-BB44-4CCD-81B6-0149DA902D18}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 3
+
+hoz
+----field----
+field: {6A2958E5-FE3C-48B4-BFD3-2CBB97A835E3}
+name: imagePosition
+key: imageposition
+content-length: 6
+
+bottom
+----field----
+field: {57F23268-22EF-4D5F-9A9D-62F48EA9F660}
+name: brand
+key: brand
+content-length: 5
+
+apple
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 33
+
+Device Carousel Apple Promotional
+----field----
+field: {D7091B83-1446-490A-9D8B-796C0ED3FFBB}
+name: brands
+key: brands
+content-length: 7
+
+1=Apple
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 230
+
+Receive $250 off any iPhone 11, iPhone 11 Pro, or iPhone 11 Pro Max and $200 off any other iPhone when add a line and transfer your number within 30 days. Credits applied over 24 months of the device payment plan. Offer ends 2/11.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 24
+
+NEW DECADE. NEW SAVINGS.
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 46
+
+Buy any amazing iPhone and get up to $250 off 
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 28
+
+left-banner shop-left-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 0
+
+
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{588B6395-D3BF-4DDE-B211-436022EBB214}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20191119T231739Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20191119T231739Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b9c5e606-4550-4b62-a962-e0f971006f17
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200214T193826Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{1D30491A-DCE2-4DF8-93D4-5E6A16D79601}
+----version----
+language: en
+version: 9
+revision: 905b69cd-a75e-48de-bf96-162f8937a84b
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#f2f4f5
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 155
+
+{48A91E72-BBBA-4477-89E0-B3B612995E3B}|{561F4ABB-5F6D-4145-A337-CD0B6DEB9F9F}|{B8F8BACF-0B4F-4036-823A-8194B0136E1F}|{3C8E0394-BB44-4CCD-81B6-0149DA902D18}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 3
+
+hoz
+----field----
+field: {6A2958E5-FE3C-48B4-BFD3-2CBB97A835E3}
+name: imagePosition
+key: imageposition
+content-length: 6
+
+bottom
+----field----
+field: {57F23268-22EF-4D5F-9A9D-62F48EA9F660}
+name: brand
+key: brand
+content-length: 5
+
+apple
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 33
+
+Device Carousel Apple Promotional
+----field----
+field: {D7091B83-1446-490A-9D8B-796C0ED3FFBB}
+name: brands
+key: brands
+content-length: 7
+
+1=Apple
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 234
+
+Receive $250 off any iPhone 11, iPhone 11 Pro, or iPhone 11 Pro Max and $200 off any other iPhone when you add a line and transfer your number within 30 days. Credits applied over 24 months of the device payment plan. Offer ends 2/11.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 24
+
+NEW DECADE. NEW SAVINGS.
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 46
+
+Buy any amazing iPhone and get up to $250 off 
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 28
+
+left-banner shop-left-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 0
+
+
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{588B6395-D3BF-4DDE-B211-436022EBB214}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200113T151555Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200113T151555Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+905b69cd-a75e-48de-bf96-162f8937a84b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200214T193826Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{1D30491A-DCE2-4DF8-93D4-5E6A16D79601}
+----version----
+language: en
+version: 10
+revision: 1d5cdca2-56e1-4d71-a6fe-1af28005e472
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#f2f4f5
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 155
+
+{48A91E72-BBBA-4477-89E0-B3B612995E3B}|{561F4ABB-5F6D-4145-A337-CD0B6DEB9F9F}|{B8F8BACF-0B4F-4036-823A-8194B0136E1F}|{3C8E0394-BB44-4CCD-81B6-0149DA902D18}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 3
+
+hoz
+----field----
+field: {6A2958E5-FE3C-48B4-BFD3-2CBB97A835E3}
+name: imagePosition
+key: imageposition
+content-length: 6
+
+bottom
+----field----
+field: {57F23268-22EF-4D5F-9A9D-62F48EA9F660}
+name: brand
+key: brand
+content-length: 5
+
+apple
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 33
+
+Device Carousel Apple Promotional
+----field----
+field: {D7091B83-1446-490A-9D8B-796C0ED3FFBB}
+name: brands
+key: brands
+content-length: 7
+
+1=Apple
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 234
+
+Receive $250 off any iPhone 11, iPhone 11 Pro, or iPhone 11 Pro Max and $200 off any other iPhone when you add a line and transfer your number within 30 days. Credits applied over 24 months of the device payment plan. Offer ends 2/20.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 24
+
+NEW DECADE. NEW SAVINGS.
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 46
+
+Buy any amazing iPhone and get up to $250 off 
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 28
+
+left-banner shop-left-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 0
+
+
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{588B6395-D3BF-4DDE-B211-436022EBB214}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200121T194758Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200121T194758Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1d5cdca2-56e1-4d71-a6fe-1af28005e472
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200214T195947Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{1D30491A-DCE2-4DF8-93D4-5E6A16D79601}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 56
+
+<r owner="sitecore\msaleh716" date="20200214T195947Z" />

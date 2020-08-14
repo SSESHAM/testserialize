@@ -1,0 +1,108 @@
+----item----
+version: 1
+id: {8B2B94C3-EAEF-42FE-A2CB-56820A347B50}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Plans Meta-Data/Scenario Parts/2 lines - share 10 GB
+parent: {EC938337-6A68-4DB6-B644-ACD96DD7FF3E}
+name: 2 lines - share 10 GB
+master: {00000000-0000-0000-0000-000000000000}
+template: {DCFA1A18-F924-4831-B752-C640CCEB9308}
+templatekey: Scenario Parts
+created: 20190716T140358Z
+
+----field----
+field: {CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}
+name: __Default workflow
+key: __default workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: ba3d6d69-329c-444f-bed8-e58eff79945c
+
+----field----
+field: {FF65A544-CCA0-425A-B75A-9EA06A0F92D5}
+name: description1
+key: description1
+content-length: 7
+
+2 lines
+----field----
+field: {939475C2-17BE-4B3C-8261-FE3033657205}
+name: description2
+key: description2
+content-length: 11
+
+Share 10 GB
+----field----
+field: {E3E93E7F-130A-4B43-B897-5319817B629F}
+name: image
+key: image
+content-length: 38
+
+{73605B91-9622-41E0-8E14-7D2A9DF83F7E}
+----field----
+field: {8B83EF6E-BCB2-4911-9BAA-FF2D8347F39B}
+name: multiplier
+key: multiplier
+content-length: 1
+
+1
+----field----
+field: {7EFCE8F0-60A6-442B-BC2A-CBD1E0B82A65}
+name: planId
+key: planid
+content-length: 15
+
+8781046:8783586
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190716T140358Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ba3d6d69-329c-444f-bed8-e58eff79945c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190823T172633Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\snavee884
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

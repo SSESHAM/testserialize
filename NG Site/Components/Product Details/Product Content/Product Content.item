@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {7E6097AA-3C50-4768-9C9D-2B883C8D2B2D}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Product Details/Product Content/Product Content
+parent: {8E46566B-2E3C-46F4-9AC4-66B7A2EE85D7}
+name: Product Content
+master: {00000000-0000-0000-0000-000000000000}
+template: {76849CCB-C6E6-4217-95AD-5883B5CB1353}
+templatekey: Product Content
+created: 20180713T145708Z
+
+----version----
+language: en
+version: 1
+revision: 7395f41e-3567-41b5-a1a3-4b2bb58f7e04
+
+----field----
+field: {412DB371-399B-4492-9724-B3ADC78A642C}
+name: id
+key: id
+content-length: 16
+
+modestoFootnotes
+----field----
+field: {593E5292-12DC-4968-97D5-41057B6833E0}
+name: content
+key: content
+content-length: 350
+
+{4467ED60-E6D3-4628-8344-49F45E8156AC}|{3011DD83-CB22-42E4-8117-C7BEB681854D}|{18835286-1D6C-4E18-959C-D9402FFE4DA1}|{687F707A-AA8E-41B0-9BE2-A32509897E52}|{DEAD81BB-C67F-426B-94D1-BAE0A382ABA8}|{5B360EC0-0875-4EFE-86F3-93B3924A3003}|{EE484C5A-C41F-4758-8898-C6324D1D3108}|{622CBA5F-DB02-47CB-B5C7-9D6ABC9BDAEE}|{83E2E80B-8AE9-4B80-8067-85D9E735C065}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180713T145708Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7395f41e-3567-41b5-a1a3-4b2bb58f7e04
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180802T203344Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

@@ -1,0 +1,94 @@
+----item----
+version: 1
+id: {6701AAD1-2954-4D7A-AE3B-040717C675B7}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Cart/Products/Mobile
+parent: {34A5ADBB-5136-48E7-90FB-933390B8B079}
+name: Mobile
+master: {00000000-0000-0000-0000-000000000000}
+template: {F2A16697-945A-460E-A34F-C08AB980DE42}
+templatekey: Product
+created: 20200129T192307Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 7d885a04-2b40-4d2b-b5a8-eca97993e253
+
+----field----
+field: {353182ED-0336-4671-8FFD-39D4862F603D}
+name: name
+key: name
+content-length: 6
+
+Mobile
+----field----
+field: {6BB3C751-6789-48D4-946F-DAEB52FEBF8F}
+name: button-text
+key: button-text
+content-length: 10
+
+Learn More
+----field----
+field: {322B821B-4804-4F90-9469-4EAC58E7C024}
+name: button-url
+key: button-url
+content-length: 50
+
+https://www.xfinity.com/mobile/?intcmp=ilc:cart-xm
+----field----
+field: {A9C447D2-8723-468F-9446-709EBF192B31}
+name: imageOptions-mobile
+key: imageoptions-mobile
+content-length: 38
+
+{3EFB43E3-8A5C-4AB2-99DF-FB3145A6162B}
+----field----
+field: {7031C5AA-E2EB-4721-AF13-277F5EF7442C}
+name: imageOptions-smallDesktop
+key: imageoptions-smalldesktop
+content-length: 38
+
+{62AB0912-AEA1-416B-88D3-93F7E7C318E2}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200129T192040Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7d885a04-2b40-4d2b-b5a8-eca97993e253
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200129T192446Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

@@ -1,0 +1,312 @@
+----item----
+version: 1
+id: {B6AA047C-0F24-49B3-921E-5007C715DF94}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Accessory Toast/Products/iphone-xr-apple
+parent: {D9A21D2F-BA37-4A2B-B75A-5A00499530B1}
+name: iphone-xr-apple
+master: {00000000-0000-0000-0000-000000000000}
+template: {177684AF-12BC-41E1-9C57-CBD85BADE8E5}
+templatekey: Product
+created: 20191001T194809Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 022a0ce8-9ed9-424a-bb39-560cd5f73a21
+
+----field----
+field: {18434F5F-F21B-419E-8D9D-72BF5388DCE5}
+name: accessoriesSlug
+key: accessoriesslug
+content-length: 202
+
+s1=apple-iphone-xr-protection-pack-case-mate&s2=apple-iphone-xr-invisibleshield-glass-plus-zagg&s3=apple-iphone-xr-defender-otterbox&s4=charge-stream-pad-plus-mophie&s5=apple-iphone-xr-symmetry-otterbox
+----field----
+field: {3A9CF6EE-61BB-4BB1-B72A-EE15297B5157}
+name: productSlug
+key: productslug
+content-length: 15
+
+iphone-xr-apple
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190311T150745Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+022a0ce8-9ed9-424a-bb39-560cd5f73a21
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190910T164456Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----version----
+language: en
+version: 2
+revision: 89dc88e3-8e36-429a-9b20-8082a6672516
+
+----field----
+field: {18434F5F-F21B-419E-8D9D-72BF5388DCE5}
+name: accessoriesSlug
+key: accessoriesslug
+content-length: 201
+
+s1=airpods-with-charging-case-apple&s2=apple-iphone-xr-protection-pack-case-mate&s3=apple-iphone-xr-invisibleshield-glass-plus-zagg&s4=apple-iphone-xr-symmetry-otterbox&s5=charge-stream-pad-plus-mophie
+----field----
+field: {3A9CF6EE-61BB-4BB1-B72A-EE15297B5157}
+name: productSlug
+key: productslug
+content-length: 15
+
+iphone-xr-apple
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190917T202616Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190917T202616Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\mpayto200
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+89dc88e3-8e36-429a-9b20-8082a6672516
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190919T183619Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\mpayto200
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 3
+revision: e26cda9c-b03a-49b2-b2b1-5c2bb4b8440f
+
+----field----
+field: {18434F5F-F21B-419E-8D9D-72BF5388DCE5}
+name: accessoriesSlug
+key: accessoriesslug
+content-length: 220
+
+s1=airpods-with-charging-case-apple&s2=apple-iphone-xr-case-glass-screen-protector-bundle-case-mate&s3=apple-iphone-xr-invisibleshield-glass-plus-zagg&s4=apple-iphone-xr-symmetry-otterbox&s5=charge-stream-pad-plus-mophie
+----field----
+field: {3A9CF6EE-61BB-4BB1-B72A-EE15297B5157}
+name: productSlug
+key: productslug
+content-length: 15
+
+iphone-xr-apple
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20191105T152117Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\mpayto200
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20191105T152117Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\mpayto200
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e26cda9c-b03a-49b2-b2b1-5c2bb4b8440f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191114T181654Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\mpayto200
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 4
+revision: e777d54d-0408-46ff-a003-a8fc1cd5aa3c
+
+----field----
+field: {18434F5F-F21B-419E-8D9D-72BF5388DCE5}
+name: accessoriesSlug
+key: accessoriesslug
+content-length: 219
+
+s1=airpods-with-charging-case-apple&s2=apple-iphone-xr-case-glass-screen-protector-bundle-case-mate&s3=apple-iphone-xr-invisibleshield-glass-plus-zagg&s4=apple-iphone-xr-symmetry-otterbox&s5=wireless-charging-pad-mophie
+----field----
+field: {3A9CF6EE-61BB-4BB1-B72A-EE15297B5157}
+name: productSlug
+key: productslug
+content-length: 15
+
+iphone-xr-apple
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200313T180429Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\mpayto200
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200313T180429Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\nkuryl457
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e777d54d-0408-46ff-a003-a8fc1cd5aa3c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200320T183614Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 19
+
+sitecore\mshanm001c
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

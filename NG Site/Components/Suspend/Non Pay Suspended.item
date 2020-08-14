@@ -1,0 +1,169 @@
+----item----
+version: 1
+id: {9BA69E27-EBC8-4DDC-89A4-BCD1E6DECE2B}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Suspend/Non Pay Suspended
+parent: {FA7F56EB-1095-483B-9DD2-3AEC00479C53}
+name: Non Pay Suspended
+master: {00000000-0000-0000-0000-000000000000}
+template: {79F22FFC-9491-4C35-B2AD-B1CD85DEC9D5}
+templatekey: Line
+created: 20190327T171858Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----field----
+field: {CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}
+name: __Default workflow
+key: __default workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 0d137f47-4a72-4a9c-a9ec-30b4788ed07b
+
+----field----
+field: {E4655997-84E9-4BF0-BC53-D019D9BD1D7E}
+name: header
+key: header
+content-length: 27
+
+Service currently suspended
+----field----
+field: {DD5F64C9-A631-451D-8BA0-8762F2C8280D}
+name: description
+key: description
+content-length: 265
+
+d1=You%20have%20an%20overdue%20balance%20on%20your%20account%20and%20your%20latest%20payment%20didn%27t%20go%20through.%20Please%20pay%20the%20amount%20due%2C%20update%20your%20payment%20method%2C%20or%20contact%20Xfinity%20Mobile%20to%20reinstate%20your%20service.
+----field----
+field: {2853517A-068D-45AC-9040-1193ACE6A33D}
+name: icon
+key: icon
+content-length: 38
+
+{F6494D67-A16C-4E76-8DB3-BB777C820271}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190327T171858Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+0d137f47-4a72-4a9c-a9ec-30b4788ed07b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190327T172124Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----version----
+language: en
+version: 2
+revision: 99eaf70a-aa7a-4db2-8dda-bd7668b665e9
+
+----field----
+field: {E4655997-84E9-4BF0-BC53-D019D9BD1D7E}
+name: header
+key: header
+content-length: 27
+
+Service currently suspended
+----field----
+field: {DD5F64C9-A631-451D-8BA0-8762F2C8280D}
+name: description
+key: description
+content-length: 265
+
+d1=You%20have%20an%20overdue%20balance%20on%20your%20account%20and%20your%20latest%20payment%20didn%27t%20go%20through.%20Please%20pay%20the%20amount%20due%2C%20update%20your%20payment%20method%2C%20or%20contact%20Xfinity%20Mobile%20to%20reinstate%20your%20service.
+----field----
+field: {2853517A-068D-45AC-9040-1193ACE6A33D}
+name: icon
+key: icon
+content-length: 38
+
+{F6494D67-A16C-4E76-8DB3-BB777C820271}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190823T172947Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 15
+
+cable\snavee884
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190823T172947Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\snavee884
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+99eaf70a-aa7a-4db2-8dda-bd7668b665e9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190823T172952Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\snavee884
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

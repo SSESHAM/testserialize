@@ -1,0 +1,127 @@
+----item----
+version: 1
+id: {86C7E3EC-1706-4573-A15C-AFBF7C35491A}
+database: master
+path: /sitecore/content/Modesto/NG Site/Media Collection/Banners/Actions/iphone-x-apple-rb
+parent: {2112D13C-AD96-401F-B2B7-10A702538D3B}
+name: iphone-x-apple-rb
+master: {00000000-0000-0000-0000-000000000000}
+template: {1151C331-74EF-48D4-A169-1CD6C79B9ED9}
+templatekey: Actions
+created: 20180607T181306Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: aed0c722-b0fa-4145-b153-4f441e058e34
+
+----field----
+field: {9F7B4F16-ECD2-48BC-81D7-EC8B9EFAE0A6}
+name: popovers
+key: popovers
+content-length: 38
+
+{8CACF740-C8FA-4651-8711-2AB7CBFED52D}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180607T181306Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+aed0c722-b0fa-4145-b153-4f441e058e34
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180618T203812Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----version----
+language: en
+version: 2
+revision: 45a7899a-ba3a-4715-95ea-3e73ba392035
+
+----field----
+field: {9F7B4F16-ECD2-48BC-81D7-EC8B9EFAE0A6}
+name: popovers
+key: popovers
+content-length: 38
+
+{8CACF740-C8FA-4651-8711-2AB7CBFED52D}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20181030T135329Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20181030T135329Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\abrown331
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+45a7899a-ba3a-4715-95ea-3e73ba392035
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T185624Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 53
+
+<r owner="cable\abrown331" date="20181030T135329Z" />

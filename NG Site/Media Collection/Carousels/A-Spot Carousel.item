@@ -1,0 +1,1399 @@
+----item----
+version: 1
+id: {48449E05-6FC9-4231-AF60-9A49D9A3C5FF}
+database: master
+path: /sitecore/content/Modesto/NG Site/Media Collection/Carousels/A-Spot Carousel
+parent: {642DCE38-CDC4-4819-A346-93CAD53AC159}
+name: A-Spot Carousel
+master: {00000000-0000-0000-0000-000000000000}
+template: {A325B670-FA83-46E3-8639-326C7413C261}
+templatekey: Carousel
+created: 20180607T123629Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 58c23199-0b21-4160-a3d1-600117932bf3
+
+----field----
+field: {8A0231AF-F76B-48F1-852A-9ED71D328F71}
+name: icons-pause
+key: icons-pause
+content-length: 38
+
+{5F24CA95-CC5A-458C-92F4-443AD79D0439}
+----field----
+field: {88E29F39-DE85-4C19-AB26-20492252159D}
+name: icons-play
+key: icons-play
+content-length: 38
+
+{F7412C1A-EAAB-4E7B-95D4-1495C7B18808}
+----field----
+field: {425C53CA-E4D4-4DB9-8435-0D2369B43FEA}
+name: banners-default
+key: banners-default
+content-length: 194
+
+{A59FDA3A-D99A-4869-B567-81C4BFAA19AF}|{62935F2B-3E85-4D34-8228-4A3AE08A6469}|{0B11835B-7E18-44E5-864C-D0A1B1E87E5B}|{93AAC8FD-FACA-4CC4-A7C6-E4A677B7B11E}|{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}
+----field----
+field: {F41F2B95-597E-4DA1-9374-01A0483B881D}
+name: banners-A
+key: banners-a
+content-length: 116
+
+{D974C781-DCD6-49AB-B561-D1A3B4E5C8B3}|{A59FDA3A-D99A-4869-B567-81C4BFAA19AF}|{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}
+----field----
+field: {6D36088A-644C-4138-AF05-F73D329A5890}
+name: banners-B
+key: banners-b
+content-length: 116
+
+{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}|{A59FDA3A-D99A-4869-B567-81C4BFAA19AF}|{7E860C17-3E5A-4D8A-A788-A47A23098E15}
+----field----
+field: {BACC0FCA-FB33-421C-B096-665A1D438416}
+name: banners-C
+key: banners-c
+content-length: 194
+
+{7E860C17-3E5A-4D8A-A788-A47A23098E15}|{A59FDA3A-D99A-4869-B567-81C4BFAA19AF}|{62935F2B-3E85-4D34-8228-4A3AE08A6469}|{0B11835B-7E18-44E5-864C-D0A1B1E87E5B}|{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}
+----field----
+field: {FFC6F4F5-AE55-422D-B616-158BAF365648}
+name: banners-D
+key: banners-d
+content-length: 116
+
+{91D77A0E-5403-4F7A-B739-F4611274B9BA}|{A59FDA3A-D99A-4869-B567-81C4BFAA19AF}|{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}
+----field----
+field: {99F68250-5C04-48E6-94DA-254468BE52F6}
+name: banners-E
+key: banners-e
+content-length: 0
+
+
+----field----
+field: {2CCD0248-6D27-4DB2-A6E5-9716D75DE75A}
+name: banners-F
+key: banners-f
+content-length: 0
+
+
+----field----
+field: {2FA1F533-0399-4F6D-99A2-9BC74E58E620}
+name: carouselDetails
+key: carouseldetails
+content-length: 38
+
+{D7E19573-AA2B-418D-B7B8-F2EACF46C8A4}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200108T203959Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200108T203959Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+58c23199-0b21-4160-a3d1-600117932bf3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200109T201046Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 2
+revision: 3fa65355-840e-4335-a1a5-58f6132a78b2
+
+----field----
+field: {8A0231AF-F76B-48F1-852A-9ED71D328F71}
+name: icons-pause
+key: icons-pause
+content-length: 38
+
+{5F24CA95-CC5A-458C-92F4-443AD79D0439}
+----field----
+field: {88E29F39-DE85-4C19-AB26-20492252159D}
+name: icons-play
+key: icons-play
+content-length: 38
+
+{F7412C1A-EAAB-4E7B-95D4-1495C7B18808}
+----field----
+field: {425C53CA-E4D4-4DB9-8435-0D2369B43FEA}
+name: banners-default
+key: banners-default
+content-length: 194
+
+{A59FDA3A-D99A-4869-B567-81C4BFAA19AF}|{62935F2B-3E85-4D34-8228-4A3AE08A6469}|{0B11835B-7E18-44E5-864C-D0A1B1E87E5B}|{E60CBB92-13A0-47A5-B95B-F9C326870BCF}|{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}
+----field----
+field: {F41F2B95-597E-4DA1-9374-01A0483B881D}
+name: banners-A
+key: banners-a
+content-length: 155
+
+{D974C781-DCD6-49AB-B561-D1A3B4E5C8B3}|{A59FDA3A-D99A-4869-B567-81C4BFAA19AF}|{E60CBB92-13A0-47A5-B95B-F9C326870BCF}|{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}
+----field----
+field: {6D36088A-644C-4138-AF05-F73D329A5890}
+name: banners-B
+key: banners-b
+content-length: 155
+
+{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}|{A59FDA3A-D99A-4869-B567-81C4BFAA19AF}|{E60CBB92-13A0-47A5-B95B-F9C326870BCF}|{7E860C17-3E5A-4D8A-A788-A47A23098E15}
+----field----
+field: {BACC0FCA-FB33-421C-B096-665A1D438416}
+name: banners-C
+key: banners-c
+content-length: 194
+
+{7E860C17-3E5A-4D8A-A788-A47A23098E15}|{A59FDA3A-D99A-4869-B567-81C4BFAA19AF}|{62935F2B-3E85-4D34-8228-4A3AE08A6469}|{0B11835B-7E18-44E5-864C-D0A1B1E87E5B}|{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}
+----field----
+field: {FFC6F4F5-AE55-422D-B616-158BAF365648}
+name: banners-D
+key: banners-d
+content-length: 116
+
+{91D77A0E-5403-4F7A-B739-F4611274B9BA}|{A59FDA3A-D99A-4869-B567-81C4BFAA19AF}|{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}
+----field----
+field: {99F68250-5C04-48E6-94DA-254468BE52F6}
+name: banners-E
+key: banners-e
+content-length: 0
+
+
+----field----
+field: {2CCD0248-6D27-4DB2-A6E5-9716D75DE75A}
+name: banners-F
+key: banners-f
+content-length: 0
+
+
+----field----
+field: {2FA1F533-0399-4F6D-99A2-9BC74E58E620}
+name: carouselDetails
+key: carouseldetails
+content-length: 38
+
+{D7E19573-AA2B-418D-B7B8-F2EACF46C8A4}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200127T153401Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200127T153401Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3fa65355-840e-4335-a1a5-58f6132a78b2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200129T205405Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 3
+revision: 876004e2-693b-4676-8702-7355af8261e3
+
+----field----
+field: {8A0231AF-F76B-48F1-852A-9ED71D328F71}
+name: icons-pause
+key: icons-pause
+content-length: 38
+
+{5F24CA95-CC5A-458C-92F4-443AD79D0439}
+----field----
+field: {88E29F39-DE85-4C19-AB26-20492252159D}
+name: icons-play
+key: icons-play
+content-length: 38
+
+{F7412C1A-EAAB-4E7B-95D4-1495C7B18808}
+----field----
+field: {425C53CA-E4D4-4DB9-8435-0D2369B43FEA}
+name: banners-default
+key: banners-default
+content-length: 155
+
+{56CE92A1-FBA4-475F-B5E8-44E84394EFEC}|{62935F2B-3E85-4D34-8228-4A3AE08A6469}|{0B11835B-7E18-44E5-864C-D0A1B1E87E5B}|{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}
+----field----
+field: {F41F2B95-597E-4DA1-9374-01A0483B881D}
+name: banners-A
+key: banners-a
+content-length: 116
+
+{D974C781-DCD6-49AB-B561-D1A3B4E5C8B3}|{56CE92A1-FBA4-475F-B5E8-44E84394EFEC}|{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}
+----field----
+field: {6D36088A-644C-4138-AF05-F73D329A5890}
+name: banners-B
+key: banners-b
+content-length: 116
+
+{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}|{56CE92A1-FBA4-475F-B5E8-44E84394EFEC}|{7E860C17-3E5A-4D8A-A788-A47A23098E15}
+----field----
+field: {BACC0FCA-FB33-421C-B096-665A1D438416}
+name: banners-C
+key: banners-c
+content-length: 194
+
+{7E860C17-3E5A-4D8A-A788-A47A23098E15}|{56CE92A1-FBA4-475F-B5E8-44E84394EFEC}|{62935F2B-3E85-4D34-8228-4A3AE08A6469}|{0B11835B-7E18-44E5-864C-D0A1B1E87E5B}|{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}
+----field----
+field: {FFC6F4F5-AE55-422D-B616-158BAF365648}
+name: banners-D
+key: banners-d
+content-length: 116
+
+{91D77A0E-5403-4F7A-B739-F4611274B9BA}|{56CE92A1-FBA4-475F-B5E8-44E84394EFEC}|{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}
+----field----
+field: {99F68250-5C04-48E6-94DA-254468BE52F6}
+name: banners-E
+key: banners-e
+content-length: 0
+
+
+----field----
+field: {2CCD0248-6D27-4DB2-A6E5-9716D75DE75A}
+name: banners-F
+key: banners-f
+content-length: 0
+
+
+----field----
+field: {2FA1F533-0399-4F6D-99A2-9BC74E58E620}
+name: carouselDetails
+key: carouseldetails
+content-length: 38
+
+{D7E19573-AA2B-418D-B7B8-F2EACF46C8A4}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200130T144837Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200130T144837Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+876004e2-693b-4676-8702-7355af8261e3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200130T184415Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 4
+revision: 139a7423-6786-449e-8f0a-c0c989ff35ca
+
+----field----
+field: {8A0231AF-F76B-48F1-852A-9ED71D328F71}
+name: icons-pause
+key: icons-pause
+content-length: 38
+
+{5F24CA95-CC5A-458C-92F4-443AD79D0439}
+----field----
+field: {88E29F39-DE85-4C19-AB26-20492252159D}
+name: icons-play
+key: icons-play
+content-length: 38
+
+{F7412C1A-EAAB-4E7B-95D4-1495C7B18808}
+----field----
+field: {425C53CA-E4D4-4DB9-8435-0D2369B43FEA}
+name: banners-default
+key: banners-default
+content-length: 155
+
+{56CE92A1-FBA4-475F-B5E8-44E84394EFEC}|{62935F2B-3E85-4D34-8228-4A3AE08A6469}|{0B11835B-7E18-44E5-864C-D0A1B1E87E5B}|{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}
+----field----
+field: {F41F2B95-597E-4DA1-9374-01A0483B881D}
+name: banners-A
+key: banners-a
+content-length: 116
+
+{D974C781-DCD6-49AB-B561-D1A3B4E5C8B3}|{56CE92A1-FBA4-475F-B5E8-44E84394EFEC}|{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}
+----field----
+field: {6D36088A-644C-4138-AF05-F73D329A5890}
+name: banners-B
+key: banners-b
+content-length: 116
+
+{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}|{56CE92A1-FBA4-475F-B5E8-44E84394EFEC}|{7E860C17-3E5A-4D8A-A788-A47A23098E15}
+----field----
+field: {BACC0FCA-FB33-421C-B096-665A1D438416}
+name: banners-C
+key: banners-c
+content-length: 194
+
+{7E860C17-3E5A-4D8A-A788-A47A23098E15}|{56CE92A1-FBA4-475F-B5E8-44E84394EFEC}|{62935F2B-3E85-4D34-8228-4A3AE08A6469}|{0B11835B-7E18-44E5-864C-D0A1B1E87E5B}|{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}
+----field----
+field: {FFC6F4F5-AE55-422D-B616-158BAF365648}
+name: banners-D
+key: banners-d
+content-length: 116
+
+{91D77A0E-5403-4F7A-B739-F4611274B9BA}|{56CE92A1-FBA4-475F-B5E8-44E84394EFEC}|{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}
+----field----
+field: {99F68250-5C04-48E6-94DA-254468BE52F6}
+name: banners-E
+key: banners-e
+content-length: 0
+
+
+----field----
+field: {2CCD0248-6D27-4DB2-A6E5-9716D75DE75A}
+name: banners-F
+key: banners-f
+content-length: 0
+
+
+----field----
+field: {2FA1F533-0399-4F6D-99A2-9BC74E58E620}
+name: carouselDetails
+key: carouseldetails
+content-length: 38
+
+{D7E19573-AA2B-418D-B7B8-F2EACF46C8A4}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200130T185546Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200130T185546Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+139a7423-6786-449e-8f0a-c0c989ff35ca
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200130T190103Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 5
+revision: e8cca530-0894-4b64-9a55-dfa9f85ffd40
+
+----field----
+field: {8A0231AF-F76B-48F1-852A-9ED71D328F71}
+name: icons-pause
+key: icons-pause
+content-length: 38
+
+{5F24CA95-CC5A-458C-92F4-443AD79D0439}
+----field----
+field: {88E29F39-DE85-4C19-AB26-20492252159D}
+name: icons-play
+key: icons-play
+content-length: 38
+
+{F7412C1A-EAAB-4E7B-95D4-1495C7B18808}
+----field----
+field: {425C53CA-E4D4-4DB9-8435-0D2369B43FEA}
+name: banners-default
+key: banners-default
+content-length: 194
+
+{62935F2B-3E85-4D34-8228-4A3AE08A6469}|{0B11835B-7E18-44E5-864C-D0A1B1E87E5B}|{56CE92A1-FBA4-475F-B5E8-44E84394EFEC}|{4DF0923B-DEDE-4237-BFDF-8CDA1F196116}|{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}
+----field----
+field: {F41F2B95-597E-4DA1-9374-01A0483B881D}
+name: banners-A
+key: banners-a
+content-length: 116
+
+{D974C781-DCD6-49AB-B561-D1A3B4E5C8B3}|{56CE92A1-FBA4-475F-B5E8-44E84394EFEC}|{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}
+----field----
+field: {6D36088A-644C-4138-AF05-F73D329A5890}
+name: banners-B
+key: banners-b
+content-length: 116
+
+{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}|{56CE92A1-FBA4-475F-B5E8-44E84394EFEC}|{7E860C17-3E5A-4D8A-A788-A47A23098E15}
+----field----
+field: {BACC0FCA-FB33-421C-B096-665A1D438416}
+name: banners-C
+key: banners-c
+content-length: 233
+
+{7E860C17-3E5A-4D8A-A788-A47A23098E15}|{62935F2B-3E85-4D34-8228-4A3AE08A6469}|{0B11835B-7E18-44E5-864C-D0A1B1E87E5B}|{56CE92A1-FBA4-475F-B5E8-44E84394EFEC}|{4DF0923B-DEDE-4237-BFDF-8CDA1F196116}|{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}
+----field----
+field: {FFC6F4F5-AE55-422D-B616-158BAF365648}
+name: banners-D
+key: banners-d
+content-length: 116
+
+{91D77A0E-5403-4F7A-B739-F4611274B9BA}|{56CE92A1-FBA4-475F-B5E8-44E84394EFEC}|{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}
+----field----
+field: {99F68250-5C04-48E6-94DA-254468BE52F6}
+name: banners-E
+key: banners-e
+content-length: 0
+
+
+----field----
+field: {2CCD0248-6D27-4DB2-A6E5-9716D75DE75A}
+name: banners-F
+key: banners-f
+content-length: 0
+
+
+----field----
+field: {2FA1F533-0399-4F6D-99A2-9BC74E58E620}
+name: carouselDetails
+key: carouseldetails
+content-length: 38
+
+{D7E19573-AA2B-418D-B7B8-F2EACF46C8A4}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200205T145550Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200205T145550Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e8cca530-0894-4b64-9a55-dfa9f85ffd40
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200205T195051Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 6
+revision: ee51e349-a655-47fc-bd1e-1a4057b54f3f
+
+----field----
+field: {8A0231AF-F76B-48F1-852A-9ED71D328F71}
+name: icons-pause
+key: icons-pause
+content-length: 38
+
+{5F24CA95-CC5A-458C-92F4-443AD79D0439}
+----field----
+field: {88E29F39-DE85-4C19-AB26-20492252159D}
+name: icons-play
+key: icons-play
+content-length: 38
+
+{F7412C1A-EAAB-4E7B-95D4-1495C7B18808}
+----field----
+field: {425C53CA-E4D4-4DB9-8435-0D2369B43FEA}
+name: banners-default
+key: banners-default
+content-length: 194
+
+{62935F2B-3E85-4D34-8228-4A3AE08A6469}|{0B11835B-7E18-44E5-864C-D0A1B1E87E5B}|{56CE92A1-FBA4-475F-B5E8-44E84394EFEC}|{0FF96F9E-DB13-43A7-A4AE-E3F4F20ED38D}|{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}
+----field----
+field: {F41F2B95-597E-4DA1-9374-01A0483B881D}
+name: banners-A
+key: banners-a
+content-length: 116
+
+{D974C781-DCD6-49AB-B561-D1A3B4E5C8B3}|{56CE92A1-FBA4-475F-B5E8-44E84394EFEC}|{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}
+----field----
+field: {6D36088A-644C-4138-AF05-F73D329A5890}
+name: banners-B
+key: banners-b
+content-length: 116
+
+{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}|{56CE92A1-FBA4-475F-B5E8-44E84394EFEC}|{7E860C17-3E5A-4D8A-A788-A47A23098E15}
+----field----
+field: {BACC0FCA-FB33-421C-B096-665A1D438416}
+name: banners-C
+key: banners-c
+content-length: 233
+
+{7E860C17-3E5A-4D8A-A788-A47A23098E15}|{62935F2B-3E85-4D34-8228-4A3AE08A6469}|{0B11835B-7E18-44E5-864C-D0A1B1E87E5B}|{56CE92A1-FBA4-475F-B5E8-44E84394EFEC}|{0FF96F9E-DB13-43A7-A4AE-E3F4F20ED38D}|{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}
+----field----
+field: {FFC6F4F5-AE55-422D-B616-158BAF365648}
+name: banners-D
+key: banners-d
+content-length: 116
+
+{91D77A0E-5403-4F7A-B739-F4611274B9BA}|{56CE92A1-FBA4-475F-B5E8-44E84394EFEC}|{719820E1-F46E-47AA-BFB2-E6B8042C1BDD}
+----field----
+field: {99F68250-5C04-48E6-94DA-254468BE52F6}
+name: banners-E
+key: banners-e
+content-length: 0
+
+
+----field----
+field: {2CCD0248-6D27-4DB2-A6E5-9716D75DE75A}
+name: banners-F
+key: banners-f
+content-length: 0
+
+
+----field----
+field: {2FA1F533-0399-4F6D-99A2-9BC74E58E620}
+name: carouselDetails
+key: carouseldetails
+content-length: 38
+
+{D7E19573-AA2B-418D-B7B8-F2EACF46C8A4}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200207T180952Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200207T180952Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ee51e349-a655-47fc-bd1e-1a4057b54f3f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200207T215435Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\jconno876
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 7
+revision: 1d7955bf-2cd3-4b34-8561-ba6890d8820c
+
+----field----
+field: {8A0231AF-F76B-48F1-852A-9ED71D328F71}
+name: icons-pause
+key: icons-pause
+content-length: 38
+
+{5F24CA95-CC5A-458C-92F4-443AD79D0439}
+----field----
+field: {88E29F39-DE85-4C19-AB26-20492252159D}
+name: icons-play
+key: icons-play
+content-length: 38
+
+{F7412C1A-EAAB-4E7B-95D4-1495C7B18808}
+----field----
+field: {425C53CA-E4D4-4DB9-8435-0D2369B43FEA}
+name: banners-default
+key: banners-default
+content-length: 116
+
+{4D3A638E-08A4-4997-BC10-14BFEACE7F40}|{62935F2B-3E85-4D34-8228-4A3AE08A6469}|{0FF96F9E-DB13-43A7-A4AE-E3F4F20ED38D}
+----field----
+field: {F41F2B95-597E-4DA1-9374-01A0483B881D}
+name: banners-A
+key: banners-a
+content-length: 155
+
+{4D3A638E-08A4-4997-BC10-14BFEACE7F40}|{62935F2B-3E85-4D34-8228-4A3AE08A6469}|{0B11835B-7E18-44E5-864C-D0A1B1E87E5B}|{0FF96F9E-DB13-43A7-A4AE-E3F4F20ED38D}
+----field----
+field: {6D36088A-644C-4138-AF05-F73D329A5890}
+name: banners-B
+key: banners-b
+content-length: 116
+
+{EF241DFE-51EF-43A7-B2E4-C8A3CF6A9CEA}|{0FF96F9E-DB13-43A7-A4AE-E3F4F20ED38D}|{0B11835B-7E18-44E5-864C-D0A1B1E87E5B}
+----field----
+field: {BACC0FCA-FB33-421C-B096-665A1D438416}
+name: banners-C
+key: banners-c
+content-length: 155
+
+{7E860C17-3E5A-4D8A-A788-A47A23098E15}|{4D3A638E-08A4-4997-BC10-14BFEACE7F40}|{0FF96F9E-DB13-43A7-A4AE-E3F4F20ED38D}|{0B11835B-7E18-44E5-864C-D0A1B1E87E5B}
+----field----
+field: {FFC6F4F5-AE55-422D-B616-158BAF365648}
+name: banners-D
+key: banners-d
+content-length: 77
+
+{4D3A638E-08A4-4997-BC10-14BFEACE7F40}|{91D77A0E-5403-4F7A-B739-F4611274B9BA}
+----field----
+field: {99F68250-5C04-48E6-94DA-254468BE52F6}
+name: banners-E
+key: banners-e
+content-length: 0
+
+
+----field----
+field: {2CCD0248-6D27-4DB2-A6E5-9716D75DE75A}
+name: banners-F
+key: banners-f
+content-length: 0
+
+
+----field----
+field: {2FA1F533-0399-4F6D-99A2-9BC74E58E620}
+name: carouselDetails
+key: carouseldetails
+content-length: 38
+
+{D7E19573-AA2B-418D-B7B8-F2EACF46C8A4}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200213T155921Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200213T155921Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1d7955bf-2cd3-4b34-8561-ba6890d8820c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200214T170601Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 8
+revision: edf99148-1649-4349-a8e1-0a2267945d8b
+
+----field----
+field: {8A0231AF-F76B-48F1-852A-9ED71D328F71}
+name: icons-pause
+key: icons-pause
+content-length: 38
+
+{5F24CA95-CC5A-458C-92F4-443AD79D0439}
+----field----
+field: {88E29F39-DE85-4C19-AB26-20492252159D}
+name: icons-play
+key: icons-play
+content-length: 38
+
+{F7412C1A-EAAB-4E7B-95D4-1495C7B18808}
+----field----
+field: {425C53CA-E4D4-4DB9-8435-0D2369B43FEA}
+name: banners-default
+key: banners-default
+content-length: 194
+
+{4D3A638E-08A4-4997-BC10-14BFEACE7F40}|{D951D13D-85ED-4524-B7C6-01AD88EF210C}|{E74CC25D-D2B7-4348-9C23-9D6810D78DE1}|{0FF96F9E-DB13-43A7-A4AE-E3F4F20ED38D}|{45E6E672-D6BF-49D0-9709-1BB4E4042B4B}
+----field----
+field: {F41F2B95-597E-4DA1-9374-01A0483B881D}
+name: banners-A
+key: banners-a
+content-length: 194
+
+{4D3A638E-08A4-4997-BC10-14BFEACE7F40}|{D951D13D-85ED-4524-B7C6-01AD88EF210C}|{E74CC25D-D2B7-4348-9C23-9D6810D78DE1}|{0FF96F9E-DB13-43A7-A4AE-E3F4F20ED38D}|{45E6E672-D6BF-49D0-9709-1BB4E4042B4B}
+----field----
+field: {6D36088A-644C-4138-AF05-F73D329A5890}
+name: banners-B
+key: banners-b
+content-length: 155
+
+{EF241DFE-51EF-43A7-B2E4-C8A3CF6A9CEA}|{0FF96F9E-DB13-43A7-A4AE-E3F4F20ED38D}|{E74CC25D-D2B7-4348-9C23-9D6810D78DE1}|{45E6E672-D6BF-49D0-9709-1BB4E4042B4B}
+----field----
+field: {BACC0FCA-FB33-421C-B096-665A1D438416}
+name: banners-C
+key: banners-c
+content-length: 194
+
+{7E860C17-3E5A-4D8A-A788-A47A23098E15}|{4D3A638E-08A4-4997-BC10-14BFEACE7F40}|{0FF96F9E-DB13-43A7-A4AE-E3F4F20ED38D}|{E74CC25D-D2B7-4348-9C23-9D6810D78DE1}|{45E6E672-D6BF-49D0-9709-1BB4E4042B4B}
+----field----
+field: {FFC6F4F5-AE55-422D-B616-158BAF365648}
+name: banners-D
+key: banners-d
+content-length: 77
+
+{4D3A638E-08A4-4997-BC10-14BFEACE7F40}|{91D77A0E-5403-4F7A-B739-F4611274B9BA}
+----field----
+field: {99F68250-5C04-48E6-94DA-254468BE52F6}
+name: banners-E
+key: banners-e
+content-length: 0
+
+
+----field----
+field: {2CCD0248-6D27-4DB2-A6E5-9716D75DE75A}
+name: banners-F
+key: banners-f
+content-length: 0
+
+
+----field----
+field: {2FA1F533-0399-4F6D-99A2-9BC74E58E620}
+name: carouselDetails
+key: carouseldetails
+content-length: 38
+
+{D7E19573-AA2B-418D-B7B8-F2EACF46C8A4}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200214T194931Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200214T194931Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+edf99148-1649-4349-a8e1-0a2267945d8b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200217T203742Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 9
+revision: cf1232e7-c560-4e30-865b-52b8d42d075f
+
+----field----
+field: {8A0231AF-F76B-48F1-852A-9ED71D328F71}
+name: icons-pause
+key: icons-pause
+content-length: 38
+
+{5F24CA95-CC5A-458C-92F4-443AD79D0439}
+----field----
+field: {88E29F39-DE85-4C19-AB26-20492252159D}
+name: icons-play
+key: icons-play
+content-length: 38
+
+{F7412C1A-EAAB-4E7B-95D4-1495C7B18808}
+----field----
+field: {425C53CA-E4D4-4DB9-8435-0D2369B43FEA}
+name: banners-default
+key: banners-default
+content-length: 155
+
+{60063C1A-F103-4434-B701-9A364F980E49}|{4D3A638E-08A4-4997-BC10-14BFEACE7F40}|{B1427B09-AF84-4E94-B989-40B1A217E4F6}|{45E6E672-D6BF-49D0-9709-1BB4E4042B4B}
+----field----
+field: {F41F2B95-597E-4DA1-9374-01A0483B881D}
+name: banners-A
+key: banners-a
+content-length: 155
+
+{60063C1A-F103-4434-B701-9A364F980E49}|{4D3A638E-08A4-4997-BC10-14BFEACE7F40}|{B1427B09-AF84-4E94-B989-40B1A217E4F6}|{45E6E672-D6BF-49D0-9709-1BB4E4042B4B}
+----field----
+field: {6D36088A-644C-4138-AF05-F73D329A5890}
+name: banners-B
+key: banners-b
+content-length: 155
+
+{60063C1A-F103-4434-B701-9A364F980E49}|{EF241DFE-51EF-43A7-B2E4-C8A3CF6A9CEA}|{B1427B09-AF84-4E94-B989-40B1A217E4F6}|{45E6E672-D6BF-49D0-9709-1BB4E4042B4B}
+----field----
+field: {BACC0FCA-FB33-421C-B096-665A1D438416}
+name: banners-C
+key: banners-c
+content-length: 194
+
+{7E860C17-3E5A-4D8A-A788-A47A23098E15}|{60063C1A-F103-4434-B701-9A364F980E49}|{4D3A638E-08A4-4997-BC10-14BFEACE7F40}|{B1427B09-AF84-4E94-B989-40B1A217E4F6}|{45E6E672-D6BF-49D0-9709-1BB4E4042B4B}
+----field----
+field: {FFC6F4F5-AE55-422D-B616-158BAF365648}
+name: banners-D
+key: banners-d
+content-length: 77
+
+{4D3A638E-08A4-4997-BC10-14BFEACE7F40}|{91D77A0E-5403-4F7A-B739-F4611274B9BA}
+----field----
+field: {99F68250-5C04-48E6-94DA-254468BE52F6}
+name: banners-E
+key: banners-e
+content-length: 0
+
+
+----field----
+field: {2CCD0248-6D27-4DB2-A6E5-9716D75DE75A}
+name: banners-F
+key: banners-f
+content-length: 0
+
+
+----field----
+field: {2FA1F533-0399-4F6D-99A2-9BC74E58E620}
+name: carouselDetails
+key: carouseldetails
+content-length: 38
+
+{D7E19573-AA2B-418D-B7B8-F2EACF46C8A4}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200218T143514Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200218T143514Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+cf1232e7-c560-4e30-865b-52b8d42d075f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200219T220613Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 10
+revision: 4bd0f4eb-81b0-480d-910a-911dc39a6a58
+
+----field----
+field: {8A0231AF-F76B-48F1-852A-9ED71D328F71}
+name: icons-pause
+key: icons-pause
+content-length: 38
+
+{5F24CA95-CC5A-458C-92F4-443AD79D0439}
+----field----
+field: {88E29F39-DE85-4C19-AB26-20492252159D}
+name: icons-play
+key: icons-play
+content-length: 38
+
+{F7412C1A-EAAB-4E7B-95D4-1495C7B18808}
+----field----
+field: {425C53CA-E4D4-4DB9-8435-0D2369B43FEA}
+name: banners-default
+key: banners-default
+content-length: 155
+
+{60063C1A-F103-4434-B701-9A364F980E49}|{4D3A638E-08A4-4997-BC10-14BFEACE7F40}|{D9185D46-01A0-4F62-98B7-6C3ABC2E95D4}|{45E6E672-D6BF-49D0-9709-1BB4E4042B4B}
+----field----
+field: {F41F2B95-597E-4DA1-9374-01A0483B881D}
+name: banners-A
+key: banners-a
+content-length: 155
+
+{60063C1A-F103-4434-B701-9A364F980E49}|{4D3A638E-08A4-4997-BC10-14BFEACE7F40}|{D9185D46-01A0-4F62-98B7-6C3ABC2E95D4}|{45E6E672-D6BF-49D0-9709-1BB4E4042B4B}
+----field----
+field: {6D36088A-644C-4138-AF05-F73D329A5890}
+name: banners-B
+key: banners-b
+content-length: 155
+
+{60063C1A-F103-4434-B701-9A364F980E49}|{EF241DFE-51EF-43A7-B2E4-C8A3CF6A9CEA}|{D9185D46-01A0-4F62-98B7-6C3ABC2E95D4}|{45E6E672-D6BF-49D0-9709-1BB4E4042B4B}
+----field----
+field: {BACC0FCA-FB33-421C-B096-665A1D438416}
+name: banners-C
+key: banners-c
+content-length: 194
+
+{7E860C17-3E5A-4D8A-A788-A47A23098E15}|{60063C1A-F103-4434-B701-9A364F980E49}|{4D3A638E-08A4-4997-BC10-14BFEACE7F40}|{D9185D46-01A0-4F62-98B7-6C3ABC2E95D4}|{45E6E672-D6BF-49D0-9709-1BB4E4042B4B}
+----field----
+field: {FFC6F4F5-AE55-422D-B616-158BAF365648}
+name: banners-D
+key: banners-d
+content-length: 77
+
+{4D3A638E-08A4-4997-BC10-14BFEACE7F40}|{91D77A0E-5403-4F7A-B739-F4611274B9BA}
+----field----
+field: {99F68250-5C04-48E6-94DA-254468BE52F6}
+name: banners-E
+key: banners-e
+content-length: 0
+
+
+----field----
+field: {2CCD0248-6D27-4DB2-A6E5-9716D75DE75A}
+name: banners-F
+key: banners-f
+content-length: 0
+
+
+----field----
+field: {2FA1F533-0399-4F6D-99A2-9BC74E58E620}
+name: carouselDetails
+key: carouseldetails
+content-length: 38
+
+{D7E19573-AA2B-418D-B7B8-F2EACF46C8A4}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200226T191838Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200226T191838Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4bd0f4eb-81b0-480d-910a-911dc39a6a58
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200304T180429Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\jconno876
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {82FAC9EE-D254-45FE-AB1C-92A9BDCE0F1D}
+database: master
+path: /sitecore/content/Modesto/NG Site/Home/Core/Rate Plan
+parent: {84DF3B2A-40D6-40C7-BCAE-B4EBA8912A26}
+name: Rate Plan
+master: {00000000-0000-0000-0000-000000000000}
+template: {E9072713-9367-4410-84FF-C709D499E96D}
+templatekey: Rate-Plan
+created: 20190722T191615Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 4
+
+1100
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: fe3a8a97-ed98-4dd9-9aa0-d8fd601daeec
+
+----field----
+field: {142B5496-DA84-458B-9B95-E9745332C80F}
+name: byTheGig
+key: bythegig
+content-length: 10
+
+By the Gig
+----field----
+field: {FB96D1F4-977C-4BB2-B6EE-D98D5A9325A4}
+name: unlimited
+key: unlimited
+content-length: 9
+
+Unlimited
+----field----
+field: {6DAABB15-9DFB-476C-B6F7-37E115932F73}
+name: byTheGigVariant
+key: bythegigvariant
+content-length: 15
+
+[GIG_NUMBER] GB
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190722T191615Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+fe3a8a97-ed98-4dd9-9aa0-d8fd601daeec
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200611T145109Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 0
+
+

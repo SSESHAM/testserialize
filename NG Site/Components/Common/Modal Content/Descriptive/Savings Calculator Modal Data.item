@@ -1,0 +1,474 @@
+----item----
+version: 1
+id: {5563B450-189A-4A47-9209-DF3EBC5EE757}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Common/Modal Content/Descriptive/Savings Calculator Modal Data
+parent: {65F92AEA-38CF-4B8B-A890-576F7F0AFA77}
+name: Savings Calculator Modal Data
+master: {00000000-0000-0000-0000-000000000000}
+template: {8A7302BD-7B88-4375-AE78-91E0EC70A6C8}
+templatekey: Descriptive Modal Content
+created: 20180808T201505Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 3833d6cd-1830-4468-8449-60b0e12b74dc
+
+----field----
+field: {5A86897D-4122-42B5-9C4A-455174723A59}
+name: description
+key: description
+content-length: 3077
+
+d0=Most%20people%20save%2030%25%20or%20more%20with%20Xfinity%20Mobile%20compared%20to%20other%20carriers.%2085%25%20of%20people%20save%20with%20Xfinity%20Mobile%20compared%20to%20other%20carriers.%20Savings%20comparison%20limited%20to%20regular%20monthly%20service%20charges%20for%20Comcast%E2%80%99s%20data%20options%20and%20the%20weighted%20average%20prices%20of%20Verizon%2C%20AT%26T%2C%20T-Mobile%20and%20Sprint%27s%20published%20rates%20as%20of%20June%2019%2C%202017.%20Fee%20for%20T-Mobile%20One%20Plus%20included%2C%20other%20taxes%2Ffees%20not%20included%20with%20T-Mobile%20pricing.%20Savings%20does%20not%20take%20into%20account%20Xfinity%20Mobile%20taxes%2Ffees.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed&d1=%2A%2AAT%26T%20savings%3A%2A%2A%20Most%20customers%20can%20save%2035%25%20or%20more%20with%20Xfinity%20Mobile%20compared%20to%20AT%26T.%2090%25%20of%20customers%20can%20save%20with%20Xfinity%20Mobile%20compared%20to%20AT%26T.%20Savings%20comparison%20limited%20to%20regular%20monthly%20service%20charges%20for%20Comcast%E2%80%99s%20data%20options%20and%20ATT%E2%80%99s%20published%20rates%20at%20%5Bwww.att.com%2Fwireless%7Chttp%3A%2F%2Fwww.att.com%2Fwireless%5D%20as%20of%20June%2019%2C%202017.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.&d2=%2A%2AVerizon%20Wireless%20savings%3A%2A%2A%20Most%20customers%20can%20save%2035%25%20or%20more%20with%20Xfinity%20Mobile%20compared%20to%20Verizon.%2085%25%20of%20customers%20can%20save%20with%20Xfinity%20Mobile%20compared%20to%20Verizon.%20Savings%20comparison%20limited%20to%20regular%20monthly%20service%20charges%20for%20Comcast%E2%80%99s%20data%20options%20and%20Verizon%27s%20published%20rates%20at%20%5Bwww.verizonwireless.com%7Chttp%3A%2F%2Fwww.verizonwireless.com%5D%20as%20of%20June%2019%2C%202017.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.&d3=%2A%2AT-Mobile%20savings%3A%2A%2A%20Most%20customers%20can%20save%2020%25%20or%20more%20with%20Xfinity%20Mobile%20compared%20to%20T-Mobile.%2080%25%20of%20customers%20can%20save%20with%20Xfinity%20Mobile%20compared%20to%20T-Mobile.%20Savings%20comparison%20limited%20to%20regular%20monthly%20service%20charges%20for%20Comcast%E2%80%99s%20data%20options%20and%20T-Mobile%E2%80%99s%20published%20rates%20at%20%5Bwww.t-mobile.com%7Chttp%3A%2F%2Fwww.t-mobile.com%5D%20as%20of%20June%2019%2C%202017.%20Fee%20for%20T-Mobile%20One%20Plus%20included%2C%20other%20taxes%2Ffees%20not%20included%20with%20T-Mobile%20pricing.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.&d4=%2A%2ASprint%20savings%3A%2A%2A%20Most%20customers%20can%20save%2015%25%20or%20more%20with%20Xfinity%20Mobile%20compared%20to%20Sprint.%2075%25%20of%20customers%20can%20save%20with%20Xfinity%20Mobile%20compared%20to%20Sprint.%20Savings%20comparison%20limited%20to%20regular%20monthly%20service%20charges%20for%20Comcast%E2%80%99s%20data%20options%20and%20Sprint%E2%80%99s%20published%20rates%20at%20%5Bwww.sprint.com%7Chttp%3A%2F%2Fwww.sprint.com%5D%20as%20of%20June%2019%2C%202017.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180808T201505Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3833d6cd-1830-4468-8449-60b0e12b74dc
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180921T152916Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----version----
+language: en
+version: 2
+revision: 984e4322-9bf5-466b-9706-2665782b28ae
+
+----field----
+field: {5A86897D-4122-42B5-9C4A-455174723A59}
+name: description
+key: description
+content-length: 1768
+
+d1=**AT%26T%20savings%3A**%20Savings%20based%20on%20Comcast%E2%80%99s%20%2412%2FGB%20and%2For%20%2445%2Fline%20Unlimited%20data%20options%20vs.%20regular%20monthly%20recurring%20service%20charges%20for%20comparable%20AT%26T%20plan%2C%20as%20published%20at%20www.att.com%2Fwireless%20as%20of%20June%2013%2C%202018.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.%20Pricing%20subject%20to%20change.&d2=**Verizon%20Wireless%20savings%3A**%20Savings%20based%20on%20Comcast%E2%80%99s%20%2412%2FGB%20and%2For%20%2445%2Fline%20Unlimited%20data%20options%20vs.%20regular%20monthly%20recurring%20service%20charges%20for%20comparable%20Verizon%20plan%2C%20as%20published%20at%20www.verizonwireless.com%20as%20of%20June%2013%2C%202018.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.%20Pricing%20subject%20to%20change.&d3=**T-Mobile%20savings%3A**%20Savings%20based%20on%20Comcast%E2%80%99s%20%2412%2FGB%20and%2For%20%2445%2Fline%20Unlimited%20data%20options%20vs.%20regular%20monthly%20recurring%20service%20charges%20for%20comparable%20T-Mobile%20plan%2C%20as%20published%20at%20www.t-mobile.com%20as%20of%20June%2013%2C%202018.%20Taxes%2Ffees%20included%20with%20T-Mobile%20pricing.%20Savings%20does%20not%20take%20into%20account%20Xfinity%20Mobile%20taxes%2Ffees.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.%20Pricing%20subject%20to%20change.&d4=**Sprint%20savings%3A**%20Savings%20based%20on%20Comcast%E2%80%99s%20%2412%2FGB%20and%2For%20%2445%2Fline%20Unlimited%20data%20options%20vs.%20regular%20monthly%20recurring%20service%20charges%20for%20comparable%20Sprint%20plan%2C%20as%20published%20at%20www.sprint.com%20as%20of%20June%2013%2C%202018.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.%20Pricing%20subject%20to%20change.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20181031T172018Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20181031T172018Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\snavee884
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+984e4322-9bf5-466b-9706-2665782b28ae
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20181031T173823Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\snavee884
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 3
+revision: 5a5fa672-0058-43aa-8f62-d72c011db6fd
+
+----field----
+field: {5A86897D-4122-42B5-9C4A-455174723A59}
+name: description
+key: description
+content-length: 3045
+
+d1=Most%20people%20save%2030%25%20or%20more%20with%20Xfinity%20Mobile%20compared%20to%20other%20carriers.%2085%25%20of%20people%20save%20with%20Xfinity%20Mobile%20compared%20to%20other%20carriers.%20Savings%20comparison%20limited%20to%20regular%20monthly%20service%20charges%20for%20Comcast%E2%80%99s%20data%20options%20and%20the%20weighted%20average%20prices%20of%20Verizon%2C%20AT%26T%2C%20T-Mobile%20and%20Sprint%27s%20published%20rates%20as%20of%20June%2019%2C%202017.%20Fee%20for%20T-Mobile%20One%20Plus%20included%2C%20other%20taxes%2Ffees%20not%20included%20with%20T-Mobile%20pricing.%20Savings%20does%20not%20take%20into%20account%20Xfinity%20Mobile%20taxes%2Ffees.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed&d2=**AT%26T%20savings%3A**%20Most%20customers%20can%20save%2035%25%20or%20more%20with%20Xfinity%20Mobile%20compared%20to%20AT%26T.%2090%25%20of%20customers%20can%20save%20with%20Xfinity%20Mobile%20compared%20to%20AT%26T.%20Savings%20comparison%20limited%20to%20regular%20monthly%20service%20charges%20for%20Comcast%E2%80%99s%20data%20options%20and%20ATT%E2%80%99s%20published%20rates%20at%20%5Bwww.att.com%2Fwireless%7Chttp%3A%2F%2Fwww.att.com%2Fwireless%5D%20as%20of%20June%2019%2C%202017.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.&d3=**Verizon%20Wireless%20savings%3A**%20Most%20customers%20can%20save%2035%25%20or%20more%20with%20Xfinity%20Mobile%20compared%20to%20Verizon.%2085%25%20of%20customers%20can%20save%20with%20Xfinity%20Mobile%20compared%20to%20Verizon.%20Savings%20comparison%20limited%20to%20regular%20monthly%20service%20charges%20for%20Comcast%E2%80%99s%20data%20options%20and%20Verizon%27s%20published%20rates%20at%20%5Bwww.verizonwireless.com%7Chttp%3A%2F%2Fwww.verizonwireless.com%5D%20as%20of%20June%2019%2C%202017.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.&d4=**T-Mobile%20savings%3A**%20Most%20customers%20can%20save%2020%25%20or%20more%20with%20Xfinity%20Mobile%20compared%20to%20T-Mobile.%2080%25%20of%20customers%20can%20save%20with%20Xfinity%20Mobile%20compared%20to%20T-Mobile.%20Savings%20comparison%20limited%20to%20regular%20monthly%20service%20charges%20for%20Comcast%E2%80%99s%20data%20options%20and%20T-Mobile%E2%80%99s%20published%20rates%20at%20%5Bwww.t-mobile.com%7Chttp%3A%2F%2Fwww.t-mobile.com%5D%20as%20of%20June%2019%2C%202017.%20Fee%20for%20T-Mobile%20One%20Plus%20included%2C%20other%20taxes%2Ffees%20not%20included%20with%20T-Mobile%20pricing.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.&d5=**Sprint%20savings%3A**%20Most%20customers%20can%20save%2015%25%20or%20more%20with%20Xfinity%20Mobile%20compared%20to%20Sprint.%2075%25%20of%20customers%20can%20save%20with%20Xfinity%20Mobile%20compared%20to%20Sprint.%20Savings%20comparison%20limited%20to%20regular%20monthly%20service%20charges%20for%20Comcast%E2%80%99s%20data%20options%20and%20Sprint%E2%80%99s%20published%20rates%20at%20%5Bwww.sprint.com%7Chttp%3A%2F%2Fwww.sprint.com%5D%20as%20of%20June%2019%2C%202017.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20181130T201459Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20181130T201459Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\snavee884
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+5a5fa672-0058-43aa-8f62-d72c011db6fd
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20181130T203208Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\snavee884
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 4
+revision: 10cacd0c-dcad-454c-8e98-d877f9f0676e
+
+----field----
+field: {5A86897D-4122-42B5-9C4A-455174723A59}
+name: description
+key: description
+content-length: 1792
+
+d1=**%20AT%26T%20savings%3A%20**%20Savings%20based%20on%20Comcast%E2%80%99s%20%2412%2FGB%20and%2For%20%2445%2Fline%20Unlimited%20data%20options%20vs.%20regular%20monthly%20recurring%20service%20charges%20for%20comparable%20AT%26T%20plan%2C%20as%20published%20at%20www.att.com%2Fwireless%20as%20of%20June%2013%2C%202018.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.%20Pricing%20subject%20to%20change.&d2=**%20Verizon%20Wireless%20savings%3A**%20%20Savings%20based%20on%20Comcast%E2%80%99s%20%2412%2FGB%20and%2For%20%2445%2Fline%20Unlimited%20data%20options%20vs.%20regular%20monthly%20recurring%20service%20charges%20for%20comparable%20Verizon%20plan%2C%20as%20published%20at%20www.verizonwireless.com%20as%20of%20June%2013%2C%202018.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.%20Pricing%20subject%20to%20change.&d3=**%20T-Mobile%20savings%3A%20**%20Savings%20based%20on%20Comcast%E2%80%99s%20%2412%2FGB%20and%2For%20%2445%2Fline%20Unlimited%20data%20options%20vs.%20regular%20monthly%20recurring%20service%20charges%20for%20comparable%20T-Mobile%20plan%2C%20as%20published%20at%20www.t-mobile.com%20as%20of%20June%2013%2C%202018.%20Taxes%2Ffees%20included%20with%20T-Mobile%20pricing.%20Savings%20does%20not%20take%20into%20account%20Xfinity%20Mobile%20taxes%2Ffees.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.%20Pricing%20subject%20to%20change.&d4=**%20Sprint%20savings%3A**%20%20Savings%20based%20on%20Comcast%E2%80%99s%20%2412%2FGB%20and%2For%20%2445%2Fline%20Unlimited%20data%20options%20vs.%20regular%20monthly%20recurring%20service%20charges%20for%20comparable%20Sprint%20plan%2C%20as%20published%20at%20www.sprint.com%20as%20of%20June%2013%2C%202018.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.%20Pricing%20subject%20to%20change.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20181210T182526Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20181210T182526Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\snavee884
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+10cacd0c-dcad-454c-8e98-d877f9f0676e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20181210T223055Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\snavee884
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 5
+revision: 9ab39e14-8fc3-4885-b06b-a414faee1df9
+
+----field----
+field: {5A86897D-4122-42B5-9C4A-455174723A59}
+name: description
+key: description
+content-length: 1772
+
+d1=**%20AT%26T%20savings%3A%20**%20Savings%20based%20on%20Comcast%E2%80%99s%20%2412%2FGB%20and%2For%20%2445%2Fline%20Unlimited%20data%20options%20vs.%20regular%20monthly%20recurring%20service%20charges%20for%20comparable%20AT%26T%20plan%2C%20as%20published%20at%20www.att.com%2Fwireless%20as%20of%20January%202019.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.%20Pricing%20subject%20to%20change.&d2=**%20Verizon%20Wireless%20savings%3A**%20%20Savings%20based%20on%20Comcast%E2%80%99s%20%2412%2FGB%20and%2For%20%2445%2Fline%20Unlimited%20data%20options%20vs.%20regular%20monthly%20recurring%20service%20charges%20for%20comparable%20Verizon%20plan%2C%20as%20published%20at%20www.verizonwireless.com%20as%20of%20January%202019.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.%20Pricing%20subject%20to%20change.&d3=**%20T-Mobile%20savings%3A%20**%20Savings%20based%20on%20Comcast%E2%80%99s%20%2412%2FGB%20and%2For%20%2445%2Fline%20Unlimited%20data%20options%20vs.%20regular%20monthly%20recurring%20service%20charges%20for%20comparable%20T-Mobile%20plan%2C%20as%20published%20at%20www.t-mobile.com%20as%20of%20January%202019.%20Taxes%2Ffees%20included%20with%20T-Mobile%20pricing.%20Savings%20does%20not%20take%20into%20account%20Xfinity%20Mobile%20taxes%2Ffees.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.%20Pricing%20subject%20to%20change.&d4=**%20Sprint%20savings%3A**%20%20Savings%20based%20on%20Comcast%E2%80%99s%20%2412%2FGB%20and%2For%20%2445%2Fline%20Unlimited%20data%20options%20vs.%20regular%20monthly%20recurring%20service%20charges%20for%20comparable%20Sprint%20plan%2C%20as%20published%20at%20www.sprint.com%20as%20of%20January%202019.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.%20Pricing%20subject%20to%20change.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190201T142816Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190201T142816Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9ab39e14-8fc3-4885-b06b-a414faee1df9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190201T174733Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\pboone598
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 6
+revision: a8c0efb5-8dd8-411c-b84a-01d3f0c43e37
+
+----field----
+field: {5A86897D-4122-42B5-9C4A-455174723A59}
+name: description
+key: description
+content-length: 1764
+
+d1=**%20AT%26T%20savings%3A%20**%20Savings%20based%20on%20Comcast%E2%80%99s%20%2412%2FGB%20and%2For%20%2445%2Fline%20Unlimited%20data%20options%20vs.%20regular%20monthly%20recurring%20service%20charges%20for%20comparable%20AT%26T%20plan%2C%20as%20published%20at%20www.att.com%2Fwireless%20as%20of%20March%202019.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.%20Pricing%20subject%20to%20change.&d2=**%20Verizon%20Wireless%20savings%3A**%20%20Savings%20based%20on%20Comcast%E2%80%99s%20%2412%2FGB%20and%2For%20%2445%2Fline%20Unlimited%20data%20options%20vs.%20regular%20monthly%20recurring%20service%20charges%20for%20comparable%20Verizon%20plan%2C%20as%20published%20at%20www.verizonwireless.com%20as%20of%20March%202019.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.%20Pricing%20subject%20to%20change.&d3=**%20T-Mobile%20savings%3A%20**%20Savings%20based%20on%20Comcast%E2%80%99s%20%2412%2FGB%20and%2For%20%2445%2Fline%20Unlimited%20data%20options%20vs.%20regular%20monthly%20recurring%20service%20charges%20for%20comparable%20T-Mobile%20plan%2C%20as%20published%20at%20www.t-mobile.com%20as%20of%20March%202019.%20Taxes%2Ffees%20included%20with%20T-Mobile%20pricing.%20Savings%20does%20not%20take%20into%20account%20Xfinity%20Mobile%20taxes%2Ffees.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.%20Pricing%20subject%20to%20change.&d4=**%20Sprint%20savings%3A**%20%20Savings%20based%20on%20Comcast%E2%80%99s%20%2412%2FGB%20and%2For%20%2445%2Fline%20Unlimited%20data%20options%20vs.%20regular%20monthly%20recurring%20service%20charges%20for%20comparable%20Sprint%20plan%2C%20as%20published%20at%20www.sprint.com%20as%20of%20March%202019.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.%20Pricing%20subject%20to%20change.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190328T132010Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190328T132010Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a8c0efb5-8dd8-411c-b84a-01d3f0c43e37
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190402T153728Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\pboone598
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 7
+revision: a616a6a3-4685-4ff1-b483-c5ef522b6f6a
+
+----field----
+field: {5A86897D-4122-42B5-9C4A-455174723A59}
+name: description
+key: description
+content-length: 1756
+
+d1=**%20AT%26T%20savings%3A%20**%20Savings%20based%20on%20Comcast%E2%80%99s%20%2412%2FGB%20and%2For%20%2445%2Fline%20Unlimited%20data%20options%20vs.%20regular%20monthly%20recurring%20service%20charges%20for%20comparable%20AT%26T%20plan%2C%20as%20published%20at%20www.att.com%2Fwireless%20as%20of%20May%202019.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.%20Pricing%20subject%20to%20change.&d2=**%20Verizon%20Wireless%20savings%3A**%20%20Savings%20based%20on%20Comcast%E2%80%99s%20%2412%2FGB%20and%2For%20%2445%2Fline%20Unlimited%20data%20options%20vs.%20regular%20monthly%20recurring%20service%20charges%20for%20comparable%20Verizon%20plan%2C%20as%20published%20at%20www.verizonwireless.com%20as%20of%20May%202019.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.%20Pricing%20subject%20to%20change.&d3=**%20T-Mobile%20savings%3A%20**%20Savings%20based%20on%20Comcast%E2%80%99s%20%2412%2FGB%20and%2For%20%2445%2Fline%20Unlimited%20data%20options%20vs.%20regular%20monthly%20recurring%20service%20charges%20for%20comparable%20T-Mobile%20plan%2C%20as%20published%20at%20www.t-mobile.com%20as%20of%20May%202019.%20Taxes%2Ffees%20included%20with%20T-Mobile%20pricing.%20Savings%20does%20not%20take%20into%20account%20Xfinity%20Mobile%20taxes%2Ffees.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.%20Pricing%20subject%20to%20change.&d4=**%20Sprint%20savings%3A**%20%20Savings%20based%20on%20Comcast%E2%80%99s%20%2412%2FGB%20and%2For%20%2445%2Fline%20Unlimited%20data%20options%20vs.%20regular%20monthly%20recurring%20service%20charges%20for%20comparable%20Sprint%20plan%2C%20as%20published%20at%20www.sprint.com%20as%20of%20May%202019.%20Actual%20savings%20vary%20and%20are%20not%20guaranteed.%20Pricing%20subject%20to%20change.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190530T180512Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190530T180512Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\psivil200
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a616a6a3-4685-4ff1-b483-c5ef522b6f6a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190531T171301Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\pboone598
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {F144EBED-63FE-48C1-8D05-ED5ABCBA98FA}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Plans Meta-Data/Background Images/plan_tablets_bg_640
+parent: {D68CD9D1-C168-4DBA-BE42-AA0A0A135A59}
+name: plan_tablets_bg_640
+master: {00000000-0000-0000-0000-000000000000}
+template: {EAD64FBA-B61F-47E2-9773-EB790CC17C35}
+templatekey: Background Images
+created: 20190717T140632Z
+
+----field----
+field: {CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}
+name: __Default workflow
+key: __default workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: eb7ef599-f576-4399-8204-b808fcbf35aa
+
+----field----
+field: {F1E0E28C-1645-49A5-A1A7-B56E8E36FBFF}
+name: breakpoint
+key: breakpoint
+content-length: 3
+
+640
+----field----
+field: {A6802972-BBEC-40AF-8878-33782017A129}
+name: image
+key: image
+content-length: 38
+
+{BCDECB3F-E97B-41B2-989E-8E23E87149A0}
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190717T140632Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+eb7ef599-f576-4399-8204-b808fcbf35aa
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190823T155413Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\snavee884
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

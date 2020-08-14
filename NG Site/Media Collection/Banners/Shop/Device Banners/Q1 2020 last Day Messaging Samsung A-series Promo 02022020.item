@@ -1,0 +1,1319 @@
+----item----
+version: 1
+id: {66B02EE4-D9E7-4FD2-829A-FF0839AB3B76}
+database: master
+path: /sitecore/content/Modesto/NG Site/Media Collection/Banners/Shop/Device Banners/Q1 2020 last Day Messaging Samsung A-series Promo 02022020
+parent: {615E98CF-2954-4896-963E-C71EA33309B9}
+name: Q1 2020 last Day Messaging Samsung A-series Promo 02022020
+master: {00000000-0000-0000-0000-000000000000}
+template: {ACF7553B-EA2B-46D2-AD40-07BCAEFDBDF3}
+templatekey: Banner
+created: 20200127T153749Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 4
+
+3300
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 4fe00e1b-71b5-4d04-938a-74d1327f478e
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#f2f4f5
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 77
+
+{EFF42950-86CD-459B-9F3F-6AFEC8BD1B36}|{A1E12A3D-BD34-4766-BFA7-6BD774F4D866}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 4
+
+auto
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 33
+
+Device Carousel Apple promotional
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 99
+
+Get $200 back when you buy any iPhone, activate a line, and transfer your number to Xfinity Mobile.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 12
+
+FALL SAVINGS
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 36
+
+Buy any new iPhone and get $200 back
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 28
+
+left-banner shop-left-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 0
+
+
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{8C10BCA7-6261-4643-BF74-47F4F4EA60B0}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180530T204334Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4fe00e1b-71b5-4d04-938a-74d1327f478e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T183908Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 2
+revision: c84b9a3b-e46f-4e5c-912f-a7857405bdb3
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#f2f4f5
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 77
+
+{EFF42950-86CD-459B-9F3F-6AFEC8BD1B36}|{A1E12A3D-BD34-4766-BFA7-6BD774F4D866}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 4
+
+auto
+----field----
+field: {57F23268-22EF-4D5F-9A9D-62F48EA9F660}
+name: brand
+key: brand
+content-length: 5
+
+apple
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 33
+
+Device Carousel Apple promotional
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 99
+
+Get $200 back when you buy any iPhone, activate a line, and transfer your number to Xfinity Mobile.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 12
+
+FALL SAVINGS
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 36
+
+Buy any new iPhone and get $200 back
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 28
+
+left-banner shop-left-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 0
+
+
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{8C10BCA7-6261-4643-BF74-47F4F4EA60B0}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20181031T205929Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20181031T205929Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 16
+
+cable\fmoham003c
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c84b9a3b-e46f-4e5c-912f-a7857405bdb3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T183907Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 3
+revision: b9668ba4-b59c-46de-8a2b-5ad8775c4b8d
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#f2f4f5
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 77
+
+{EFF42950-86CD-459B-9F3F-6AFEC8BD1B36}|{A1E12A3D-BD34-4766-BFA7-6BD774F4D866}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 4
+
+auto
+----field----
+field: {57F23268-22EF-4D5F-9A9D-62F48EA9F660}
+name: brand
+key: brand
+content-length: 5
+
+apple
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 33
+
+Device Carousel Apple promotional
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 99
+
+Get $200 back when you buy any iPhone, activate a line, and transfer your number to Xfinity Mobile.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 12
+
+FALL SAVINGS
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 36
+
+Buy any new iPhone and get $200 back
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 28
+
+left-banner shop-left-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 0
+
+
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{8C10BCA7-6261-4643-BF74-47F4F4EA60B0}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20181101T185349Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20181101T185349Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\apatta228
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b9668ba4-b59c-46de-8a2b-5ad8775c4b8d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T183905Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 4
+revision: e2fdcbf9-e30d-45de-9d6b-65a41daf577c
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#f2f4f5
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 77
+
+{EFF42950-86CD-459B-9F3F-6AFEC8BD1B36}|{A1E12A3D-BD34-4766-BFA7-6BD774F4D866}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 4
+
+auto
+----field----
+field: {57F23268-22EF-4D5F-9A9D-62F48EA9F660}
+name: brand
+key: brand
+content-length: 5
+
+apple
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 33
+
+Device Carousel Apple promotional
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 99
+
+Get $200 back when you buy any iPhone, activate a line, and transfer your number to Xfinity Mobile.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 15
+
+HOLIDAY SAVINGS
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 36
+
+Buy any new iPhone and get $200 back
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 28
+
+left-banner shop-left-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 0
+
+
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{8C10BCA7-6261-4643-BF74-47F4F4EA60B0}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20181120T194528Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20181120T194528Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\abrown331
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e2fdcbf9-e30d-45de-9d6b-65a41daf577c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T183904Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 5
+revision: 48ee4dcd-ce9f-4f9c-bdce-76b5b7d8f285
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#f2f4f5
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 77
+
+{EFF42950-86CD-459B-9F3F-6AFEC8BD1B36}|{A1E12A3D-BD34-4766-BFA7-6BD774F4D866}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 4
+
+auto
+----field----
+field: {57F23268-22EF-4D5F-9A9D-62F48EA9F660}
+name: brand
+key: brand
+content-length: 5
+
+apple
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 33
+
+Device Carousel Apple promotional
+----field----
+field: {D7091B83-1446-490A-9D8B-796C0ED3FFBB}
+name: brands
+key: brands
+content-length: 7
+
+1=Apple
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 99
+
+Get $200 back when you buy any iPhone, activate a line, and transfer your number to Xfinity Mobile.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 15
+
+HOLIDAY SAVINGS
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 36
+
+Buy any new iPhone and get $200 back
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 28
+
+left-banner shop-left-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 0
+
+
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{8C10BCA7-6261-4643-BF74-47F4F4EA60B0}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20181218T210539Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20181218T210539Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 16
+
+cable\fmoham003c
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+48ee4dcd-ce9f-4f9c-bdce-76b5b7d8f285
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T183902Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----version----
+language: en
+version: 6
+revision: ebd04564-25f9-4115-be43-6f18262cff9a
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#f2f4f5
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 155
+
+{C1C8A754-0204-4C68-87AF-C37D32EDA0C6}|{397CED2F-61A0-41E1-ABFC-3A2AFDCF70CB}|{E23D7DBA-0F0D-42D6-9ABF-7281E2900781}|{D581BE06-6E6D-4CF2-9344-9DB2D693CEF2}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 3
+
+hoz
+----field----
+field: {6A2958E5-FE3C-48B4-BFD3-2CBB97A835E3}
+name: imagePosition
+key: imageposition
+content-length: 6
+
+bottom
+----field----
+field: {57F23268-22EF-4D5F-9A9D-62F48EA9F660}
+name: brand
+key: brand
+content-length: 7
+
+samsung
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 35
+
+Device Carousel Samsung Promotional
+----field----
+field: {D7091B83-1446-490A-9D8B-796C0ED3FFBB}
+name: brands
+key: brands
+content-length: 9
+
+1=Samsung
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 229
+
+The new Galaxy A70 is only available from Xfinity Mobile. Get $250 off the Galaxy A70 or any other Samsung phone purchase when you transfer your number within 30 days. Credits applied over 22-23 months of the device payment plan.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 39
+
+EXCLUSIVE PHONE. EXTRAORDINARY SAVINGS.
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 47
+
+'Tis the season for $250 off the new Galaxy A70
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 28
+
+left-banner shop-left-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 0
+
+
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{7F3A9216-D576-4584-A2B4-EA66B07152BD}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20181227T195806Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20181227T195806Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ebd04564-25f9-4115-be43-6f18262cff9a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200127T153751Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{1D30491A-DCE2-4DF8-93D4-5E6A16D79601}
+----version----
+language: en
+version: 7
+revision: c5c8b86a-e5e9-4c91-94f4-369b371dae8b
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#f2f4f5
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 155
+
+{564DF92F-A937-4230-9176-B95943FE1F6E}|{D0152FF4-6509-4FC3-9534-B0B7E5A8B131}|{123714FE-0514-4DE8-87CD-9ED30F89AEB0}|{933414E8-D9F5-4132-9056-90D5418D030E}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 3
+
+hoz
+----field----
+field: {6A2958E5-FE3C-48B4-BFD3-2CBB97A835E3}
+name: imagePosition
+key: imageposition
+content-length: 6
+
+bottom
+----field----
+field: {57F23268-22EF-4D5F-9A9D-62F48EA9F660}
+name: brand
+key: brand
+content-length: 7
+
+samsung
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 35
+
+Device Carousel Samsung Promotional
+----field----
+field: {D7091B83-1446-490A-9D8B-796C0ED3FFBB}
+name: brands
+key: brands
+content-length: 9
+
+1=Samsung
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 192
+
+Receive $150 off a Samsung A70 or $100 off a Samsung A50 phone purchase when you transfer your number within 30 days. Credits applied over 24 months of the device payment plan. Offer ends 2/2.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 16
+
+OFFER ENDS TODAY
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 55
+
+Buy a Samsung Galaxy A-Series phone, get up to $150 off
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 28
+
+left-banner shop-left-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 0
+
+
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{DD331F91-87BB-4D18-93E7-D8AD4F35C7EF}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200102T141204Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200102T141204Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c5c8b86a-e5e9-4c91-94f4-369b371dae8b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200129T164524Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 8
+revision: 9f1dd208-7917-4d06-a8fc-146aa3cd0965
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#f2f4f5
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 0
+
+
+----field----
+field: {092A1F1B-C35F-421E-9C67-3286BB5A8991}
+name: images
+key: images
+content-length: 155
+
+{564DF92F-A937-4230-9176-B95943FE1F6E}|{D0152FF4-6509-4FC3-9534-B0B7E5A8B131}|{123714FE-0514-4DE8-87CD-9ED30F89AEB0}|{933414E8-D9F5-4132-9056-90D5418D030E}
+----field----
+field: {8D69E054-3C89-4094-AEC7-455C29AB2D38}
+name: imageSide
+key: imageside
+content-length: 5
+
+right
+----field----
+field: {EA995CF3-9D23-4442-A205-6DE228294E99}
+name: imageSize
+key: imagesize
+content-length: 6
+
+height
+----field----
+field: {DF3C73E4-0022-4082-A4DF-28CCDE3AE9B7}
+name: imageCenter
+key: imagecenter
+content-length: 3
+
+hoz
+----field----
+field: {6A2958E5-FE3C-48B4-BFD3-2CBB97A835E3}
+name: imagePosition
+key: imageposition
+content-length: 6
+
+bottom
+----field----
+field: {57F23268-22EF-4D5F-9A9D-62F48EA9F660}
+name: brand
+key: brand
+content-length: 7
+
+samsung
+----field----
+field: {DD13DFA4-C6ED-429E-AA9E-9FF307DB8AC5}
+name: name
+key: name
+content-length: 35
+
+Device Carousel Samsung Promotional
+----field----
+field: {D7091B83-1446-490A-9D8B-796C0ED3FFBB}
+name: brands
+key: brands
+content-length: 9
+
+1=Samsung
+----field----
+field: {086097B2-FA07-4AB8-BB76-EF117350443D}
+name: text-description
+key: text-description
+content-length: 192
+
+Receive $150 off a Samsung A70 or $100 off a Samsung A50 phone purchase when you transfer your number within 30 days. Credits applied over 24 months of the device payment plan. Offer ends 2/2.
+----field----
+field: {E6F94290-0654-4674-9C20-74416874B105}
+name: text-header
+key: text-header
+content-length: 16
+
+OFFER ENDS TODAY
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 55
+
+Buy a Samsung Galaxy A-Series phone, get up to $150 off
+----field----
+field: {BC443638-CE25-48D8-8A0B-85ADC3CF9216}
+name: actions-bannerClass
+key: actions-bannerclass
+content-length: 28
+
+left-banner shop-left-banner
+----field----
+field: {99A78423-D2D6-4DAF-913D-F5D09ACEA983}
+name: actions-links
+key: actions-links
+content-length: 0
+
+
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{DD331F91-87BB-4D18-93E7-D8AD4F35C7EF}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200214T194204Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200214T194204Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9f1dd208-7917-4d06-a8fc-146aa3cd0965
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200214T194218Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{1D30491A-DCE2-4DF8-93D4-5E6A16D79601}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

@@ -1,0 +1,4353 @@
+----item----
+version: 1
+id: {48D7E6EE-4A22-4FFC-815F-E6605707BF37}
+database: master
+path: /sitecore/content/Modesto/NG Site/Home/Confirmation
+parent: {1EE91079-22AA-40FA-95F2-621FC5F0CE97}
+name: Confirmation
+master: {00000000-0000-0000-0000-000000000000}
+template: {F9379F26-5938-4A86-8DD9-974EB6A01C53}
+templatekey: Confirmation
+created: 20180807T194541Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 4
+
+1100
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: df60c491-1c66-4f17-bfed-e1f0e604fe3d
+
+----field----
+field: {ECACDC88-9543-470A-B8DF-3B8D7296ECC4}
+name: welcome-xmLogo
+key: welcome-xmlogo
+content-length: 38
+
+{6D328237-EA92-46F7-80FF-79E3BBD8878C}
+----field----
+field: {F82FCE7F-F210-4373-8E43-7B6A447D0C4C}
+name: welcome-header-all
+key: welcome-header-all
+content-length: 26
+
+Welcome to Xfinity Mobile.
+----field----
+field: {209CE8DD-EC91-460A-9AAF-6053EB4A9903}
+name: welcome-header-onlyAccessory
+key: welcome-header-onlyaccessory
+content-length: 20
+
+Thanks for shopping.
+----field----
+field: {80502665-C48C-46D8-B0BE-C0DA96B5468F}
+name: welcome-header-ndelDevice
+key: welcome-header-ndeldevice
+content-length: 27
+
+Congrats on your new device
+----field----
+field: {787D2A1A-124B-4FCC-95E9-E93C3902CD87}
+name: welcome-subHeader-allSuffixText
+key: welcome-subheader-allsuffixtext
+content-length: 8
+
+Your new
+----field----
+field: {FA112888-5FA8-4FC5-8440-7556B3292ADB}
+name: welcome-subHeader-ndelDevice
+key: welcome-subheader-ndeldevice
+content-length: 16
+
+Your replacement
+----field----
+field: {2E010ECD-C5E8-4D98-B1AE-0C7C2DB69BA7}
+name: welcome-subHeader-multipleDevices
+key: welcome-subheader-multipledevices
+content-length: 6
+
+phones
+----field----
+field: {DB73972B-24C5-415C-AFB0-DC9A62442F9B}
+name: welcome-subHeader-multipleAccessories
+key: welcome-subheader-multipleaccessories
+content-length: 11
+
+accessories
+----field----
+field: {9018B19B-64E9-414A-9CD6-B73945F5B7DA}
+name: welcome-subHeader-multiDeviceAndAccessory
+key: welcome-subheader-multideviceandaccessory
+content-length: 15
+
+and accessories
+----field----
+field: {A985F4D7-1F9C-4657-B674-32466B9A9F0E}
+name: welcome-subHeader-byodDevice
+key: welcome-subheader-byoddevice
+content-length: 42
+
+You'll have your order in your hands soon.
+----field----
+field: {D8895F81-78D4-4F37-A77D-9955C796E194}
+name: welcome-subHeader-allPrefixText
+key: welcome-subheader-allprefixtext
+content-length: 27
+
+will be in your hands soon.
+----field----
+field: {CC960E45-E0FA-47AD-990C-7AEDD1BE8ED2}
+name: welcome-description
+key: welcome-description
+content-length: 245
+
+Look out for an email from us with your order details. When your order ships, you'll get a shipment-confirmation email with the delivery date of order #[ORDER_ID]. Someone must be home to receive the package—a signature is required for delivery.
+----field----
+field: {0AEE9B22-99D2-480C-B01F-B7C2AFAA7086}
+name: welcome-note
+key: welcome-note
+content-length: 104
+
+Visit your [Xfinity Mobile account|account.activity.landing] anytime to check the details of your order.
+----field----
+field: {83797EBA-D461-45A5-B4FA-12149E80F5AB}
+name: welcome-descriptionFooter
+key: welcome-descriptionfooter
+content-length: 0
+
+
+----field----
+field: {228A32BB-B7A3-4EE2-9D9B-67A753DF59B6}
+name: welcome-byodDescription
+key: welcome-byoddescription
+content-length: 151
+
+Your confirmation number is #[ORDER_ID], and your SIM card will be in your hands in a few days. Look out for an email from us with your order details. 
+----field----
+field: {F65C6D0A-29FB-4796-9C0B-42459D581A93}
+name: welcome-enableByodPromo
+key: welcome-enablebyodpromo
+content-length: 0
+
+
+----field----
+field: {7CCAA97A-7A32-48F4-8EEB-272BDA43E30F}
+name: welcome-promoMessage-prepaidPromoOnly
+key: welcome-promomessage-prepaidpromoonly
+content-length: 201
+
+Visit your [Xfinity Mobile account|account.activity.landing] to check your order details, or review the [prepaid card FAQs.|https://www.xfinity.com/mobile/support/article/faqs-visa-prepaid-card-offers]
+----field----
+field: {5B5777BE-68D7-4858-83DF-BB7246F9F71E}
+name: welcome-promoMessage-extendedPromoOnly
+key: welcome-promomessage-extendedpromoonly
+content-length: 192
+
+Visit your [Xfinity Mobile account|account.activity.landing] to check your order details, or review the [device credit FAQs.|https://www.xfinity.com/mobile/support/article/faqs-device-credits]
+----field----
+field: {1D367178-87A1-4D06-8B7B-55644A872BAA}
+name: welcome-promoMessage-prepaidAndExtendedPromo
+key: welcome-promomessage-prepaidandextendedpromo
+content-length: 289
+
+Visit your [Xfinity Mobile account|account.activity.landing] to check your order details, or review the [device credit |https://www.xfinity.com/mobile/support/article/faqs-device-credits] and [prepaid card FAQs.|https://www.xfinity.com/mobile/support/article/faqs-visa-prepaid-card-offers]
+----field----
+field: {587AFED9-A3C4-4D20-B818-818888984ED0}
+name: socialShare-header
+key: socialshare-header
+content-length: 20
+
+While you're waiting
+----field----
+field: {D1B59077-895C-474B-BAFE-E5AECCBC41EC}
+name: socialShare-fbIcon
+key: socialshare-fbicon
+content-length: 38
+
+{A8576076-F5DB-4F28-AF08-38A97400937B}
+----field----
+field: {E161CE3B-78A5-4DF3-9576-CA4A32452955}
+name: socialShare-twitterIcon
+key: socialshare-twittericon
+content-length: 38
+
+{515AE928-1165-4EFE-9E7A-C55C54516B84}
+----field----
+field: {F9392D09-E609-4ED4-AD0A-89C45BAD0680}
+name: socialShare-singleDeviceBody-header
+key: socialshare-singledevicebody-header
+content-length: 14
+
+Share the love
+----field----
+field: {93C7938E-F020-42B1-8061-FEF2C913144C}
+name: socialShare-singleDeviceBody-subheader
+key: socialshare-singledevicebody-subheader
+content-length: 48
+
+Just get a new [DEVICE_NAME]? Tell your friends.
+----field----
+field: {B04E750E-22B9-4E08-AAD0-9E3DE799AE51}
+name: socialShare-multiDeviceBody-header
+key: socialshare-multidevicebody-header
+content-length: 17
+
+Tell your friends
+----field----
+field: {316A0699-80C8-4399-B41C-D88FBC961567}
+name: socialShare-multiDeviceBody-subheader
+key: socialshare-multidevicebody-subheader
+content-length: 60
+
+Share the latest devices available on a new kind of network.
+----field----
+field: {0A97E405-E0EB-457A-8665-BC9D37FFA0C0}
+name: socialShare-iosDevice
+key: socialshare-iosdevice
+content-length: 38
+
+{3D3EB09B-EE77-4E1C-88C9-AC4D8117B52A}
+----field----
+field: {ED2A9803-FA4C-4D2D-9FA0-7BFBDD2637EA}
+name: socialShare-andriodDevice
+key: socialshare-andrioddevice
+content-length: 38
+
+{0C31D7B2-AEF4-4D9A-AC04-C6AE4989973D}
+----field----
+field: {94F1ACE4-DD55-4EBF-88C0-47F4E9A14F77}
+name: socialShare-giggyIcon
+key: socialshare-giggyicon
+content-length: 38
+
+{83BE7A72-CEE4-4DA6-AFB4-8F4DC4EBB5A7}
+----field----
+field: {62F774D2-7D7E-49C1-AD33-818135B659F3}
+name: socialShare-giggyHeader
+key: socialshare-giggyheader
+content-length: 20
+
+Play Giggy's Fun Run
+----field----
+field: {795922E8-A8FD-43E9-B080-425F7044B4BC}
+name: socialShare-giggySubheader
+key: socialshare-giggysubheader
+content-length: 107
+
+Can’t wait for your device to arrive? Play our fun new mobile game, and share your score with your friends.
+----field----
+field: {D0B31C2D-8FEB-40E4-9F4E-C78076504A37}
+name: socialShare-giggyLabel
+key: socialshare-giggylabel
+content-length: 27
+
+[$$Play now|game.landing$$]
+----field----
+field: {6A37B7BB-62C9-4A1F-B100-B6092742C0E2}
+name: socialShare-facebookSingleDeviceURL
+key: socialshare-facebooksingledeviceurl
+content-length: 88
+
+https://www.facebook.com/sharer/sharer.php?u=https://www.xfinity.com/mobile/shop/device/
+----field----
+field: {D591C493-287F-4DA2-8BD9-1186C4B1875F}
+name: socialShare-facebookMultipleDeviceURL
+key: socialshare-facebookmultipledeviceurl
+content-length: 92
+
+https://www.facebook.com/sharer/sharer.php?u=https://www.xfinity.com/mobile/shop?tab=devices
+----field----
+field: {475740D6-A416-4AFC-8F06-E6E5E7D83984}
+name: socialShare-twitterMultipleDeviceURL
+key: socialshare-twittermultipledeviceurl
+content-length: 83
+
+https://twitter.com/share?url=https://www.xfinity.com/mobile/shop?tab=devices&text=
+----field----
+field: {B41BBB26-336A-4D8A-8591-6EBD50E52DB6}
+name: socialShare-twitterMultipleDeviceText
+key: socialshare-twittermultipledevicetext
+content-length: 79
+
+Xfinity Mobile lets me choose from the latest devices on a new kind of network.
+----field----
+field: {A996C9EE-EC32-4D6B-8A59-2734E8038ECE}
+name: socialShare-twitterSingleDeviceURL
+key: socialshare-twittersingledeviceurl
+content-length: 73
+
+https://twitter.com/share?url=https://www.xfinity.com/mobile/shop/device/
+----field----
+field: {C0EE7104-9D24-434C-9A4F-3D0F359464C6}
+name: socialShare-twitterSingleDeviceText
+key: socialshare-twittersingledevicetext
+content-length: 95
+
+&text=New [DEVICE_NAME]? Check. An awesome new mobile network designed to save me money? Check!
+----field----
+field: {9C9A0F38-1AA0-426B-AD6F-CF3968B8CE62}
+name: socialShare-byodBody-header
+key: socialshare-byodbody-header
+content-length: 7
+
+#XMBYOD
+----field----
+field: {3B08649C-C923-4135-90F4-B2313D3ECCA0}
+name: socialShare-byodBody-subheader
+key: socialshare-byodbody-subheader
+content-length: 45
+
+We want to know what makes your phone unique.
+----field----
+field: {171060BD-7262-45B5-9030-6A6F9269E712}
+name: socialShare-byodIcon
+key: socialshare-byodicon
+content-length: 38
+
+{2AD3E0A3-818A-48C4-8560-A4E437572A45}
+----field----
+field: {D8127B9F-3B98-4C0D-98CC-D504546FE7AA}
+name: field-header
+key: field-header
+content-length: 16
+
+What comes next?
+----field----
+field: {1A61CDBB-54D1-4EC0-9130-E7A7B0C56885}
+name: field-fieldIllustrations
+key: field-fieldillustrations
+content-length: 0
+
+
+----field----
+field: {C9E2ED76-AC17-48DE-B8E0-DF4092B6487D}
+name: field-orderHasByodOnly
+key: field-orderhasbyodonly
+content-length: 77
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}
+----field----
+field: {4C629EAD-7C9A-4411-BCDA-75E1B920D845}
+name: field-orderHasDevice
+key: field-orderhasdevice
+content-length: 116
+
+{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}|{A57E8098-6432-436C-AE11-245C7207DF92}
+----field----
+field: {F020D7F0-6D7F-4449-B655-649EF503A4CB}
+name: field-orderHasDeviceAndLockedByod
+key: field-orderhasdeviceandlockedbyod
+content-length: 116
+
+{1EA3F71C-4312-4F09-82A5-053E4B029C65}|{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}
+----field----
+field: {69CC2300-4E5C-4B75-8092-EBBF33FF7D98}
+name: field-orderHasDeviceAndUnlockedByod
+key: field-orderhasdeviceandunlockedbyod
+content-length: 116
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}
+----field----
+field: {D7D72A96-C262-4012-8984-DBDF9986F318}
+name: field-orderHasDeviceWithUnlimitedData
+key: field-orderhasdevicewithunlimiteddata
+content-length: 116
+
+{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}|{1FFBE741-7476-457B-A74E-B21F6C17BB0E}
+----field----
+field: {A08E635D-2F64-478B-8F28-8C8F0239E7E6}
+name: field-orderHasByodLocked
+key: field-orderhasbyodlocked
+content-length: 116
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{D6187B3D-D72D-46C6-8299-D74781B419C4}|{2B91AF35-B891-4E6A-9491-14B2E6C26DCC}
+----field----
+field: {E573FFA2-9CFF-4A58-95BE-A0F03FF059ED}
+name: field-carriers
+key: field-carriers
+content-length: 857
+
+{B831736D-1C15-4A7D-A479-9CA58C7BF10C}|{C42151D0-F705-496E-8D4A-245025ABE239}|{5FFBD7A6-C12A-4F12-B367-558983D0F7C1}|{58A5C6E4-9375-4A2C-93D9-67784D28E7D5}|{C6FA080A-6D78-4C89-8FA0-EB46141761B1}|{F69F17C7-EB8F-480F-9E01-7BF16766EAC7}|{9578475A-25CD-4194-B3A9-33962F7241C1}|{466D8DFE-337D-471C-9146-5C8C7FB79F9B}|{66F2FE45-DAE0-4A80-853F-F6851DD0257E}|{560BBF40-5061-4EDE-9001-232A9A393F97}|{949811F7-EA00-4B97-881E-F158A1907624}|{CE85D426-00D0-42AE-BE95-373EDA8061CF}|{105F6899-670E-4E4A-9B99-A7D34A675CA9}|{3DC35138-A557-4535-8ECB-0E7EBE920F07}|{1B0D0276-C802-45F5-81C1-5CD80A36F81F}|{B0E58051-C8FB-46BB-A327-D6B25006C927}|{86883C11-2FB4-4026-92C5-1064745F6342}|{0A419AD0-6718-4948-8281-B8E256D7B3AA}|{79034373-3E46-45A5-8B8C-6A0AC674A219}|{30D7AD60-2C66-4571-BA56-7D74FEE9DCE7}|{D8E1E79A-30C1-458E-B1C8-83959040E472}|{74E335D7-474A-44EF-9F4D-BE1EB2F9AE5F}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20191108T191258Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\mpayto200
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20191108T191258Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\jconno876
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+df60c491-1c66-4f17-bfed-e1f0e604fe3d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200611T145015Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 2
+revision: dc7c0ecd-0495-4983-b643-0fa7e7804483
+
+----field----
+field: {ECACDC88-9543-470A-B8DF-3B8D7296ECC4}
+name: welcome-xmLogo
+key: welcome-xmlogo
+content-length: 38
+
+{6D328237-EA92-46F7-80FF-79E3BBD8878C}
+----field----
+field: {F82FCE7F-F210-4373-8E43-7B6A447D0C4C}
+name: welcome-header-all
+key: welcome-header-all
+content-length: 26
+
+Welcome to Xfinity Mobile.
+----field----
+field: {209CE8DD-EC91-460A-9AAF-6053EB4A9903}
+name: welcome-header-onlyAccessory
+key: welcome-header-onlyaccessory
+content-length: 20
+
+Thanks for shopping.
+----field----
+field: {80502665-C48C-46D8-B0BE-C0DA96B5468F}
+name: welcome-header-ndelDevice
+key: welcome-header-ndeldevice
+content-length: 27
+
+Congrats on your new device
+----field----
+field: {787D2A1A-124B-4FCC-95E9-E93C3902CD87}
+name: welcome-subHeader-allSuffixText
+key: welcome-subheader-allsuffixtext
+content-length: 8
+
+Your new
+----field----
+field: {FA112888-5FA8-4FC5-8440-7556B3292ADB}
+name: welcome-subHeader-ndelDevice
+key: welcome-subheader-ndeldevice
+content-length: 16
+
+Your replacement
+----field----
+field: {2E010ECD-C5E8-4D98-B1AE-0C7C2DB69BA7}
+name: welcome-subHeader-multipleDevices
+key: welcome-subheader-multipledevices
+content-length: 6
+
+phones
+----field----
+field: {DB73972B-24C5-415C-AFB0-DC9A62442F9B}
+name: welcome-subHeader-multipleAccessories
+key: welcome-subheader-multipleaccessories
+content-length: 11
+
+accessories
+----field----
+field: {9018B19B-64E9-414A-9CD6-B73945F5B7DA}
+name: welcome-subHeader-multiDeviceAndAccessory
+key: welcome-subheader-multideviceandaccessory
+content-length: 15
+
+and accessories
+----field----
+field: {A985F4D7-1F9C-4657-B674-32466B9A9F0E}
+name: welcome-subHeader-byodDevice
+key: welcome-subheader-byoddevice
+content-length: 42
+
+You'll have your order in your hands soon.
+----field----
+field: {D8895F81-78D4-4F37-A77D-9955C796E194}
+name: welcome-subHeader-allPrefixText
+key: welcome-subheader-allprefixtext
+content-length: 27
+
+will be in your hands soon.
+----field----
+field: {CC960E45-E0FA-47AD-990C-7AEDD1BE8ED2}
+name: welcome-description
+key: welcome-description
+content-length: 245
+
+Look out for an email from us with your order details. When your order ships, you'll get a shipment-confirmation email with the delivery date of order #[ORDER_ID]. Someone must be home to receive the package—a signature is required for delivery.
+----field----
+field: {0AEE9B22-99D2-480C-B01F-B7C2AFAA7086}
+name: welcome-note
+key: welcome-note
+content-length: 104
+
+Visit your [Xfinity Mobile account|account.activity.landing] anytime to check the details of your order.
+----field----
+field: {83797EBA-D461-45A5-B4FA-12149E80F5AB}
+name: welcome-descriptionFooter
+key: welcome-descriptionfooter
+content-length: 0
+
+
+----field----
+field: {228A32BB-B7A3-4EE2-9D9B-67A753DF59B6}
+name: welcome-byodDescription
+key: welcome-byoddescription
+content-length: 150
+
+Your confirmation number is #[ORDER_ID], and your SIM card will be in your hands in a few days. Look out for an email from us with your order details.
+----field----
+field: {F65C6D0A-29FB-4796-9C0B-42459D581A93}
+name: welcome-enableByodPromo
+key: welcome-enablebyodpromo
+content-length: 0
+
+
+----field----
+field: {7CCAA97A-7A32-48F4-8EEB-272BDA43E30F}
+name: welcome-promoMessage-prepaidPromoOnly
+key: welcome-promomessage-prepaidpromoonly
+content-length: 201
+
+Visit your [Xfinity Mobile account|account.activity.landing] to check your order details, or review the [prepaid card FAQs.|https://www.xfinity.com/mobile/support/article/faqs-visa-prepaid-card-offers]
+----field----
+field: {5B5777BE-68D7-4858-83DF-BB7246F9F71E}
+name: welcome-promoMessage-extendedPromoOnly
+key: welcome-promomessage-extendedpromoonly
+content-length: 192
+
+Visit your [Xfinity Mobile account|account.activity.landing] to check your order details, or review the [device credit FAQs.|https://www.xfinity.com/mobile/support/article/faqs-device-credits]
+----field----
+field: {1D367178-87A1-4D06-8B7B-55644A872BAA}
+name: welcome-promoMessage-prepaidAndExtendedPromo
+key: welcome-promomessage-prepaidandextendedpromo
+content-length: 289
+
+Visit your [Xfinity Mobile account|account.activity.landing] to check your order details, or review the [device credit |https://www.xfinity.com/mobile/support/article/faqs-device-credits] and [prepaid card FAQs.|https://www.xfinity.com/mobile/support/article/faqs-visa-prepaid-card-offers]
+----field----
+field: {587AFED9-A3C4-4D20-B818-818888984ED0}
+name: socialShare-header
+key: socialshare-header
+content-length: 20
+
+While you're waiting
+----field----
+field: {D1B59077-895C-474B-BAFE-E5AECCBC41EC}
+name: socialShare-fbIcon
+key: socialshare-fbicon
+content-length: 38
+
+{A8576076-F5DB-4F28-AF08-38A97400937B}
+----field----
+field: {E161CE3B-78A5-4DF3-9576-CA4A32452955}
+name: socialShare-twitterIcon
+key: socialshare-twittericon
+content-length: 38
+
+{515AE928-1165-4EFE-9E7A-C55C54516B84}
+----field----
+field: {F9392D09-E609-4ED4-AD0A-89C45BAD0680}
+name: socialShare-singleDeviceBody-header
+key: socialshare-singledevicebody-header
+content-length: 14
+
+Share the love
+----field----
+field: {93C7938E-F020-42B1-8061-FEF2C913144C}
+name: socialShare-singleDeviceBody-subheader
+key: socialshare-singledevicebody-subheader
+content-length: 48
+
+Just get a new [DEVICE_NAME]? Tell your friends.
+----field----
+field: {B04E750E-22B9-4E08-AAD0-9E3DE799AE51}
+name: socialShare-multiDeviceBody-header
+key: socialshare-multidevicebody-header
+content-length: 17
+
+Tell your friends
+----field----
+field: {316A0699-80C8-4399-B41C-D88FBC961567}
+name: socialShare-multiDeviceBody-subheader
+key: socialshare-multidevicebody-subheader
+content-length: 60
+
+Share the latest devices available on a new kind of network.
+----field----
+field: {0A97E405-E0EB-457A-8665-BC9D37FFA0C0}
+name: socialShare-iosDevice
+key: socialshare-iosdevice
+content-length: 38
+
+{3D3EB09B-EE77-4E1C-88C9-AC4D8117B52A}
+----field----
+field: {ED2A9803-FA4C-4D2D-9FA0-7BFBDD2637EA}
+name: socialShare-andriodDevice
+key: socialshare-andrioddevice
+content-length: 38
+
+{0C31D7B2-AEF4-4D9A-AC04-C6AE4989973D}
+----field----
+field: {94F1ACE4-DD55-4EBF-88C0-47F4E9A14F77}
+name: socialShare-giggyIcon
+key: socialshare-giggyicon
+content-length: 38
+
+{83BE7A72-CEE4-4DA6-AFB4-8F4DC4EBB5A7}
+----field----
+field: {62F774D2-7D7E-49C1-AD33-818135B659F3}
+name: socialShare-giggyHeader
+key: socialshare-giggyheader
+content-length: 20
+
+Play Giggy's Fun Run
+----field----
+field: {795922E8-A8FD-43E9-B080-425F7044B4BC}
+name: socialShare-giggySubheader
+key: socialshare-giggysubheader
+content-length: 107
+
+Can’t wait for your device to arrive? Play our fun new mobile game, and share your score with your friends.
+----field----
+field: {D0B31C2D-8FEB-40E4-9F4E-C78076504A37}
+name: socialShare-giggyLabel
+key: socialshare-giggylabel
+content-length: 27
+
+[$$Play now|game.landing$$]
+----field----
+field: {6A37B7BB-62C9-4A1F-B100-B6092742C0E2}
+name: socialShare-facebookSingleDeviceURL
+key: socialshare-facebooksingledeviceurl
+content-length: 88
+
+https://www.facebook.com/sharer/sharer.php?u=https://www.xfinity.com/mobile/shop/device/
+----field----
+field: {D591C493-287F-4DA2-8BD9-1186C4B1875F}
+name: socialShare-facebookMultipleDeviceURL
+key: socialshare-facebookmultipledeviceurl
+content-length: 92
+
+https://www.facebook.com/sharer/sharer.php?u=https://www.xfinity.com/mobile/shop?tab=devices
+----field----
+field: {475740D6-A416-4AFC-8F06-E6E5E7D83984}
+name: socialShare-twitterMultipleDeviceURL
+key: socialshare-twittermultipledeviceurl
+content-length: 83
+
+https://twitter.com/share?url=https://www.xfinity.com/mobile/shop?tab=devices&text=
+----field----
+field: {B41BBB26-336A-4D8A-8591-6EBD50E52DB6}
+name: socialShare-twitterMultipleDeviceText
+key: socialshare-twittermultipledevicetext
+content-length: 79
+
+Xfinity Mobile lets me choose from the latest devices on a new kind of network.
+----field----
+field: {A996C9EE-EC32-4D6B-8A59-2734E8038ECE}
+name: socialShare-twitterSingleDeviceURL
+key: socialshare-twittersingledeviceurl
+content-length: 73
+
+https://twitter.com/share?url=https://www.xfinity.com/mobile/shop/device/
+----field----
+field: {C0EE7104-9D24-434C-9A4F-3D0F359464C6}
+name: socialShare-twitterSingleDeviceText
+key: socialshare-twittersingledevicetext
+content-length: 95
+
+&text=New [DEVICE_NAME]? Check. An awesome new mobile network designed to save me money? Check!
+----field----
+field: {9C9A0F38-1AA0-426B-AD6F-CF3968B8CE62}
+name: socialShare-byodBody-header
+key: socialshare-byodbody-header
+content-length: 7
+
+#XMBYOD
+----field----
+field: {3B08649C-C923-4135-90F4-B2313D3ECCA0}
+name: socialShare-byodBody-subheader
+key: socialshare-byodbody-subheader
+content-length: 45
+
+We want to know what makes your phone unique.
+----field----
+field: {171060BD-7262-45B5-9030-6A6F9269E712}
+name: socialShare-byodIcon
+key: socialshare-byodicon
+content-length: 38
+
+{2AD3E0A3-818A-48C4-8560-A4E437572A45}
+----field----
+field: {D8127B9F-3B98-4C0D-98CC-D504546FE7AA}
+name: field-header
+key: field-header
+content-length: 16
+
+What comes next?
+----field----
+field: {1A61CDBB-54D1-4EC0-9130-E7A7B0C56885}
+name: field-fieldIllustrations
+key: field-fieldillustrations
+content-length: 0
+
+
+----field----
+field: {C9E2ED76-AC17-48DE-B8E0-DF4092B6487D}
+name: field-orderHasByodOnly
+key: field-orderhasbyodonly
+content-length: 77
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}
+----field----
+field: {4C629EAD-7C9A-4411-BCDA-75E1B920D845}
+name: field-orderHasDevice
+key: field-orderhasdevice
+content-length: 116
+
+{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}|{A57E8098-6432-436C-AE11-245C7207DF92}
+----field----
+field: {F020D7F0-6D7F-4449-B655-649EF503A4CB}
+name: field-orderHasDeviceAndLockedByod
+key: field-orderhasdeviceandlockedbyod
+content-length: 116
+
+{1EA3F71C-4312-4F09-82A5-053E4B029C65}|{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}
+----field----
+field: {69CC2300-4E5C-4B75-8092-EBBF33FF7D98}
+name: field-orderHasDeviceAndUnlockedByod
+key: field-orderhasdeviceandunlockedbyod
+content-length: 116
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}
+----field----
+field: {D7D72A96-C262-4012-8984-DBDF9986F318}
+name: field-orderHasDeviceWithUnlimitedData
+key: field-orderhasdevicewithunlimiteddata
+content-length: 116
+
+{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}|{1FFBE741-7476-457B-A74E-B21F6C17BB0E}
+----field----
+field: {A08E635D-2F64-478B-8F28-8C8F0239E7E6}
+name: field-orderHasByodLocked
+key: field-orderhasbyodlocked
+content-length: 116
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{D6187B3D-D72D-46C6-8299-D74781B419C4}|{2B91AF35-B891-4E6A-9491-14B2E6C26DCC}
+----field----
+field: {E573FFA2-9CFF-4A58-95BE-A0F03FF059ED}
+name: field-carriers
+key: field-carriers
+content-length: 857
+
+{B831736D-1C15-4A7D-A479-9CA58C7BF10C}|{C42151D0-F705-496E-8D4A-245025ABE239}|{5FFBD7A6-C12A-4F12-B367-558983D0F7C1}|{58A5C6E4-9375-4A2C-93D9-67784D28E7D5}|{C6FA080A-6D78-4C89-8FA0-EB46141761B1}|{F69F17C7-EB8F-480F-9E01-7BF16766EAC7}|{9578475A-25CD-4194-B3A9-33962F7241C1}|{466D8DFE-337D-471C-9146-5C8C7FB79F9B}|{66F2FE45-DAE0-4A80-853F-F6851DD0257E}|{560BBF40-5061-4EDE-9001-232A9A393F97}|{949811F7-EA00-4B97-881E-F158A1907624}|{CE85D426-00D0-42AE-BE95-373EDA8061CF}|{105F6899-670E-4E4A-9B99-A7D34A675CA9}|{3DC35138-A557-4535-8ECB-0E7EBE920F07}|{1B0D0276-C802-45F5-81C1-5CD80A36F81F}|{B0E58051-C8FB-46BB-A327-D6B25006C927}|{86883C11-2FB4-4026-92C5-1064745F6342}|{0A419AD0-6718-4948-8281-B8E256D7B3AA}|{79034373-3E46-45A5-8B8C-6A0AC674A219}|{30D7AD60-2C66-4571-BA56-7D74FEE9DCE7}|{D8E1E79A-30C1-458E-B1C8-83959040E472}|{74E335D7-474A-44EF-9F4D-BE1EB2F9AE5F}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20191122T204915Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\mpayto200
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20191122T204915Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+dc7c0ecd-0495-4983-b643-0fa7e7804483
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200611T145017Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 3
+revision: 19d774de-2c2b-4c1e-a49c-6cf0adfc46df
+
+----field----
+field: {ECACDC88-9543-470A-B8DF-3B8D7296ECC4}
+name: welcome-xmLogo
+key: welcome-xmlogo
+content-length: 38
+
+{6D328237-EA92-46F7-80FF-79E3BBD8878C}
+----field----
+field: {F82FCE7F-F210-4373-8E43-7B6A447D0C4C}
+name: welcome-header-all
+key: welcome-header-all
+content-length: 26
+
+Welcome to Xfinity Mobile.
+----field----
+field: {209CE8DD-EC91-460A-9AAF-6053EB4A9903}
+name: welcome-header-onlyAccessory
+key: welcome-header-onlyaccessory
+content-length: 20
+
+Thanks for shopping.
+----field----
+field: {80502665-C48C-46D8-B0BE-C0DA96B5468F}
+name: welcome-header-ndelDevice
+key: welcome-header-ndeldevice
+content-length: 27
+
+Congrats on your new device
+----field----
+field: {787D2A1A-124B-4FCC-95E9-E93C3902CD87}
+name: welcome-subHeader-allSuffixText
+key: welcome-subheader-allsuffixtext
+content-length: 8
+
+Your new
+----field----
+field: {FA112888-5FA8-4FC5-8440-7556B3292ADB}
+name: welcome-subHeader-ndelDevice
+key: welcome-subheader-ndeldevice
+content-length: 16
+
+Your replacement
+----field----
+field: {2E010ECD-C5E8-4D98-B1AE-0C7C2DB69BA7}
+name: welcome-subHeader-multipleDevices
+key: welcome-subheader-multipledevices
+content-length: 6
+
+phones
+----field----
+field: {DB73972B-24C5-415C-AFB0-DC9A62442F9B}
+name: welcome-subHeader-multipleAccessories
+key: welcome-subheader-multipleaccessories
+content-length: 11
+
+accessories
+----field----
+field: {9018B19B-64E9-414A-9CD6-B73945F5B7DA}
+name: welcome-subHeader-multiDeviceAndAccessory
+key: welcome-subheader-multideviceandaccessory
+content-length: 15
+
+and accessories
+----field----
+field: {A985F4D7-1F9C-4657-B674-32466B9A9F0E}
+name: welcome-subHeader-byodDevice
+key: welcome-subheader-byoddevice
+content-length: 42
+
+You'll have your order in your hands soon.
+----field----
+field: {D8895F81-78D4-4F37-A77D-9955C796E194}
+name: welcome-subHeader-allPrefixText
+key: welcome-subheader-allprefixtext
+content-length: 27
+
+will be in your hands soon.
+----field----
+field: {CC960E45-E0FA-47AD-990C-7AEDD1BE8ED2}
+name: welcome-description
+key: welcome-description
+content-length: 245
+
+Look out for an email from us with your order details. When your order ships, you'll get a shipment-confirmation email with the delivery date of order #[ORDER_ID]. Someone must be home to receive the package—a signature is required for delivery.
+----field----
+field: {0AEE9B22-99D2-480C-B01F-B7C2AFAA7086}
+name: welcome-note
+key: welcome-note
+content-length: 104
+
+Visit your [Xfinity Mobile account|account.activity.landing] anytime to check the details of your order.
+----field----
+field: {83797EBA-D461-45A5-B4FA-12149E80F5AB}
+name: welcome-descriptionFooter
+key: welcome-descriptionfooter
+content-length: 0
+
+
+----field----
+field: {228A32BB-B7A3-4EE2-9D9B-67A753DF59B6}
+name: welcome-byodDescription
+key: welcome-byoddescription
+content-length: 150
+
+Your confirmation number is #[ORDER_ID], and your SIM card will be in your hands in a few days. Look out for an email from us with your order details.
+----field----
+field: {F65C6D0A-29FB-4796-9C0B-42459D581A93}
+name: welcome-enableByodPromo
+key: welcome-enablebyodpromo
+content-length: 1
+
+1
+----field----
+field: {7CCAA97A-7A32-48F4-8EEB-272BDA43E30F}
+name: welcome-promoMessage-prepaidPromoOnly
+key: welcome-promomessage-prepaidpromoonly
+content-length: 201
+
+Visit your [Xfinity Mobile account|account.activity.landing] to check your order details, or review the [prepaid card FAQs.|https://www.xfinity.com/mobile/support/article/faqs-visa-prepaid-card-offers]
+----field----
+field: {5B5777BE-68D7-4858-83DF-BB7246F9F71E}
+name: welcome-promoMessage-extendedPromoOnly
+key: welcome-promomessage-extendedpromoonly
+content-length: 192
+
+Visit your [Xfinity Mobile account|account.activity.landing] to check your order details, or review the [device credit FAQs.|https://www.xfinity.com/mobile/support/article/faqs-device-credits]
+----field----
+field: {1D367178-87A1-4D06-8B7B-55644A872BAA}
+name: welcome-promoMessage-prepaidAndExtendedPromo
+key: welcome-promomessage-prepaidandextendedpromo
+content-length: 289
+
+Visit your [Xfinity Mobile account|account.activity.landing] to check your order details, or review the [device credit |https://www.xfinity.com/mobile/support/article/faqs-device-credits] and [prepaid card FAQs.|https://www.xfinity.com/mobile/support/article/faqs-visa-prepaid-card-offers]
+----field----
+field: {587AFED9-A3C4-4D20-B818-818888984ED0}
+name: socialShare-header
+key: socialshare-header
+content-length: 20
+
+While you're waiting
+----field----
+field: {D1B59077-895C-474B-BAFE-E5AECCBC41EC}
+name: socialShare-fbIcon
+key: socialshare-fbicon
+content-length: 38
+
+{A8576076-F5DB-4F28-AF08-38A97400937B}
+----field----
+field: {E161CE3B-78A5-4DF3-9576-CA4A32452955}
+name: socialShare-twitterIcon
+key: socialshare-twittericon
+content-length: 38
+
+{515AE928-1165-4EFE-9E7A-C55C54516B84}
+----field----
+field: {F9392D09-E609-4ED4-AD0A-89C45BAD0680}
+name: socialShare-singleDeviceBody-header
+key: socialshare-singledevicebody-header
+content-length: 14
+
+Share the love
+----field----
+field: {93C7938E-F020-42B1-8061-FEF2C913144C}
+name: socialShare-singleDeviceBody-subheader
+key: socialshare-singledevicebody-subheader
+content-length: 48
+
+Just get a new [DEVICE_NAME]? Tell your friends.
+----field----
+field: {B04E750E-22B9-4E08-AAD0-9E3DE799AE51}
+name: socialShare-multiDeviceBody-header
+key: socialshare-multidevicebody-header
+content-length: 17
+
+Tell your friends
+----field----
+field: {316A0699-80C8-4399-B41C-D88FBC961567}
+name: socialShare-multiDeviceBody-subheader
+key: socialshare-multidevicebody-subheader
+content-length: 60
+
+Share the latest devices available on a new kind of network.
+----field----
+field: {0A97E405-E0EB-457A-8665-BC9D37FFA0C0}
+name: socialShare-iosDevice
+key: socialshare-iosdevice
+content-length: 38
+
+{3D3EB09B-EE77-4E1C-88C9-AC4D8117B52A}
+----field----
+field: {ED2A9803-FA4C-4D2D-9FA0-7BFBDD2637EA}
+name: socialShare-andriodDevice
+key: socialshare-andrioddevice
+content-length: 38
+
+{0C31D7B2-AEF4-4D9A-AC04-C6AE4989973D}
+----field----
+field: {94F1ACE4-DD55-4EBF-88C0-47F4E9A14F77}
+name: socialShare-giggyIcon
+key: socialshare-giggyicon
+content-length: 38
+
+{83BE7A72-CEE4-4DA6-AFB4-8F4DC4EBB5A7}
+----field----
+field: {62F774D2-7D7E-49C1-AD33-818135B659F3}
+name: socialShare-giggyHeader
+key: socialshare-giggyheader
+content-length: 20
+
+Play Giggy's Fun Run
+----field----
+field: {795922E8-A8FD-43E9-B080-425F7044B4BC}
+name: socialShare-giggySubheader
+key: socialshare-giggysubheader
+content-length: 107
+
+Can’t wait for your device to arrive? Play our fun new mobile game, and share your score with your friends.
+----field----
+field: {D0B31C2D-8FEB-40E4-9F4E-C78076504A37}
+name: socialShare-giggyLabel
+key: socialshare-giggylabel
+content-length: 27
+
+[$$Play now|game.landing$$]
+----field----
+field: {6A37B7BB-62C9-4A1F-B100-B6092742C0E2}
+name: socialShare-facebookSingleDeviceURL
+key: socialshare-facebooksingledeviceurl
+content-length: 88
+
+https://www.facebook.com/sharer/sharer.php?u=https://www.xfinity.com/mobile/shop/device/
+----field----
+field: {D591C493-287F-4DA2-8BD9-1186C4B1875F}
+name: socialShare-facebookMultipleDeviceURL
+key: socialshare-facebookmultipledeviceurl
+content-length: 92
+
+https://www.facebook.com/sharer/sharer.php?u=https://www.xfinity.com/mobile/shop?tab=devices
+----field----
+field: {475740D6-A416-4AFC-8F06-E6E5E7D83984}
+name: socialShare-twitterMultipleDeviceURL
+key: socialshare-twittermultipledeviceurl
+content-length: 83
+
+https://twitter.com/share?url=https://www.xfinity.com/mobile/shop?tab=devices&text=
+----field----
+field: {B41BBB26-336A-4D8A-8591-6EBD50E52DB6}
+name: socialShare-twitterMultipleDeviceText
+key: socialshare-twittermultipledevicetext
+content-length: 79
+
+Xfinity Mobile lets me choose from the latest devices on a new kind of network.
+----field----
+field: {A996C9EE-EC32-4D6B-8A59-2734E8038ECE}
+name: socialShare-twitterSingleDeviceURL
+key: socialshare-twittersingledeviceurl
+content-length: 73
+
+https://twitter.com/share?url=https://www.xfinity.com/mobile/shop/device/
+----field----
+field: {C0EE7104-9D24-434C-9A4F-3D0F359464C6}
+name: socialShare-twitterSingleDeviceText
+key: socialshare-twittersingledevicetext
+content-length: 95
+
+&text=New [DEVICE_NAME]? Check. An awesome new mobile network designed to save me money? Check!
+----field----
+field: {9C9A0F38-1AA0-426B-AD6F-CF3968B8CE62}
+name: socialShare-byodBody-header
+key: socialshare-byodbody-header
+content-length: 7
+
+#XMBYOD
+----field----
+field: {3B08649C-C923-4135-90F4-B2313D3ECCA0}
+name: socialShare-byodBody-subheader
+key: socialshare-byodbody-subheader
+content-length: 45
+
+We want to know what makes your phone unique.
+----field----
+field: {171060BD-7262-45B5-9030-6A6F9269E712}
+name: socialShare-byodIcon
+key: socialshare-byodicon
+content-length: 38
+
+{2AD3E0A3-818A-48C4-8560-A4E437572A45}
+----field----
+field: {D8127B9F-3B98-4C0D-98CC-D504546FE7AA}
+name: field-header
+key: field-header
+content-length: 16
+
+What comes next?
+----field----
+field: {1A61CDBB-54D1-4EC0-9130-E7A7B0C56885}
+name: field-fieldIllustrations
+key: field-fieldillustrations
+content-length: 0
+
+
+----field----
+field: {C9E2ED76-AC17-48DE-B8E0-DF4092B6487D}
+name: field-orderHasByodOnly
+key: field-orderhasbyodonly
+content-length: 77
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}
+----field----
+field: {4C629EAD-7C9A-4411-BCDA-75E1B920D845}
+name: field-orderHasDevice
+key: field-orderhasdevice
+content-length: 116
+
+{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}|{A57E8098-6432-436C-AE11-245C7207DF92}
+----field----
+field: {F020D7F0-6D7F-4449-B655-649EF503A4CB}
+name: field-orderHasDeviceAndLockedByod
+key: field-orderhasdeviceandlockedbyod
+content-length: 116
+
+{1EA3F71C-4312-4F09-82A5-053E4B029C65}|{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}
+----field----
+field: {69CC2300-4E5C-4B75-8092-EBBF33FF7D98}
+name: field-orderHasDeviceAndUnlockedByod
+key: field-orderhasdeviceandunlockedbyod
+content-length: 116
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}
+----field----
+field: {D7D72A96-C262-4012-8984-DBDF9986F318}
+name: field-orderHasDeviceWithUnlimitedData
+key: field-orderhasdevicewithunlimiteddata
+content-length: 116
+
+{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}|{1FFBE741-7476-457B-A74E-B21F6C17BB0E}
+----field----
+field: {A08E635D-2F64-478B-8F28-8C8F0239E7E6}
+name: field-orderHasByodLocked
+key: field-orderhasbyodlocked
+content-length: 116
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{D6187B3D-D72D-46C6-8299-D74781B419C4}|{2B91AF35-B891-4E6A-9491-14B2E6C26DCC}
+----field----
+field: {E573FFA2-9CFF-4A58-95BE-A0F03FF059ED}
+name: field-carriers
+key: field-carriers
+content-length: 857
+
+{B831736D-1C15-4A7D-A479-9CA58C7BF10C}|{C42151D0-F705-496E-8D4A-245025ABE239}|{5FFBD7A6-C12A-4F12-B367-558983D0F7C1}|{58A5C6E4-9375-4A2C-93D9-67784D28E7D5}|{C6FA080A-6D78-4C89-8FA0-EB46141761B1}|{F69F17C7-EB8F-480F-9E01-7BF16766EAC7}|{9578475A-25CD-4194-B3A9-33962F7241C1}|{466D8DFE-337D-471C-9146-5C8C7FB79F9B}|{66F2FE45-DAE0-4A80-853F-F6851DD0257E}|{560BBF40-5061-4EDE-9001-232A9A393F97}|{949811F7-EA00-4B97-881E-F158A1907624}|{CE85D426-00D0-42AE-BE95-373EDA8061CF}|{105F6899-670E-4E4A-9B99-A7D34A675CA9}|{3DC35138-A557-4535-8ECB-0E7EBE920F07}|{1B0D0276-C802-45F5-81C1-5CD80A36F81F}|{B0E58051-C8FB-46BB-A327-D6B25006C927}|{86883C11-2FB4-4026-92C5-1064745F6342}|{0A419AD0-6718-4948-8281-B8E256D7B3AA}|{79034373-3E46-45A5-8B8C-6A0AC674A219}|{30D7AD60-2C66-4571-BA56-7D74FEE9DCE7}|{D8E1E79A-30C1-458E-B1C8-83959040E472}|{74E335D7-474A-44EF-9F4D-BE1EB2F9AE5F}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20191126T193959Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\mpayto200
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20191126T193959Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+19d774de-2c2b-4c1e-a49c-6cf0adfc46df
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200611T145019Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 4
+revision: 897e9dc2-faf3-43bb-bc1e-5a7447e20fed
+
+----field----
+field: {ECACDC88-9543-470A-B8DF-3B8D7296ECC4}
+name: welcome-xmLogo
+key: welcome-xmlogo
+content-length: 38
+
+{6D328237-EA92-46F7-80FF-79E3BBD8878C}
+----field----
+field: {F82FCE7F-F210-4373-8E43-7B6A447D0C4C}
+name: welcome-header-all
+key: welcome-header-all
+content-length: 26
+
+Welcome to Xfinity Mobile.
+----field----
+field: {209CE8DD-EC91-460A-9AAF-6053EB4A9903}
+name: welcome-header-onlyAccessory
+key: welcome-header-onlyaccessory
+content-length: 20
+
+Thanks for shopping.
+----field----
+field: {80502665-C48C-46D8-B0BE-C0DA96B5468F}
+name: welcome-header-ndelDevice
+key: welcome-header-ndeldevice
+content-length: 27
+
+Congrats on your new device
+----field----
+field: {787D2A1A-124B-4FCC-95E9-E93C3902CD87}
+name: welcome-subHeader-allSuffixText
+key: welcome-subheader-allsuffixtext
+content-length: 8
+
+Your new
+----field----
+field: {FA112888-5FA8-4FC5-8440-7556B3292ADB}
+name: welcome-subHeader-ndelDevice
+key: welcome-subheader-ndeldevice
+content-length: 16
+
+Your replacement
+----field----
+field: {2E010ECD-C5E8-4D98-B1AE-0C7C2DB69BA7}
+name: welcome-subHeader-multipleDevices
+key: welcome-subheader-multipledevices
+content-length: 6
+
+phones
+----field----
+field: {DB73972B-24C5-415C-AFB0-DC9A62442F9B}
+name: welcome-subHeader-multipleAccessories
+key: welcome-subheader-multipleaccessories
+content-length: 11
+
+accessories
+----field----
+field: {9018B19B-64E9-414A-9CD6-B73945F5B7DA}
+name: welcome-subHeader-multiDeviceAndAccessory
+key: welcome-subheader-multideviceandaccessory
+content-length: 15
+
+and accessories
+----field----
+field: {A985F4D7-1F9C-4657-B674-32466B9A9F0E}
+name: welcome-subHeader-byodDevice
+key: welcome-subheader-byoddevice
+content-length: 42
+
+You'll have your order in your hands soon.
+----field----
+field: {D8895F81-78D4-4F37-A77D-9955C796E194}
+name: welcome-subHeader-allPrefixText
+key: welcome-subheader-allprefixtext
+content-length: 27
+
+will be in your hands soon.
+----field----
+field: {CC960E45-E0FA-47AD-990C-7AEDD1BE8ED2}
+name: welcome-description
+key: welcome-description
+content-length: 245
+
+Look out for an email from us with your order details. When your order ships, you'll get a shipment-confirmation email with the delivery date of order #[ORDER_ID]. Someone must be home to receive the package—a signature is required for delivery.
+----field----
+field: {0AEE9B22-99D2-480C-B01F-B7C2AFAA7086}
+name: welcome-note
+key: welcome-note
+content-length: 104
+
+Visit your [Xfinity Mobile account|account.activity.landing] anytime to check the details of your order.
+----field----
+field: {83797EBA-D461-45A5-B4FA-12149E80F5AB}
+name: welcome-descriptionFooter
+key: welcome-descriptionfooter
+content-length: 0
+
+
+----field----
+field: {228A32BB-B7A3-4EE2-9D9B-67A753DF59B6}
+name: welcome-byodDescription
+key: welcome-byoddescription
+content-length: 150
+
+Your confirmation number is #[ORDER_ID], and your SIM card will be in your hands in a few days. Look out for an email from us with your order details.
+----field----
+field: {F65C6D0A-29FB-4796-9C0B-42459D581A93}
+name: welcome-enableByodPromo
+key: welcome-enablebyodpromo
+content-length: 0
+
+
+----field----
+field: {7CCAA97A-7A32-48F4-8EEB-272BDA43E30F}
+name: welcome-promoMessage-prepaidPromoOnly
+key: welcome-promomessage-prepaidpromoonly
+content-length: 201
+
+Visit your [Xfinity Mobile account|account.activity.landing] to check your order details, or review the [prepaid card FAQs.|https://www.xfinity.com/mobile/support/article/faqs-visa-prepaid-card-offers]
+----field----
+field: {5B5777BE-68D7-4858-83DF-BB7246F9F71E}
+name: welcome-promoMessage-extendedPromoOnly
+key: welcome-promomessage-extendedpromoonly
+content-length: 192
+
+Visit your [Xfinity Mobile account|account.activity.landing] to check your order details, or review the [device credit FAQs.|https://www.xfinity.com/mobile/support/article/faqs-device-credits]
+----field----
+field: {1D367178-87A1-4D06-8B7B-55644A872BAA}
+name: welcome-promoMessage-prepaidAndExtendedPromo
+key: welcome-promomessage-prepaidandextendedpromo
+content-length: 289
+
+Visit your [Xfinity Mobile account|account.activity.landing] to check your order details, or review the [device credit |https://www.xfinity.com/mobile/support/article/faqs-device-credits] and [prepaid card FAQs.|https://www.xfinity.com/mobile/support/article/faqs-visa-prepaid-card-offers]
+----field----
+field: {587AFED9-A3C4-4D20-B818-818888984ED0}
+name: socialShare-header
+key: socialshare-header
+content-length: 20
+
+While you're waiting
+----field----
+field: {D1B59077-895C-474B-BAFE-E5AECCBC41EC}
+name: socialShare-fbIcon
+key: socialshare-fbicon
+content-length: 38
+
+{A8576076-F5DB-4F28-AF08-38A97400937B}
+----field----
+field: {E161CE3B-78A5-4DF3-9576-CA4A32452955}
+name: socialShare-twitterIcon
+key: socialshare-twittericon
+content-length: 38
+
+{515AE928-1165-4EFE-9E7A-C55C54516B84}
+----field----
+field: {F9392D09-E609-4ED4-AD0A-89C45BAD0680}
+name: socialShare-singleDeviceBody-header
+key: socialshare-singledevicebody-header
+content-length: 14
+
+Share the love
+----field----
+field: {93C7938E-F020-42B1-8061-FEF2C913144C}
+name: socialShare-singleDeviceBody-subheader
+key: socialshare-singledevicebody-subheader
+content-length: 48
+
+Just get a new [DEVICE_NAME]? Tell your friends.
+----field----
+field: {B04E750E-22B9-4E08-AAD0-9E3DE799AE51}
+name: socialShare-multiDeviceBody-header
+key: socialshare-multidevicebody-header
+content-length: 17
+
+Tell your friends
+----field----
+field: {316A0699-80C8-4399-B41C-D88FBC961567}
+name: socialShare-multiDeviceBody-subheader
+key: socialshare-multidevicebody-subheader
+content-length: 60
+
+Share the latest devices available on a new kind of network.
+----field----
+field: {0A97E405-E0EB-457A-8665-BC9D37FFA0C0}
+name: socialShare-iosDevice
+key: socialshare-iosdevice
+content-length: 38
+
+{3D3EB09B-EE77-4E1C-88C9-AC4D8117B52A}
+----field----
+field: {ED2A9803-FA4C-4D2D-9FA0-7BFBDD2637EA}
+name: socialShare-andriodDevice
+key: socialshare-andrioddevice
+content-length: 38
+
+{0C31D7B2-AEF4-4D9A-AC04-C6AE4989973D}
+----field----
+field: {94F1ACE4-DD55-4EBF-88C0-47F4E9A14F77}
+name: socialShare-giggyIcon
+key: socialshare-giggyicon
+content-length: 38
+
+{83BE7A72-CEE4-4DA6-AFB4-8F4DC4EBB5A7}
+----field----
+field: {62F774D2-7D7E-49C1-AD33-818135B659F3}
+name: socialShare-giggyHeader
+key: socialshare-giggyheader
+content-length: 20
+
+Play Giggy's Fun Run
+----field----
+field: {795922E8-A8FD-43E9-B080-425F7044B4BC}
+name: socialShare-giggySubheader
+key: socialshare-giggysubheader
+content-length: 107
+
+Can’t wait for your device to arrive? Play our fun new mobile game, and share your score with your friends.
+----field----
+field: {D0B31C2D-8FEB-40E4-9F4E-C78076504A37}
+name: socialShare-giggyLabel
+key: socialshare-giggylabel
+content-length: 27
+
+[$$Play now|game.landing$$]
+----field----
+field: {6A37B7BB-62C9-4A1F-B100-B6092742C0E2}
+name: socialShare-facebookSingleDeviceURL
+key: socialshare-facebooksingledeviceurl
+content-length: 88
+
+https://www.facebook.com/sharer/sharer.php?u=https://www.xfinity.com/mobile/shop/device/
+----field----
+field: {D591C493-287F-4DA2-8BD9-1186C4B1875F}
+name: socialShare-facebookMultipleDeviceURL
+key: socialshare-facebookmultipledeviceurl
+content-length: 92
+
+https://www.facebook.com/sharer/sharer.php?u=https://www.xfinity.com/mobile/shop?tab=devices
+----field----
+field: {475740D6-A416-4AFC-8F06-E6E5E7D83984}
+name: socialShare-twitterMultipleDeviceURL
+key: socialshare-twittermultipledeviceurl
+content-length: 83
+
+https://twitter.com/share?url=https://www.xfinity.com/mobile/shop?tab=devices&text=
+----field----
+field: {B41BBB26-336A-4D8A-8591-6EBD50E52DB6}
+name: socialShare-twitterMultipleDeviceText
+key: socialshare-twittermultipledevicetext
+content-length: 79
+
+Xfinity Mobile lets me choose from the latest devices on a new kind of network.
+----field----
+field: {A996C9EE-EC32-4D6B-8A59-2734E8038ECE}
+name: socialShare-twitterSingleDeviceURL
+key: socialshare-twittersingledeviceurl
+content-length: 73
+
+https://twitter.com/share?url=https://www.xfinity.com/mobile/shop/device/
+----field----
+field: {C0EE7104-9D24-434C-9A4F-3D0F359464C6}
+name: socialShare-twitterSingleDeviceText
+key: socialshare-twittersingledevicetext
+content-length: 95
+
+&text=New [DEVICE_NAME]? Check. An awesome new mobile network designed to save me money? Check!
+----field----
+field: {9C9A0F38-1AA0-426B-AD6F-CF3968B8CE62}
+name: socialShare-byodBody-header
+key: socialshare-byodbody-header
+content-length: 7
+
+#XMBYOD
+----field----
+field: {3B08649C-C923-4135-90F4-B2313D3ECCA0}
+name: socialShare-byodBody-subheader
+key: socialshare-byodbody-subheader
+content-length: 45
+
+We want to know what makes your phone unique.
+----field----
+field: {171060BD-7262-45B5-9030-6A6F9269E712}
+name: socialShare-byodIcon
+key: socialshare-byodicon
+content-length: 38
+
+{2AD3E0A3-818A-48C4-8560-A4E437572A45}
+----field----
+field: {D8127B9F-3B98-4C0D-98CC-D504546FE7AA}
+name: field-header
+key: field-header
+content-length: 16
+
+What comes next?
+----field----
+field: {1A61CDBB-54D1-4EC0-9130-E7A7B0C56885}
+name: field-fieldIllustrations
+key: field-fieldillustrations
+content-length: 0
+
+
+----field----
+field: {C9E2ED76-AC17-48DE-B8E0-DF4092B6487D}
+name: field-orderHasByodOnly
+key: field-orderhasbyodonly
+content-length: 77
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}
+----field----
+field: {4C629EAD-7C9A-4411-BCDA-75E1B920D845}
+name: field-orderHasDevice
+key: field-orderhasdevice
+content-length: 116
+
+{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}|{A57E8098-6432-436C-AE11-245C7207DF92}
+----field----
+field: {F020D7F0-6D7F-4449-B655-649EF503A4CB}
+name: field-orderHasDeviceAndLockedByod
+key: field-orderhasdeviceandlockedbyod
+content-length: 116
+
+{1EA3F71C-4312-4F09-82A5-053E4B029C65}|{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}
+----field----
+field: {69CC2300-4E5C-4B75-8092-EBBF33FF7D98}
+name: field-orderHasDeviceAndUnlockedByod
+key: field-orderhasdeviceandunlockedbyod
+content-length: 116
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}
+----field----
+field: {D7D72A96-C262-4012-8984-DBDF9986F318}
+name: field-orderHasDeviceWithUnlimitedData
+key: field-orderhasdevicewithunlimiteddata
+content-length: 116
+
+{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}|{1FFBE741-7476-457B-A74E-B21F6C17BB0E}
+----field----
+field: {A08E635D-2F64-478B-8F28-8C8F0239E7E6}
+name: field-orderHasByodLocked
+key: field-orderhasbyodlocked
+content-length: 116
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{D6187B3D-D72D-46C6-8299-D74781B419C4}|{2B91AF35-B891-4E6A-9491-14B2E6C26DCC}
+----field----
+field: {E573FFA2-9CFF-4A58-95BE-A0F03FF059ED}
+name: field-carriers
+key: field-carriers
+content-length: 857
+
+{B831736D-1C15-4A7D-A479-9CA58C7BF10C}|{C42151D0-F705-496E-8D4A-245025ABE239}|{5FFBD7A6-C12A-4F12-B367-558983D0F7C1}|{58A5C6E4-9375-4A2C-93D9-67784D28E7D5}|{C6FA080A-6D78-4C89-8FA0-EB46141761B1}|{F69F17C7-EB8F-480F-9E01-7BF16766EAC7}|{9578475A-25CD-4194-B3A9-33962F7241C1}|{466D8DFE-337D-471C-9146-5C8C7FB79F9B}|{66F2FE45-DAE0-4A80-853F-F6851DD0257E}|{560BBF40-5061-4EDE-9001-232A9A393F97}|{949811F7-EA00-4B97-881E-F158A1907624}|{CE85D426-00D0-42AE-BE95-373EDA8061CF}|{105F6899-670E-4E4A-9B99-A7D34A675CA9}|{3DC35138-A557-4535-8ECB-0E7EBE920F07}|{1B0D0276-C802-45F5-81C1-5CD80A36F81F}|{B0E58051-C8FB-46BB-A327-D6B25006C927}|{86883C11-2FB4-4026-92C5-1064745F6342}|{0A419AD0-6718-4948-8281-B8E256D7B3AA}|{79034373-3E46-45A5-8B8C-6A0AC674A219}|{30D7AD60-2C66-4571-BA56-7D74FEE9DCE7}|{D8E1E79A-30C1-458E-B1C8-83959040E472}|{74E335D7-474A-44EF-9F4D-BE1EB2F9AE5F}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20191203T205025Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\mpayto200
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20191203T205025Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+897e9dc2-faf3-43bb-bc1e-5a7447e20fed
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200611T145020Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 5
+revision: 04364b9b-e107-4b7f-9047-7b30646eb96a
+
+----field----
+field: {ECACDC88-9543-470A-B8DF-3B8D7296ECC4}
+name: welcome-xmLogo
+key: welcome-xmlogo
+content-length: 38
+
+{6D328237-EA92-46F7-80FF-79E3BBD8878C}
+----field----
+field: {F82FCE7F-F210-4373-8E43-7B6A447D0C4C}
+name: welcome-header-all
+key: welcome-header-all
+content-length: 26
+
+Welcome to Xfinity Mobile.
+----field----
+field: {209CE8DD-EC91-460A-9AAF-6053EB4A9903}
+name: welcome-header-onlyAccessory
+key: welcome-header-onlyaccessory
+content-length: 20
+
+Thanks for shopping.
+----field----
+field: {80502665-C48C-46D8-B0BE-C0DA96B5468F}
+name: welcome-header-ndelDevice
+key: welcome-header-ndeldevice
+content-length: 27
+
+Congrats on your new device
+----field----
+field: {787D2A1A-124B-4FCC-95E9-E93C3902CD87}
+name: welcome-subHeader-allSuffixText
+key: welcome-subheader-allsuffixtext
+content-length: 8
+
+Your new
+----field----
+field: {FA112888-5FA8-4FC5-8440-7556B3292ADB}
+name: welcome-subHeader-ndelDevice
+key: welcome-subheader-ndeldevice
+content-length: 16
+
+Your replacement
+----field----
+field: {2E010ECD-C5E8-4D98-B1AE-0C7C2DB69BA7}
+name: welcome-subHeader-multipleDevices
+key: welcome-subheader-multipledevices
+content-length: 6
+
+phones
+----field----
+field: {DB73972B-24C5-415C-AFB0-DC9A62442F9B}
+name: welcome-subHeader-multipleAccessories
+key: welcome-subheader-multipleaccessories
+content-length: 11
+
+accessories
+----field----
+field: {9018B19B-64E9-414A-9CD6-B73945F5B7DA}
+name: welcome-subHeader-multiDeviceAndAccessory
+key: welcome-subheader-multideviceandaccessory
+content-length: 15
+
+and accessories
+----field----
+field: {A985F4D7-1F9C-4657-B674-32466B9A9F0E}
+name: welcome-subHeader-byodDevice
+key: welcome-subheader-byoddevice
+content-length: 42
+
+You'll have your order in your hands soon.
+----field----
+field: {D8895F81-78D4-4F37-A77D-9955C796E194}
+name: welcome-subHeader-allPrefixText
+key: welcome-subheader-allprefixtext
+content-length: 27
+
+will be in your hands soon.
+----field----
+field: {CC960E45-E0FA-47AD-990C-7AEDD1BE8ED2}
+name: welcome-description
+key: welcome-description
+content-length: 245
+
+Look out for an email from us with your order details. When your order ships, you'll get a shipment-confirmation email with the delivery date of order #[ORDER_ID]. Someone must be home to receive the package—a signature is required for delivery.
+----field----
+field: {0AEE9B22-99D2-480C-B01F-B7C2AFAA7086}
+name: welcome-note
+key: welcome-note
+content-length: 104
+
+Visit your [Xfinity Mobile account|account.activity.landing] anytime to check the details of your order.
+----field----
+field: {83797EBA-D461-45A5-B4FA-12149E80F5AB}
+name: welcome-descriptionFooter
+key: welcome-descriptionfooter
+content-length: 0
+
+
+----field----
+field: {228A32BB-B7A3-4EE2-9D9B-67A753DF59B6}
+name: welcome-byodDescription
+key: welcome-byoddescription
+content-length: 150
+
+Your confirmation number is #[ORDER_ID], and your SIM card will be in your hands in a few days. Look out for an email from us with your order details.
+----field----
+field: {F65C6D0A-29FB-4796-9C0B-42459D581A93}
+name: welcome-enableByodPromo
+key: welcome-enablebyodpromo
+content-length: 0
+
+
+----field----
+field: {7CCAA97A-7A32-48F4-8EEB-272BDA43E30F}
+name: welcome-promoMessage-prepaidPromoOnly
+key: welcome-promomessage-prepaidpromoonly
+content-length: 201
+
+Visit your [Xfinity Mobile account|account.activity.landing] to check your order details, or review the [prepaid card FAQs.|https://www.xfinity.com/mobile/support/article/faqs-visa-prepaid-card-offers]
+----field----
+field: {5B5777BE-68D7-4858-83DF-BB7246F9F71E}
+name: welcome-promoMessage-extendedPromoOnly
+key: welcome-promomessage-extendedpromoonly
+content-length: 192
+
+Visit your [Xfinity Mobile account|account.activity.landing] to check your order details, or review the [device credit FAQs.|https://www.xfinity.com/mobile/support/article/faqs-device-credits]
+----field----
+field: {1D367178-87A1-4D06-8B7B-55644A872BAA}
+name: welcome-promoMessage-prepaidAndExtendedPromo
+key: welcome-promomessage-prepaidandextendedpromo
+content-length: 289
+
+Visit your [Xfinity Mobile account|account.activity.landing] to check your order details, or review the [device credit |https://www.xfinity.com/mobile/support/article/faqs-device-credits] and [prepaid card FAQs.|https://www.xfinity.com/mobile/support/article/faqs-visa-prepaid-card-offers]
+----field----
+field: {587AFED9-A3C4-4D20-B818-818888984ED0}
+name: socialShare-header
+key: socialshare-header
+content-length: 20
+
+While you're waiting
+----field----
+field: {D1B59077-895C-474B-BAFE-E5AECCBC41EC}
+name: socialShare-fbIcon
+key: socialshare-fbicon
+content-length: 38
+
+{A8576076-F5DB-4F28-AF08-38A97400937B}
+----field----
+field: {E161CE3B-78A5-4DF3-9576-CA4A32452955}
+name: socialShare-twitterIcon
+key: socialshare-twittericon
+content-length: 38
+
+{515AE928-1165-4EFE-9E7A-C55C54516B84}
+----field----
+field: {F9392D09-E609-4ED4-AD0A-89C45BAD0680}
+name: socialShare-singleDeviceBody-header
+key: socialshare-singledevicebody-header
+content-length: 14
+
+Share the love
+----field----
+field: {93C7938E-F020-42B1-8061-FEF2C913144C}
+name: socialShare-singleDeviceBody-subheader
+key: socialshare-singledevicebody-subheader
+content-length: 48
+
+Just get a new [DEVICE_NAME]? Tell your friends.
+----field----
+field: {B04E750E-22B9-4E08-AAD0-9E3DE799AE51}
+name: socialShare-multiDeviceBody-header
+key: socialshare-multidevicebody-header
+content-length: 17
+
+Tell your friends
+----field----
+field: {316A0699-80C8-4399-B41C-D88FBC961567}
+name: socialShare-multiDeviceBody-subheader
+key: socialshare-multidevicebody-subheader
+content-length: 60
+
+Share the latest devices available on a new kind of network.
+----field----
+field: {0A97E405-E0EB-457A-8665-BC9D37FFA0C0}
+name: socialShare-iosDevice
+key: socialshare-iosdevice
+content-length: 38
+
+{3D3EB09B-EE77-4E1C-88C9-AC4D8117B52A}
+----field----
+field: {ED2A9803-FA4C-4D2D-9FA0-7BFBDD2637EA}
+name: socialShare-andriodDevice
+key: socialshare-andrioddevice
+content-length: 38
+
+{0C31D7B2-AEF4-4D9A-AC04-C6AE4989973D}
+----field----
+field: {94F1ACE4-DD55-4EBF-88C0-47F4E9A14F77}
+name: socialShare-giggyIcon
+key: socialshare-giggyicon
+content-length: 38
+
+{83BE7A72-CEE4-4DA6-AFB4-8F4DC4EBB5A7}
+----field----
+field: {62F774D2-7D7E-49C1-AD33-818135B659F3}
+name: socialShare-giggyHeader
+key: socialshare-giggyheader
+content-length: 20
+
+Play Giggy's Fun Run
+----field----
+field: {795922E8-A8FD-43E9-B080-425F7044B4BC}
+name: socialShare-giggySubheader
+key: socialshare-giggysubheader
+content-length: 107
+
+Can’t wait for your device to arrive? Play our fun new mobile game, and share your score with your friends.
+----field----
+field: {D0B31C2D-8FEB-40E4-9F4E-C78076504A37}
+name: socialShare-giggyLabel
+key: socialshare-giggylabel
+content-length: 27
+
+[$$Play now|game.landing$$]
+----field----
+field: {6A37B7BB-62C9-4A1F-B100-B6092742C0E2}
+name: socialShare-facebookSingleDeviceURL
+key: socialshare-facebooksingledeviceurl
+content-length: 88
+
+https://www.facebook.com/sharer/sharer.php?u=https://www.xfinity.com/mobile/shop/device/
+----field----
+field: {D591C493-287F-4DA2-8BD9-1186C4B1875F}
+name: socialShare-facebookMultipleDeviceURL
+key: socialshare-facebookmultipledeviceurl
+content-length: 92
+
+https://www.facebook.com/sharer/sharer.php?u=https://www.xfinity.com/mobile/shop?tab=devices
+----field----
+field: {475740D6-A416-4AFC-8F06-E6E5E7D83984}
+name: socialShare-twitterMultipleDeviceURL
+key: socialshare-twittermultipledeviceurl
+content-length: 83
+
+https://twitter.com/share?url=https://www.xfinity.com/mobile/shop?tab=devices&text=
+----field----
+field: {B41BBB26-336A-4D8A-8591-6EBD50E52DB6}
+name: socialShare-twitterMultipleDeviceText
+key: socialshare-twittermultipledevicetext
+content-length: 79
+
+Xfinity Mobile lets me choose from the latest devices on a new kind of network.
+----field----
+field: {A996C9EE-EC32-4D6B-8A59-2734E8038ECE}
+name: socialShare-twitterSingleDeviceURL
+key: socialshare-twittersingledeviceurl
+content-length: 73
+
+https://twitter.com/share?url=https://www.xfinity.com/mobile/shop/device/
+----field----
+field: {C0EE7104-9D24-434C-9A4F-3D0F359464C6}
+name: socialShare-twitterSingleDeviceText
+key: socialshare-twittersingledevicetext
+content-length: 95
+
+&text=New [DEVICE_NAME]? Check. An awesome new mobile network designed to save me money? Check!
+----field----
+field: {9C9A0F38-1AA0-426B-AD6F-CF3968B8CE62}
+name: socialShare-byodBody-header
+key: socialshare-byodbody-header
+content-length: 7
+
+#XMBYOD
+----field----
+field: {3B08649C-C923-4135-90F4-B2313D3ECCA0}
+name: socialShare-byodBody-subheader
+key: socialshare-byodbody-subheader
+content-length: 45
+
+We want to know what makes your phone unique.
+----field----
+field: {171060BD-7262-45B5-9030-6A6F9269E712}
+name: socialShare-byodIcon
+key: socialshare-byodicon
+content-length: 38
+
+{2AD3E0A3-818A-48C4-8560-A4E437572A45}
+----field----
+field: {D8127B9F-3B98-4C0D-98CC-D504546FE7AA}
+name: field-header
+key: field-header
+content-length: 16
+
+What comes next?
+----field----
+field: {1A61CDBB-54D1-4EC0-9130-E7A7B0C56885}
+name: field-fieldIllustrations
+key: field-fieldillustrations
+content-length: 0
+
+
+----field----
+field: {C9E2ED76-AC17-48DE-B8E0-DF4092B6487D}
+name: field-orderHasByodOnly
+key: field-orderhasbyodonly
+content-length: 77
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}
+----field----
+field: {4C629EAD-7C9A-4411-BCDA-75E1B920D845}
+name: field-orderHasDevice
+key: field-orderhasdevice
+content-length: 116
+
+{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}|{A57E8098-6432-436C-AE11-245C7207DF92}
+----field----
+field: {F020D7F0-6D7F-4449-B655-649EF503A4CB}
+name: field-orderHasDeviceAndLockedByod
+key: field-orderhasdeviceandlockedbyod
+content-length: 116
+
+{1EA3F71C-4312-4F09-82A5-053E4B029C65}|{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}
+----field----
+field: {69CC2300-4E5C-4B75-8092-EBBF33FF7D98}
+name: field-orderHasDeviceAndUnlockedByod
+key: field-orderhasdeviceandunlockedbyod
+content-length: 116
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}
+----field----
+field: {D7D72A96-C262-4012-8984-DBDF9986F318}
+name: field-orderHasDeviceWithUnlimitedData
+key: field-orderhasdevicewithunlimiteddata
+content-length: 116
+
+{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}|{1FFBE741-7476-457B-A74E-B21F6C17BB0E}
+----field----
+field: {A08E635D-2F64-478B-8F28-8C8F0239E7E6}
+name: field-orderHasByodLocked
+key: field-orderhasbyodlocked
+content-length: 116
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{D6187B3D-D72D-46C6-8299-D74781B419C4}|{2B91AF35-B891-4E6A-9491-14B2E6C26DCC}
+----field----
+field: {E573FFA2-9CFF-4A58-95BE-A0F03FF059ED}
+name: field-carriers
+key: field-carriers
+content-length: 857
+
+{B831736D-1C15-4A7D-A479-9CA58C7BF10C}|{C42151D0-F705-496E-8D4A-245025ABE239}|{5FFBD7A6-C12A-4F12-B367-558983D0F7C1}|{58A5C6E4-9375-4A2C-93D9-67784D28E7D5}|{C6FA080A-6D78-4C89-8FA0-EB46141761B1}|{F69F17C7-EB8F-480F-9E01-7BF16766EAC7}|{9578475A-25CD-4194-B3A9-33962F7241C1}|{466D8DFE-337D-471C-9146-5C8C7FB79F9B}|{66F2FE45-DAE0-4A80-853F-F6851DD0257E}|{560BBF40-5061-4EDE-9001-232A9A393F97}|{949811F7-EA00-4B97-881E-F158A1907624}|{CE85D426-00D0-42AE-BE95-373EDA8061CF}|{105F6899-670E-4E4A-9B99-A7D34A675CA9}|{3DC35138-A557-4535-8ECB-0E7EBE920F07}|{1B0D0276-C802-45F5-81C1-5CD80A36F81F}|{B0E58051-C8FB-46BB-A327-D6B25006C927}|{86883C11-2FB4-4026-92C5-1064745F6342}|{0A419AD0-6718-4948-8281-B8E256D7B3AA}|{79034373-3E46-45A5-8B8C-6A0AC674A219}|{30D7AD60-2C66-4571-BA56-7D74FEE9DCE7}|{D8E1E79A-30C1-458E-B1C8-83959040E472}|{74E335D7-474A-44EF-9F4D-BE1EB2F9AE5F}
+----field----
+field: {BAC190A9-77C7-4061-93ED-62BB8A8E40CB}
+name: keepShopping-title
+key: keepshopping-title
+content-length: 21
+
+While you’re waiting…
+----field----
+field: {03D6E579-E78C-46B8-A34C-A156F9726408}
+name: keepShopping-shoppingCards
+key: keepshopping-shoppingcards
+content-length: 77
+
+{5D5BBF79-A609-4396-BD00-AC222DBA8C57}|{CED86B63-0A81-427B-B952-4A171AAB62FC}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20191206T220833Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\mpayto200
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20191206T220833Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+04364b9b-e107-4b7f-9047-7b30646eb96a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200611T145022Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 6
+revision: 73f8eec2-32b6-4c67-86d4-b3701ce122e7
+
+----field----
+field: {ECACDC88-9543-470A-B8DF-3B8D7296ECC4}
+name: welcome-xmLogo
+key: welcome-xmlogo
+content-length: 38
+
+{6D328237-EA92-46F7-80FF-79E3BBD8878C}
+----field----
+field: {F82FCE7F-F210-4373-8E43-7B6A447D0C4C}
+name: welcome-header-all
+key: welcome-header-all
+content-length: 26
+
+Welcome to Xfinity Mobile.
+----field----
+field: {209CE8DD-EC91-460A-9AAF-6053EB4A9903}
+name: welcome-header-onlyAccessory
+key: welcome-header-onlyaccessory
+content-length: 20
+
+Thanks for shopping.
+----field----
+field: {80502665-C48C-46D8-B0BE-C0DA96B5468F}
+name: welcome-header-ndelDevice
+key: welcome-header-ndeldevice
+content-length: 27
+
+Congrats on your new device
+----field----
+field: {787D2A1A-124B-4FCC-95E9-E93C3902CD87}
+name: welcome-subHeader-allSuffixText
+key: welcome-subheader-allsuffixtext
+content-length: 8
+
+Your new
+----field----
+field: {FA112888-5FA8-4FC5-8440-7556B3292ADB}
+name: welcome-subHeader-ndelDevice
+key: welcome-subheader-ndeldevice
+content-length: 16
+
+Your replacement
+----field----
+field: {2E010ECD-C5E8-4D98-B1AE-0C7C2DB69BA7}
+name: welcome-subHeader-multipleDevices
+key: welcome-subheader-multipledevices
+content-length: 6
+
+phones
+----field----
+field: {DB73972B-24C5-415C-AFB0-DC9A62442F9B}
+name: welcome-subHeader-multipleAccessories
+key: welcome-subheader-multipleaccessories
+content-length: 11
+
+accessories
+----field----
+field: {9018B19B-64E9-414A-9CD6-B73945F5B7DA}
+name: welcome-subHeader-multiDeviceAndAccessory
+key: welcome-subheader-multideviceandaccessory
+content-length: 15
+
+and accessories
+----field----
+field: {A985F4D7-1F9C-4657-B674-32466B9A9F0E}
+name: welcome-subHeader-byodDevice
+key: welcome-subheader-byoddevice
+content-length: 42
+
+You'll have your order in your hands soon.
+----field----
+field: {D8895F81-78D4-4F37-A77D-9955C796E194}
+name: welcome-subHeader-allPrefixText
+key: welcome-subheader-allprefixtext
+content-length: 27
+
+will be in your hands soon.
+----field----
+field: {CC960E45-E0FA-47AD-990C-7AEDD1BE8ED2}
+name: welcome-description
+key: welcome-description
+content-length: 245
+
+Look out for an email from us with your order details. When your order ships, you'll get a shipment-confirmation email with the delivery date of order #[ORDER_ID]. Someone must be home to receive the package—a signature is required for delivery.
+----field----
+field: {0AEE9B22-99D2-480C-B01F-B7C2AFAA7086}
+name: welcome-note
+key: welcome-note
+content-length: 104
+
+Visit your [Xfinity Mobile account|account.activity.landing] anytime to check the details of your order.
+----field----
+field: {83797EBA-D461-45A5-B4FA-12149E80F5AB}
+name: welcome-descriptionFooter
+key: welcome-descriptionfooter
+content-length: 0
+
+
+----field----
+field: {228A32BB-B7A3-4EE2-9D9B-67A753DF59B6}
+name: welcome-byodDescription
+key: welcome-byoddescription
+content-length: 150
+
+Your confirmation number is #[ORDER_ID], and your SIM card will be in your hands in a few days. Look out for an email from us with your order details.
+----field----
+field: {F65C6D0A-29FB-4796-9C0B-42459D581A93}
+name: welcome-enableByodPromo
+key: welcome-enablebyodpromo
+content-length: 1
+
+1
+----field----
+field: {7CCAA97A-7A32-48F4-8EEB-272BDA43E30F}
+name: welcome-promoMessage-prepaidPromoOnly
+key: welcome-promomessage-prepaidpromoonly
+content-length: 201
+
+Visit your [Xfinity Mobile account|account.activity.landing] to check your order details, or review the [prepaid card FAQs.|https://www.xfinity.com/mobile/support/article/faqs-visa-prepaid-card-offers]
+----field----
+field: {5B5777BE-68D7-4858-83DF-BB7246F9F71E}
+name: welcome-promoMessage-extendedPromoOnly
+key: welcome-promomessage-extendedpromoonly
+content-length: 192
+
+Visit your [Xfinity Mobile account|account.activity.landing] to check your order details, or review the [device credit FAQs.|https://www.xfinity.com/mobile/support/article/faqs-device-credits]
+----field----
+field: {1D367178-87A1-4D06-8B7B-55644A872BAA}
+name: welcome-promoMessage-prepaidAndExtendedPromo
+key: welcome-promomessage-prepaidandextendedpromo
+content-length: 289
+
+Visit your [Xfinity Mobile account|account.activity.landing] to check your order details, or review the [device credit |https://www.xfinity.com/mobile/support/article/faqs-device-credits] and [prepaid card FAQs.|https://www.xfinity.com/mobile/support/article/faqs-visa-prepaid-card-offers]
+----field----
+field: {587AFED9-A3C4-4D20-B818-818888984ED0}
+name: socialShare-header
+key: socialshare-header
+content-length: 20
+
+While you're waiting
+----field----
+field: {D1B59077-895C-474B-BAFE-E5AECCBC41EC}
+name: socialShare-fbIcon
+key: socialshare-fbicon
+content-length: 38
+
+{A8576076-F5DB-4F28-AF08-38A97400937B}
+----field----
+field: {E161CE3B-78A5-4DF3-9576-CA4A32452955}
+name: socialShare-twitterIcon
+key: socialshare-twittericon
+content-length: 38
+
+{515AE928-1165-4EFE-9E7A-C55C54516B84}
+----field----
+field: {F9392D09-E609-4ED4-AD0A-89C45BAD0680}
+name: socialShare-singleDeviceBody-header
+key: socialshare-singledevicebody-header
+content-length: 14
+
+Share the love
+----field----
+field: {93C7938E-F020-42B1-8061-FEF2C913144C}
+name: socialShare-singleDeviceBody-subheader
+key: socialshare-singledevicebody-subheader
+content-length: 48
+
+Just get a new [DEVICE_NAME]? Tell your friends.
+----field----
+field: {B04E750E-22B9-4E08-AAD0-9E3DE799AE51}
+name: socialShare-multiDeviceBody-header
+key: socialshare-multidevicebody-header
+content-length: 17
+
+Tell your friends
+----field----
+field: {316A0699-80C8-4399-B41C-D88FBC961567}
+name: socialShare-multiDeviceBody-subheader
+key: socialshare-multidevicebody-subheader
+content-length: 60
+
+Share the latest devices available on a new kind of network.
+----field----
+field: {0A97E405-E0EB-457A-8665-BC9D37FFA0C0}
+name: socialShare-iosDevice
+key: socialshare-iosdevice
+content-length: 38
+
+{3D3EB09B-EE77-4E1C-88C9-AC4D8117B52A}
+----field----
+field: {ED2A9803-FA4C-4D2D-9FA0-7BFBDD2637EA}
+name: socialShare-andriodDevice
+key: socialshare-andrioddevice
+content-length: 38
+
+{0C31D7B2-AEF4-4D9A-AC04-C6AE4989973D}
+----field----
+field: {94F1ACE4-DD55-4EBF-88C0-47F4E9A14F77}
+name: socialShare-giggyIcon
+key: socialshare-giggyicon
+content-length: 38
+
+{83BE7A72-CEE4-4DA6-AFB4-8F4DC4EBB5A7}
+----field----
+field: {62F774D2-7D7E-49C1-AD33-818135B659F3}
+name: socialShare-giggyHeader
+key: socialshare-giggyheader
+content-length: 20
+
+Play Giggy's Fun Run
+----field----
+field: {795922E8-A8FD-43E9-B080-425F7044B4BC}
+name: socialShare-giggySubheader
+key: socialshare-giggysubheader
+content-length: 107
+
+Can’t wait for your device to arrive? Play our fun new mobile game, and share your score with your friends.
+----field----
+field: {D0B31C2D-8FEB-40E4-9F4E-C78076504A37}
+name: socialShare-giggyLabel
+key: socialshare-giggylabel
+content-length: 27
+
+[$$Play now|game.landing$$]
+----field----
+field: {6A37B7BB-62C9-4A1F-B100-B6092742C0E2}
+name: socialShare-facebookSingleDeviceURL
+key: socialshare-facebooksingledeviceurl
+content-length: 88
+
+https://www.facebook.com/sharer/sharer.php?u=https://www.xfinity.com/mobile/shop/device/
+----field----
+field: {D591C493-287F-4DA2-8BD9-1186C4B1875F}
+name: socialShare-facebookMultipleDeviceURL
+key: socialshare-facebookmultipledeviceurl
+content-length: 92
+
+https://www.facebook.com/sharer/sharer.php?u=https://www.xfinity.com/mobile/shop?tab=devices
+----field----
+field: {475740D6-A416-4AFC-8F06-E6E5E7D83984}
+name: socialShare-twitterMultipleDeviceURL
+key: socialshare-twittermultipledeviceurl
+content-length: 83
+
+https://twitter.com/share?url=https://www.xfinity.com/mobile/shop?tab=devices&text=
+----field----
+field: {B41BBB26-336A-4D8A-8591-6EBD50E52DB6}
+name: socialShare-twitterMultipleDeviceText
+key: socialshare-twittermultipledevicetext
+content-length: 79
+
+Xfinity Mobile lets me choose from the latest devices on a new kind of network.
+----field----
+field: {A996C9EE-EC32-4D6B-8A59-2734E8038ECE}
+name: socialShare-twitterSingleDeviceURL
+key: socialshare-twittersingledeviceurl
+content-length: 73
+
+https://twitter.com/share?url=https://www.xfinity.com/mobile/shop/device/
+----field----
+field: {C0EE7104-9D24-434C-9A4F-3D0F359464C6}
+name: socialShare-twitterSingleDeviceText
+key: socialshare-twittersingledevicetext
+content-length: 95
+
+&text=New [DEVICE_NAME]? Check. An awesome new mobile network designed to save me money? Check!
+----field----
+field: {9C9A0F38-1AA0-426B-AD6F-CF3968B8CE62}
+name: socialShare-byodBody-header
+key: socialshare-byodbody-header
+content-length: 7
+
+#XMBYOD
+----field----
+field: {3B08649C-C923-4135-90F4-B2313D3ECCA0}
+name: socialShare-byodBody-subheader
+key: socialshare-byodbody-subheader
+content-length: 45
+
+We want to know what makes your phone unique.
+----field----
+field: {171060BD-7262-45B5-9030-6A6F9269E712}
+name: socialShare-byodIcon
+key: socialshare-byodicon
+content-length: 38
+
+{2AD3E0A3-818A-48C4-8560-A4E437572A45}
+----field----
+field: {D8127B9F-3B98-4C0D-98CC-D504546FE7AA}
+name: field-header
+key: field-header
+content-length: 16
+
+What comes next?
+----field----
+field: {1A61CDBB-54D1-4EC0-9130-E7A7B0C56885}
+name: field-fieldIllustrations
+key: field-fieldillustrations
+content-length: 0
+
+
+----field----
+field: {C9E2ED76-AC17-48DE-B8E0-DF4092B6487D}
+name: field-orderHasByodOnly
+key: field-orderhasbyodonly
+content-length: 77
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}
+----field----
+field: {4C629EAD-7C9A-4411-BCDA-75E1B920D845}
+name: field-orderHasDevice
+key: field-orderhasdevice
+content-length: 116
+
+{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}|{A57E8098-6432-436C-AE11-245C7207DF92}
+----field----
+field: {F020D7F0-6D7F-4449-B655-649EF503A4CB}
+name: field-orderHasDeviceAndLockedByod
+key: field-orderhasdeviceandlockedbyod
+content-length: 116
+
+{1EA3F71C-4312-4F09-82A5-053E4B029C65}|{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}
+----field----
+field: {69CC2300-4E5C-4B75-8092-EBBF33FF7D98}
+name: field-orderHasDeviceAndUnlockedByod
+key: field-orderhasdeviceandunlockedbyod
+content-length: 116
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}
+----field----
+field: {D7D72A96-C262-4012-8984-DBDF9986F318}
+name: field-orderHasDeviceWithUnlimitedData
+key: field-orderhasdevicewithunlimiteddata
+content-length: 116
+
+{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}|{1FFBE741-7476-457B-A74E-B21F6C17BB0E}
+----field----
+field: {A08E635D-2F64-478B-8F28-8C8F0239E7E6}
+name: field-orderHasByodLocked
+key: field-orderhasbyodlocked
+content-length: 116
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{D6187B3D-D72D-46C6-8299-D74781B419C4}|{2B91AF35-B891-4E6A-9491-14B2E6C26DCC}
+----field----
+field: {E573FFA2-9CFF-4A58-95BE-A0F03FF059ED}
+name: field-carriers
+key: field-carriers
+content-length: 857
+
+{B831736D-1C15-4A7D-A479-9CA58C7BF10C}|{C42151D0-F705-496E-8D4A-245025ABE239}|{5FFBD7A6-C12A-4F12-B367-558983D0F7C1}|{58A5C6E4-9375-4A2C-93D9-67784D28E7D5}|{C6FA080A-6D78-4C89-8FA0-EB46141761B1}|{F69F17C7-EB8F-480F-9E01-7BF16766EAC7}|{9578475A-25CD-4194-B3A9-33962F7241C1}|{466D8DFE-337D-471C-9146-5C8C7FB79F9B}|{66F2FE45-DAE0-4A80-853F-F6851DD0257E}|{560BBF40-5061-4EDE-9001-232A9A393F97}|{949811F7-EA00-4B97-881E-F158A1907624}|{CE85D426-00D0-42AE-BE95-373EDA8061CF}|{105F6899-670E-4E4A-9B99-A7D34A675CA9}|{3DC35138-A557-4535-8ECB-0E7EBE920F07}|{1B0D0276-C802-45F5-81C1-5CD80A36F81F}|{B0E58051-C8FB-46BB-A327-D6B25006C927}|{86883C11-2FB4-4026-92C5-1064745F6342}|{0A419AD0-6718-4948-8281-B8E256D7B3AA}|{79034373-3E46-45A5-8B8C-6A0AC674A219}|{30D7AD60-2C66-4571-BA56-7D74FEE9DCE7}|{D8E1E79A-30C1-458E-B1C8-83959040E472}|{74E335D7-474A-44EF-9F4D-BE1EB2F9AE5F}
+----field----
+field: {BAC190A9-77C7-4061-93ED-62BB8A8E40CB}
+name: keepShopping-title
+key: keepshopping-title
+content-length: 21
+
+While you’re waiting…
+----field----
+field: {03D6E579-E78C-46B8-A34C-A156F9726408}
+name: keepShopping-shoppingCards
+key: keepshopping-shoppingcards
+content-length: 77
+
+{5D5BBF79-A609-4396-BD00-AC222DBA8C57}|{CED86B63-0A81-427B-B952-4A171AAB62FC}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200128T205007Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\mpayto200
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200128T205007Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\snavee884
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+73f8eec2-32b6-4c67-86d4-b3701ce122e7
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200611T145024Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 7
+revision: 37b92ed1-4fd1-47bb-b886-6be196819a8d
+
+----field----
+field: {ECACDC88-9543-470A-B8DF-3B8D7296ECC4}
+name: welcome-xmLogo
+key: welcome-xmlogo
+content-length: 38
+
+{6D328237-EA92-46F7-80FF-79E3BBD8878C}
+----field----
+field: {F82FCE7F-F210-4373-8E43-7B6A447D0C4C}
+name: welcome-header-all
+key: welcome-header-all
+content-length: 26
+
+Welcome to Xfinity Mobile.
+----field----
+field: {209CE8DD-EC91-460A-9AAF-6053EB4A9903}
+name: welcome-header-onlyAccessory
+key: welcome-header-onlyaccessory
+content-length: 20
+
+Thanks for shopping.
+----field----
+field: {80502665-C48C-46D8-B0BE-C0DA96B5468F}
+name: welcome-header-ndelDevice
+key: welcome-header-ndeldevice
+content-length: 27
+
+Congrats on your new device
+----field----
+field: {787D2A1A-124B-4FCC-95E9-E93C3902CD87}
+name: welcome-subHeader-allSuffixText
+key: welcome-subheader-allsuffixtext
+content-length: 8
+
+Your new
+----field----
+field: {FA112888-5FA8-4FC5-8440-7556B3292ADB}
+name: welcome-subHeader-ndelDevice
+key: welcome-subheader-ndeldevice
+content-length: 16
+
+Your replacement
+----field----
+field: {2E010ECD-C5E8-4D98-B1AE-0C7C2DB69BA7}
+name: welcome-subHeader-multipleDevices
+key: welcome-subheader-multipledevices
+content-length: 7
+
+devices
+----field----
+field: {DB73972B-24C5-415C-AFB0-DC9A62442F9B}
+name: welcome-subHeader-multipleAccessories
+key: welcome-subheader-multipleaccessories
+content-length: 11
+
+accessories
+----field----
+field: {9018B19B-64E9-414A-9CD6-B73945F5B7DA}
+name: welcome-subHeader-multiDeviceAndAccessory
+key: welcome-subheader-multideviceandaccessory
+content-length: 15
+
+and accessories
+----field----
+field: {A985F4D7-1F9C-4657-B674-32466B9A9F0E}
+name: welcome-subHeader-byodDevice
+key: welcome-subheader-byoddevice
+content-length: 42
+
+You'll have your order in your hands soon.
+----field----
+field: {D8895F81-78D4-4F37-A77D-9955C796E194}
+name: welcome-subHeader-allPrefixText
+key: welcome-subheader-allprefixtext
+content-length: 27
+
+will be in your hands soon.
+----field----
+field: {CC960E45-E0FA-47AD-990C-7AEDD1BE8ED2}
+name: welcome-description
+key: welcome-description
+content-length: 208
+
+Look out for an email from us with your order details. When your order ships, you'll get a shipment-confirmation email with the delivery date of order #[ORDER_ID]. Someone must be home to receive the package.
+----field----
+field: {0AEE9B22-99D2-480C-B01F-B7C2AFAA7086}
+name: welcome-note
+key: welcome-note
+content-length: 104
+
+Visit your [Xfinity Mobile account|account.activity.landing] anytime to check the details of your order.
+----field----
+field: {83797EBA-D461-45A5-B4FA-12149E80F5AB}
+name: welcome-descriptionFooter
+key: welcome-descriptionfooter
+content-length: 0
+
+
+----field----
+field: {228A32BB-B7A3-4EE2-9D9B-67A753DF59B6}
+name: welcome-byodDescription
+key: welcome-byoddescription
+content-length: 150
+
+Your confirmation number is #[ORDER_ID], and your SIM card will be in your hands in a few days. Look out for an email from us with your order details.
+----field----
+field: {F65C6D0A-29FB-4796-9C0B-42459D581A93}
+name: welcome-enableByodPromo
+key: welcome-enablebyodpromo
+content-length: 1
+
+1
+----field----
+field: {7CCAA97A-7A32-48F4-8EEB-272BDA43E30F}
+name: welcome-promoMessage-prepaidPromoOnly
+key: welcome-promomessage-prepaidpromoonly
+content-length: 201
+
+Visit your [Xfinity Mobile account|account.activity.landing] to check your order details, or review the [prepaid card FAQs.|https://www.xfinity.com/mobile/support/article/faqs-visa-prepaid-card-offers]
+----field----
+field: {5B5777BE-68D7-4858-83DF-BB7246F9F71E}
+name: welcome-promoMessage-extendedPromoOnly
+key: welcome-promomessage-extendedpromoonly
+content-length: 192
+
+Visit your [Xfinity Mobile account|account.activity.landing] to check your order details, or review the [device credit FAQs.|https://www.xfinity.com/mobile/support/article/faqs-device-credits]
+----field----
+field: {1D367178-87A1-4D06-8B7B-55644A872BAA}
+name: welcome-promoMessage-prepaidAndExtendedPromo
+key: welcome-promomessage-prepaidandextendedpromo
+content-length: 289
+
+Visit your [Xfinity Mobile account|account.activity.landing] to check your order details, or review the [device credit |https://www.xfinity.com/mobile/support/article/faqs-device-credits] and [prepaid card FAQs.|https://www.xfinity.com/mobile/support/article/faqs-visa-prepaid-card-offers]
+----field----
+field: {587AFED9-A3C4-4D20-B818-818888984ED0}
+name: socialShare-header
+key: socialshare-header
+content-length: 20
+
+While you're waiting
+----field----
+field: {D1B59077-895C-474B-BAFE-E5AECCBC41EC}
+name: socialShare-fbIcon
+key: socialshare-fbicon
+content-length: 38
+
+{A8576076-F5DB-4F28-AF08-38A97400937B}
+----field----
+field: {E161CE3B-78A5-4DF3-9576-CA4A32452955}
+name: socialShare-twitterIcon
+key: socialshare-twittericon
+content-length: 38
+
+{515AE928-1165-4EFE-9E7A-C55C54516B84}
+----field----
+field: {F9392D09-E609-4ED4-AD0A-89C45BAD0680}
+name: socialShare-singleDeviceBody-header
+key: socialshare-singledevicebody-header
+content-length: 14
+
+Share the love
+----field----
+field: {93C7938E-F020-42B1-8061-FEF2C913144C}
+name: socialShare-singleDeviceBody-subheader
+key: socialshare-singledevicebody-subheader
+content-length: 48
+
+Just get a new [DEVICE_NAME]? Tell your friends.
+----field----
+field: {B04E750E-22B9-4E08-AAD0-9E3DE799AE51}
+name: socialShare-multiDeviceBody-header
+key: socialshare-multidevicebody-header
+content-length: 17
+
+Tell your friends
+----field----
+field: {316A0699-80C8-4399-B41C-D88FBC961567}
+name: socialShare-multiDeviceBody-subheader
+key: socialshare-multidevicebody-subheader
+content-length: 60
+
+Share the latest devices available on a new kind of network.
+----field----
+field: {0A97E405-E0EB-457A-8665-BC9D37FFA0C0}
+name: socialShare-iosDevice
+key: socialshare-iosdevice
+content-length: 38
+
+{3D3EB09B-EE77-4E1C-88C9-AC4D8117B52A}
+----field----
+field: {ED2A9803-FA4C-4D2D-9FA0-7BFBDD2637EA}
+name: socialShare-andriodDevice
+key: socialshare-andrioddevice
+content-length: 38
+
+{0C31D7B2-AEF4-4D9A-AC04-C6AE4989973D}
+----field----
+field: {94F1ACE4-DD55-4EBF-88C0-47F4E9A14F77}
+name: socialShare-giggyIcon
+key: socialshare-giggyicon
+content-length: 38
+
+{83BE7A72-CEE4-4DA6-AFB4-8F4DC4EBB5A7}
+----field----
+field: {62F774D2-7D7E-49C1-AD33-818135B659F3}
+name: socialShare-giggyHeader
+key: socialshare-giggyheader
+content-length: 20
+
+Play Giggy's Fun Run
+----field----
+field: {795922E8-A8FD-43E9-B080-425F7044B4BC}
+name: socialShare-giggySubheader
+key: socialshare-giggysubheader
+content-length: 107
+
+Can’t wait for your device to arrive? Play our fun new mobile game, and share your score with your friends.
+----field----
+field: {D0B31C2D-8FEB-40E4-9F4E-C78076504A37}
+name: socialShare-giggyLabel
+key: socialshare-giggylabel
+content-length: 27
+
+[$$Play now|game.landing$$]
+----field----
+field: {6A37B7BB-62C9-4A1F-B100-B6092742C0E2}
+name: socialShare-facebookSingleDeviceURL
+key: socialshare-facebooksingledeviceurl
+content-length: 88
+
+https://www.facebook.com/sharer/sharer.php?u=https://www.xfinity.com/mobile/shop/device/
+----field----
+field: {D591C493-287F-4DA2-8BD9-1186C4B1875F}
+name: socialShare-facebookMultipleDeviceURL
+key: socialshare-facebookmultipledeviceurl
+content-length: 92
+
+https://www.facebook.com/sharer/sharer.php?u=https://www.xfinity.com/mobile/shop?tab=devices
+----field----
+field: {475740D6-A416-4AFC-8F06-E6E5E7D83984}
+name: socialShare-twitterMultipleDeviceURL
+key: socialshare-twittermultipledeviceurl
+content-length: 83
+
+https://twitter.com/share?url=https://www.xfinity.com/mobile/shop?tab=devices&text=
+----field----
+field: {B41BBB26-336A-4D8A-8591-6EBD50E52DB6}
+name: socialShare-twitterMultipleDeviceText
+key: socialshare-twittermultipledevicetext
+content-length: 79
+
+Xfinity Mobile lets me choose from the latest devices on a new kind of network.
+----field----
+field: {A996C9EE-EC32-4D6B-8A59-2734E8038ECE}
+name: socialShare-twitterSingleDeviceURL
+key: socialshare-twittersingledeviceurl
+content-length: 73
+
+https://twitter.com/share?url=https://www.xfinity.com/mobile/shop/device/
+----field----
+field: {C0EE7104-9D24-434C-9A4F-3D0F359464C6}
+name: socialShare-twitterSingleDeviceText
+key: socialshare-twittersingledevicetext
+content-length: 95
+
+&text=New [DEVICE_NAME]? Check. An awesome new mobile network designed to save me money? Check!
+----field----
+field: {9C9A0F38-1AA0-426B-AD6F-CF3968B8CE62}
+name: socialShare-byodBody-header
+key: socialshare-byodbody-header
+content-length: 7
+
+#XMBYOD
+----field----
+field: {3B08649C-C923-4135-90F4-B2313D3ECCA0}
+name: socialShare-byodBody-subheader
+key: socialshare-byodbody-subheader
+content-length: 45
+
+We want to know what makes your phone unique.
+----field----
+field: {171060BD-7262-45B5-9030-6A6F9269E712}
+name: socialShare-byodIcon
+key: socialshare-byodicon
+content-length: 38
+
+{2AD3E0A3-818A-48C4-8560-A4E437572A45}
+----field----
+field: {D8127B9F-3B98-4C0D-98CC-D504546FE7AA}
+name: field-header
+key: field-header
+content-length: 16
+
+What comes next?
+----field----
+field: {1A61CDBB-54D1-4EC0-9130-E7A7B0C56885}
+name: field-fieldIllustrations
+key: field-fieldillustrations
+content-length: 0
+
+
+----field----
+field: {C9E2ED76-AC17-48DE-B8E0-DF4092B6487D}
+name: field-orderHasByodOnly
+key: field-orderhasbyodonly
+content-length: 77
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}
+----field----
+field: {4C629EAD-7C9A-4411-BCDA-75E1B920D845}
+name: field-orderHasDevice
+key: field-orderhasdevice
+content-length: 116
+
+{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}|{A57E8098-6432-436C-AE11-245C7207DF92}
+----field----
+field: {F020D7F0-6D7F-4449-B655-649EF503A4CB}
+name: field-orderHasDeviceAndLockedByod
+key: field-orderhasdeviceandlockedbyod
+content-length: 116
+
+{1EA3F71C-4312-4F09-82A5-053E4B029C65}|{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}
+----field----
+field: {69CC2300-4E5C-4B75-8092-EBBF33FF7D98}
+name: field-orderHasDeviceAndUnlockedByod
+key: field-orderhasdeviceandunlockedbyod
+content-length: 116
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}
+----field----
+field: {D7D72A96-C262-4012-8984-DBDF9986F318}
+name: field-orderHasDeviceWithUnlimitedData
+key: field-orderhasdevicewithunlimiteddata
+content-length: 116
+
+{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}|{1FFBE741-7476-457B-A74E-B21F6C17BB0E}
+----field----
+field: {A08E635D-2F64-478B-8F28-8C8F0239E7E6}
+name: field-orderHasByodLocked
+key: field-orderhasbyodlocked
+content-length: 116
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{D6187B3D-D72D-46C6-8299-D74781B419C4}|{2B91AF35-B891-4E6A-9491-14B2E6C26DCC}
+----field----
+field: {E573FFA2-9CFF-4A58-95BE-A0F03FF059ED}
+name: field-carriers
+key: field-carriers
+content-length: 857
+
+{B831736D-1C15-4A7D-A479-9CA58C7BF10C}|{C42151D0-F705-496E-8D4A-245025ABE239}|{5FFBD7A6-C12A-4F12-B367-558983D0F7C1}|{58A5C6E4-9375-4A2C-93D9-67784D28E7D5}|{C6FA080A-6D78-4C89-8FA0-EB46141761B1}|{F69F17C7-EB8F-480F-9E01-7BF16766EAC7}|{9578475A-25CD-4194-B3A9-33962F7241C1}|{466D8DFE-337D-471C-9146-5C8C7FB79F9B}|{66F2FE45-DAE0-4A80-853F-F6851DD0257E}|{560BBF40-5061-4EDE-9001-232A9A393F97}|{949811F7-EA00-4B97-881E-F158A1907624}|{CE85D426-00D0-42AE-BE95-373EDA8061CF}|{105F6899-670E-4E4A-9B99-A7D34A675CA9}|{3DC35138-A557-4535-8ECB-0E7EBE920F07}|{1B0D0276-C802-45F5-81C1-5CD80A36F81F}|{B0E58051-C8FB-46BB-A327-D6B25006C927}|{86883C11-2FB4-4026-92C5-1064745F6342}|{0A419AD0-6718-4948-8281-B8E256D7B3AA}|{79034373-3E46-45A5-8B8C-6A0AC674A219}|{30D7AD60-2C66-4571-BA56-7D74FEE9DCE7}|{D8E1E79A-30C1-458E-B1C8-83959040E472}|{74E335D7-474A-44EF-9F4D-BE1EB2F9AE5F}
+----field----
+field: {BAC190A9-77C7-4061-93ED-62BB8A8E40CB}
+name: keepShopping-title
+key: keepshopping-title
+content-length: 21
+
+While you’re waiting…
+----field----
+field: {03D6E579-E78C-46B8-A34C-A156F9726408}
+name: keepShopping-shoppingCards
+key: keepshopping-shoppingcards
+content-length: 77
+
+{5D5BBF79-A609-4396-BD00-AC222DBA8C57}|{CED86B63-0A81-427B-B952-4A171AAB62FC}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200323T132450Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\mpayto200
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200323T132450Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 16
+
+sitecore\bliu901
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+37b92ed1-4fd1-47bb-b886-6be196819a8d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200611T145025Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 8
+revision: 2c0655c5-5577-494f-9f3e-335c8442304b
+
+----field----
+field: {ECACDC88-9543-470A-B8DF-3B8D7296ECC4}
+name: welcome-xmLogo
+key: welcome-xmlogo
+content-length: 38
+
+{6D328237-EA92-46F7-80FF-79E3BBD8878C}
+----field----
+field: {F82FCE7F-F210-4373-8E43-7B6A447D0C4C}
+name: welcome-header-all
+key: welcome-header-all
+content-length: 26
+
+Welcome to Xfinity Mobile.
+----field----
+field: {209CE8DD-EC91-460A-9AAF-6053EB4A9903}
+name: welcome-header-onlyAccessory
+key: welcome-header-onlyaccessory
+content-length: 20
+
+Thanks for shopping.
+----field----
+field: {80502665-C48C-46D8-B0BE-C0DA96B5468F}
+name: welcome-header-ndelDevice
+key: welcome-header-ndeldevice
+content-length: 27
+
+Congrats on your new device
+----field----
+field: {787D2A1A-124B-4FCC-95E9-E93C3902CD87}
+name: welcome-subHeader-allSuffixText
+key: welcome-subheader-allsuffixtext
+content-length: 27
+
+will be in your hands soon.
+----field----
+field: {FA112888-5FA8-4FC5-8440-7556B3292ADB}
+name: welcome-subHeader-ndelDevice
+key: welcome-subheader-ndeldevice
+content-length: 16
+
+Your replacement
+----field----
+field: {2E010ECD-C5E8-4D98-B1AE-0C7C2DB69BA7}
+name: welcome-subHeader-multipleDevices
+key: welcome-subheader-multipledevices
+content-length: 7
+
+devices
+----field----
+field: {DB73972B-24C5-415C-AFB0-DC9A62442F9B}
+name: welcome-subHeader-multipleAccessories
+key: welcome-subheader-multipleaccessories
+content-length: 11
+
+accessories
+----field----
+field: {9018B19B-64E9-414A-9CD6-B73945F5B7DA}
+name: welcome-subHeader-multiDeviceAndAccessory
+key: welcome-subheader-multideviceandaccessory
+content-length: 15
+
+and accessories
+----field----
+field: {A985F4D7-1F9C-4657-B674-32466B9A9F0E}
+name: welcome-subHeader-byodDevice
+key: welcome-subheader-byoddevice
+content-length: 42
+
+You'll have your order in your hands soon.
+----field----
+field: {D8895F81-78D4-4F37-A77D-9955C796E194}
+name: welcome-subHeader-allPrefixText
+key: welcome-subheader-allprefixtext
+content-length: 8
+
+Your new
+----field----
+field: {CC960E45-E0FA-47AD-990C-7AEDD1BE8ED2}
+name: welcome-description
+key: welcome-description
+content-length: 208
+
+Look out for an email from us with your order details. When your order ships, you'll get a shipment-confirmation email with the delivery date of order #[ORDER_ID]. Someone must be home to receive the package.
+----field----
+field: {0AEE9B22-99D2-480C-B01F-B7C2AFAA7086}
+name: welcome-note
+key: welcome-note
+content-length: 125
+
+Visit your text(Xfinity Mobile account|https://www.xfinity.com/mobile/my-account) anytime to check the details of your order.
+----field----
+field: {83797EBA-D461-45A5-B4FA-12149E80F5AB}
+name: welcome-descriptionFooter
+key: welcome-descriptionfooter
+content-length: 0
+
+
+----field----
+field: {228A32BB-B7A3-4EE2-9D9B-67A753DF59B6}
+name: welcome-byodDescription
+key: welcome-byoddescription
+content-length: 150
+
+Your confirmation number is #[ORDER_ID], and your SIM card will be in your hands in a few days. Look out for an email from us with your order details.
+----field----
+field: {F65C6D0A-29FB-4796-9C0B-42459D581A93}
+name: welcome-enableByodPromo
+key: welcome-enablebyodpromo
+content-length: 1
+
+1
+----field----
+field: {7CCAA97A-7A32-48F4-8EEB-272BDA43E30F}
+name: welcome-promoMessage-prepaidPromoOnly
+key: welcome-promomessage-prepaidpromoonly
+content-length: 226
+
+Visit your text(Xfinity Mobile account|https://www.xfinity.com/mobile/my-account) to check your order details, or review the text(prepaid card FAQs.|https://www.xfinity.com/mobile/support/article/faqs-visa-prepaid-card-offers)
+----field----
+field: {5B5777BE-68D7-4858-83DF-BB7246F9F71E}
+name: welcome-promoMessage-extendedPromoOnly
+key: welcome-promomessage-extendedpromoonly
+content-length: 217
+
+Visit your text(Xfinity Mobile account|https://www.xfinity.com/mobile/my-account) to check your order details, or review the text(device credit FAQs.|https://www.xfinity.com/mobile/support/article/faqs-device-credits)
+----field----
+field: {1D367178-87A1-4D06-8B7B-55644A872BAA}
+name: welcome-promoMessage-prepaidAndExtendedPromo
+key: welcome-promomessage-prepaidandextendedpromo
+content-length: 318
+
+Visit your text(Xfinity Mobile account|https://www.xfinity.com/mobile/my-account) to check your order details, or review the text(device credit |https://www.xfinity.com/mobile/support/article/faqs-device-credits) and text(prepaid card FAQs.|https://www.xfinity.com/mobile/support/article/faqs-visa-prepaid-card-offers)
+----field----
+field: {587AFED9-A3C4-4D20-B818-818888984ED0}
+name: socialShare-header
+key: socialshare-header
+content-length: 20
+
+While you're waiting
+----field----
+field: {D1B59077-895C-474B-BAFE-E5AECCBC41EC}
+name: socialShare-fbIcon
+key: socialshare-fbicon
+content-length: 38
+
+{A8576076-F5DB-4F28-AF08-38A97400937B}
+----field----
+field: {E161CE3B-78A5-4DF3-9576-CA4A32452955}
+name: socialShare-twitterIcon
+key: socialshare-twittericon
+content-length: 38
+
+{515AE928-1165-4EFE-9E7A-C55C54516B84}
+----field----
+field: {F9392D09-E609-4ED4-AD0A-89C45BAD0680}
+name: socialShare-singleDeviceBody-header
+key: socialshare-singledevicebody-header
+content-length: 14
+
+Share the love
+----field----
+field: {93C7938E-F020-42B1-8061-FEF2C913144C}
+name: socialShare-singleDeviceBody-subheader
+key: socialshare-singledevicebody-subheader
+content-length: 48
+
+Just get a new [DEVICE_NAME]? Tell your friends.
+----field----
+field: {B04E750E-22B9-4E08-AAD0-9E3DE799AE51}
+name: socialShare-multiDeviceBody-header
+key: socialshare-multidevicebody-header
+content-length: 17
+
+Tell your friends
+----field----
+field: {316A0699-80C8-4399-B41C-D88FBC961567}
+name: socialShare-multiDeviceBody-subheader
+key: socialshare-multidevicebody-subheader
+content-length: 60
+
+Share the latest devices available on a new kind of network.
+----field----
+field: {0A97E405-E0EB-457A-8665-BC9D37FFA0C0}
+name: socialShare-iosDevice
+key: socialshare-iosdevice
+content-length: 38
+
+{3D3EB09B-EE77-4E1C-88C9-AC4D8117B52A}
+----field----
+field: {ED2A9803-FA4C-4D2D-9FA0-7BFBDD2637EA}
+name: socialShare-andriodDevice
+key: socialshare-andrioddevice
+content-length: 38
+
+{0C31D7B2-AEF4-4D9A-AC04-C6AE4989973D}
+----field----
+field: {94F1ACE4-DD55-4EBF-88C0-47F4E9A14F77}
+name: socialShare-giggyIcon
+key: socialshare-giggyicon
+content-length: 38
+
+{83BE7A72-CEE4-4DA6-AFB4-8F4DC4EBB5A7}
+----field----
+field: {62F774D2-7D7E-49C1-AD33-818135B659F3}
+name: socialShare-giggyHeader
+key: socialshare-giggyheader
+content-length: 20
+
+Play Giggy's Fun Run
+----field----
+field: {795922E8-A8FD-43E9-B080-425F7044B4BC}
+name: socialShare-giggySubheader
+key: socialshare-giggysubheader
+content-length: 107
+
+Can’t wait for your device to arrive? Play our fun new mobile game, and share your score with your friends.
+----field----
+field: {D0B31C2D-8FEB-40E4-9F4E-C78076504A37}
+name: socialShare-giggyLabel
+key: socialshare-giggylabel
+content-length: 27
+
+[$$Play now|game.landing$$]
+----field----
+field: {6A37B7BB-62C9-4A1F-B100-B6092742C0E2}
+name: socialShare-facebookSingleDeviceURL
+key: socialshare-facebooksingledeviceurl
+content-length: 88
+
+https://www.facebook.com/sharer/sharer.php?u=https://www.xfinity.com/mobile/shop/device/
+----field----
+field: {D591C493-287F-4DA2-8BD9-1186C4B1875F}
+name: socialShare-facebookMultipleDeviceURL
+key: socialshare-facebookmultipledeviceurl
+content-length: 92
+
+https://www.facebook.com/sharer/sharer.php?u=https://www.xfinity.com/mobile/shop?tab=devices
+----field----
+field: {475740D6-A416-4AFC-8F06-E6E5E7D83984}
+name: socialShare-twitterMultipleDeviceURL
+key: socialshare-twittermultipledeviceurl
+content-length: 83
+
+https://twitter.com/share?url=https://www.xfinity.com/mobile/shop?tab=devices&text=
+----field----
+field: {B41BBB26-336A-4D8A-8591-6EBD50E52DB6}
+name: socialShare-twitterMultipleDeviceText
+key: socialshare-twittermultipledevicetext
+content-length: 79
+
+Xfinity Mobile lets me choose from the latest devices on a new kind of network.
+----field----
+field: {A996C9EE-EC32-4D6B-8A59-2734E8038ECE}
+name: socialShare-twitterSingleDeviceURL
+key: socialshare-twittersingledeviceurl
+content-length: 73
+
+https://twitter.com/share?url=https://www.xfinity.com/mobile/shop/device/
+----field----
+field: {C0EE7104-9D24-434C-9A4F-3D0F359464C6}
+name: socialShare-twitterSingleDeviceText
+key: socialshare-twittersingledevicetext
+content-length: 95
+
+&text=New [DEVICE_NAME]? Check. An awesome new mobile network designed to save me money? Check!
+----field----
+field: {9C9A0F38-1AA0-426B-AD6F-CF3968B8CE62}
+name: socialShare-byodBody-header
+key: socialshare-byodbody-header
+content-length: 7
+
+#XMBYOD
+----field----
+field: {3B08649C-C923-4135-90F4-B2313D3ECCA0}
+name: socialShare-byodBody-subheader
+key: socialshare-byodbody-subheader
+content-length: 45
+
+We want to know what makes your phone unique.
+----field----
+field: {171060BD-7262-45B5-9030-6A6F9269E712}
+name: socialShare-byodIcon
+key: socialshare-byodicon
+content-length: 38
+
+{2AD3E0A3-818A-48C4-8560-A4E437572A45}
+----field----
+field: {D8127B9F-3B98-4C0D-98CC-D504546FE7AA}
+name: field-header
+key: field-header
+content-length: 16
+
+What comes next?
+----field----
+field: {1A61CDBB-54D1-4EC0-9130-E7A7B0C56885}
+name: field-fieldIllustrations
+key: field-fieldillustrations
+content-length: 0
+
+
+----field----
+field: {C9E2ED76-AC17-48DE-B8E0-DF4092B6487D}
+name: field-orderHasByodOnly
+key: field-orderhasbyodonly
+content-length: 77
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}
+----field----
+field: {4C629EAD-7C9A-4411-BCDA-75E1B920D845}
+name: field-orderHasDevice
+key: field-orderhasdevice
+content-length: 116
+
+{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}|{A57E8098-6432-436C-AE11-245C7207DF92}
+----field----
+field: {F020D7F0-6D7F-4449-B655-649EF503A4CB}
+name: field-orderHasDeviceAndLockedByod
+key: field-orderhasdeviceandlockedbyod
+content-length: 116
+
+{1EA3F71C-4312-4F09-82A5-053E4B029C65}|{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}
+----field----
+field: {69CC2300-4E5C-4B75-8092-EBBF33FF7D98}
+name: field-orderHasDeviceAndUnlockedByod
+key: field-orderhasdeviceandunlockedbyod
+content-length: 116
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}
+----field----
+field: {D7D72A96-C262-4012-8984-DBDF9986F318}
+name: field-orderHasDeviceWithUnlimitedData
+key: field-orderhasdevicewithunlimiteddata
+content-length: 116
+
+{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}|{1FFBE741-7476-457B-A74E-B21F6C17BB0E}
+----field----
+field: {A08E635D-2F64-478B-8F28-8C8F0239E7E6}
+name: field-orderHasByodLocked
+key: field-orderhasbyodlocked
+content-length: 116
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{D6187B3D-D72D-46C6-8299-D74781B419C4}|{2B91AF35-B891-4E6A-9491-14B2E6C26DCC}
+----field----
+field: {E573FFA2-9CFF-4A58-95BE-A0F03FF059ED}
+name: field-carriers
+key: field-carriers
+content-length: 857
+
+{B831736D-1C15-4A7D-A479-9CA58C7BF10C}|{C42151D0-F705-496E-8D4A-245025ABE239}|{5FFBD7A6-C12A-4F12-B367-558983D0F7C1}|{58A5C6E4-9375-4A2C-93D9-67784D28E7D5}|{C6FA080A-6D78-4C89-8FA0-EB46141761B1}|{F69F17C7-EB8F-480F-9E01-7BF16766EAC7}|{9578475A-25CD-4194-B3A9-33962F7241C1}|{466D8DFE-337D-471C-9146-5C8C7FB79F9B}|{66F2FE45-DAE0-4A80-853F-F6851DD0257E}|{560BBF40-5061-4EDE-9001-232A9A393F97}|{949811F7-EA00-4B97-881E-F158A1907624}|{CE85D426-00D0-42AE-BE95-373EDA8061CF}|{105F6899-670E-4E4A-9B99-A7D34A675CA9}|{3DC35138-A557-4535-8ECB-0E7EBE920F07}|{1B0D0276-C802-45F5-81C1-5CD80A36F81F}|{B0E58051-C8FB-46BB-A327-D6B25006C927}|{86883C11-2FB4-4026-92C5-1064745F6342}|{0A419AD0-6718-4948-8281-B8E256D7B3AA}|{79034373-3E46-45A5-8B8C-6A0AC674A219}|{30D7AD60-2C66-4571-BA56-7D74FEE9DCE7}|{D8E1E79A-30C1-458E-B1C8-83959040E472}|{74E335D7-474A-44EF-9F4D-BE1EB2F9AE5F}
+----field----
+field: {F8543CCF-E335-42EE-A239-57EFE2B08EBF}
+name: field-orderForSegTwoHasDevice
+key: field-orderforsegtwohasdevice
+content-length: 116
+
+{2B91AF35-B891-4E6A-9491-14B2E6C26DCC}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}|{6496028B-EFD3-4629-8102-BEB13EF72BFA}
+----field----
+field: {3A4D0C4A-4982-4203-8E5F-90DB03BAC80D}
+name: field-orderHasFiveGDevice
+key: field-orderhasfivegdevice
+content-length: 116
+
+{2B91AF35-B891-4E6A-9491-14B2E6C26DCC}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}|{6496028B-EFD3-4629-8102-BEB13EF72BFA}
+----field----
+field: {E44B915F-6E26-45C8-8855-95C2A6F65226}
+name: field-orderHasByodGsx
+key: field-orderhasbyodgsx
+content-length: 116
+
+{07D383BD-6560-4666-BEE9-88EF08A8868E}|{D6187B3D-D72D-46C6-8299-D74781B419C4}|{D7CF9973-6B73-42AE-9DFA-11AC8942184F}
+----field----
+field: {BAC190A9-77C7-4061-93ED-62BB8A8E40CB}
+name: keepShopping-title
+key: keepshopping-title
+content-length: 21
+
+While you’re waiting…
+----field----
+field: {03D6E579-E78C-46B8-A34C-A156F9726408}
+name: keepShopping-shoppingCards
+key: keepshopping-shoppingcards
+content-length: 77
+
+{5D5BBF79-A609-4396-BD00-AC222DBA8C57}|{CED86B63-0A81-427B-B952-4A171AAB62FC}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200414T153833Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\mpayto200
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200414T153833Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 16
+
+sitecore\bliu901
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2c0655c5-5577-494f-9f3e-335c8442304b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200611T145027Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 9
+revision: 60140bcb-bdcc-4995-a62a-19fca53ce14f
+
+----field----
+field: {ECACDC88-9543-470A-B8DF-3B8D7296ECC4}
+name: welcome-xmLogo
+key: welcome-xmlogo
+content-length: 38
+
+{6D328237-EA92-46F7-80FF-79E3BBD8878C}
+----field----
+field: {F82FCE7F-F210-4373-8E43-7B6A447D0C4C}
+name: welcome-header-all
+key: welcome-header-all
+content-length: 26
+
+Welcome to Xfinity Mobile.
+----field----
+field: {209CE8DD-EC91-460A-9AAF-6053EB4A9903}
+name: welcome-header-onlyAccessory
+key: welcome-header-onlyaccessory
+content-length: 20
+
+Thanks for shopping.
+----field----
+field: {80502665-C48C-46D8-B0BE-C0DA96B5468F}
+name: welcome-header-ndelDevice
+key: welcome-header-ndeldevice
+content-length: 27
+
+Congrats on your new device
+----field----
+field: {787D2A1A-124B-4FCC-95E9-E93C3902CD87}
+name: welcome-subHeader-allSuffixText
+key: welcome-subheader-allsuffixtext
+content-length: 27
+
+will be in your hands soon.
+----field----
+field: {FA112888-5FA8-4FC5-8440-7556B3292ADB}
+name: welcome-subHeader-ndelDevice
+key: welcome-subheader-ndeldevice
+content-length: 16
+
+Your replacement
+----field----
+field: {2E010ECD-C5E8-4D98-B1AE-0C7C2DB69BA7}
+name: welcome-subHeader-multipleDevices
+key: welcome-subheader-multipledevices
+content-length: 7
+
+devices
+----field----
+field: {DB73972B-24C5-415C-AFB0-DC9A62442F9B}
+name: welcome-subHeader-multipleAccessories
+key: welcome-subheader-multipleaccessories
+content-length: 11
+
+accessories
+----field----
+field: {9018B19B-64E9-414A-9CD6-B73945F5B7DA}
+name: welcome-subHeader-multiDeviceAndAccessory
+key: welcome-subheader-multideviceandaccessory
+content-length: 15
+
+and accessories
+----field----
+field: {A985F4D7-1F9C-4657-B674-32466B9A9F0E}
+name: welcome-subHeader-byodDevice
+key: welcome-subheader-byoddevice
+content-length: 42
+
+You'll have your order in your hands soon.
+----field----
+field: {D8895F81-78D4-4F37-A77D-9955C796E194}
+name: welcome-subHeader-allPrefixText
+key: welcome-subheader-allprefixtext
+content-length: 8
+
+Your new
+----field----
+field: {CC960E45-E0FA-47AD-990C-7AEDD1BE8ED2}
+name: welcome-description
+key: welcome-description
+content-length: 208
+
+Look out for an email from us with your order details. When your order ships, you'll get a shipment-confirmation email with the delivery date of order #[ORDER_ID]. Someone must be home to receive the package.
+----field----
+field: {0AEE9B22-99D2-480C-B01F-B7C2AFAA7086}
+name: welcome-note
+key: welcome-note
+content-length: 125
+
+Visit your text(Xfinity Mobile account|https://www.xfinity.com/mobile/my-account) anytime to check the details of your order.
+----field----
+field: {83797EBA-D461-45A5-B4FA-12149E80F5AB}
+name: welcome-descriptionFooter
+key: welcome-descriptionfooter
+content-length: 0
+
+
+----field----
+field: {228A32BB-B7A3-4EE2-9D9B-67A753DF59B6}
+name: welcome-byodDescription
+key: welcome-byoddescription
+content-length: 150
+
+Your confirmation number is #[ORDER_ID], and your SIM card will be in your hands in a few days. Look out for an email from us with your order details.
+----field----
+field: {F65C6D0A-29FB-4796-9C0B-42459D581A93}
+name: welcome-enableByodPromo
+key: welcome-enablebyodpromo
+content-length: 1
+
+1
+----field----
+field: {7CCAA97A-7A32-48F4-8EEB-272BDA43E30F}
+name: welcome-promoMessage-prepaidPromoOnly
+key: welcome-promomessage-prepaidpromoonly
+content-length: 226
+
+Visit your text(Xfinity Mobile account|https://www.xfinity.com/mobile/my-account) to check your order details, or review the text(prepaid card FAQs.|https://www.xfinity.com/mobile/support/article/faqs-visa-prepaid-card-offers)
+----field----
+field: {5B5777BE-68D7-4858-83DF-BB7246F9F71E}
+name: welcome-promoMessage-extendedPromoOnly
+key: welcome-promomessage-extendedpromoonly
+content-length: 217
+
+Visit your text(Xfinity Mobile account|https://www.xfinity.com/mobile/my-account) to check your order details, or review the text(device credit FAQs.|https://www.xfinity.com/mobile/support/article/faqs-device-credits)
+----field----
+field: {1D367178-87A1-4D06-8B7B-55644A872BAA}
+name: welcome-promoMessage-prepaidAndExtendedPromo
+key: welcome-promomessage-prepaidandextendedpromo
+content-length: 318
+
+Visit your text(Xfinity Mobile account|https://www.xfinity.com/mobile/my-account) to check your order details, or review the text(device credit |https://www.xfinity.com/mobile/support/article/faqs-device-credits) and text(prepaid card FAQs.|https://www.xfinity.com/mobile/support/article/faqs-visa-prepaid-card-offers)
+----field----
+field: {587AFED9-A3C4-4D20-B818-818888984ED0}
+name: socialShare-header
+key: socialshare-header
+content-length: 20
+
+While you're waiting
+----field----
+field: {D1B59077-895C-474B-BAFE-E5AECCBC41EC}
+name: socialShare-fbIcon
+key: socialshare-fbicon
+content-length: 38
+
+{A8576076-F5DB-4F28-AF08-38A97400937B}
+----field----
+field: {E161CE3B-78A5-4DF3-9576-CA4A32452955}
+name: socialShare-twitterIcon
+key: socialshare-twittericon
+content-length: 38
+
+{515AE928-1165-4EFE-9E7A-C55C54516B84}
+----field----
+field: {F9392D09-E609-4ED4-AD0A-89C45BAD0680}
+name: socialShare-singleDeviceBody-header
+key: socialshare-singledevicebody-header
+content-length: 14
+
+Share the love
+----field----
+field: {93C7938E-F020-42B1-8061-FEF2C913144C}
+name: socialShare-singleDeviceBody-subheader
+key: socialshare-singledevicebody-subheader
+content-length: 48
+
+Just get a new [DEVICE_NAME]? Tell your friends.
+----field----
+field: {B04E750E-22B9-4E08-AAD0-9E3DE799AE51}
+name: socialShare-multiDeviceBody-header
+key: socialshare-multidevicebody-header
+content-length: 17
+
+Tell your friends
+----field----
+field: {316A0699-80C8-4399-B41C-D88FBC961567}
+name: socialShare-multiDeviceBody-subheader
+key: socialshare-multidevicebody-subheader
+content-length: 60
+
+Share the latest devices available on a new kind of network.
+----field----
+field: {0A97E405-E0EB-457A-8665-BC9D37FFA0C0}
+name: socialShare-iosDevice
+key: socialshare-iosdevice
+content-length: 38
+
+{3D3EB09B-EE77-4E1C-88C9-AC4D8117B52A}
+----field----
+field: {ED2A9803-FA4C-4D2D-9FA0-7BFBDD2637EA}
+name: socialShare-andriodDevice
+key: socialshare-andrioddevice
+content-length: 38
+
+{0C31D7B2-AEF4-4D9A-AC04-C6AE4989973D}
+----field----
+field: {94F1ACE4-DD55-4EBF-88C0-47F4E9A14F77}
+name: socialShare-giggyIcon
+key: socialshare-giggyicon
+content-length: 38
+
+{83BE7A72-CEE4-4DA6-AFB4-8F4DC4EBB5A7}
+----field----
+field: {62F774D2-7D7E-49C1-AD33-818135B659F3}
+name: socialShare-giggyHeader
+key: socialshare-giggyheader
+content-length: 20
+
+Play Giggy's Fun Run
+----field----
+field: {795922E8-A8FD-43E9-B080-425F7044B4BC}
+name: socialShare-giggySubheader
+key: socialshare-giggysubheader
+content-length: 107
+
+Can’t wait for your device to arrive? Play our fun new mobile game, and share your score with your friends.
+----field----
+field: {D0B31C2D-8FEB-40E4-9F4E-C78076504A37}
+name: socialShare-giggyLabel
+key: socialshare-giggylabel
+content-length: 27
+
+[$$Play now|game.landing$$]
+----field----
+field: {6A37B7BB-62C9-4A1F-B100-B6092742C0E2}
+name: socialShare-facebookSingleDeviceURL
+key: socialshare-facebooksingledeviceurl
+content-length: 88
+
+https://www.facebook.com/sharer/sharer.php?u=https://www.xfinity.com/mobile/shop/device/
+----field----
+field: {D591C493-287F-4DA2-8BD9-1186C4B1875F}
+name: socialShare-facebookMultipleDeviceURL
+key: socialshare-facebookmultipledeviceurl
+content-length: 92
+
+https://www.facebook.com/sharer/sharer.php?u=https://www.xfinity.com/mobile/shop?tab=devices
+----field----
+field: {475740D6-A416-4AFC-8F06-E6E5E7D83984}
+name: socialShare-twitterMultipleDeviceURL
+key: socialshare-twittermultipledeviceurl
+content-length: 83
+
+https://twitter.com/share?url=https://www.xfinity.com/mobile/shop?tab=devices&text=
+----field----
+field: {B41BBB26-336A-4D8A-8591-6EBD50E52DB6}
+name: socialShare-twitterMultipleDeviceText
+key: socialshare-twittermultipledevicetext
+content-length: 79
+
+Xfinity Mobile lets me choose from the latest devices on a new kind of network.
+----field----
+field: {A996C9EE-EC32-4D6B-8A59-2734E8038ECE}
+name: socialShare-twitterSingleDeviceURL
+key: socialshare-twittersingledeviceurl
+content-length: 73
+
+https://twitter.com/share?url=https://www.xfinity.com/mobile/shop/device/
+----field----
+field: {C0EE7104-9D24-434C-9A4F-3D0F359464C6}
+name: socialShare-twitterSingleDeviceText
+key: socialshare-twittersingledevicetext
+content-length: 95
+
+&text=New [DEVICE_NAME]? Check. An awesome new mobile network designed to save me money? Check!
+----field----
+field: {9C9A0F38-1AA0-426B-AD6F-CF3968B8CE62}
+name: socialShare-byodBody-header
+key: socialshare-byodbody-header
+content-length: 7
+
+#XMBYOD
+----field----
+field: {3B08649C-C923-4135-90F4-B2313D3ECCA0}
+name: socialShare-byodBody-subheader
+key: socialshare-byodbody-subheader
+content-length: 45
+
+We want to know what makes your phone unique.
+----field----
+field: {171060BD-7262-45B5-9030-6A6F9269E712}
+name: socialShare-byodIcon
+key: socialshare-byodicon
+content-length: 38
+
+{2AD3E0A3-818A-48C4-8560-A4E437572A45}
+----field----
+field: {D8127B9F-3B98-4C0D-98CC-D504546FE7AA}
+name: field-header
+key: field-header
+content-length: 16
+
+What comes next?
+----field----
+field: {1A61CDBB-54D1-4EC0-9130-E7A7B0C56885}
+name: field-fieldIllustrations
+key: field-fieldillustrations
+content-length: 0
+
+
+----field----
+field: {C9E2ED76-AC17-48DE-B8E0-DF4092B6487D}
+name: field-orderHasByodOnly
+key: field-orderhasbyodonly
+content-length: 77
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}
+----field----
+field: {4C629EAD-7C9A-4411-BCDA-75E1B920D845}
+name: field-orderHasDevice
+key: field-orderhasdevice
+content-length: 116
+
+{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}|{1FFBE741-7476-457B-A74E-B21F6C17BB0E}
+----field----
+field: {F020D7F0-6D7F-4449-B655-649EF503A4CB}
+name: field-orderHasDeviceAndLockedByod
+key: field-orderhasdeviceandlockedbyod
+content-length: 116
+
+{1EA3F71C-4312-4F09-82A5-053E4B029C65}|{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}
+----field----
+field: {69CC2300-4E5C-4B75-8092-EBBF33FF7D98}
+name: field-orderHasDeviceAndUnlockedByod
+key: field-orderhasdeviceandunlockedbyod
+content-length: 116
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}
+----field----
+field: {D7D72A96-C262-4012-8984-DBDF9986F318}
+name: field-orderHasDeviceWithUnlimitedData
+key: field-orderhasdevicewithunlimiteddata
+content-length: 116
+
+{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}|{1FFBE741-7476-457B-A74E-B21F6C17BB0E}
+----field----
+field: {A08E635D-2F64-478B-8F28-8C8F0239E7E6}
+name: field-orderHasByodLocked
+key: field-orderhasbyodlocked
+content-length: 116
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{D6187B3D-D72D-46C6-8299-D74781B419C4}|{2B91AF35-B891-4E6A-9491-14B2E6C26DCC}
+----field----
+field: {E573FFA2-9CFF-4A58-95BE-A0F03FF059ED}
+name: field-carriers
+key: field-carriers
+content-length: 857
+
+{B831736D-1C15-4A7D-A479-9CA58C7BF10C}|{C42151D0-F705-496E-8D4A-245025ABE239}|{5FFBD7A6-C12A-4F12-B367-558983D0F7C1}|{58A5C6E4-9375-4A2C-93D9-67784D28E7D5}|{C6FA080A-6D78-4C89-8FA0-EB46141761B1}|{F69F17C7-EB8F-480F-9E01-7BF16766EAC7}|{9578475A-25CD-4194-B3A9-33962F7241C1}|{466D8DFE-337D-471C-9146-5C8C7FB79F9B}|{66F2FE45-DAE0-4A80-853F-F6851DD0257E}|{560BBF40-5061-4EDE-9001-232A9A393F97}|{949811F7-EA00-4B97-881E-F158A1907624}|{CE85D426-00D0-42AE-BE95-373EDA8061CF}|{105F6899-670E-4E4A-9B99-A7D34A675CA9}|{3DC35138-A557-4535-8ECB-0E7EBE920F07}|{1B0D0276-C802-45F5-81C1-5CD80A36F81F}|{B0E58051-C8FB-46BB-A327-D6B25006C927}|{86883C11-2FB4-4026-92C5-1064745F6342}|{0A419AD0-6718-4948-8281-B8E256D7B3AA}|{79034373-3E46-45A5-8B8C-6A0AC674A219}|{30D7AD60-2C66-4571-BA56-7D74FEE9DCE7}|{D8E1E79A-30C1-458E-B1C8-83959040E472}|{74E335D7-474A-44EF-9F4D-BE1EB2F9AE5F}
+----field----
+field: {F8543CCF-E335-42EE-A239-57EFE2B08EBF}
+name: field-orderForSegTwoHasDevice
+key: field-orderforsegtwohasdevice
+content-length: 116
+
+{2B91AF35-B891-4E6A-9491-14B2E6C26DCC}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}|{6496028B-EFD3-4629-8102-BEB13EF72BFA}
+----field----
+field: {3A4D0C4A-4982-4203-8E5F-90DB03BAC80D}
+name: field-orderHasFiveGDevice
+key: field-orderhasfivegdevice
+content-length: 116
+
+{2B91AF35-B891-4E6A-9491-14B2E6C26DCC}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}|{6496028B-EFD3-4629-8102-BEB13EF72BFA}
+----field----
+field: {E44B915F-6E26-45C8-8855-95C2A6F65226}
+name: field-orderHasByodGsx
+key: field-orderhasbyodgsx
+content-length: 116
+
+{07D383BD-6560-4666-BEE9-88EF08A8868E}|{D6187B3D-D72D-46C6-8299-D74781B419C4}|{D7CF9973-6B73-42AE-9DFA-11AC8942184F}
+----field----
+field: {BAC190A9-77C7-4061-93ED-62BB8A8E40CB}
+name: keepShopping-title
+key: keepshopping-title
+content-length: 21
+
+While you’re waiting…
+----field----
+field: {03D6E579-E78C-46B8-A34C-A156F9726408}
+name: keepShopping-shoppingCards
+key: keepshopping-shoppingcards
+content-length: 77
+
+{5D5BBF79-A609-4396-BD00-AC222DBA8C57}|{CED86B63-0A81-427B-B952-4A171AAB62FC}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200616T135527Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\mpayto200
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200616T135527Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\nkuryl457
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+60140bcb-bdcc-4995-a62a-19fca53ce14f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200619T181137Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\nkuryl457
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{836FE415-F751-4CF4-8B29-6759EAB579E1}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 10
+revision: 4004d752-07d4-41ce-8591-e87254a5b9c5
+
+----field----
+field: {ECACDC88-9543-470A-B8DF-3B8D7296ECC4}
+name: welcome-xmLogo
+key: welcome-xmlogo
+content-length: 38
+
+{6D328237-EA92-46F7-80FF-79E3BBD8878C}
+----field----
+field: {F82FCE7F-F210-4373-8E43-7B6A447D0C4C}
+name: welcome-header-all
+key: welcome-header-all
+content-length: 26
+
+Welcome to Xfinity Mobile.
+----field----
+field: {209CE8DD-EC91-460A-9AAF-6053EB4A9903}
+name: welcome-header-onlyAccessory
+key: welcome-header-onlyaccessory
+content-length: 20
+
+Thanks for shopping.
+----field----
+field: {80502665-C48C-46D8-B0BE-C0DA96B5468F}
+name: welcome-header-ndelDevice
+key: welcome-header-ndeldevice
+content-length: 27
+
+Congrats on your new device
+----field----
+field: {787D2A1A-124B-4FCC-95E9-E93C3902CD87}
+name: welcome-subHeader-allSuffixText
+key: welcome-subheader-allsuffixtext
+content-length: 27
+
+will be in your hands soon.
+----field----
+field: {FA112888-5FA8-4FC5-8440-7556B3292ADB}
+name: welcome-subHeader-ndelDevice
+key: welcome-subheader-ndeldevice
+content-length: 16
+
+Your replacement
+----field----
+field: {2E010ECD-C5E8-4D98-B1AE-0C7C2DB69BA7}
+name: welcome-subHeader-multipleDevices
+key: welcome-subheader-multipledevices
+content-length: 7
+
+devices
+----field----
+field: {DB73972B-24C5-415C-AFB0-DC9A62442F9B}
+name: welcome-subHeader-multipleAccessories
+key: welcome-subheader-multipleaccessories
+content-length: 11
+
+accessories
+----field----
+field: {9018B19B-64E9-414A-9CD6-B73945F5B7DA}
+name: welcome-subHeader-multiDeviceAndAccessory
+key: welcome-subheader-multideviceandaccessory
+content-length: 15
+
+and accessories
+----field----
+field: {A985F4D7-1F9C-4657-B674-32466B9A9F0E}
+name: welcome-subHeader-byodDevice
+key: welcome-subheader-byoddevice
+content-length: 42
+
+You'll have your order in your hands soon.
+----field----
+field: {D8895F81-78D4-4F37-A77D-9955C796E194}
+name: welcome-subHeader-allPrefixText
+key: welcome-subheader-allprefixtext
+content-length: 8
+
+Your new
+----field----
+field: {CC960E45-E0FA-47AD-990C-7AEDD1BE8ED2}
+name: welcome-description
+key: welcome-description
+content-length: 208
+
+Look out for an email from us with your order details. When your order ships, you'll get a shipment-confirmation email with the delivery date of order #[ORDER_ID]. Someone must be home to receive the package.
+----field----
+field: {0AEE9B22-99D2-480C-B01F-B7C2AFAA7086}
+name: welcome-note
+key: welcome-note
+content-length: 125
+
+Visit your text(Xfinity Mobile account|https://www.xfinity.com/mobile/my-account) anytime to check the details of your order.
+----field----
+field: {83797EBA-D461-45A5-B4FA-12149E80F5AB}
+name: welcome-descriptionFooter
+key: welcome-descriptionfooter
+content-length: 0
+
+
+----field----
+field: {228A32BB-B7A3-4EE2-9D9B-67A753DF59B6}
+name: welcome-byodDescription
+key: welcome-byoddescription
+content-length: 150
+
+Your confirmation number is #[ORDER_ID], and your SIM card will be in your hands in a few days. Look out for an email from us with your order details.
+----field----
+field: {F65C6D0A-29FB-4796-9C0B-42459D581A93}
+name: welcome-enableByodPromo
+key: welcome-enablebyodpromo
+content-length: 1
+
+1
+----field----
+field: {7CCAA97A-7A32-48F4-8EEB-272BDA43E30F}
+name: welcome-promoMessage-prepaidPromoOnly
+key: welcome-promomessage-prepaidpromoonly
+content-length: 226
+
+Visit your text(Xfinity Mobile account|https://www.xfinity.com/mobile/my-account) to check your order details, or review the text(prepaid card FAQs.|https://www.xfinity.com/mobile/support/article/faqs-visa-prepaid-card-offers)
+----field----
+field: {5B5777BE-68D7-4858-83DF-BB7246F9F71E}
+name: welcome-promoMessage-extendedPromoOnly
+key: welcome-promomessage-extendedpromoonly
+content-length: 217
+
+Visit your text(Xfinity Mobile account|https://www.xfinity.com/mobile/my-account) to check your order details, or review the text(device credit FAQs.|https://www.xfinity.com/mobile/support/article/faqs-device-credits)
+----field----
+field: {1D367178-87A1-4D06-8B7B-55644A872BAA}
+name: welcome-promoMessage-prepaidAndExtendedPromo
+key: welcome-promomessage-prepaidandextendedpromo
+content-length: 318
+
+Visit your text(Xfinity Mobile account|https://www.xfinity.com/mobile/my-account) to check your order details, or review the text(device credit |https://www.xfinity.com/mobile/support/article/faqs-device-credits) and text(prepaid card FAQs.|https://www.xfinity.com/mobile/support/article/faqs-visa-prepaid-card-offers)
+----field----
+field: {587AFED9-A3C4-4D20-B818-818888984ED0}
+name: socialShare-header
+key: socialshare-header
+content-length: 20
+
+While you're waiting
+----field----
+field: {D1B59077-895C-474B-BAFE-E5AECCBC41EC}
+name: socialShare-fbIcon
+key: socialshare-fbicon
+content-length: 38
+
+{A8576076-F5DB-4F28-AF08-38A97400937B}
+----field----
+field: {E161CE3B-78A5-4DF3-9576-CA4A32452955}
+name: socialShare-twitterIcon
+key: socialshare-twittericon
+content-length: 38
+
+{515AE928-1165-4EFE-9E7A-C55C54516B84}
+----field----
+field: {F9392D09-E609-4ED4-AD0A-89C45BAD0680}
+name: socialShare-singleDeviceBody-header
+key: socialshare-singledevicebody-header
+content-length: 14
+
+Share the love
+----field----
+field: {93C7938E-F020-42B1-8061-FEF2C913144C}
+name: socialShare-singleDeviceBody-subheader
+key: socialshare-singledevicebody-subheader
+content-length: 48
+
+Just get a new [DEVICE_NAME]? Tell your friends.
+----field----
+field: {B04E750E-22B9-4E08-AAD0-9E3DE799AE51}
+name: socialShare-multiDeviceBody-header
+key: socialshare-multidevicebody-header
+content-length: 17
+
+Tell your friends
+----field----
+field: {316A0699-80C8-4399-B41C-D88FBC961567}
+name: socialShare-multiDeviceBody-subheader
+key: socialshare-multidevicebody-subheader
+content-length: 60
+
+Share the latest devices available on a new kind of network.
+----field----
+field: {0A97E405-E0EB-457A-8665-BC9D37FFA0C0}
+name: socialShare-iosDevice
+key: socialshare-iosdevice
+content-length: 38
+
+{3D3EB09B-EE77-4E1C-88C9-AC4D8117B52A}
+----field----
+field: {ED2A9803-FA4C-4D2D-9FA0-7BFBDD2637EA}
+name: socialShare-andriodDevice
+key: socialshare-andrioddevice
+content-length: 38
+
+{0C31D7B2-AEF4-4D9A-AC04-C6AE4989973D}
+----field----
+field: {94F1ACE4-DD55-4EBF-88C0-47F4E9A14F77}
+name: socialShare-giggyIcon
+key: socialshare-giggyicon
+content-length: 38
+
+{83BE7A72-CEE4-4DA6-AFB4-8F4DC4EBB5A7}
+----field----
+field: {62F774D2-7D7E-49C1-AD33-818135B659F3}
+name: socialShare-giggyHeader
+key: socialshare-giggyheader
+content-length: 20
+
+Play Giggy's Fun Run
+----field----
+field: {795922E8-A8FD-43E9-B080-425F7044B4BC}
+name: socialShare-giggySubheader
+key: socialshare-giggysubheader
+content-length: 107
+
+Can’t wait for your device to arrive? Play our fun new mobile game, and share your score with your friends.
+----field----
+field: {D0B31C2D-8FEB-40E4-9F4E-C78076504A37}
+name: socialShare-giggyLabel
+key: socialshare-giggylabel
+content-length: 27
+
+[$$Play now|game.landing$$]
+----field----
+field: {6A37B7BB-62C9-4A1F-B100-B6092742C0E2}
+name: socialShare-facebookSingleDeviceURL
+key: socialshare-facebooksingledeviceurl
+content-length: 88
+
+https://www.facebook.com/sharer/sharer.php?u=https://www.xfinity.com/mobile/shop/device/
+----field----
+field: {D591C493-287F-4DA2-8BD9-1186C4B1875F}
+name: socialShare-facebookMultipleDeviceURL
+key: socialshare-facebookmultipledeviceurl
+content-length: 92
+
+https://www.facebook.com/sharer/sharer.php?u=https://www.xfinity.com/mobile/shop?tab=devices
+----field----
+field: {475740D6-A416-4AFC-8F06-E6E5E7D83984}
+name: socialShare-twitterMultipleDeviceURL
+key: socialshare-twittermultipledeviceurl
+content-length: 83
+
+https://twitter.com/share?url=https://www.xfinity.com/mobile/shop?tab=devices&text=
+----field----
+field: {B41BBB26-336A-4D8A-8591-6EBD50E52DB6}
+name: socialShare-twitterMultipleDeviceText
+key: socialshare-twittermultipledevicetext
+content-length: 79
+
+Xfinity Mobile lets me choose from the latest devices on a new kind of network.
+----field----
+field: {A996C9EE-EC32-4D6B-8A59-2734E8038ECE}
+name: socialShare-twitterSingleDeviceURL
+key: socialshare-twittersingledeviceurl
+content-length: 73
+
+https://twitter.com/share?url=https://www.xfinity.com/mobile/shop/device/
+----field----
+field: {C0EE7104-9D24-434C-9A4F-3D0F359464C6}
+name: socialShare-twitterSingleDeviceText
+key: socialshare-twittersingledevicetext
+content-length: 95
+
+&text=New [DEVICE_NAME]? Check. An awesome new mobile network designed to save me money? Check!
+----field----
+field: {9C9A0F38-1AA0-426B-AD6F-CF3968B8CE62}
+name: socialShare-byodBody-header
+key: socialshare-byodbody-header
+content-length: 7
+
+#XMBYOD
+----field----
+field: {3B08649C-C923-4135-90F4-B2313D3ECCA0}
+name: socialShare-byodBody-subheader
+key: socialshare-byodbody-subheader
+content-length: 45
+
+We want to know what makes your phone unique.
+----field----
+field: {171060BD-7262-45B5-9030-6A6F9269E712}
+name: socialShare-byodIcon
+key: socialshare-byodicon
+content-length: 38
+
+{2AD3E0A3-818A-48C4-8560-A4E437572A45}
+----field----
+field: {D8127B9F-3B98-4C0D-98CC-D504546FE7AA}
+name: field-header
+key: field-header
+content-length: 16
+
+What comes next?
+----field----
+field: {1A61CDBB-54D1-4EC0-9130-E7A7B0C56885}
+name: field-fieldIllustrations
+key: field-fieldillustrations
+content-length: 0
+
+
+----field----
+field: {C9E2ED76-AC17-48DE-B8E0-DF4092B6487D}
+name: field-orderHasByodOnly
+key: field-orderhasbyodonly
+content-length: 77
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}
+----field----
+field: {4C629EAD-7C9A-4411-BCDA-75E1B920D845}
+name: field-orderHasDevice
+key: field-orderhasdevice
+content-length: 116
+
+{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}|{1FFBE741-7476-457B-A74E-B21F6C17BB0E}
+----field----
+field: {F020D7F0-6D7F-4449-B655-649EF503A4CB}
+name: field-orderHasDeviceAndLockedByod
+key: field-orderhasdeviceandlockedbyod
+content-length: 116
+
+{1EA3F71C-4312-4F09-82A5-053E4B029C65}|{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}
+----field----
+field: {69CC2300-4E5C-4B75-8092-EBBF33FF7D98}
+name: field-orderHasDeviceAndUnlockedByod
+key: field-orderhasdeviceandunlockedbyod
+content-length: 116
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}
+----field----
+field: {D7D72A96-C262-4012-8984-DBDF9986F318}
+name: field-orderHasDeviceWithUnlimitedData
+key: field-orderhasdevicewithunlimiteddata
+content-length: 116
+
+{3BCFE5B7-33AC-42B6-9D41-3418254ACE0E}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}|{1FFBE741-7476-457B-A74E-B21F6C17BB0E}
+----field----
+field: {A08E635D-2F64-478B-8F28-8C8F0239E7E6}
+name: field-orderHasByodLocked
+key: field-orderhasbyodlocked
+content-length: 116
+
+{405E46F5-C9E7-4D9C-AD5D-E093623AD90D}|{D6187B3D-D72D-46C6-8299-D74781B419C4}|{2B91AF35-B891-4E6A-9491-14B2E6C26DCC}
+----field----
+field: {E573FFA2-9CFF-4A58-95BE-A0F03FF059ED}
+name: field-carriers
+key: field-carriers
+content-length: 857
+
+{B831736D-1C15-4A7D-A479-9CA58C7BF10C}|{C42151D0-F705-496E-8D4A-245025ABE239}|{5FFBD7A6-C12A-4F12-B367-558983D0F7C1}|{58A5C6E4-9375-4A2C-93D9-67784D28E7D5}|{C6FA080A-6D78-4C89-8FA0-EB46141761B1}|{F69F17C7-EB8F-480F-9E01-7BF16766EAC7}|{9578475A-25CD-4194-B3A9-33962F7241C1}|{466D8DFE-337D-471C-9146-5C8C7FB79F9B}|{66F2FE45-DAE0-4A80-853F-F6851DD0257E}|{560BBF40-5061-4EDE-9001-232A9A393F97}|{949811F7-EA00-4B97-881E-F158A1907624}|{CE85D426-00D0-42AE-BE95-373EDA8061CF}|{105F6899-670E-4E4A-9B99-A7D34A675CA9}|{3DC35138-A557-4535-8ECB-0E7EBE920F07}|{1B0D0276-C802-45F5-81C1-5CD80A36F81F}|{B0E58051-C8FB-46BB-A327-D6B25006C927}|{86883C11-2FB4-4026-92C5-1064745F6342}|{0A419AD0-6718-4948-8281-B8E256D7B3AA}|{79034373-3E46-45A5-8B8C-6A0AC674A219}|{30D7AD60-2C66-4571-BA56-7D74FEE9DCE7}|{D8E1E79A-30C1-458E-B1C8-83959040E472}|{74E335D7-474A-44EF-9F4D-BE1EB2F9AE5F}
+----field----
+field: {F8543CCF-E335-42EE-A239-57EFE2B08EBF}
+name: field-orderForSegTwoHasDevice
+key: field-orderforsegtwohasdevice
+content-length: 116
+
+{2B91AF35-B891-4E6A-9491-14B2E6C26DCC}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}|{6496028B-EFD3-4629-8102-BEB13EF72BFA}
+----field----
+field: {3A4D0C4A-4982-4203-8E5F-90DB03BAC80D}
+name: field-orderHasFiveGDevice
+key: field-orderhasfivegdevice
+content-length: 116
+
+{2B91AF35-B891-4E6A-9491-14B2E6C26DCC}|{563327B9-F89E-45AC-9B2D-53C5009E34BC}|{6496028B-EFD3-4629-8102-BEB13EF72BFA}
+----field----
+field: {E44B915F-6E26-45C8-8855-95C2A6F65226}
+name: field-orderHasByodGsx
+key: field-orderhasbyodgsx
+content-length: 116
+
+{07D383BD-6560-4666-BEE9-88EF08A8868E}|{D6187B3D-D72D-46C6-8299-D74781B419C4}|{D7CF9973-6B73-42AE-9DFA-11AC8942184F}
+----field----
+field: {BAC190A9-77C7-4061-93ED-62BB8A8E40CB}
+name: keepShopping-title
+key: keepshopping-title
+content-length: 21
+
+While you’re waiting…
+----field----
+field: {03D6E579-E78C-46B8-A34C-A156F9726408}
+name: keepShopping-shoppingCards
+key: keepshopping-shoppingcards
+content-length: 77
+
+{5D5BBF79-A609-4396-BD00-AC222DBA8C57}|{CED86B63-0A81-427B-B952-4A171AAB62FC}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200616T135558Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\mpayto200
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200616T135558Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\nkuryl457
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4004d752-07d4-41ce-8591-e87254a5b9c5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200616T135738Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\nkuryl457
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{836FE415-F751-4CF4-8B29-6759EAB579E1}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

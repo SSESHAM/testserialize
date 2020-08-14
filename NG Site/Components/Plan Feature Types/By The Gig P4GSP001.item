@@ -1,0 +1,1095 @@
+----item----
+version: 1
+id: {CF472714-2C7E-4F73-8545-0C30EA3349B6}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Plan Feature Types/By The Gig P4GSP001
+parent: {5A6C898C-19DD-415B-8F55-8597691C360A}
+name: By The Gig P4GSP001
+master: {00000000-0000-0000-0000-000000000000}
+template: {1C9B827F-DDE9-47FC-B5DE-CBFF9CABE9DB}
+templatekey: Plan Feature Type
+created: 20180528T150526Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----field----
+field: {CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}
+name: __Default workflow
+key: __default workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 428937be-5fa0-488d-9357-9811077c10b0
+
+----field----
+field: {D50AE8C2-D658-4442-8F57-17B0F42C9E78}
+name: id
+key: id
+content-length: 8
+
+P4GSP001
+----field----
+field: {BE8B6C61-7BF8-46B1-B94B-8233A4CF8A1C}
+name: header
+key: header
+content-length: 10
+
+By the Gig
+----field----
+field: {661AAAE8-CC53-4AB1-9916-08A12C5AAED1}
+name: hash
+key: hash
+content-length: 10
+
+by-the-gig
+----field----
+field: {76398868-5A2D-464E-928C-01567EAA0881}
+name: iconImage
+key: iconimage
+content-length: 38
+
+{297BF04E-F726-4181-A485-D6F3022A4869}
+----field----
+field: {75DF7FA6-39F8-48FC-9009-E5D3F96A124F}
+name: subtitle
+key: subtitle
+content-length: 10
+
+[PlanName]
+----field----
+field: {ADB5923B-28B1-4E28-84DE-360B10139B43}
+name: currency
+key: currency
+content-length: 1
+
+$
+----field----
+field: {08892AFA-05D7-4908-A8AB-1D54DD7960BE}
+name: dataUnit
+key: dataunit
+content-length: 2
+
+GB
+----field----
+field: {E2B39C5A-8E5D-4833-9F2B-B98C65728FDC}
+name: description
+key: description
+content-length: 53
+
+Pay only for the GB of shared data you use each month
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180528T150526Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+428937be-5fa0-488d-9357-9811077c10b0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180802T203344Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----version----
+language: en
+version: 2
+revision: 269bb41c-52eb-4ad6-ae24-0683510cb918
+
+----field----
+field: {D50AE8C2-D658-4442-8F57-17B0F42C9E78}
+name: id
+key: id
+content-length: 8
+
+P4GSP001
+----field----
+field: {BE8B6C61-7BF8-46B1-B94B-8233A4CF8A1C}
+name: header
+key: header
+content-length: 10
+
+By the Gig
+----field----
+field: {661AAAE8-CC53-4AB1-9916-08A12C5AAED1}
+name: hash
+key: hash
+content-length: 10
+
+by-the-gig
+----field----
+field: {76398868-5A2D-464E-928C-01567EAA0881}
+name: iconImage
+key: iconimage
+content-length: 38
+
+{297BF04E-F726-4181-A485-D6F3022A4869}
+----field----
+field: {75DF7FA6-39F8-48FC-9009-E5D3F96A124F}
+name: subtitle
+key: subtitle
+content-length: 10
+
+[PlanName]
+----field----
+field: {ADB5923B-28B1-4E28-84DE-360B10139B43}
+name: currency
+key: currency
+content-length: 1
+
+$
+----field----
+field: {08892AFA-05D7-4908-A8AB-1D54DD7960BE}
+name: dataUnit
+key: dataunit
+content-length: 2
+
+GB
+----field----
+field: {E2B39C5A-8E5D-4833-9F2B-B98C65728FDC}
+name: description
+key: description
+content-length: 82
+
+Pay only for the GB of shared data you use each month (reduced speeds after 20 GB)
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190215T183306Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190215T183306Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+269bb41c-52eb-4ad6-ae24-0683510cb918
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190218T143318Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\pboone598
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 3
+revision: 8e34656d-67b5-4bd5-b9a7-fb3f18332253
+
+----field----
+field: {D50AE8C2-D658-4442-8F57-17B0F42C9E78}
+name: id
+key: id
+content-length: 8
+
+P4GSP001
+----field----
+field: {BE8B6C61-7BF8-46B1-B94B-8233A4CF8A1C}
+name: header
+key: header
+content-length: 10
+
+By the Gig
+----field----
+field: {661AAAE8-CC53-4AB1-9916-08A12C5AAED1}
+name: hash
+key: hash
+content-length: 10
+
+by-the-gig
+----field----
+field: {76398868-5A2D-464E-928C-01567EAA0881}
+name: iconImage
+key: iconimage
+content-length: 38
+
+{297BF04E-F726-4181-A485-D6F3022A4869}
+----field----
+field: {75DF7FA6-39F8-48FC-9009-E5D3F96A124F}
+name: subtitle
+key: subtitle
+content-length: 10
+
+[PlanName]
+----field----
+field: {ADB5923B-28B1-4E28-84DE-360B10139B43}
+name: currency
+key: currency
+content-length: 1
+
+$
+----field----
+field: {08892AFA-05D7-4908-A8AB-1D54DD7960BE}
+name: dataUnit
+key: dataunit
+content-length: 2
+
+GB
+----field----
+field: {E2B39C5A-8E5D-4833-9F2B-B98C65728FDC}
+name: description
+key: description
+content-length: 82
+
+Pay only for the GB of shared data you use each month (speeds reduced after 20 GB)
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190510T153443Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190510T153443Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\snavee884
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8e34656d-67b5-4bd5-b9a7-fb3f18332253
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190510T153457Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\snavee884
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 4
+revision: a8a99a8d-d36e-4074-a122-7b5517b6da1d
+
+----field----
+field: {D50AE8C2-D658-4442-8F57-17B0F42C9E78}
+name: id
+key: id
+content-length: 8
+
+P4GSP001
+----field----
+field: {BE8B6C61-7BF8-46B1-B94B-8233A4CF8A1C}
+name: header
+key: header
+content-length: 10
+
+By the Gig
+----field----
+field: {661AAAE8-CC53-4AB1-9916-08A12C5AAED1}
+name: hash
+key: hash
+content-length: 10
+
+by-the-gig
+----field----
+field: {76398868-5A2D-464E-928C-01567EAA0881}
+name: iconImage
+key: iconimage
+content-length: 38
+
+{297BF04E-F726-4181-A485-D6F3022A4869}
+----field----
+field: {75DF7FA6-39F8-48FC-9009-E5D3F96A124F}
+name: subtitle
+key: subtitle
+content-length: 10
+
+[PlanName]
+----field----
+field: {ADB5923B-28B1-4E28-84DE-360B10139B43}
+name: currency
+key: currency
+content-length: 1
+
+$
+----field----
+field: {08892AFA-05D7-4908-A8AB-1D54DD7960BE}
+name: dataUnit
+key: dataunit
+content-length: 2
+
+GB
+----field----
+field: {E2B39C5A-8E5D-4833-9F2B-B98C65728FDC}
+name: description
+key: description
+content-length: 82
+
+Pay only for the GB of shared data you use each month (reduced speeds after 20 GB)
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190510T153911Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190510T153911Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a8a99a8d-d36e-4074-a122-7b5517b6da1d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190516T145216Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\vramas01c
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 5
+revision: 8773407f-bd8c-46c1-a163-7af1d633c0be
+
+----field----
+field: {D50AE8C2-D658-4442-8F57-17B0F42C9E78}
+name: id
+key: id
+content-length: 8
+
+P4GSP001
+----field----
+field: {BE8B6C61-7BF8-46B1-B94B-8233A4CF8A1C}
+name: header
+key: header
+content-length: 10
+
+By the Gig
+----field----
+field: {661AAAE8-CC53-4AB1-9916-08A12C5AAED1}
+name: hash
+key: hash
+content-length: 10
+
+by-the-gig
+----field----
+field: {76398868-5A2D-464E-928C-01567EAA0881}
+name: iconImage
+key: iconimage
+content-length: 38
+
+{297BF04E-F726-4181-A485-D6F3022A4869}
+----field----
+field: {75DF7FA6-39F8-48FC-9009-E5D3F96A124F}
+name: subtitle
+key: subtitle
+content-length: 10
+
+[PlanName]
+----field----
+field: {ADB5923B-28B1-4E28-84DE-360B10139B43}
+name: currency
+key: currency
+content-length: 1
+
+$
+----field----
+field: {08892AFA-05D7-4908-A8AB-1D54DD7960BE}
+name: dataUnit
+key: dataunit
+content-length: 2
+
+GB
+----field----
+field: {E2B39C5A-8E5D-4833-9F2B-B98C65728FDC}
+name: description
+key: description
+content-length: 82
+
+Pay only for the GB of shared data you use each month (reduced speeds after 20 GB)
+----field----
+field: {13A36147-38A7-400B-AD99-42AE8587E653}
+name: perMonth
+key: permonth
+content-length: 9
+
+per month
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190702T200840Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190702T200840Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8773407f-bd8c-46c1-a163-7af1d633c0be
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190702T200923Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 6
+revision: 8b49acd3-9e3b-4d92-ab8c-4cb9840a956b
+
+----field----
+field: {D50AE8C2-D658-4442-8F57-17B0F42C9E78}
+name: id
+key: id
+content-length: 8
+
+P4GSP001
+----field----
+field: {BE8B6C61-7BF8-46B1-B94B-8233A4CF8A1C}
+name: header
+key: header
+content-length: 10
+
+By the Gig
+----field----
+field: {661AAAE8-CC53-4AB1-9916-08A12C5AAED1}
+name: hash
+key: hash
+content-length: 10
+
+by-the-gig
+----field----
+field: {76398868-5A2D-464E-928C-01567EAA0881}
+name: iconImage
+key: iconimage
+content-length: 38
+
+{297BF04E-F726-4181-A485-D6F3022A4869}
+----field----
+field: {75DF7FA6-39F8-48FC-9009-E5D3F96A124F}
+name: subtitle
+key: subtitle
+content-length: 10
+
+[PlanName]
+----field----
+field: {ADB5923B-28B1-4E28-84DE-360B10139B43}
+name: currency
+key: currency
+content-length: 1
+
+$
+----field----
+field: {08892AFA-05D7-4908-A8AB-1D54DD7960BE}
+name: dataUnit
+key: dataunit
+content-length: 2
+
+GB
+----field----
+field: {E2B39C5A-8E5D-4833-9F2B-B98C65728FDC}
+name: description
+key: description
+content-length: 82
+
+Pay only for the GB of shared data you use each month (reduced speeds after 20 GB)
+----field----
+field: {13A36147-38A7-400B-AD99-42AE8587E653}
+name: perMonth
+key: permonth
+content-length: 9
+
+per month
+----field----
+field: {2EC7D246-C170-44E4-A42B-1A1A7E63BEE5}
+name: ariaLabel
+key: arialabel
+content-length: 39
+
+Pricing and other info about By the Gig
+----field----
+field: {2E6F98F1-C350-48A0-BBE7-0754FF2A4556}
+name: chooseFrom
+key: choosefrom
+content-length: 39
+
+Choose a minimum amount of shared data 
+----field----
+field: {0A8FAB82-6F88-4365-B8CE-CB87515841B9}
+name: startingGb
+key: startinggb
+content-length: 19
+
+Starting at 1GB for
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190723T202322Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190723T202322Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8b49acd3-9e3b-4d92-ab8c-4cb9840a956b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190725T175935Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 7
+revision: a9df647e-fc5a-4c25-b5ed-7f6b20f1c238
+
+----field----
+field: {D50AE8C2-D658-4442-8F57-17B0F42C9E78}
+name: id
+key: id
+content-length: 8
+
+P4GSP001
+----field----
+field: {BE8B6C61-7BF8-46B1-B94B-8233A4CF8A1C}
+name: header
+key: header
+content-length: 10
+
+By the Gig
+----field----
+field: {661AAAE8-CC53-4AB1-9916-08A12C5AAED1}
+name: hash
+key: hash
+content-length: 10
+
+by-the-gig
+----field----
+field: {76398868-5A2D-464E-928C-01567EAA0881}
+name: iconImage
+key: iconimage
+content-length: 38
+
+{297BF04E-F726-4181-A485-D6F3022A4869}
+----field----
+field: {75DF7FA6-39F8-48FC-9009-E5D3F96A124F}
+name: subtitle
+key: subtitle
+content-length: 11
+
+Shared data
+----field----
+field: {ADB5923B-28B1-4E28-84DE-360B10139B43}
+name: currency
+key: currency
+content-length: 1
+
+$
+----field----
+field: {08892AFA-05D7-4908-A8AB-1D54DD7960BE}
+name: dataUnit
+key: dataunit
+content-length: 2
+
+GB
+----field----
+field: {E2B39C5A-8E5D-4833-9F2B-B98C65728FDC}
+name: description
+key: description
+content-length: 82
+
+Pay only for the GB of shared data you use each month (reduced speeds after 20 GB)
+----field----
+field: {13A36147-38A7-400B-AD99-42AE8587E653}
+name: perMonth
+key: permonth
+content-length: 0
+
+
+----field----
+field: {2EC7D246-C170-44E4-A42B-1A1A7E63BEE5}
+name: ariaLabel
+key: arialabel
+content-length: 39
+
+Pricing and other info about By the Gig
+----field----
+field: {2E6F98F1-C350-48A0-BBE7-0754FF2A4556}
+name: chooseFrom
+key: choosefrom
+content-length: 39
+
+Choose a minimum amount of shared data 
+----field----
+field: {0A8FAB82-6F88-4365-B8CE-CB87515841B9}
+name: startingGb
+key: startinggb
+content-length: 19
+
+Starting at 1GB for
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190726T151111Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190726T151111Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\ssingh466
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a9df647e-fc5a-4c25-b5ed-7f6b20f1c238
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190726T151135Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\ssingh466
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 8
+revision: 17a69ff7-8020-4c63-99d9-90df9cd5931b
+
+----field----
+field: {D50AE8C2-D658-4442-8F57-17B0F42C9E78}
+name: id
+key: id
+content-length: 8
+
+P4GSP001
+----field----
+field: {BE8B6C61-7BF8-46B1-B94B-8233A4CF8A1C}
+name: header
+key: header
+content-length: 10
+
+By the Gig
+----field----
+field: {661AAAE8-CC53-4AB1-9916-08A12C5AAED1}
+name: hash
+key: hash
+content-length: 10
+
+by-the-gig
+----field----
+field: {76398868-5A2D-464E-928C-01567EAA0881}
+name: iconImage
+key: iconimage
+content-length: 38
+
+{297BF04E-F726-4181-A485-D6F3022A4869}
+----field----
+field: {75DF7FA6-39F8-48FC-9009-E5D3F96A124F}
+name: subtitle
+key: subtitle
+content-length: 11
+
+Shared data
+----field----
+field: {ADB5923B-28B1-4E28-84DE-360B10139B43}
+name: currency
+key: currency
+content-length: 1
+
+$
+----field----
+field: {08892AFA-05D7-4908-A8AB-1D54DD7960BE}
+name: dataUnit
+key: dataunit
+content-length: 2
+
+GB
+----field----
+field: {E2B39C5A-8E5D-4833-9F2B-B98C65728FDC}
+name: description
+key: description
+content-length: 9
+
+per month
+----field----
+field: {13A36147-38A7-400B-AD99-42AE8587E653}
+name: perMonth
+key: permonth
+content-length: 0
+
+
+----field----
+field: {2EC7D246-C170-44E4-A42B-1A1A7E63BEE5}
+name: ariaLabel
+key: arialabel
+content-length: 39
+
+Pricing and other info about By the Gig
+----field----
+field: {2E6F98F1-C350-48A0-BBE7-0754FF2A4556}
+name: chooseFrom
+key: choosefrom
+content-length: 39
+
+Choose a minimum amount of shared data 
+----field----
+field: {0A8FAB82-6F88-4365-B8CE-CB87515841B9}
+name: startingGb
+key: startinggb
+content-length: 19
+
+Starting at 1GB for
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190726T193115Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190726T193115Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\ssingh466
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+17a69ff7-8020-4c63-99d9-90df9cd5931b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190726T193125Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\ssingh466
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

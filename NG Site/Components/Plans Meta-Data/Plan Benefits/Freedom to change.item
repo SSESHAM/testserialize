@@ -1,0 +1,183 @@
+----item----
+version: 1
+id: {26C08271-F92D-45E0-9CCC-F7F42E35EE31}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Plans Meta-Data/Plan Benefits/Freedom to change
+parent: {EF1DB57C-E0CE-4AF3-A9AD-C1ED42AF1195}
+name: Freedom to change
+master: {00000000-0000-0000-0000-000000000000}
+template: {D92BB4B9-E223-490E-8257-012246A00300}
+templatekey: Plan Benefits
+created: 20190712T153819Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----field----
+field: {CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}
+name: __Default workflow
+key: __default workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: d438b866-28cb-45f0-8f0c-44907c58cfd7
+
+----field----
+field: {D5EC47CE-687A-4653-9FE4-EA7060D70ACC}
+name: description
+key: description
+content-length: 99
+
+Change the amount of shared data during your billing cycle or switch heavy data users to Unlimited.
+----field----
+field: {A922BE99-5776-4865-8B16-845210F9EBC5}
+name: header
+key: header
+content-length: 17
+
+Freedom to change
+----field----
+field: {D8D8AD1A-A661-4C76-BB12-5A77BBF3C6C9}
+name: image
+key: image
+content-length: 38
+
+{79669D4A-18FB-4C77-92CB-EFA491CEBF82}
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190712T153819Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d438b866-28cb-45f0-8f0c-44907c58cfd7
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190807T165630Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\snavee884
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 2
+revision: 672cdcbc-6c3a-48eb-bf68-5af7f01a733b
+
+----field----
+field: {D5EC47CE-687A-4653-9FE4-EA7060D70ACC}
+name: description
+key: description
+content-length: 99
+
+Change the amount of shared data during your billing cycle or switch heavy data users to Unlimited.
+----field----
+field: {A922BE99-5776-4865-8B16-845210F9EBC5}
+name: header
+key: header
+content-length: 17
+
+Freedom to change
+----field----
+field: {D8D8AD1A-A661-4C76-BB12-5A77BBF3C6C9}
+name: image
+key: image
+content-length: 38
+
+{79669D4A-18FB-4C77-92CB-EFA491CEBF82}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190807T165632Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190807T165632Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\snavee884
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+672cdcbc-6c3a-48eb-bf68-5af7f01a733b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191223T185636Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

@@ -1,0 +1,829 @@
+----item----
+version: 1
+id: {79C28D7E-C622-4776-AA96-F322BA257765}
+database: master
+path: /sitecore/content/Modesto/NG Site/Home/Activation
+parent: {1EE91079-22AA-40FA-95F2-621FC5F0CE97}
+name: Activation
+master: {00000000-0000-0000-0000-000000000000}
+template: {25E328A4-E32E-4266-BD12-0A45D9A561E2}
+templatekey: Activation
+created: 20180717T142844Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+400
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----field----
+field: {CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}
+name: __Default workflow
+key: __default workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: fed50dc0-d6a6-446a-ad98-48854c6d2d4b
+
+----field----
+field: {863B26D7-662F-4DAC-B999-5FB410161DF0}
+name: progressBar-step1
+key: progressbar-step1
+content-length: 11
+
+Get Started
+----field----
+field: {86AE2F6B-B816-4A1C-924A-C444759915F0}
+name: progressBar-step2
+key: progressbar-step2
+content-length: 13
+
+Choose Number
+----field----
+field: {858D839B-7BC8-4600-A84D-4BE7042519AC}
+name: progressBar-step3
+key: progressbar-step3
+content-length: 8
+
+Activate
+----field----
+field: {BAC99875-C9EA-439B-B368-BFC7DC0BB51B}
+name: progressBar-checkmark-mobile
+key: progressbar-checkmark-mobile
+content-length: 38
+
+{4D482463-114F-49C2-80BE-4DB085B89489}
+----field----
+field: {8FF5FBC8-958D-4175-B7BB-1029B9BEC412}
+name: progressBar-checkmark-smallDesktop
+key: progressbar-checkmark-smalldesktop
+content-length: 38
+
+{96A5D9C3-4430-406E-94FB-BE95E809178C}
+----field----
+field: {C254A05C-DEFD-487E-8164-D4E2BC427715}
+name: progressBar-error-mobile
+key: progressbar-error-mobile
+content-length: 38
+
+{940A0BEF-73A4-4AE0-B6BA-5A548E4B5026}
+----field----
+field: {E1429FCB-8509-4F53-ADA9-47BD01F78497}
+name: progressBar-error-smallDesktop
+key: progressbar-error-smalldesktop
+content-length: 38
+
+{C48C410D-A28A-4B61-924C-9B4174513D8D}
+----field----
+field: {F9E28335-BB1F-4656-A307-397EDDD3CBC1}
+name: getStarted-mainHeader
+key: getstarted-mainheader
+content-length: 16
+
+Start Activation
+----field----
+field: {CCF04D3D-FDA7-4743-B335-A1EC8727560E}
+name: getStarted-header
+key: getstarted-header
+content-length: 38
+
+Let's get your new [DEVICE] activated!
+----field----
+field: {D51527F2-E033-4EDC-9D5D-30E3DACED936}
+name: getStarted-subhead
+key: getstarted-subhead
+content-length: 66
+
+We'll walk you through a few simple steps to activate your device.
+----field----
+field: {5E8F802F-1343-44AC-BF56-ABC6B5982050}
+name: getStarted-portImage
+key: getstarted-portimage
+content-length: 38
+
+{28D81033-7C41-4C0F-BAF7-DFB146735191}
+----field----
+field: {3701C3D8-0B8B-47C2-816E-315F80E822C1}
+name: getStarted-portHeader
+key: getstarted-portheader
+content-length: 32
+
+Do you have a copy of your bill?
+----field----
+field: {C755CE35-B7D2-43F4-B895-ACA0AAF214DF}
+name: getStarted-portBody
+key: getstarted-portbody
+content-length: 74
+
+We'll need information from your previous carrier to transfer your number.
+----field----
+field: {B0F0CFE3-6733-4454-B7A4-2E521BCEE5FF}
+name: getStarted-continueText
+key: getstarted-continuetext
+content-length: 8
+
+Continue
+----field----
+field: {C0BB4727-4A8C-468A-BF11-307F2419B67B}
+name: getStarted-backText
+key: getstarted-backtext
+content-length: 6
+
+Cancel
+----field----
+field: {7A445F76-E18A-48C1-9AAD-2F40218CD0EA}
+name: chooseNumber-mainHeader
+key: choosenumber-mainheader
+content-length: 13
+
+Choose Number
+----field----
+field: {937A466A-973E-4D9C-A68D-66B835A8F3B3}
+name: chooseNumber-header
+key: choosenumber-header
+content-length: 34
+
+Bring your number or get a new one
+----field----
+field: {8FD59FDF-AB20-4CE4-8EBF-E7D8FC9F8D06}
+name: chooseNumber-subhead
+key: choosenumber-subhead
+content-length: 56
+
+You can keep your own number or choose to get a new one.
+----field----
+field: {E13841AE-AD22-4AD1-9BA6-24EB83F854F6}
+name: chooseNumber-buttonTitle
+key: choosenumber-buttontitle
+content-length: 18
+
+Choose Your Number
+----field----
+field: {6D40ECC1-2FF6-4B88-BDD0-D5558AAD03EA}
+name: chooseNumber-buttonNewNumber
+key: choosenumber-buttonnewnumber
+content-length: 19
+
+I want a new number
+----field----
+field: {4B2EFE08-8C41-4103-87D7-C26FB7770A21}
+name: chooseNumber-buttonPortNumber
+key: choosenumber-buttonportnumber
+content-length: 20
+
+Keep my phone number
+----field----
+field: {60E056D8-6A00-4DE8-8E21-2CE4582BC1FF}
+name: chooseNumber-continueText
+key: choosenumber-continuetext
+content-length: 8
+
+Continue
+----field----
+field: {8DECCAB0-0824-46A5-9795-4B1D0F169002}
+name: chooseNumber-backText
+key: choosenumber-backtext
+content-length: 4
+
+Back
+----field----
+field: {C25B268A-B203-4AE8-80EC-F06CE7E22144}
+name: portingForm-mainHeader
+key: portingform-mainheader
+content-length: 16
+
+Start Activation
+----field----
+field: {F2F5263D-F670-4A43-88A8-4A2AA969EEF6}
+name: portingForm-header
+key: portingform-header
+content-length: 23
+
+Bring my number with me
+----field----
+field: {307C29EE-4BB0-4CDB-BC6E-FE1D9057DEBB}
+name: portingForm-subheads
+key: portingform-subheads
+content-length: 371
+
+subhead1=We%27ll%20need%20some%20information%20from%20your%20previous%20carrier%20so%20we%20can%20transfer%20your%20number.%20If%20you%20don%E2%80%99t%20have%20this%20information%20readily%20available%2C%20you%20can%20come%20back%20and%20pick%20up%20right%20where%20you%20left%20off.&subhead2=Please%20enter%20your%20information%20exactly%20as%20it%20appears%20on%20file.
+----field----
+field: {933F18A0-3454-4818-A8B7-21DA2D2DA947}
+name: portingForm-phoneNumber-header
+key: portingform-phonenumber-header
+content-length: 12
+
+Phone Number
+----field----
+field: {679E1913-05CE-47D2-BD31-3D2A4DF35857}
+name: portingForm-phoneNumber-errors
+key: portingform-phonenumber-errors
+content-length: 116
+
+{B73342DB-2DC7-45C4-A790-7DC1C58CE660}|{BD34CC36-ABC3-486B-B125-CA9D87749DF6}|{C2A5FCB9-E58D-43EF-8A5D-192696FFF4E6}
+----field----
+field: {7E7C78C0-1374-4332-8EFA-68D16887170B}
+name: portingForm-phoneNumberDescription
+key: portingform-phonenumberdescription
+content-length: 59
+
+Enter the phone number you wish to bring to Xfinity Mobile.
+----field----
+field: {6FA710FD-1630-407F-8593-BB5DB51AC27C}
+name: portingForm-carrierTitle
+key: portingform-carriertitle
+content-length: 7
+
+Carrier
+----field----
+field: {2093AD94-B7B9-4456-950A-6EA20A89DBC2}
+name: portingForm-carriers
+key: portingform-carriers
+content-length: 818
+
+{5B143EA6-DA6A-4841-8500-8439A0E84F0E}|{6A9E1856-6BD9-4ACD-9DF4-4EDD70F42B99}|{AE9E2DB3-C4E9-41C1-A85F-95BCA0F91FD7}|{28DFA1DE-D139-4C7B-9B24-972E33790F28}|{A4DD4805-E978-4EA9-89FC-069CD093EAC9}|{2E1D1D06-FBB1-4B3C-B2DF-BFE00F8888A0}|{B7D184C7-4E41-4CCC-BB6B-584954BF4EC3}|{7FF653DC-946B-4AA8-9B21-195FF518E4B6}|{0662F888-748D-45C3-8B30-0C1F577AC3BB}|{37BBBF1F-9647-416E-A689-BBF64D429F5E}|{21AABBD5-10C2-4C8C-8C2A-581047B76AAF}|{D735D28B-72E8-4525-852C-FD15C4C2CF4B}|{83A1AD4F-8E14-45DF-A0CD-3A252F3E490D}|{AE1C8B68-F43F-4643-94A8-BBBB3F2B590D}|{837B8542-0415-44BD-9448-0CF42D8E48F7}|{B6843B0F-A994-46CD-9868-3537CE8BF973}|{B1AD4140-F3DB-4927-A96D-B54EE31C3E45}|{0DDAA342-BDCD-4F37-B8DD-6A9B8E319B01}|{E4A2184F-95F3-4721-AE8B-50F85070196B}|{275E1054-7D90-44C6-A62B-4E5540EE8811}|{AB982316-5887-4C1A-929A-442190A7EA6B}
+----field----
+field: {1C2F6F80-0216-4350-8AE4-01030B0940B9}
+name: portingForm-accountNumber-header
+key: portingform-accountnumber-header
+content-length: 14
+
+Account Number
+----field----
+field: {8C8C4991-2CBD-433E-8409-4ED3D28CC225}
+name: portingForm-accountNumber-errors
+key: portingform-accountnumber-errors
+content-length: 77
+
+{5A7288FC-7F5D-45F2-BD34-C0F70C0F092D}|{6835CBC6-5C12-44BE-8794-ED2085654210}
+----field----
+field: {47AE7EF4-6801-4EB8-B7F7-DCD97FC152E2}
+name: portingForm-accountNumber-template
+key: portingform-accountnumber-template
+content-length: 40
+
+****************************************
+----field----
+field: {E9E372BB-6F17-43E4-9520-088C048CCEC0}
+name: portingForm-accountNumberDescription
+key: portingform-accountnumberdescription
+content-length: 172
+
+[^Can't find your previous carrier information?|https://www.xfinity.com/mobile/support/article/223277787/where-can-i-find-the-account-information-from-my-previous-carrier^]
+----field----
+field: {32DC5B43-AB72-4F2B-B09E-B792A966C633}
+name: portingForm-accountPin-header
+key: portingform-accountpin-header
+content-length: 11
+
+Account PIN
+----field----
+field: {BEA3766F-CB62-412D-A412-CFFC3D816124}
+name: portingForm-accountPin-errors
+key: portingform-accountpin-errors
+content-length: 38
+
+{C9768564-5667-46BA-97EC-02F9A6C4962D}
+----field----
+field: {27775BD7-5FB9-4AD9-93B9-3067C3C4D52A}
+name: portingForm-accountPinDescription
+key: portingform-accountpindescription
+content-length: 84
+
+If you don't know your account PIN, give us a call at (888) 936-4968 for assistance.
+----field----
+field: {DFF257A6-6DC8-48D3-AE0E-AA7F275A1E46}
+name: portingForm-ssn-header
+key: portingform-ssn-header
+content-length: 25
+
+Last 4 Digits of your SSN
+----field----
+field: {B3AE836F-9C3F-4E3E-8C04-52F9AC2CC9C7}
+name: portingForm-ssn-errors
+key: portingform-ssn-errors
+content-length: 116
+
+{84E4A4F2-060B-4FC9-A445-A18B0F0434A8}|{8B382777-3549-4136-A51C-7317CD3A0EA2}|{EA551F4B-F0A0-49CF-8B16-0AF16CAEA49F}
+----field----
+field: {31A356B3-C931-4B26-AE25-E63CF3E5C602}
+name: portingForm-ssnDescription
+key: portingform-ssndescription
+content-length: 49
+
+We need this information to verify your identity.
+----field----
+field: {553EC92F-D44E-4F26-B58F-2F32BE1E114B}
+name: portingForm-address-fullName
+key: portingform-address-fullname
+content-length: 27
+
+Full Name of Account Holder
+----field----
+field: {389ED752-4D33-4CF7-AC78-66614F5F2AE7}
+name: portingForm-address-firstName-header
+key: portingform-address-firstname-header
+content-length: 10
+
+First Name
+----field----
+field: {52D0BA2E-3191-49ED-8E94-6711288B4EEB}
+name: portingForm-address-firstName-headerInvisible
+key: portingform-address-firstname-headerinvisible
+content-length: 1
+
+1
+----field----
+field: {53A6B5B1-141B-4B37-A96C-1EF2ED00F5F2}
+name: portingForm-address-firstName-errors
+key: portingform-address-firstname-errors
+content-length: 38
+
+{2FF2CFEF-75F9-470E-9556-54B30EC8B309}
+----field----
+field: {4B865BCD-3CD2-4421-A3DB-812EEAE7B2DF}
+name: portingForm-address-lastName-header
+key: portingform-address-lastname-header
+content-length: 9
+
+Last Name
+----field----
+field: {23BFF364-AA34-4A36-A8B3-8564B2996DE0}
+name: portingForm-address-lastName-headerInvisible
+key: portingform-address-lastname-headerinvisible
+content-length: 1
+
+1
+----field----
+field: {8F589D94-7DE6-4F8E-9C26-C5670D28A9E6}
+name: portingForm-address-lastName-errors
+key: portingform-address-lastname-errors
+content-length: 38
+
+{29A357C5-E64A-448A-8D8D-144CD99D1C79}
+----field----
+field: {48A55A9D-808A-4089-B5D9-BC81FCA1FCF1}
+name: portingForm-address-fullAddress
+key: portingform-address-fulladdress
+content-length: 15
+
+Billing address
+----field----
+field: {E749B237-40E0-41B6-924A-70BB8D0DF92C}
+name: portingForm-address-address1-header
+key: portingform-address-address1-header
+content-length: 14
+
+Address line 1
+----field----
+field: {E7E01FBE-CB47-4414-887F-3163E2AD924B}
+name: portingForm-address-address1-headerInvisible
+key: portingform-address-address1-headerinvisible
+content-length: 1
+
+1
+----field----
+field: {6D1434F1-2345-4C5A-9285-4787F5B770F7}
+name: portingForm-address-address2-header
+key: portingform-address-address2-header
+content-length: 14
+
+Address line 2
+----field----
+field: {2AC9EFF8-8CC9-473D-8F00-91EC08590060}
+name: portingForm-address-address2-headerInvisible
+key: portingform-address-address2-headerinvisible
+content-length: 1
+
+1
+----field----
+field: {B3E4B0BC-681B-4471-AD60-D82C17FFB91E}
+name: portingForm-address-city-header
+key: portingform-address-city-header
+content-length: 4
+
+City
+----field----
+field: {46DA76E4-8E54-4C08-B4C7-F7299CA37EB7}
+name: portingForm-address-state-header
+key: portingform-address-state-header
+content-length: 5
+
+State
+----field----
+field: {7DB9DAA1-035D-4B60-914F-DAFF04737A73}
+name: portingForm-address-zipCode-header
+key: portingform-address-zipcode-header
+content-length: 8
+
+Zip Code
+----field----
+field: {AC93143C-50A1-481F-BBB3-DB77B4D38F7A}
+name: portingForm-address-zipCode-errors
+key: portingform-address-zipcode-errors
+content-length: 38
+
+{E94C2F36-0404-4608-9FCF-8CBA35F219D2}
+----field----
+field: {1DE69EFF-4B39-4CD1-A693-7D08F78F5290}
+name: portingForm-errorBanner-accountNumber
+key: portingform-errorbanner-accountnumber
+content-length: 99
+
+Your Account Number appears to be incorrect. Please confirm your account information and try again.
+----field----
+field: {A4868066-17D2-47EC-BBE1-57D75363B655}
+name: portingForm-errorBanner-accountPin
+key: portingform-errorbanner-accountpin
+content-length: 96
+
+Your Account PIN appears to be incorrect. Please confirm your account information and try again.
+----field----
+field: {C82CD587-4A36-427F-912F-EBD83A10B8C7}
+name: portingForm-errorBanner-ssn
+key: portingform-errorbanner-ssn
+content-length: 88
+
+Your SSN appears to be incorrect. Please confirm your account information and try again.
+----field----
+field: {D0182FFB-0E06-41F3-9737-47AEAC4C7794}
+name: portingForm-errorBanner-firstName
+key: portingform-errorbanner-firstname
+content-length: 95
+
+Your First Name appears to be incorrect. Please confirm your account information and try again.
+----field----
+field: {10D9D2EB-20D9-4D59-A920-4D4479EFAEF4}
+name: portingForm-errorBanner-lastName
+key: portingform-errorbanner-lastname
+content-length: 94
+
+Your Last Name appears to be incorrect. Please confirm your account information and try again.
+----field----
+field: {2E946010-A4B0-4B89-8464-1CA719CDFFF9}
+name: portingForm-errorBanner-zipCode
+key: portingform-errorbanner-zipcode
+content-length: 93
+
+Your Zip Code appears to be incorrect. Please confirm your account information and try again.
+----field----
+field: {E5D207BA-EDF8-446D-ADE5-88330833F16F}
+name: portingForm-alertIcon
+key: portingform-alerticon
+content-length: 38
+
+{9B1A7DD0-33D7-4905-83C2-A44045045C6F}
+----field----
+field: {D0B101FE-A91A-4CA5-95EA-94F8811788E2}
+name: portingForm-continueText
+key: portingform-continuetext
+content-length: 8
+
+Continue
+----field----
+field: {6008455D-FD1D-484C-AC3E-71AD25AB748A}
+name: portingForm-backText
+key: portingform-backtext
+content-length: 4
+
+Back
+----field----
+field: {41D43BBF-F88F-4CC3-997F-06DEB8CB5929}
+name: trigger-mainHeader
+key: trigger-mainheader
+content-length: 16
+
+Start Activation
+----field----
+field: {35369FF9-54F6-4158-AB7C-1F061D2A5B07}
+name: trigger-header
+key: trigger-header
+content-length: 22
+
+Activate your [DEVICE]
+----field----
+field: {B3C17543-5743-4E67-8A58-49EAD7C413CF}
+name: trigger-subhead
+key: trigger-subhead
+content-length: 99
+
+Now that you've entered all your details, let's make sure you're ready to activate your new device.
+----field----
+field: {CECAD5BD-52C0-48FD-A567-262A18EEE9EB}
+name: trigger-subheadForUpgradeOrNDEL
+key: trigger-subheadforupgradeorndel
+content-length: 148
+
+We already have your details since you are replacing a device on an existing line. Let's make sure you're ready to activate your replacement device.
+----field----
+field: {525E5CD7-27BE-4075-8555-4D57E38B2FA8}
+name: trigger-instruction1Image
+key: trigger-instruction1image
+content-length: 38
+
+{FBD93EA9-2AA4-4282-82B1-B0329BC760F8}
+----field----
+field: {F2EBA86D-28E2-46A6-B8AD-1CFBD0D99263}
+name: trigger-instruction1Title
+key: trigger-instruction1title
+content-length: 28
+
+Keep your device powered off
+----field----
+field: {36845887-C05F-4D70-A3DC-68EE476B0493}
+name: trigger-instruction1Subhead
+key: trigger-instruction1subhead
+content-length: 74
+
+Already turned it on? No problem, just turn it back off before activating.
+----field----
+field: {9D8C9827-50F3-43CF-80CE-97BD8EF34C0E}
+name: trigger-instruction2Image
+key: trigger-instruction2image
+content-length: 38
+
+{84AC897A-CF05-4B0F-93AE-3DC4590FCDB5}
+----field----
+field: {7C78AF88-51E2-4462-99F4-0F10753292A9}
+name: trigger-instruction2Title
+key: trigger-instruction2title
+content-length: 35
+
+Insert your Xfinity Mobile SIM card
+----field----
+field: {2C936D94-3446-4740-8FCE-11E7269BA99D}
+name: trigger-instruction2Subhead
+key: trigger-instruction2subhead
+content-length: 32
+
+[^How do I insert my SIM card?^]
+----field----
+field: {146F1532-71F1-4285-9AF1-69BE24E33CBC}
+name: trigger-simInstructionModal
+key: trigger-siminstructionmodal
+content-length: 38
+
+{466B0866-79BB-4180-B11B-5BF695380898}
+----field----
+field: {D55F9149-988F-42CB-8BD4-305AA65BEF83}
+name: trigger-activateText
+key: trigger-activatetext
+content-length: 8
+
+Activate
+----field----
+field: {59D7BCF0-4F16-41B7-BDFD-A2C203F56449}
+name: trigger-backText
+key: trigger-backtext
+content-length: 4
+
+Back
+----field----
+field: {DECA95F8-17FE-44FA-8CC3-E2F95C990DAB}
+name: inProgress-mainHeader
+key: inprogress-mainheader
+content-length: 16
+
+Start Activation
+----field----
+field: {747C7D3D-68A2-4B23-A33D-148203D04497}
+name: inProgress-header
+key: inprogress-header
+content-length: 30
+
+Your [DEVICE] is activating...
+----field----
+field: {71F931E5-68CC-49A9-A47A-E46B84A9B543}
+name: inProgress-subhead
+key: inprogress-subhead
+content-length: 142
+
+This usually takes around 3 minutes, or on rare occasions, up to 24 hours. We'll email you at **[EMAIL]** when your device has been activated.
+----field----
+field: {99D4A36C-D0F8-4AD5-B71C-C7373E04DE9E}
+name: inProgress-sectionImage
+key: inprogress-sectionimage
+content-length: 38
+
+{E7679670-2450-4354-B8F3-847DA2D8D4C2}
+----field----
+field: {A94B39B5-B183-4F93-8306-699B0153F7BE}
+name: inProgress-sectionTitle
+key: inprogress-sectiontitle
+content-length: 21
+
+Play Giggy's Fun Run!
+----field----
+field: {8E2B0C6D-D9F1-41C9-980B-6DB7AC53831D}
+name: inProgress-sectionSubhead
+key: inprogress-sectionsubhead
+content-length: 100
+
+While you’re waiting, help Giggy collect as much data as possible [in this short game|game.landing].
+----field----
+field: {1918F1F1-AB32-4698-B09D-775F937F81E2}
+name: inProgress-doneText
+key: inprogress-donetext
+content-length: 4
+
+Done
+----field----
+field: {8BE31A80-1EED-4E2D-BD9C-E3E87BEE5F2B}
+name: error-mainHeader
+key: error-mainheader
+content-length: 16
+
+Start Activation
+----field----
+field: {C47CCC73-ECE5-47D8-89FA-8B8AD2688EE2}
+name: error-header
+key: error-header
+content-length: 20
+
+Something went wrong
+----field----
+field: {B2CDEC31-9DF4-42A8-8BC4-11BFA4B52BF5}
+name: error-subheadNewNumber
+key: error-subheadnewnumber
+content-length: 85
+
+Give us a call at [^(888) 936-4968|tel:8889364968^] and we'll help you sort this out.
+----field----
+field: {81747F53-E038-458D-BA94-D9F57ED63DE4}
+name: error-subheadPort
+key: error-subheadport
+content-length: 156
+
+There was an error when trying to transfer your number from [CARRIER]. Give us a call at [^(888) 936-4968|tel:8889364968^] and we'll help you sort this out.
+----field----
+field: {FDFCFEC0-E3BE-4F78-8F11-012324596E0A}
+name: error-doneText
+key: error-donetext
+content-length: 4
+
+Done
+----field----
+field: {97486F8A-BB33-437D-9B36-5A4978340DE4}
+name: confirmation-mainHeader
+key: confirmation-mainheader
+content-length: 16
+
+Start Activation
+----field----
+field: {C8F2EB42-1767-4D9F-9290-8C6630F50A9D}
+name: confirmation-header
+key: confirmation-header
+content-length: 32
+
+Your [PHONE_MODEL] is activated!
+----field----
+field: {8606BF5C-AAB3-4845-8316-FDF46924D409}
+name: confirmation-newNumSubhead
+key: confirmation-newnumsubhead
+content-length: 44
+
+Your new phone number is **[PHONE_NUMBER]**.
+----field----
+field: {DE0FDE28-3D68-457E-A906-631062CB87CE}
+name: confirmation-subhead
+key: confirmation-subhead
+content-length: 0
+
+
+----field----
+field: {82F82681-7904-49B2-9434-597E84271054}
+name: confirmation-tradeInImage
+key: confirmation-tradeinimage
+content-length: 38
+
+{6E9CD3C3-953B-4FF1-9386-FA3F538B4CBF}
+----field----
+field: {9D97D370-D629-4402-BB58-B826DE0F2D90}
+name: confirmation-tradeInTitle
+key: confirmation-tradeintitle
+content-length: 23
+
+Trade in your old phone
+----field----
+field: {637A2369-AFC9-4E58-B33D-4DD8A8F5EB55}
+name: confirmation-tradeInSubhead
+key: confirmation-tradeinsubhead
+content-length: 203
+
+If your old phone is still in good shape, you may be able to get paid for it. [^Learn more|https://www.xfinity.com/mobile/support/article/115004169323/how-do-i-trade-in-my-old-phone-with-xfinity-mobile^]
+----field----
+field: {6B42B7A3-BFF3-4208-8BF7-BD8F1B662BEE}
+name: confirmation-getAppImage
+key: confirmation-getappimage
+content-length: 38
+
+{7EE22CB6-10EC-4491-8BF4-F3E7B5FCD0FD}
+----field----
+field: {CAE6FC53-D610-4BFF-BA32-85D60497F9A7}
+name: confirmation-getAppTitle
+key: confirmation-getapptitle
+content-length: 31
+
+Download the Xfinity Mobile app
+----field----
+field: {FB2C9730-710B-4B13-8608-AFF2363FD1C6}
+name: confirmation-getAppSubhead
+key: confirmation-getappsubhead
+content-length: 154
+
+Track your usage, switch data options, and view billing statements. [^Download Now|https://itunes.apple.com/us/app/xfinity-mobile/id1194745615?ls=1&mt=8^]
+----field----
+field: {070A5734-D910-4370-B2A0-B6DBD59FE231}
+name: confirmation-supportImage
+key: confirmation-supportimage
+content-length: 38
+
+{3E05A640-8B8D-449B-B602-731F329FA307}
+----field----
+field: {1593228F-D5E3-4AFF-B4F8-B49C69FCB2BF}
+name: confirmation-supportTitle
+key: confirmation-supporttitle
+content-length: 19
+
+Get support anytime
+----field----
+field: {65ED6942-BB9D-4AD0-AE81-B70F98BB349E}
+name: confirmation-supportSubhead
+key: confirmation-supportsubhead
+content-length: 103
+
+We're here to help however we can. [^Chat now^] or give us a call at [^(888) 936-4968|tel:8889364968^].
+----field----
+field: {B3DA1B7C-E754-415C-92E9-1293DFC7463F}
+name: confirmation-doneText
+key: confirmation-donetext
+content-length: 4
+
+Done
+----field----
+field: {09DB8A6C-60C0-4907-A567-5B96ACA9FDAE}
+name: carriers
+key: carriers
+content-length: 0
+
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180717T142844Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+fed50dc0-d6a6-446a-ad98-48854c6d2d4b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200611T145008Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

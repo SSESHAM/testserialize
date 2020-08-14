@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {AD81B3B2-90FF-4F62-812F-A933C7100E12}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Legal Pages/Privacy Policy
+parent: {21C07950-7C5B-40E4-8B2B-9D7B7B06C9DE}
+name: Privacy Policy
+master: {00000000-0000-0000-0000-000000000000}
+template: {8C4F4698-2B78-4977-9FFD-8302285ED4E9}
+templatekey: Page
+created: 20180618T150418Z
+
+----version----
+language: en
+version: 1
+revision: 8b2df391-c093-467a-b265-4bf9229ccd00
+
+----field----
+field: {CDB4A2E3-22D8-440B-90D7-15F5F37D35AC}
+name: description
+key: description
+content-length: 193
+
+This Privacy Policy describes the information Comcast collects about you and how we use it and protect it when you use the Xfinity Mobile wireless network, apps and other products and services.
+----field----
+field: {5FF09E18-2540-44D7-9235-42E6F6B2EBD1}
+name: heading
+key: heading
+content-length: 14
+
+Privacy Policy
+----field----
+field: {0FC412F7-2F74-4D46-A3DE-9E2876D64AA5}
+name: uiSref
+key: uisref
+content-length: 23
+
+policies.privacy-policy
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180618T150418Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8b2df391-c093-467a-b265-4bf9229ccd00
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180802T203343Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

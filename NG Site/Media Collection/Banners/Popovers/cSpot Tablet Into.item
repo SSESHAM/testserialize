@@ -1,0 +1,94 @@
+----item----
+version: 1
+id: {752DE8A6-C99B-4749-9FA4-CC5D00266DF1}
+database: master
+path: /sitecore/content/Modesto/NG Site/Media Collection/Banners/Popovers/cSpot Tablet Into
+parent: {81A779CA-CEC4-4C98-99ED-5DBFFB39E6D5}
+name: cSpot Tablet Into
+master: {00000000-0000-0000-0000-000000000000}
+template: {02932917-4A30-4EE2-86E1-980678952C69}
+templatekey: Popovers
+created: 20190712T172854Z
+
+----version----
+language: en
+version: 1
+revision: eb9d394d-8c21-494d-9fea-7f63591b3570
+
+----field----
+field: {919F5A5A-B8D5-4B89-8253-94F89889C273}
+name: buttonText
+key: buttontext
+content-length: 24
+
+Pricing &amp; Other Info
+----field----
+field: {16E5CEE6-6C33-49CE-A425-8C75993B8C6A}
+name: buttonAriaLabel
+key: buttonarialabel
+content-length: 36
+
+Tablet payment: Pricing & Other Info
+----field----
+field: {441C0392-BB7B-4E43-9A0C-8C9B2B6B1679}
+name: header
+key: header
+content-length: 35
+
+Tablet Payment Pricing & Other Info
+----field----
+field: {70C678C2-B952-40A5-817D-B221CA6E8C57}
+name: close
+key: close
+content-length: 1
+
+1
+----field----
+field: {E7080EAA-2CA2-4CCD-B917-EB0DE8EDC13D}
+name: content
+key: content
+content-length: 38
+
+{B906228A-0817-4BAA-8959-2E548F7068F4}
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190712T172854Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+eb9d394d-8c21-494d-9fea-7f63591b3570
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190712T190126Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin

@@ -1,0 +1,269 @@
+----item----
+version: 1
+id: {44D036D3-73BD-4FEF-A1B6-6DC572D72A1E}
+database: master
+path: /sitecore/content/Modesto/NG Site/Home/Settings
+parent: {1EE91079-22AA-40FA-95F2-621FC5F0CE97}
+name: Settings
+master: {00000000-0000-0000-0000-000000000000}
+template: {A2C6156E-6EED-4EC7-AE9E-963E138240EC}
+templatekey: Settings
+created: 20180816T133648Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 4
+
+2800
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: a14e6e13-0671-4be3-a761-d5b0d8bc01fd
+
+----field----
+field: {808AA270-E756-4DCD-AAD3-F9C5CF7449DC}
+name: landing-userInfo-header
+key: landing-userinfo-header
+content-length: 29
+
+Xfinity MOBILE ACCOUNT HOLDER
+----field----
+field: {43B37F63-EABF-49EF-923B-930003E568F4}
+name: landing-userInfo-buttonText
+key: landing-userinfo-buttontext
+content-length: 24
+
+Edit Contact Information
+----field----
+field: {F9FAE558-561D-40B7-AF1E-82C417B2BFE6}
+name: landing-userInfo-linkText
+key: landing-userinfo-linktext
+content-length: 15
+
+Change Password
+----field----
+field: {2F381BFB-6175-474C-ACE0-364B688F10FB}
+name: landing-creditCard-subhead
+key: landing-creditcard-subhead
+content-length: 26
+
+Auto-pay with card on file
+----field----
+field: {F199EECB-0FEA-425B-85DC-8EE812484291}
+name: landing-card-header
+key: landing-card-header
+content-length: 14
+
+Payment Method
+----field----
+field: {13BC416E-3E1F-41FC-B188-2CFC3CDD6A3E}
+name: landing-card-description
+key: landing-card-description
+content-length: 123
+
+Changing your payment method will change it for all monthly charges, including international package add-ons and financing.
+----field----
+field: {6CE13045-06D1-4A5C-9EE4-80F1806C8E98}
+name: landing-marketingMessage-header
+key: landing-marketingmessage-header
+content-length: 28
+
+Manage Marketing Preferences
+----field----
+field: {EB766B6E-2D4A-460A-92EC-9DA2098EE2FA}
+name: landing-marketingMessage-description
+key: landing-marketingmessage-description
+content-length: 328
+
+If you prefer not to receive phone and/or email communications from Comcast, please contact 1-800-Xfinity and ask to be added to our “do not call” and “do not mail” lists. Manage your email preferences by following the instructions in the emails or [visiting this page.|https://pc2.mypreferences.com/Comcast/OptDown/opt-down/#/]
+----field----
+field: {FD33DFA5-8172-444E-A321-516542B39EF5}
+name: contact-header
+key: contact-header
+content-length: 24
+
+Edit Contact Information
+----field----
+field: {E3C43AAE-7BF8-4580-8131-D347C1BD9FFC}
+name: contact-updateXfinityText
+key: contact-updatexfinitytext
+content-length: 94
+
+To update your Xfinity account profile, [^visit our website.|https://customer.xfinity.com/#/^]
+----field----
+field: {8D70B566-FBCD-43F3-85DA-200DD147B129}
+name: contact-saveText
+key: contact-savetext
+content-length: 4
+
+Save
+----field----
+field: {D1E48432-5C15-41EC-B33D-E16EC1389F7B}
+name: contact-cancelText
+key: contact-canceltext
+content-length: 6
+
+Cancel
+----field----
+field: {92F8A896-6C45-4318-B722-C9DB0F7B0385}
+name: contact-phone-label
+key: contact-phone-label
+content-length: 28
+
+Preferred SMS Contact Number
+----field----
+field: {5C9F6487-71C4-4A65-B69A-B0D5CCDE83AD}
+name: contact-phone-errors
+key: contact-phone-errors
+content-length: 77
+
+{C81810B9-2BD6-4534-97FB-7AB31201915B}|{71660826-E80E-4C2D-A2C3-2BEE43D7414D}
+----field----
+field: {5A81C02E-11F9-490D-9190-792C335956A5}
+name: contact-email-label
+key: contact-email-label
+content-length: 23
+
+Preferred Contact Email
+----field----
+field: {15E018A8-3338-4868-AEFA-FFFB546E71E2}
+name: contact-email-errors
+key: contact-email-errors
+content-length: 77
+
+{39550071-A380-4883-8977-2F5A93940AA5}|{C229FD80-F87F-433E-9A64-DCC339F55ECA}
+----field----
+field: {E4B53E97-E5AF-416D-AD0B-94392AD527DC}
+name: editCard-header
+key: editcard-header
+content-length: 21
+
+Update Payment Method
+----field----
+field: {55322AD3-AE9A-4683-8A44-18D1B448956F}
+name: editCard-primaryButton
+key: editcard-primarybutton
+content-length: 4
+
+Save
+----field----
+field: {1092F3E8-49E1-4AFA-ADCB-E63C6DE4CB4C}
+name: editCard-secondaryButton
+key: editcard-secondarybutton
+content-length: 6
+
+Cancel
+----field----
+field: {3AB7DA7F-2A9C-41A9-83EB-BFCB0EDB1AA0}
+name: editCard-form-firstName-header
+key: editcard-form-firstname-header
+content-length: 10
+
+First Name
+----field----
+field: {8EDB1C6A-7EE6-4967-8FC2-22116B7E5A1F}
+name: editCard-form-lastName-header
+key: editcard-form-lastname-header
+content-length: 9
+
+Last Name
+----field----
+field: {0C2F4CC2-4D87-4DFB-9F59-689CF4EB8280}
+name: editCard-form-fullAddress
+key: editcard-form-fulladdress
+content-length: 15
+
+Billing Address
+----field----
+field: {753C7667-F313-4D81-A431-A9009D003CD5}
+name: editCard-form-address1-header
+key: editcard-form-address1-header
+content-length: 14
+
+Address line 1
+----field----
+field: {04F92F4B-2DA3-4407-B615-D7539BCDED81}
+name: editCard-form-address1-headerInvisible
+key: editcard-form-address1-headerinvisible
+content-length: 1
+
+1
+----field----
+field: {BFBFE2DF-E307-4A05-9C1F-DB53BF0EC37D}
+name: editCard-form-address2-header
+key: editcard-form-address2-header
+content-length: 14
+
+Address line 2
+----field----
+field: {33A1F151-01D6-4B4E-86DE-8B3BA87458C5}
+name: editCard-form-address2-headerInvisible
+key: editcard-form-address2-headerinvisible
+content-length: 1
+
+1
+----field----
+field: {1C2F52F4-753C-44A7-999F-59BBED0D1A62}
+name: editCard-form-city-header
+key: editcard-form-city-header
+content-length: 4
+
+City
+----field----
+field: {A2633F0B-3973-47D9-A489-1EA5139BD9C1}
+name: editCard-form-state-header
+key: editcard-form-state-header
+content-length: 5
+
+State
+----field----
+field: {E43D0725-BEEC-4D08-82D9-EED0D829B974}
+name: editCard-form-zipCode-header
+key: editcard-form-zipcode-header
+content-length: 8
+
+Zip Code
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180816T133648Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a14e6e13-0671-4be3-a761-d5b0d8bc01fd
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200611T145052Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

@@ -1,0 +1,141 @@
+----item----
+version: 1
+id: {8CA6CE3D-24BF-46BB-B709-2CB30212BD69}
+database: master
+path: /sitecore/content/Modesto/NG Site/Home/Marketing/Watches-Top-Promos
+parent: {AB80E925-DEB2-4DF0-B614-E12E7E772AED}
+name: Watches-Top-Promos
+master: {00000000-0000-0000-0000-000000000000}
+template: {AB6DCF0D-3023-4053-875E-C6839AB13B02}
+templatekey: Watches-Top-Promos
+created: 20200107T182824Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: c728baa4-2dc6-4edd-b363-296ca2e0af52
+
+----field----
+field: {753B2120-65EF-4D97-A2C5-B32FEE886C13}
+name: default
+key: default
+content-length: 38
+
+{2AE23A1B-79FE-4B89-B903-F4CA4C95634E}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200107T182824Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c728baa4-2dc6-4edd-b363-296ca2e0af52
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200611T145119Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----version----
+language: en
+version: 2
+revision: 7576f38b-3665-417e-bae6-be679ae1aa0f
+
+----field----
+field: {753B2120-65EF-4D97-A2C5-B32FEE886C13}
+name: default
+key: default
+content-length: 38
+
+{DC227E12-8759-4FC1-8F08-4CB0CFD73771}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200708T161233Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200708T161233Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7576f38b-3665-417e-bae6-be679ae1aa0f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200708T170934Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

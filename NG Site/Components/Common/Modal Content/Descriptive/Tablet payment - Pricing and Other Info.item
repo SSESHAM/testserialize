@@ -1,0 +1,413 @@
+----item----
+version: 1
+id: {717E5D54-9C2A-4B82-AB09-8255ED2A87FA}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Common/Modal Content/Descriptive/Tablet payment - Pricing and Other Info
+parent: {65F92AEA-38CF-4B8B-A890-576F7F0AFA77}
+name: Tablet payment - Pricing and Other Info
+master: {00000000-0000-0000-0000-000000000000}
+template: {8A7302BD-7B88-4375-AE78-91E0EC70A6C8}
+templatekey: Descriptive Modal Content
+created: 20190503T184316Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----field----
+field: {CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}
+name: __Default workflow
+key: __default workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 09351113-7d2f-4ae3-a97a-eb07a5e02dad
+
+----field----
+field: {5A86897D-4122-42B5-9C4A-455174723A59}
+name: description
+key: description
+content-length: 1689
+
+d0=A%20%2410%20tablet%20line%20fee%20is%20charged%20each%20month%2C%20regardless%20of%20data%20option%20or%20activation.&d1=If%20your%20tablet%20line%20is%20canceled%2C%20voluntarily%20or%20involuntarily%2C%20you%20forfeit%20any%20remaining%20credit%20associated%20with%20that%20tablet.&d2=Additional%20fees%2C%20such%20as%20those%20for%20government%20taxes%20and%20regulatory%20recovery%20fees%2C%20apply.&d3=Pay%20monthly%20for%20your%20device%3A%20Xfinity%20Mobile%20Device%20Payment%20Plan%20Agreement%20%28%27Device%20Agreement%27%29%20required.%20Applicable%20taxes%20for%20the%20full%20device%20amount%20based%20on%20the%2024-month%20payment%20plan%20are%20charged%20when%20the%20device%20is%20shipped%20%28or%20when%20the%20device%20is%20fulfilled%20in%20an%20Xfinity%20retail%20store%29%20and%20are%20in%20addition%20to%20the%20monthly%20charge.%20If%20your%20tablet%20line%20is%20canceled%20and%20you%20forfeit%20any%20remaining%20credits%20associated%20with%20your%20tablet%2C%20the%20final%20bill%20for%20your%20tablet%20may%20include%20additional%20taxes%20based%20on%20the%20recalculated%20total%20amount%20paid%20for%20your%20device.&d4=The%20remaining%20balance%20under%20the%20Device%20Agreement%20becomes%20immediately%20due%20and%20payable%20if%20there%20is%20no%20remaining%20line%20on%20your%20Xfinity%20Mobile%20account%20that%20receives%20service%20from%20Xfinity%20Mobile%20and%20at%20least%20one%20of%20the%20following%20post-pay%20subscriptions%20are%20not%20maintained%20on%20the%20account%20during%20the%20term%20of%20the%20Device%20Agreement%3A%20Xfinity%20TV%2C%20Internet%2C%20or%20Voice%3B%20or%20Xfinity%20Mobile%20service%20is%20terminated%20for%20breach.
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190503T184316Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+09351113-7d2f-4ae3-a97a-eb07a5e02dad
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190503T184441Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----version----
+language: en
+version: 2
+revision: 506dc454-f734-4501-8c42-836adde3d058
+
+----field----
+field: {5A86897D-4122-42B5-9C4A-455174723A59}
+name: description
+key: description
+content-length: 1668
+
+d0=Each%20tablet%20line%20will%20have%20a%20%2410%20monthly%20Tablet%20line%20fee%20regardless%20of%20data%20option%20selected.&d1=Additional%20fees%2C%20such%20as%20those%20for%20government%20taxes%20and%20regulatory%20recovery%20fees%20apply.&d2=Pay%20for%20your%20device%20upfront%20or%20monthly%20under%20Xfinity%20Mobile%20Device%20Payment%20Plan%20Agreement%20(%27Device%20Agreement%27).%20Applicable%20taxes%20for%20the%20full%20device%20amount%20charged%20when%20device%20is%20shipped%20(or%20when%20the%20device%20is%20fulfilled%20in%20an%20Xfinity%20retail%20store)%20and%20are%20in%20addition%20to%20the%20monthly%20charge.&d3=Any%20applicable%20tablet%20subsidy%20will%20be%20applied%20monthly%20to%20your%20account%20over%20a%2024%20month%20period%20regardless%20of%20your%20purchase%20of%20the%20tablet%20upfront%20or%20through%20a%20Device%20Agreement.&d4=If%20Xfinity%20is%20applying%20any%20subsidy%20to%20your%20purchase%20of%20a%20tablet%2C%20you%20will%20lose%20the%20remaining%20value%20of%20the%20subsidy%20upon%20termination%20of%20the%20tablet%20line.%20The%20remaining%20balance%20under%20the%20Device%20Agreement%20(including%20the%20remaining%20subsidy%20amount)%20becomes%20immediately%20due%20and%20payable%20if%20there%20is%20no%20remaining%20line%20on%20your%20Xfinity%20Mobile%20account%20that%20receives%20services%20from%20Xfinity%20Mobile%20and%20at%20least%20one%20of%20the%20following%20post%20pay%20subscriptions%20are%20not%20maintained%20on%20the%20account%20during%20the%20term%20of%20the%20Device%20Agreement%3A%20Xfinty%20TV%2C%20Internet%2C%20or%20Voice%3B%20or%20Xfinity%20Mobile%20service%20is%20terminated%20for%20breach.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190510T180718Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190510T180718Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+506dc454-f734-4501-8c42-836adde3d058
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190520T141517Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 3
+revision: 30770e9d-3c3b-4ae3-a5a0-7380da04d8dc
+
+----field----
+field: {5A86897D-4122-42B5-9C4A-455174723A59}
+name: description
+key: description
+content-length: 1929
+
+d0=Choose%20a%20data%20option%20for%20your%20tablet.%20Each%20tablet%20line%20will%20be%20charged%20an%20additional%20%2410%20monthly%20tablet%20line%20fee%20regardless%20of%20data%20option%20selected.&d1=Additional%20fees%2C%20such%20as%20those%20for%20government%20taxes%20and%20regulatory%20recovery%20fees%20apply.&d2=Pay%20for%20your%20device%20upfront%20or%20monthly%20under%20an%20Xfinity%20Mobile%20Device%20Payment%20Plan%20Agreement%20(%22Device%20Agreement%22).%20Applicable%20taxes%20for%20the%20full%20device%20amount%20charged%20when%20device%20is%20shipped%20(or%20when%20the%20device%20is%20fulfilled%20in%20an%20Xfinity%20retail%20store)%20and%20are%20in%20addition%20to%20the%20monthly%20charge.&d3=Any%20applicable%20tablet%20subsidy%20will%20be%20applied%20monthly%20to%20your%20account%20over%20a%2024%20month%20period%20regardless%20of%20your%20purchase%20of%20the%20tablet%20upfront%20or%20through%20a%20Device%20Agreement.&d4=If%20the%20subsidy%20credit%20results%20in%20a%20negative%20monthly%20balance%2C%20accumulated%20credits%20will%20be%20applied%20at%20the%20end%20of%20the%20Device%20Agreement%20term.&d5=If%20Xfinity%20is%20applying%20any%20subsidy%20to%20your%20purchase%20of%20a%20tablet%2C%20you%20will%20lose%20the%20remaining%20value%20of%20the%20subsidy%20upon%20termination%20of%20the%20tablet%20line.%20The%20remaining%20balance%20under%20the%20Device%20Agreement%20(plus%20the%20remaining%20subsidy%20amount)%20becomes%20immediately%20due%20and%20payable%20if%20there%20is%20no%20remaining%20line%20on%20your%20Xfinity%20Mobile%20account%20that%20receives%20services%20from%20Xfinity%20Mobile%20and%20at%20least%20one%20of%20the%20following%20post%20pay%20subscriptions%20are%20not%20maintained%20on%20the%20account%20during%20the%20term%20of%20the%20Device%20Agreement%3A%20Xfinty%20TV%2C%20Internet%2C%20or%20Voice%3B%20or%20Xfinity%20Mobile%20service%20is%20terminated%20for%20breach.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190530T140736Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190530T140736Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+30770e9d-3c3b-4ae3-a5a0-7380da04d8dc
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190530T154831Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\pboone598
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 4
+revision: f0539727-ef92-49bd-85c3-4bf8f3c12f70
+
+----field----
+field: {5A86897D-4122-42B5-9C4A-455174723A59}
+name: description
+key: description
+content-length: 1742
+
+d0=Choose%20a%20data%20option%20for%20your%20tablet.%20Each%20tablet%20line%20will%20be%20charged%20an%20additional%20%2410%20monthly%20tablet%20line%20fee%20regardless%20of%20data%20option%20selected.&d1=Additional%20fees%2C%20such%20as%20those%20for%20government%20taxes%20and%20regulatory%20recovery%20fees%20apply.&d2=Pay%20for%20your%20device%20upfront%20or%20monthly%20under%20an%20Xfinity%20Mobile%20Device%20Payment%20Plan%20Agreement%20(%22Device%20Agreement%22).%20Applicable%20taxes%20for%20the%20full%20device%20amount%20charged%20when%20device%20is%20shipped%20(or%20when%20the%20device%20is%20fulfilled%20in%20an%20Xfinity%20retail%20store)%20and%20are%20in%20addition%20to%20the%20monthly%20charge.&d3=Any%20applicable%20tablet%20subsidy%20will%20be%20applied%20monthly%20to%20your%20account%20over%20a%2024%20month%20period%20regardless%20of%20your%20purchase%20of%20the%20tablet%20upfront%20or%20through%20a%20Device%20Agreement.&d4=If%20Xfinity%20is%20applying%20any%20subsidy%20to%20your%20purchase%20of%20a%20tablet%2C%20you%20will%20lose%20the%20remaining%20value%20of%20the%20subsidy%20upon%20termination%20of%20the%20tablet%20line.%20The%20remaining%20balance%20under%20the%20Device%20Agreement%20(plus%20the%20remaining%20subsidy%20amount)%20becomes%20immediately%20due%20and%20payable%20if%20there%20is%20no%20remaining%20line%20on%20your%20Xfinity%20Mobile%20account%20that%20receives%20services%20from%20Xfinity%20Mobile%20and%20at%20least%20one%20of%20the%20following%20post%20pay%20subscriptions%20are%20not%20maintained%20on%20the%20account%20during%20the%20term%20of%20the%20Device%20Agreement%3A%20Xfinty%20TV%2C%20Internet%2C%20or%20Voice%3B%20or%20Xfinity%20Mobile%20service%20is%20terminated%20for%20breach.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190626T175740Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190626T175740Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f0539727-ef92-49bd-85c3-4bf8f3c12f70
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190626T175826Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 5
+revision: 1529a7f6-08e8-4192-a7bf-7c457e13bafd
+
+----field----
+field: {5A86897D-4122-42B5-9C4A-455174723A59}
+name: description
+key: description
+content-length: 1929
+
+d0=Choose%20a%20data%20option%20for%20your%20tablet.%20Each%20tablet%20line%20will%20be%20charged%20an%20additional%20%2410%20monthly%20tablet%20line%20fee%20regardless%20of%20data%20option%20selected.&d1=Additional%20fees%2C%20such%20as%20those%20for%20government%20taxes%20and%20regulatory%20recovery%20fees%20apply.&d2=Pay%20for%20your%20device%20upfront%20or%20monthly%20under%20an%20Xfinity%20Mobile%20Device%20Payment%20Plan%20Agreement%20(%22Device%20Agreement%22).%20Applicable%20taxes%20for%20the%20full%20device%20amount%20charged%20when%20device%20is%20shipped%20(or%20when%20the%20device%20is%20fulfilled%20in%20an%20Xfinity%20retail%20store)%20and%20are%20in%20addition%20to%20the%20monthly%20charge.&d3=Any%20applicable%20tablet%20subsidy%20will%20be%20applied%20monthly%20to%20your%20account%20over%20a%2024%20month%20period%20regardless%20of%20your%20purchase%20of%20the%20tablet%20upfront%20or%20through%20a%20Device%20Agreement.&d4=If%20the%20subsidy%20credit%20results%20in%20a%20negative%20monthly%20balance%2C%20accumulated%20credits%20will%20be%20applied%20at%20the%20end%20of%20the%20Device%20Agreement%20term.&d5=If%20Xfinity%20is%20applying%20any%20subsidy%20to%20your%20purchase%20of%20a%20tablet%2C%20you%20will%20lose%20the%20remaining%20value%20of%20the%20subsidy%20upon%20termination%20of%20the%20tablet%20line.%20The%20remaining%20balance%20under%20the%20Device%20Agreement%20(plus%20the%20remaining%20subsidy%20amount)%20becomes%20immediately%20due%20and%20payable%20if%20there%20is%20no%20remaining%20line%20on%20your%20Xfinity%20Mobile%20account%20that%20receives%20services%20from%20Xfinity%20Mobile%20and%20at%20least%20one%20of%20the%20following%20post%20pay%20subscriptions%20are%20not%20maintained%20on%20the%20account%20during%20the%20term%20of%20the%20Device%20Agreement%3A%20Xfinty%20TV%2C%20Internet%2C%20or%20Voice%3B%20or%20Xfinity%20Mobile%20service%20is%20terminated%20for%20breach.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190626T175902Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190626T175902Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1529a7f6-08e8-4192-a7bf-7c457e13bafd
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190626T175927Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 6
+revision: 6aba21a9-4b6d-48dc-8235-a556c99237cb
+
+----field----
+field: {5A86897D-4122-42B5-9C4A-455174723A59}
+name: description
+key: description
+content-length: 2019
+
+d0=Choose%20a%20data%20option%20for%20your%20tablet.%20Each%20tablet%20line%20will%20be%20charged%20an%20additional%20%2410%20monthly%20tablet%20line%20fee%20regardless%20of%20data%20option%20selected.&d1=Additional%20fees%2C%20such%20as%20those%20for%20government%20taxes%20and%20regulatory%20recovery%20fees%20apply.&d2=Pay%20for%20your%20device%20upfront%20or%20monthly%20under%20an%20Xfinity%20Mobile%20Device%20Payment%20Plan%20Agreement%20(%22Device%20Agreement%22).%20Applicable%20taxes%20for%20the%20full%20device%20amount%20charged%20when%20device%20is%20shipped%20(or%20when%20the%20device%20is%20fulfilled%20in%20an%20Xfinity%20retail%20store)%20and%20are%20in%20addition%20to%20the%20monthly%20charge.%20May%20be%20subject%20to%20credit%20check%20and%20requirement%20of%20a%20down%20payment.&d3=Any%20applicable%20tablet%20subsidy%20will%20be%20applied%20monthly%20to%20your%20account%20over%20a%2024%20month%20period%20regardless%20of%20your%20purchase%20of%20the%20tablet%20upfront%20or%20through%20a%20Device%20Agreement.&d4=If%20the%20subsidy%20credit%20results%20in%20a%20negative%20monthly%20balance%2C%20accumulated%20credits%20will%20be%20applied%20at%20the%20end%20of%20the%20Device%20Agreement%20term.&d5=If%20Xfinity%20is%20applying%20any%20subsidy%20to%20your%20purchase%20of%20a%20tablet%2C%20you%20will%20lose%20the%20remaining%20value%20of%20the%20subsidy%20upon%20termination%20of%20the%20tablet%20line.%20The%20remaining%20balance%20under%20the%20Device%20Agreement%20(plus%20the%20remaining%20subsidy%20amount)%20becomes%20immediately%20due%20and%20payable%20if%20there%20is%20no%20remaining%20line%20on%20your%20Xfinity%20Mobile%20account%20that%20receives%20services%20from%20Xfinity%20Mobile%20and%20at%20least%20one%20of%20the%20following%20post%20pay%20subscriptions%20are%20not%20maintained%20on%20the%20account%20during%20the%20term%20of%20the%20Device%20Agreement%3A%20Xfinty%20TV%2C%20Internet%2C%20or%20Voice%3B%20or%20Xfinity%20Mobile%20service%20is%20terminated%20for%20breach.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20190916T135622Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190916T135622Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6aba21a9-4b6d-48dc-8235-a556c99237cb
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190930T211418Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\snavee884
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

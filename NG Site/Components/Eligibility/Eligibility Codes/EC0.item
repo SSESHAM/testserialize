@@ -1,0 +1,258 @@
+----item----
+version: 1
+id: {893E2CB2-68B5-45B6-8011-E2446E08055C}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Eligibility/Eligibility Codes/EC0
+parent: {A75EC053-6AA0-4588-AC30-EF8026D86ACF}
+name: EC0
+master: {00000000-0000-0000-0000-000000000000}
+template: {4A152CB0-8F6F-4DB1-A051-C4147684F7BB}
+templatekey: Eligibility Codes
+created: 20180627T181448Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 83750113-24d3-488f-9806-59bd724be357
+
+----field----
+field: {4DDBC328-97DF-4F58-8095-809B4D2F481F}
+name: code
+key: code
+content-length: 3
+
+EC0
+----field----
+field: {5C4180BC-3B09-43EE-B66E-6AA2A3B8E1FA}
+name: content-headline
+key: content-headline
+content-length: 56
+
+Contact us to talk about eligibility for Xfinity Mobile.
+----field----
+field: {13757C32-3A4E-491F-9CDC-7CF3664D2E25}
+name: content-body
+key: content-body
+content-length: 80
+
+Pick up the phone and call [^(888) 936-4968|sms:8889364968^] or kick off a chat.
+----field----
+field: {29980551-3D63-4686-8829-841ECE2DE6AD}
+name: content-actions
+key: content-actions
+content-length: 77
+
+{EFF1A1A2-77EF-4B75-9093-085970FEABF6}|{846671E4-5808-451A-9151-C6F684B3584D}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180627T181448Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+83750113-24d3-488f-9806-59bd724be357
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180627T182830Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----version----
+language: en
+version: 2
+revision: 60b5d5dd-9eb8-41b1-866e-30ec02f82b8c
+
+----field----
+field: {4DDBC328-97DF-4F58-8095-809B4D2F481F}
+name: code
+key: code
+content-length: 3
+
+EC0
+----field----
+field: {5C4180BC-3B09-43EE-B66E-6AA2A3B8E1FA}
+name: content-headline
+key: content-headline
+content-length: 56
+
+Contact us to talk about eligibility for Xfinity Mobile.
+----field----
+field: {13757C32-3A4E-491F-9CDC-7CF3664D2E25}
+name: content-body
+key: content-body
+content-length: 53
+
+Call or text us at [^(888) 936-4968|tel:8889364968^].
+----field----
+field: {29980551-3D63-4686-8829-841ECE2DE6AD}
+name: content-actions
+key: content-actions
+content-length: 77
+
+{EFF1A1A2-77EF-4B75-9093-085970FEABF6}|{846671E4-5808-451A-9151-C6F684B3584D}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20180816T151633Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180816T151633Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+60b5d5dd-9eb8-41b1-866e-30ec02f82b8c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180816T151701Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 3
+revision: 940ee84b-2fc5-440f-be28-3e23dcc712ab
+
+----field----
+field: {4DDBC328-97DF-4F58-8095-809B4D2F481F}
+name: code
+key: code
+content-length: 3
+
+EC0
+----field----
+field: {5C4180BC-3B09-43EE-B66E-6AA2A3B8E1FA}
+name: content-headline
+key: content-headline
+content-length: 56
+
+Contact us to talk about eligibility for Xfinity Mobile.
+----field----
+field: {13757C32-3A4E-491F-9CDC-7CF3664D2E25}
+name: content-body
+key: content-body
+content-length: 53
+
+Call or text us at [^(888) 936-4968|tel:8889364968^].
+----field----
+field: {29980551-3D63-4686-8829-841ECE2DE6AD}
+name: content-actions
+key: content-actions
+content-length: 38
+
+{EFF1A1A2-77EF-4B75-9093-085970FEABF6}
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20180816T151948Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180816T151948Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+940ee84b-2fc5-440f-be28-3e23dcc712ab
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180816T152002Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\skulka560
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

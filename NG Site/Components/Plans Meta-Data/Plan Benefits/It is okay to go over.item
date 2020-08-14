@@ -1,0 +1,94 @@
+----item----
+version: 1
+id: {A9ECC6B1-8AAF-43D3-A913-FF1254F930DD}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Plans Meta-Data/Plan Benefits/It is okay to go over
+parent: {EF1DB57C-E0CE-4AF3-A9AD-C1ED42AF1195}
+name: It is okay to go over
+master: {00000000-0000-0000-0000-000000000000}
+template: {D92BB4B9-E223-490E-8257-012246A00300}
+templatekey: Plan Benefits
+created: 20190712T153819Z
+
+----field----
+field: {CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}
+name: __Default workflow
+key: __default workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 78d387d6-f2ae-469c-822f-175e9a97bb02
+
+----field----
+field: {D5EC47CE-687A-4653-9FE4-EA7060D70ACC}
+name: description
+key: description
+content-length: 131
+
+If you go over your chosen amount, no worries. Just keep using data at an additional $12 per GB or adjust your minimum shared data.
+----field----
+field: {A922BE99-5776-4865-8B16-845210F9EBC5}
+name: header
+key: header
+content-length: 20
+
+It's okay to go over
+----field----
+field: {D8D8AD1A-A661-4C76-BB12-5A77BBF3C6C9}
+name: image
+key: image
+content-length: 38
+
+{C982E6F0-3897-4159-A81D-8FA93B570E8B}
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190712T153819Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+78d387d6-f2ae-469c-822f-175e9a97bb02
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190807T165718Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\snavee884
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

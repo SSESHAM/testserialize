@@ -1,0 +1,169 @@
+----item----
+version: 1
+id: {FB7D1D8E-6CE1-4420-A27A-C3B71855D35D}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Modals Page/Content/Device Compatible Modal Step Content/Pixel 3
+parent: {6618695B-6A87-4327-ACF3-46FE50ECF4AA}
+name: Pixel 3
+master: {00000000-0000-0000-0000-000000000000}
+template: {922ADB4A-6B87-4378-ABE6-6856DAB6767E}
+templatekey: Device Compatible Modal Step Content
+created: 20191204T212055Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----field----
+field: {CA9B9F52-4FB0-4F87-A79F-24DEA62CDA65}
+name: __Default workflow
+key: __default workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 22e22f0e-e655-44d5-8307-df76a1de3ddd
+
+----field----
+field: {D5267B36-179C-49F5-B22C-259DFBCE8EE7}
+name: primaryImageOptions
+key: primaryimageoptions
+content-length: 38
+
+{A95BC3F0-6623-4A4C-8038-0040881AA26F}
+----field----
+field: {8CDEECA5-3D13-4F09-9129-BB0AFC807B12}
+name: subheader
+key: subheader
+content-length: 63
+
+In Status, go to \"IMEI Information" and see your 15 digit IMEI
+----field----
+field: {FD748F0E-461B-43DF-AB66-492824713B16}
+name: subheaderMobile
+key: subheadermobile
+content-length: 64
+
+In Status, go to \"IMEI Information" and copy your 15 digit IMEI
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190709T181408Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+22e22f0e-e655-44d5-8307-df76a1de3ddd
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190823T153438Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\snavee884
+----version----
+language: en
+version: 2
+revision: 70b07652-cba0-48b1-9ec3-2b97308e953d
+
+----field----
+field: {D5267B36-179C-49F5-B22C-259DFBCE8EE7}
+name: primaryImageOptions
+key: primaryimageoptions
+content-length: 38
+
+{873A5A07-85E0-4D88-B6E7-B834D799E1BA}
+----field----
+field: {8CDEECA5-3D13-4F09-9129-BB0AFC807B12}
+name: subheader
+key: subheader
+content-length: 35
+
+From here, copy your 15-digit IMEI.
+----field----
+field: {FD748F0E-461B-43DF-AB66-492824713B16}
+name: subheaderMobile
+key: subheadermobile
+content-length: 61
+
+In \"About Phone\", scroll to \"IMEI\" and long press to copy
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20191204T210352Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\mgasto000
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20191204T210352Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\mgasto000
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+70b07652-cba0-48b1-9ec3-2b97308e953d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20191209T184017Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\mgasto000
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

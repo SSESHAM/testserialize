@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {E3680784-7742-47B1-82E4-E000A21F25B9}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Contact-Bar/Required
+parent: {3F55FE39-9522-45D2-BDB2-8100AEEFD587}
+name: Required
+master: {00000000-0000-0000-0000-000000000000}
+template: {18F826B5-70F6-4E80-816C-298A03C26455}
+templatekey: Contact-Bar Modal Errors
+created: 20180713T163042Z
+
+----version----
+language: en
+version: 1
+revision: 6986ba83-07e8-4b29-9e8c-a4edead98b45
+
+----field----
+field: {928D80BA-B74F-4AE6-83D9-402CF11ECDEF}
+name: minLength
+key: minlength
+content-length: 0
+
+
+----field----
+field: {03F3E1A8-A02F-4175-AFE2-AC4F5BBFCE6B}
+name: code
+key: code
+content-length: 8
+
+required
+----field----
+field: {349D9C50-08F3-467E-8B1D-2C74AFB29C03}
+name: message
+key: message
+content-length: 21
+
+Phone number required
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180713T163042Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6986ba83-07e8-4b29-9e8c-a4edead98b45
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200611T145056Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

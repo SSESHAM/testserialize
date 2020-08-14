@@ -1,0 +1,87 @@
+----item----
+version: 1
+id: {13D1D7C8-09E2-4DBF-AE93-C00F79523BAA}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Byod/Subhead/Multiple Unlock
+parent: {BA5F1252-BBD0-436A-B15D-33C684D2F15B}
+name: Multiple Unlock
+master: {00000000-0000-0000-0000-000000000000}
+template: {A210D21E-32D3-4E3C-92B5-5CEAE97FB534}
+templatekey: Subhead
+created: 20191001T194817Z
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 2
+
+50
+----version----
+language: en
+version: 1
+revision: 99c0df64-406e-44ee-a3ff-0bc478bc6d69
+
+----field----
+field: {DDBC9B22-AD1C-4826-8692-9B3516300F67}
+name: text
+key: text
+content-length: 105
+
+For a smooth activation, contact [CARRIER] to confirm your phone’s unlocked before your SIM card arrives.
+----field----
+field: {5935551D-3F25-4FED-B51D-5AA0CDFBEC19}
+name: image
+key: image
+content-length: 38
+
+{495F0142-B389-4709-8F51-EDF37234975E}
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20190909T183639Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+99c0df64-406e-44ee-a3ff-0bc478bc6d69
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20190930T171846Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 15
+
+cable\mpayto200
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

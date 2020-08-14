@@ -1,0 +1,94 @@
+----item----
+version: 1
+id: {C0B97C55-CA9A-4670-BDD4-799CF64E64FD}
+database: master
+path: /sitecore/content/Modesto/NG Site/Media Collection/Banners/Banners/iPhone X Apple Center Background Banner
+parent: {0A79E086-05E0-4CF7-9349-F7CE60FE194D}
+name: iPhone X Apple Center Background Banner
+master: {00000000-0000-0000-0000-000000000000}
+template: {ACF7553B-EA2B-46D2-AD40-07BCAEFDBDF3}
+templatekey: Banner
+created: 20180607T183323Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 33f20aee-1627-4a88-bd92-71b0856f3567
+
+----field----
+field: {42390212-E380-4B46-A3D4-1A4A5526441A}
+name: theme
+key: theme
+content-length: 5
+
+light
+----field----
+field: {98EF0123-4A4B-474C-8B5B-B208E1DDB95F}
+name: background-color
+key: background-color
+content-length: 7
+
+#f8f8f8
+----field----
+field: {58E9F2C8-0261-4C9F-B498-E17C23231E08}
+name: background-images
+key: background-images
+content-length: 155
+
+{F45688D2-6019-44E7-8BB0-5B4B02434667}|{A06E5AD2-4F52-4B7C-B977-04600F298BFC}|{DC878CF3-A6D6-4102-8C55-E5D7C94A5248}|{B70FA5FB-185A-4670-86B4-794C97A5828D}
+----field----
+field: {341EBA9B-73A9-4D6F-9709-C01BFB478673}
+name: text-subhead
+key: text-subhead
+content-length: 54
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit
+----field----
+field: {59F7B96F-0921-4D6E-8307-72FC39C243CC}
+name: actions-popovers
+key: actions-popovers
+content-length: 38
+
+{A062A804-1364-4057-8F0C-FB88FF63A471}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20180607T183323Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+33f20aee-1627-4a88-bd92-71b0856f3567
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20180619T134216Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}

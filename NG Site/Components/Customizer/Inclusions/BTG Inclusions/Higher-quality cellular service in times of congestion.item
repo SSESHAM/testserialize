@@ -1,0 +1,80 @@
+----item----
+version: 1
+id: {BA137A3C-1958-4E8B-ABA8-DEB2ACAEE0A8}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Customizer/Inclusions/BTG Inclusions/Higher-quality cellular service in times of congestion
+parent: {EEC91B30-4742-4164-8052-9E09DB5460A0}
+name: Higher-quality cellular service in times of congestion
+master: {00000000-0000-0000-0000-000000000000}
+template: {4E9BA4C2-AD9D-40F0-8E72-BC3D5B28001A}
+templatekey: Inclusions
+created: 20200218T190939Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 8def26ea-a264-4bbf-986e-b0cfa4ef5453
+
+----field----
+field: {57B3104E-A712-42C9-91BC-2CB5685A5381}
+name: icon
+key: icon
+content-length: 38
+
+{F01F7667-565D-4348-BCBB-3A76AB2C3B1F}
+----field----
+field: {67F1CB2D-F37E-4EC0-B2D9-CB4A9FCAFCBA}
+name: description
+key: description
+content-length: 54
+
+Higher-quality cellular service in times of congestion
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200218T190939Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8def26ea-a264-4bbf-986e-b0cfa4ef5453
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200219T154805Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\snavee884
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

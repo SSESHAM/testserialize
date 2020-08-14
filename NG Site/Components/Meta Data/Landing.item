@@ -1,0 +1,1119 @@
+----item----
+version: 1
+id: {09019736-D074-42BA-882F-401ADC52A0CE}
+database: master
+path: /sitecore/content/Modesto/NG Site/Components/Meta Data/Landing
+parent: {92C86A3A-58BB-486E-BF9E-69785BA4230D}
+name: Landing
+master: {00000000-0000-0000-0000-000000000000}
+template: {65D5B5B7-197A-4C62-B0D9-F96244A80F5B}
+templatekey: MetaDataItem
+created: 20180601T183327Z
+
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 38
+
+{3B8C3C40-3B83-4E23-8DFC-629B19C40AE1}
+----version----
+language: en
+version: 1
+revision: 2cad742c-635f-4eed-ad98-c8c0ac512460
+
+----field----
+field: {DF54C106-ACF6-4CA6-8E43-A642588A39C4}
+name: title
+key: title
+content-length: 59
+
+Xfinity Mobile | Plans from $12/mo + $250 Off Select Phones
+----field----
+field: {913D453B-B9E8-4E16-92F6-6A3ECA75CADB}
+name: description
+key: description
+content-length: 111
+
+Switch to Xfinity Mobile. Save $250 Off the iPhone 11 Series. Choose from the best devices on the best network.
+----field----
+field: {DB667E08-6C64-4F43-9E5D-B692915EE238}
+name: og-title
+key: og-title
+content-length: 52
+
+Mobile Phones & Cell Phone Plans from Xfinity Mobile
+----field----
+field: {F9E6CA89-3C96-44B8-BEFC-7E1BE77CC21B}
+name: og-description
+key: og-description
+content-length: 187
+
+Xfinity Mobile is the only wireless network that automatically connects to millions of secure WiFi hotspots and the best LTE everywhere else. Save up to $400 a year on your wireless bill.
+----field----
+field: {9A3AFAC3-99A2-4287-95A9-4898820CC5FF}
+name: twitter-title
+key: twitter-title
+content-length: 52
+
+Mobile Phones & Cell Phone Plans from Xfinity Mobile
+----field----
+field: {A49268BD-74A2-4052-B26F-65A68335E856}
+name: twitter-description
+key: twitter-description
+content-length: 187
+
+Xfinity Mobile is the only wireless network that automatically connects to millions of secure WiFi hotspots and the best LTE everywhere else. Save up to $400 a year on your wireless bill.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200130T191426Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200130T191426Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2cad742c-635f-4eed-ad98-c8c0ac512460
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200130T191615Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 2
+revision: cb6bd045-ccc4-4e98-9813-ab41375d3c8b
+
+----field----
+field: {DF54C106-ACF6-4CA6-8E43-A642588A39C4}
+name: title
+key: title
+content-length: 59
+
+Xfinity Mobile | Plans from $12/mo + $250 Off Select Phones
+----field----
+field: {913D453B-B9E8-4E16-92F6-6A3ECA75CADB}
+name: description
+key: description
+content-length: 111
+
+Switch to Xfinity Mobile. Save $250 Off the iPhone 11 Series. Choose from the best devices on the best network.
+----field----
+field: {DB667E08-6C64-4F43-9E5D-B692915EE238}
+name: og-title
+key: og-title
+content-length: 52
+
+Mobile Phones & Cell Phone Plans from Xfinity Mobile
+----field----
+field: {F9E6CA89-3C96-44B8-BEFC-7E1BE77CC21B}
+name: og-description
+key: og-description
+content-length: 187
+
+Xfinity Mobile is the only wireless network that automatically connects to millions of secure WiFi hotspots and the best LTE everywhere else. Save up to $400 a year on your wireless bill.
+----field----
+field: {9A3AFAC3-99A2-4287-95A9-4898820CC5FF}
+name: twitter-title
+key: twitter-title
+content-length: 52
+
+Mobile Phones & Cell Phone Plans from Xfinity Mobile
+----field----
+field: {A49268BD-74A2-4052-B26F-65A68335E856}
+name: twitter-description
+key: twitter-description
+content-length: 187
+
+Xfinity Mobile is the only wireless network that automatically connects to millions of secure WiFi hotspots and the best LTE everywhere else. Save up to $400 a year on your wireless bill.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200203T151921Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200203T151921Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+cb6bd045-ccc4-4e98-9813-ab41375d3c8b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200203T195125Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 3
+revision: b7625178-c2fe-40d2-bf4c-e2bde984adde
+
+----field----
+field: {DF54C106-ACF6-4CA6-8E43-A642588A39C4}
+name: title
+key: title
+content-length: 59
+
+Xfinity Mobile | Plans from $12/mo + $300 Off Select Phones
+----field----
+field: {913D453B-B9E8-4E16-92F6-6A3ECA75CADB}
+name: description
+key: description
+content-length: 112
+
+Switch to Xfinity Mobile. Save $300 Off Select Samsung Phones. Choose from the best devices on the best network.
+----field----
+field: {DB667E08-6C64-4F43-9E5D-B692915EE238}
+name: og-title
+key: og-title
+content-length: 52
+
+Mobile Phones & Cell Phone Plans from Xfinity Mobile
+----field----
+field: {F9E6CA89-3C96-44B8-BEFC-7E1BE77CC21B}
+name: og-description
+key: og-description
+content-length: 187
+
+Xfinity Mobile is the only wireless network that automatically connects to millions of secure WiFi hotspots and the best LTE everywhere else. Save up to $400 a year on your wireless bill.
+----field----
+field: {9A3AFAC3-99A2-4287-95A9-4898820CC5FF}
+name: twitter-title
+key: twitter-title
+content-length: 52
+
+Mobile Phones & Cell Phone Plans from Xfinity Mobile
+----field----
+field: {A49268BD-74A2-4052-B26F-65A68335E856}
+name: twitter-description
+key: twitter-description
+content-length: 187
+
+Xfinity Mobile is the only wireless network that automatically connects to millions of secure WiFi hotspots and the best LTE everywhere else. Save up to $400 a year on your wireless bill.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200221T143330Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200221T143330Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b7625178-c2fe-40d2-bf4c-e2bde984adde
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200221T191227Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 4
+revision: 25aa3074-5dba-4951-945f-39f935fa31b0
+
+----field----
+field: {DF54C106-ACF6-4CA6-8E43-A642588A39C4}
+name: title
+key: title
+content-length: 59
+
+Xfinity Mobile | Plans from $12/mo + $300 Off Select Phones
+----field----
+field: {913D453B-B9E8-4E16-92F6-6A3ECA75CADB}
+name: description
+key: description
+content-length: 118
+
+5G is coming to Xfinity Mobile! Save $300 Off Select Samsung Phones. Choose from the best devices on the best network.
+----field----
+field: {DB667E08-6C64-4F43-9E5D-B692915EE238}
+name: og-title
+key: og-title
+content-length: 52
+
+Mobile Phones & Cell Phone Plans from Xfinity Mobile
+----field----
+field: {F9E6CA89-3C96-44B8-BEFC-7E1BE77CC21B}
+name: og-description
+key: og-description
+content-length: 187
+
+Xfinity Mobile is the only wireless network that automatically connects to millions of secure WiFi hotspots and the best LTE everywhere else. Save up to $400 a year on your wireless bill.
+----field----
+field: {9A3AFAC3-99A2-4287-95A9-4898820CC5FF}
+name: twitter-title
+key: twitter-title
+content-length: 52
+
+Mobile Phones & Cell Phone Plans from Xfinity Mobile
+----field----
+field: {A49268BD-74A2-4052-B26F-65A68335E856}
+name: twitter-description
+key: twitter-description
+content-length: 187
+
+Xfinity Mobile is the only wireless network that automatically connects to millions of secure WiFi hotspots and the best LTE everywhere else. Save up to $400 a year on your wireless bill.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200227T151332Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200227T151332Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+25aa3074-5dba-4951-945f-39f935fa31b0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200304T190326Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\jconno876
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 5
+revision: 97a8413e-3839-46d8-8e69-8a210ad3ff5f
+
+----field----
+field: {DF54C106-ACF6-4CA6-8E43-A642588A39C4}
+name: title
+key: title
+content-length: 59
+
+Xfinity Mobile | Plans from $12/mo + $300 Off Select Phones
+----field----
+field: {913D453B-B9E8-4E16-92F6-6A3ECA75CADB}
+name: description
+key: description
+content-length: 112
+
+Xfinity Mobile is a flexible plan, designed to save you money. Choose from the best devices on the best network.
+----field----
+field: {DB667E08-6C64-4F43-9E5D-B692915EE238}
+name: og-title
+key: og-title
+content-length: 52
+
+Mobile Phones & Cell Phone Plans from Xfinity Mobile
+----field----
+field: {F9E6CA89-3C96-44B8-BEFC-7E1BE77CC21B}
+name: og-description
+key: og-description
+content-length: 112
+
+Xfinity Mobile is a flexible plan, designed to save you money. Choose from the best devices on the best network.
+----field----
+field: {9A3AFAC3-99A2-4287-95A9-4898820CC5FF}
+name: twitter-title
+key: twitter-title
+content-length: 52
+
+Mobile Phones & Cell Phone Plans from Xfinity Mobile
+----field----
+field: {A49268BD-74A2-4052-B26F-65A68335E856}
+name: twitter-description
+key: twitter-description
+content-length: 112
+
+Xfinity Mobile is a flexible plan, designed to save you money. Choose from the best devices on the best network.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200326T144341Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200326T144341Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+97a8413e-3839-46d8-8e69-8a210ad3ff5f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200327T160409Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 6
+revision: f1d3b4cc-4da0-4cee-9437-093ad16392e3
+
+----field----
+field: {DF54C106-ACF6-4CA6-8E43-A642588A39C4}
+name: title
+key: title
+content-length: 52
+
+Xfinity Mobile | Shop Now & Save + Plans from $12/mo
+----field----
+field: {913D453B-B9E8-4E16-92F6-6A3ECA75CADB}
+name: description
+key: description
+content-length: 112
+
+Xfinity Mobile is a flexible plan, designed to save you money. Choose from the best devices on the best network.
+----field----
+field: {DB667E08-6C64-4F43-9E5D-B692915EE238}
+name: og-title
+key: og-title
+content-length: 52
+
+Mobile Phones & Cell Phone Plans from Xfinity Mobile
+----field----
+field: {F9E6CA89-3C96-44B8-BEFC-7E1BE77CC21B}
+name: og-description
+key: og-description
+content-length: 112
+
+Xfinity Mobile is a flexible plan, designed to save you money. Choose from the best devices on the best network.
+----field----
+field: {9A3AFAC3-99A2-4287-95A9-4898820CC5FF}
+name: twitter-title
+key: twitter-title
+content-length: 52
+
+Mobile Phones & Cell Phone Plans from Xfinity Mobile
+----field----
+field: {A49268BD-74A2-4052-B26F-65A68335E856}
+name: twitter-description
+key: twitter-description
+content-length: 112
+
+Xfinity Mobile is a flexible plan, designed to save you money. Choose from the best devices on the best network.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200330T184655Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200330T184655Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f1d3b4cc-4da0-4cee-9437-093ad16392e3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200401T161058Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 7
+revision: a99162f2-8b4a-4a9f-a354-c0e2426c1f10
+
+----field----
+field: {DF54C106-ACF6-4CA6-8E43-A642588A39C4}
+name: title
+key: title
+content-length: 58
+
+Xfinity Mobile | Shop Now & Save. Data Options from $12/mo
+----field----
+field: {913D453B-B9E8-4E16-92F6-6A3ECA75CADB}
+name: description
+key: description
+content-length: 112
+
+Xfinity Mobile is a flexible plan, designed to save you money. Choose from the best devices on the best network.
+----field----
+field: {DB667E08-6C64-4F43-9E5D-B692915EE238}
+name: og-title
+key: og-title
+content-length: 58
+
+Xfinity Mobile | Shop Now & Save. Data Options from $12/mo
+----field----
+field: {F9E6CA89-3C96-44B8-BEFC-7E1BE77CC21B}
+name: og-description
+key: og-description
+content-length: 112
+
+Xfinity Mobile is a flexible plan, designed to save you money. Choose from the best devices on the best network.
+----field----
+field: {9A3AFAC3-99A2-4287-95A9-4898820CC5FF}
+name: twitter-title
+key: twitter-title
+content-length: 58
+
+Xfinity Mobile | Shop Now & Save. Data Options from $12/mo
+----field----
+field: {A49268BD-74A2-4052-B26F-65A68335E856}
+name: twitter-description
+key: twitter-description
+content-length: 112
+
+Xfinity Mobile is a flexible plan, designed to save you money. Choose from the best devices on the best network.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200409T141615Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200409T141615Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a99162f2-8b4a-4a9f-a354-c0e2426c1f10
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200413T180500Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 8
+revision: bed8faa0-d184-4dec-9eb6-9e1a59aa15f3
+
+----field----
+field: {DF54C106-ACF6-4CA6-8E43-A642588A39C4}
+name: title
+key: title
+content-length: 63
+
+Xfinity Mobile | Your Wireless. Your Rules. Shop Online & Save!
+----field----
+field: {913D453B-B9E8-4E16-92F6-6A3ECA75CADB}
+name: description
+key: description
+content-length: 143
+
+Xfinity Mobile is a powerful nationwide network with 5G and millions of secure WiFi hotspots. Choose from the best devices on the best network.
+----field----
+field: {DB667E08-6C64-4F43-9E5D-B692915EE238}
+name: og-title
+key: og-title
+content-length: 63
+
+Xfinity Mobile | Your Wireless. Your Rules. Shop Online & Save!
+----field----
+field: {F9E6CA89-3C96-44B8-BEFC-7E1BE77CC21B}
+name: og-description
+key: og-description
+content-length: 143
+
+Xfinity Mobile is a powerful nationwide network with 5G and millions of secure WiFi hotspots. Choose from the best devices on the best network.
+----field----
+field: {9A3AFAC3-99A2-4287-95A9-4898820CC5FF}
+name: twitter-title
+key: twitter-title
+content-length: 63
+
+Xfinity Mobile | Your Wireless. Your Rules. Shop Online & Save!
+----field----
+field: {A49268BD-74A2-4052-B26F-65A68335E856}
+name: twitter-description
+key: twitter-description
+content-length: 143
+
+Xfinity Mobile is a powerful nationwide network with 5G and millions of secure WiFi hotspots. Choose from the best devices on the best network.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200513T202242Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200513T202242Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+bed8faa0-d184-4dec-9eb6-9e1a59aa15f3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200514T185621Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 9
+revision: ce63a96b-a857-4579-9f6e-c2c0dd9386a0
+
+----field----
+field: {DF54C106-ACF6-4CA6-8E43-A642588A39C4}
+name: title
+key: title
+content-length: 63
+
+Xfinity Mobile | Your Wireless. Your Rules. Shop Online & Save.
+----field----
+field: {913D453B-B9E8-4E16-92F6-6A3ECA75CADB}
+name: description
+key: description
+content-length: 143
+
+Xfinity Mobile is a powerful nationwide network with 5G and millions of secure WiFi hotspots. Choose from the best devices on the best network.
+----field----
+field: {DB667E08-6C64-4F43-9E5D-B692915EE238}
+name: og-title
+key: og-title
+content-length: 63
+
+Xfinity Mobile | Your Wireless. Your Rules. Shop Online & Save.
+----field----
+field: {F9E6CA89-3C96-44B8-BEFC-7E1BE77CC21B}
+name: og-description
+key: og-description
+content-length: 143
+
+Xfinity Mobile is a powerful nationwide network with 5G and millions of secure WiFi hotspots. Choose from the best devices on the best network.
+----field----
+field: {9A3AFAC3-99A2-4287-95A9-4898820CC5FF}
+name: twitter-title
+key: twitter-title
+content-length: 63
+
+Xfinity Mobile | Your Wireless. Your Rules. Shop Online & Save.
+----field----
+field: {A49268BD-74A2-4052-B26F-65A68335E856}
+name: twitter-description
+key: twitter-description
+content-length: 143
+
+Xfinity Mobile is a powerful nationwide network with 5G and millions of secure WiFi hotspots. Choose from the best devices on the best network.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200518T222605Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200518T222605Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ce63a96b-a857-4579-9f6e-c2c0dd9386a0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200519T180957Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
+----version----
+language: en
+version: 10
+revision: 6f8d9d8e-267f-44b8-92f4-e776f796e1bb
+
+----field----
+field: {DF54C106-ACF6-4CA6-8E43-A642588A39C4}
+name: title
+key: title
+content-length: 63
+
+Xfinity Mobile | Your Wireless. Your Rules. Shop Online & Save.
+----field----
+field: {913D453B-B9E8-4E16-92F6-6A3ECA75CADB}
+name: description
+key: description
+content-length: 141
+
+Xfinity Mobile is a powerful nationwide network with 5G and millions of secure WiFi Hotspots. Rated #1 in Customer Satisfaction in 2020 ACSI.
+----field----
+field: {DB667E08-6C64-4F43-9E5D-B692915EE238}
+name: og-title
+key: og-title
+content-length: 63
+
+Xfinity Mobile | Your Wireless. Your Rules. Shop Online & Save.
+----field----
+field: {F9E6CA89-3C96-44B8-BEFC-7E1BE77CC21B}
+name: og-description
+key: og-description
+content-length: 143
+
+Xfinity Mobile is a powerful nationwide network with 5G and millions of secure WiFi hotspots. Choose from the best devices on the best network.
+----field----
+field: {9A3AFAC3-99A2-4287-95A9-4898820CC5FF}
+name: twitter-title
+key: twitter-title
+content-length: 63
+
+Xfinity Mobile | Your Wireless. Your Rules. Shop Online & Save.
+----field----
+field: {A49268BD-74A2-4052-B26F-65A68335E856}
+name: twitter-description
+key: twitter-description
+content-length: 143
+
+Xfinity Mobile is a powerful nationwide network with 5G and millions of secure WiFi hotspots. Choose from the best devices on the best network.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20200616T155233Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 18
+
+sitecore\pboone598
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20200616T155233Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6f8d9d8e-267f-44b8-92f4-e776f796e1bb
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20200617T191432Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\msaleh716
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 38
+
+{A23C4FDC-9EE9-4492-B89F-00140DD48F14}
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
